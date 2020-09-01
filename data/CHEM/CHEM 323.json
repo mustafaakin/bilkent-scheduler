@@ -1,0 +1,54 @@
+{
+  "name": "Physical Chemistry I",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "CHEM 323",
+  "sections": {
+    "CHEM 323-001": {
+      "instructor": "Şefik Süzer",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "SB-Z04",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "SB-Z04(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "SB-Z04",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "SB-Z04",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CHEM 323-001"
+    }
+  }
+}

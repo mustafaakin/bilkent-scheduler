@@ -1,0 +1,54 @@
+{
+  "name": "Literature and the Global City",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "ELIT 378",
+  "sections": {
+    "ELIT 378-001": {
+      "instructor": "Timothy Sean Wright",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "T-169",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "T-169(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "T-169",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "T-169",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ELIT 378-001"
+    }
+  }
+}

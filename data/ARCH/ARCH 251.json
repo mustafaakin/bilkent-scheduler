@@ -1,0 +1,162 @@
+{
+  "name": "Architectural Building Systems",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "ARCH 251",
+  "sections": {
+    "ARCH 251-001": {
+      "instructor": "Glenn Terry Kukkola",
+      "quota": "21 Mand. or Elect.",
+      "total_quota": 21,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ARCH 251-001"
+    },
+    "ARCH 251-002": {
+      "instructor": "Glenn Terry Kukkola",
+      "quota": "21 Mand. or Elect.",
+      "total_quota": 21,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ARCH 251-002"
+    },
+    "ARCH 251-003": {
+      "instructor": "Jesus Espinoza Alvarez",
+      "quota": "21 Mand. or Elect.",
+      "total_quota": 21,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ARCH 251-003"
+    },
+    "ARCH 251-004": {
+      "instructor": "Derya Yılmaz",
+      "quota": "21 Mand. or Elect.",
+      "total_quota": 21,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ARCH 251-004"
+    }
+  }
+}

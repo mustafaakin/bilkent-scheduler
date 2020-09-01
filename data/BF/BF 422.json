@@ -1,0 +1,17 @@
+{
+  "name": "Graduation Project in Banking and Finance",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 4,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "BF 422",
+  "sections": {}
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Orchestra/Choir II",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 4,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 2,
+    "ECTS": 3.5
+  },
+  "code": "MSC 104",
+  "sections": {
+    "MSC 104-001": {
+      "instructor": "Barış Demirezer",
+      "quota": "12 Mand. or Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "MSC 104-001"
+    }
+  }
+}

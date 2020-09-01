@@ -1,0 +1,54 @@
+{
+  "name": "Flora of Turkey",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 2,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "LAUD 242",
+  "sections": {
+    "LAUD 242-001": {
+      "instructor": "Didem Dizdaroğlu",
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "LAUD 242-001"
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Signals and Systems",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 2,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 4,
+    "ECTS": 6.5
+  },
+  "code": "EEE 321",
+  "sections": {
+    "EEE 321-001": {
+      "instructor": "Haldun Özaktaş",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EE-05(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EE-05",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EE-211",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EE-211",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-211(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EE-05",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "EE-05",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "EEE 321-001"
+    },
+    "EEE 321-002": {
+      "instructor": "Haldun Özaktaş",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EE-05",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EE-05(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EE-211",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EE-211",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-211(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "EE-05",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "EE-05",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "EEE 321-002"
+    }
+  }
+}

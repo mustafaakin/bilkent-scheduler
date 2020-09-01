@@ -1,0 +1,120 @@
+{
+  "name": "Advanced Detailing Studio",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 3,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "IAED 415",
+  "sections": {
+    "IAED 415-001": {
+      "instructor": "Serpil Altay",
+      "quota": "23 Mand. or Elect.",
+      "total_quota": 23,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "IAED 415-001"
+    },
+    "IAED 415-002": {
+      "instructor": "Giuseppe Resta",
+      "quota": "23 Mand. or Elect.",
+      "total_quota": 23,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "IAED 415-002"
+    },
+    "IAED 415-003": {
+      "instructor": "Serpil Altay",
+      "quota": "23 Mand. or Elect.",
+      "total_quota": 23,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "IAED 415-003"
+    }
+  }
+}

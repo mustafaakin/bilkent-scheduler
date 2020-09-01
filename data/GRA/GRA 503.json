@@ -1,0 +1,48 @@
+{
+  "name": "Illustration I",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 3,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "GRA 503",
+  "sections": {
+    "GRA 503-001": {
+      "instructor": "Marek Brzozowski",
+      "quota": "12 Mand. or Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "GRA 503-001"
+    }
+  }
+}

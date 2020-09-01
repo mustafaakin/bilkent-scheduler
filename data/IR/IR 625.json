@@ -1,0 +1,17 @@
+{
+  "name": "Advanced Diplomatic History",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 4,
+    "ECTS": 6.5
+  },
+  "code": "IR 625",
+  "sections": {}
+}

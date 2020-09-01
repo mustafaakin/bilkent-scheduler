@@ -1,0 +1,54 @@
+{
+  "name": "Investment Analysis",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "MAN 404",
+  "sections": {
+    "MAN 404-001": {
+      "instructor": "Zeynep Önder",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "MA-302",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "MA-302(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "MA-103",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "MA-103",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MAN 404-001"
+    }
+  }
+}

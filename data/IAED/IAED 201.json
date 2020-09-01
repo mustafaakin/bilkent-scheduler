@@ -1,0 +1,498 @@
+{
+  "name": "Interior Design Studio I",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 6,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 6,
+    "ECTS": 8.5
+  },
+  "code": "IAED 201",
+  "sections": {
+    "IAED 201-001": {
+      "instructor": "Serpil Altay",
+      "quota": "12 Mand. or Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IAED 201-001"
+    },
+    "IAED 201-002": {
+      "instructor": "Murat Özdamar",
+      "quota": "12 Mand. or Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IAED 201-002"
+    },
+    "IAED 201-003": {
+      "instructor": "Sevil Funda Ataylar",
+      "quota": "12 Mand. or Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IAED 201-003"
+    },
+    "IAED 201-004": {
+      "instructor": "Esma Burçin Dengiz Olin",
+      "quota": "12 Mand. or Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IAED 201-004"
+    },
+    "IAED 201-005": {
+      "instructor": "Andre Naghi Lopes Dos Santos Nouri",
+      "quota": "12 Mand. or Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IAED 201-005"
+    },
+    "IAED 201-006": {
+      "instructor": "Bülent Altay",
+      "quota": "12 Mand. or Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IAED 201-006"
+    },
+    "IAED 201-007": {
+      "instructor": "Mohamad Nadim Adi",
+      "quota": "12 Mand. or Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IAED 201-007"
+    },
+    "IAED 201-008": {
+      "instructor": "Semiha Yılmazer",
+      "quota": "12 Mand. or Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IAED 201-008"
+    }
+  }
+}

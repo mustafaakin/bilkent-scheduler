@@ -1,0 +1,192 @@
+{
+  "name": "Introduction to Screenwriting",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 3,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "COMD 210",
+  "sections": {
+    "COMD 210-001": {
+      "instructor": "Fulten Larlar",
+      "quota": "12 Mand. 0 Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "COMD 210-001"
+    },
+    "COMD 210-002": {
+      "instructor": "Fulten Larlar",
+      "quota": "12 Mand. 0 Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "COMD 210-002"
+    },
+    "COMD 210-003": {
+      "instructor": "Wickham Catesby Flannagan",
+      "quota": "12 Mand. 0 Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "COMD 210-003"
+    },
+    "COMD 210-004": {
+      "instructor": "Wickham Catesby Flannagan",
+      "quota": "12 Mand. 0 Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "COMD 210-004"
+    },
+    "COMD 210-005": {
+      "instructor": "Emre Yalgın",
+      "quota": "12 Mand. 0 Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "COMD 210-005"
+    }
+  }
+}

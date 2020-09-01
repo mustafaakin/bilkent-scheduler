@@ -1,0 +1,17 @@
+{
+  "name": "Singing for Theatre II",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 1,
+    "ECTS": 2
+  },
+  "code": "MSC 250",
+  "sections": {}
+}

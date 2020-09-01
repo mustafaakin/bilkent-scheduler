@@ -1,0 +1,17 @@
+{
+  "name": "Senior Project II",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 4,
+    "ECTS": 6.5
+  },
+  "code": "CHEM 492",
+  "sections": {}
+}

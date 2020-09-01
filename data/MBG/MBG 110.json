@@ -1,0 +1,270 @@
+{
+  "name": "Introduction to Modern Biology",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "MBG 110",
+  "sections": {
+    "MBG 110-001": {
+      "instructor": "Özhan Öçal",
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-Z01(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-Z01",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "B-Z01",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "B-Z01",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MBG 110-001"
+    },
+    "MBG 110-002": {
+      "instructor": "Özhan Öçal",
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-Z01",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-Z01(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "B-Z01",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "B-Z01",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MBG 110-002"
+    },
+    "MBG 110-003": {
+      "instructor": "Özhan Öçal",
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-Z01(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-Z01",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "B-Z01",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "B-Z01",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MBG 110-003"
+    },
+    "MBG 110-004": {
+      "instructor": "Tayfun Özçelik",
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-Z01",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-Z01(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "B-Z01",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "B-Z01",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MBG 110-004"
+    },
+    "MBG 110-005": {
+      "instructor": "Özhan Öçal",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-236",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-236(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "G-236",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "G-236",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MBG 110-005"
+    },
+    "MBG 110-006": {
+      "instructor": "Onur Emre Onat",
+      "quota": "51 Mand. or Elect.",
+      "total_quota": 51,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "SA-Z01(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "SA-Z01",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "SA-Z01",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "SA-Z01",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MBG 110-006"
+    },
+    "MBG 110-007": {
+      "instructor": "Onur Emre Onat",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "SA-Z01(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "SA-Z01",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "SA-Z01",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "SA-Z01",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MBG 110-007"
+    }
+  }
+}

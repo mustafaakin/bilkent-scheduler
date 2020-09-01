@@ -1,0 +1,90 @@
+{
+  "name": "American Texts and Contexts I",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 4,
+    "ECTS": 6.5
+  },
+  "code": "AMER 207",
+  "sections": {
+    "AMER 207-001": {
+      "instructor": "Daniel Peter Johnson",
+      "quota": "15 Mand. 5 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-107(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-107",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "G-107",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "G-107",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "AMER 207-001"
+    },
+    "AMER 207-002": {
+      "instructor": "Joshua Bartlett",
+      "quota": "15 Mand. 5 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-109(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-109",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "G-109",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "G-109",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "AMER 207-002"
+    }
+  }
+}

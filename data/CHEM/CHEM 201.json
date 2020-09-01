@@ -1,0 +1,126 @@
+{
+  "name": "Materials Science and Technology",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "CHEM 201",
+  "sections": {
+    "CHEM 201-001": {
+      "instructor": "Bilge Baytekin",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FC-Z23B(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FC-Z23B",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "FC-Z23B",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "FC-Z23B",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CHEM 201-001"
+    },
+    "CHEM 201-002": {
+      "instructor": "Ferdi Karadaş",
+      "quota": "61 Mand. or Elect.",
+      "total_quota": 61,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-Z02(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-Z02",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "B-Z02",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "B-Z02",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CHEM 201-002"
+    },
+    "CHEM 201-003": {
+      "instructor": "Bilge Baytekin",
+      "quota": "62 Mand. or Elect.",
+      "total_quota": 62,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "SA-Z18",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "SA-Z18(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "SA-Z18",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "SA-Z18",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CHEM 201-003"
+    }
+  }
+}

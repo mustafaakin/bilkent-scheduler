@@ -1,0 +1,17 @@
+{
+  "name": "Quantitative Data Analysis",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "GE 512",
+  "sections": {}
+}

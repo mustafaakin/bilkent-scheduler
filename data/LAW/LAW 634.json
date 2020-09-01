@@ -1,0 +1,42 @@
+{
+  "name": "Methodology of Law",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 3
+  },
+  "code": "LAW 634",
+  "sections": {
+    "LAW 634-001": {
+      "instructor": "Ayşe Lale Sirmen",
+      "quota": "0 Mand. or Elect.",
+      "total_quota": 0,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "LAW 634-001"
+    }
+  }
+}

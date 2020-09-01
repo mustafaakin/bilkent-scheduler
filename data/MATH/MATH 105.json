@@ -1,0 +1,258 @@
+{
+  "name": "Introduction to Calculus I",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 4,
+    "ECTS": 6.5
+  },
+  "code": "MATH 105",
+  "sections": {
+    "MATH 105-001": {
+      "instructor": "Natalia Zheltukhina",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "V-04",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "V-04",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "V-04",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "V-04",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 105-001"
+    },
+    "MATH 105-002": {
+      "instructor": "Alexandre Goncharov",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "V-04",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "V-04",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "V-04",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "V-04",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 105-002"
+    },
+    "MATH 105-003": {
+      "instructor": "Staff",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "V-04",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "V-04",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "V-04",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "V-04",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 105-003"
+    },
+    "MATH 105-004": {
+      "instructor": "Staff",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "V-04",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "V-04",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "V-04",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "V-04",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 105-004"
+    },
+    "MATH 105-005": {
+      "instructor": "Natalia Zheltukhina",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 105-005"
+    },
+    "MATH 105-006": {
+      "instructor": "Natalia Zheltukhina",
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 105-006"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Numerical Methods in Physics",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "PHYS 371",
+  "sections": {
+    "PHYS 371-001": {
+      "instructor": "Mehmet Özgür Oktel",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "SA-Z19(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "SA-Z19",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "SA-Z19",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "SA-Z19",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "PHYS 371-001"
+    }
+  }
+}

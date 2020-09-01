@@ -1,0 +1,17 @@
+{
+  "name": "Ottoman Turkish and Paleography I",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 4,
+    "ECTS": 6.5
+  },
+  "code": "HIST 401",
+  "sections": {}
+}

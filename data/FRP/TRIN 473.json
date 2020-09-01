@@ -1,0 +1,42 @@
+{
+  "name": "Turkish Diction",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 1,
+    "ECTS": 2
+  },
+  "code": "TRIN 473",
+  "sections": {
+    "TRIN 473-001": {
+      "instructor": "Mehpare Çelik",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "LB-Z09",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "LB-Z09",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "TRIN 473-001"
+    }
+  }
+}

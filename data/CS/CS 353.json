@@ -1,0 +1,58 @@
+{
+  "name": "Database Systems",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "CS 353",
+  "sections": {
+    "CS 353-001": {
+      "instructor": "Özgür Ulusoy",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EE-214(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EE-214",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EE-214",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "EE-214",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 353-001"
+    }
+  }
+}

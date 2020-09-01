@@ -1,0 +1,17 @@
+{
+  "name": "Summer Practice II",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 6.5
+  },
+  "code": "MBG 391",
+  "sections": {}
+}

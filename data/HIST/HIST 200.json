@@ -1,0 +1,17 @@
+{
+  "name": "History of Turkey",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 4,
+    "ECTS": 6.5
+  },
+  "code": "HIST 200",
+  "sections": {}
+}

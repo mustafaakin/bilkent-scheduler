@@ -1,0 +1,17 @@
+{
+  "name": "Field Related Seminar",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 1
+  },
+  "code": "HIST 490",
+  "sections": {}
+}

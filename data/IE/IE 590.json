@@ -1,0 +1,42 @@
+{
+  "name": "Research Topics in IE and OR",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 1
+  },
+  "code": "IE 590",
+  "sections": {
+    "IE 590-001": {
+      "instructor": "Alper Şen",
+      "quota": "Unlimited",
+      "total_quota": null,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IE 590-001"
+    }
+  }
+}

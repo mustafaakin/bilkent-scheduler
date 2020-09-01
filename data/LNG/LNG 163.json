@@ -1,0 +1,54 @@
+{
+  "name": "Russian III",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "LNG 163",
+  "sections": {
+    "LNG 163-001": {
+      "instructor": "Gülnara Tanrıkulu",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-Z53",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-Z53",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "G-Z53",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "G-Z53",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "LNG 163-001"
+    }
+  }
+}

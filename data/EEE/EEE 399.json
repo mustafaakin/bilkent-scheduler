@@ -1,0 +1,17 @@
+{
+  "name": "Summer Training II",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 7.5
+  },
+  "code": "EEE 399",
+  "sections": {}
+}

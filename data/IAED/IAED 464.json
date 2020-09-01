@@ -1,0 +1,54 @@
+{
+  "name": "Issues and Themes in Industrial Design",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "IAED 464",
+  "sections": {
+    "IAED 464-001": {
+      "instructor": "Murat Özdamar",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IAED 464-001"
+    }
+  }
+}

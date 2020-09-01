@@ -1,0 +1,58 @@
+{
+  "name": "Complex Analysis",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "MATH 202",
+  "sections": {
+    "MATH 202-001": {
+      "instructor": "Alexander Degtyarev",
+      "quota": "35 Mand. 10 Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "SA-Z02",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "SA-Z02(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "SA-Z02",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "SA-Z02",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 202-001"
+    }
+  }
+}

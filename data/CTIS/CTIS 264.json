@@ -1,0 +1,72 @@
+{
+  "name": "Computer Algorithms",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 2,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "CTIS 264",
+  "sections": {
+    "CTIS 264-001": {
+      "instructor": "Füsun Yürüten",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CE-107(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CE-107",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-CTISL4",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-CTISL4",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "CE-107",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "CE-107",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CTIS 264-001"
+    }
+  }
+}

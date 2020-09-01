@@ -1,0 +1,492 @@
+{
+  "name": "Introduction to Programming in Python",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 4,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 4,
+    "ECTS": 6.5
+  },
+  "code": "CS 115",
+  "sections": {
+    "CS 115-001": {
+      "instructor": "Aynur Dayanık",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-201",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-Z08(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-201",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-Z08",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-201",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-201(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "B-Z08",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "B-Z08",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 115-001"
+    },
+    "CS 115-002": {
+      "instructor": "İpek Sözen",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-Z08",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-Z08(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-201",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-201",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-201",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "B-Z08",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "B-Z08",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 115-002"
+    },
+    "CS 115-003": {
+      "instructor": "İpek Sözen",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EE-412(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EE-412",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-303",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-303",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-303",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EE-412",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "EE-412",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 115-003"
+    },
+    "CS 115-004": {
+      "instructor": "İpek Sözen",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EE-04(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EE-04",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-303",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-303",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-303",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Friday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EE-04",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "EE-04",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 115-004"
+    },
+    "CS 115-005": {
+      "instructor": "Aynur Dayanık",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-206(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-206",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-303",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-303",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-303",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "B-206",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "B-206",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 115-005"
+    },
+    "CS 115-006": {
+      "instructor": "Aynur Dayanık",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Sunday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Sunday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-206",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Sunday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-206(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "B-206",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "B-206",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 115-006"
+    },
+    "CS 115-007": {
+      "instructor": "İpek Sözen",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EA-Z01",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EA-Z01(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "EA-Z01",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "EA-Z01",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 115-007"
+    },
+    "CS 115-008": {
+      "instructor": "Aynur Dayanık",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-Z08(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-Z08",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-303",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-303",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-303",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "B-Z08",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "B-Z08",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 115-008"
+    }
+  }
+}

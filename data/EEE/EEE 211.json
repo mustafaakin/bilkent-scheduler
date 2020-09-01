@@ -1,0 +1,234 @@
+{
+  "name": "Analog Electronics",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 4,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 4,
+    "ECTS": 6.5
+  },
+  "code": "EEE 211",
+  "sections": {
+    "EEE 211-001": {
+      "instructor": "Hayrettin Köymen",
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EB-102(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EB-102",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EE-LAB101",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EE-LAB101",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-LAB101",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EB-102",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "EB-102",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "EEE 211-001"
+    },
+    "EEE 211-002": {
+      "instructor": "Hayrettin Köymen",
+      "quota": "45 Mand. 5 Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EE-317(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EE-317",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EE-LAB101",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EE-LAB101",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-LAB101",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EE-317",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "EE-317",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "EEE 211-002"
+    },
+    "EEE 211-003": {
+      "instructor": "Emine Ülkü Sarıtaş",
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EE-412(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EE-412",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EE-LAB101",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EE-LAB101",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-LAB101",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EE-412",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "EE-412",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "EEE 211-003"
+    },
+    "EEE 211-004": {
+      "instructor": "Emine Ülkü Sarıtaş",
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EE-412(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EE-412",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EE-LAB101",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EE-LAB101",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-LAB101",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EE-412",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "EE-412",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "EEE 211-004"
+    }
+  }
+}

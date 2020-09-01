@@ -1,0 +1,126 @@
+{
+  "name": "Principles of Financial Accounting",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 4,
+    "ECTS": 6.5
+  },
+  "code": "MAN 213",
+  "sections": {
+    "MAN 213-001": {
+      "instructor": "Banu Sultanoğlu",
+      "quota": "41 Mand. 2 Elect.",
+      "total_quota": 43,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-202",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-202",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "MA-202",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "MA-202",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MAN 213-001"
+    },
+    "MAN 213-002": {
+      "instructor": "Banu Sultanoğlu",
+      "quota": "41 Mand. 2 Elect.",
+      "total_quota": 43,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-202",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-202",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "MA-202",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "MA-202",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MAN 213-002"
+    },
+    "MAN 213-003": {
+      "instructor": "Selda Sevin",
+      "quota": "41 Mand. 2 Elect.",
+      "total_quota": 43,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "MA-201",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "MA-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MAN 213-003"
+    }
+  }
+}

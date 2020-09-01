@@ -1,0 +1,17 @@
+{
+  "name": "Ottoman History: 1300-1600",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "HIST 411",
+  "sections": {}
+}

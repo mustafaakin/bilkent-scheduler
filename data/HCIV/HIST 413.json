@@ -1,0 +1,17 @@
+{
+  "name": "Byzantine History I: 324-1025",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "HIST 413",
+  "sections": {}
+}

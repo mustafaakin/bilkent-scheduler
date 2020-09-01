@@ -1,0 +1,17 @@
+{
+  "name": "Master's Thesis",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 71
+  },
+  "code": "IAED 599",
+  "sections": {}
+}

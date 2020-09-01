@@ -1,0 +1,498 @@
+{
+  "name": "Science Technology and Society",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 2,
+    "ECTS": 3.5
+  },
+  "code": "GE 301",
+  "sections": {
+    "GE 301-001": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-001"
+    },
+    "GE 301-002": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-002"
+    },
+    "GE 301-003": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-003"
+    },
+    "GE 301-004": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-004"
+    },
+    "GE 301-005": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EB-204",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "EB-204",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-005"
+    },
+    "GE 301-006": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-006"
+    },
+    "GE 301-007": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-007"
+    },
+    "GE 301-008": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-008"
+    },
+    "GE 301-009": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-009"
+    },
+    "GE 301-010": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-010"
+    },
+    "GE 301-011": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-011"
+    },
+    "GE 301-012": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-012"
+    },
+    "GE 301-013": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EB-204",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EB-204",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-013"
+    },
+    "GE 301-014": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-014"
+    },
+    "GE 301-015": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-015"
+    },
+    "GE 301-016": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EB-204",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EB-204",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-016"
+    },
+    "GE 301-017": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-017"
+    },
+    "GE 301-018": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EB-204",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "EB-204",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-018"
+    },
+    "GE 301-019": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-019"
+    },
+    "GE 301-020": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EB-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "EB-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "GE 301-020"
+    }
+  }
+}

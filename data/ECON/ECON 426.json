@@ -1,0 +1,17 @@
+{
+  "name": "Applied Econometrics",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 2,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "ECON 426",
+  "sections": {}
+}

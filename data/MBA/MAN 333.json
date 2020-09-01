@@ -1,0 +1,90 @@
+{
+  "name": "Marketing Principles",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "MAN 333",
+  "sections": {
+    "MAN 333-001": {
+      "instructor": "Ceren Aydoğmuş",
+      "quota": "15 Mand. 20 Elect.",
+      "total_quota": 35,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-201(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-201",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "MA-201",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "MA-201",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MAN 333-001"
+    },
+    "MAN 333-002": {
+      "instructor": "Ceren Aydoğmuş",
+      "quota": "15 Mand. 20 Elect.",
+      "total_quota": 35,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-301(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-301",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "MA-301",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "MA-301",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MAN 333-002"
+    }
+  }
+}

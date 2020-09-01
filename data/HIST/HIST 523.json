@@ -1,0 +1,17 @@
+{
+  "name": "England (1300-1600): History and Texts",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "HIST 523",
+  "sections": {}
+}

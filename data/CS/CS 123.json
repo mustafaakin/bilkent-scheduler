@@ -1,0 +1,206 @@
+{
+  "name": "Introduction to Computing and Programming",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 2,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "CS 123",
+  "sections": {
+    "CS 123-001": {
+      "instructor": "Sibel Uğurlubilek",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-207",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-B14",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-B14",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-B14(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Monday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "FF-207",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 123-001"
+    },
+    "CS 123-002": {
+      "instructor": "Lori Rae Russell Dağ",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EE-211",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-B14",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-B14",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-B14(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EE-211",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 123-002"
+    },
+    "CS 123-003": {
+      "instructor": "Lori Rae Russell Dağ",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-B14",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-B14",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-B14",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-B14(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Friday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "G-B14",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 123-003"
+    },
+    "CS 123-004": {
+      "instructor": "Sibel Uğurlubilek",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EE-211",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EE-211",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EE-211",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-211(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "EE-211",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 123-004"
+    }
+  }
+}

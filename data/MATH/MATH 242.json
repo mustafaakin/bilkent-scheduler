@@ -1,0 +1,58 @@
+{
+  "name": "Engineering Mathematics II",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 1,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 4,
+    "ECTS": 6.5
+  },
+  "code": "MATH 242",
+  "sections": {
+    "MATH 242-001": {
+      "instructor": "Arif Bülent Özgüler",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EE-05",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EE-05",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "EE-05",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "EE-05",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 242-001"
+    }
+  }
+}

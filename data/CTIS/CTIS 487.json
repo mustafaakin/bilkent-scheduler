@@ -1,0 +1,192 @@
+{
+  "name": "Mobile Application Development",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 2,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 4,
+    "ECTS": 6.5
+  },
+  "code": "CTIS 487",
+  "sections": {
+    "CTIS 487-001": {
+      "instructor": "Neşe Şahin Özçelik",
+      "quota": "17 Mand. 0 Elect.",
+      "total_quota": 17,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "C-CTISL8",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "C-CTISL8",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-CTISL8",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-CTISL8",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "C-CTISL8",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "C-CTISL8",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CTIS 487-001"
+    },
+    "CTIS 487-002": {
+      "instructor": "Neşe Şahin Özçelik",
+      "quota": "17 Mand. 0 Elect.",
+      "total_quota": 17,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "C-CTISL8",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "place": "C-CTISL8",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-CTISL8",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-CTISL8",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "C-CTISL8",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "C-CTISL8",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CTIS 487-002"
+    },
+    "CTIS 487-003": {
+      "instructor": "Neşe Şahin Özçelik",
+      "quota": "17 Mand. 0 Elect.",
+      "total_quota": 17,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-CTISL8",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-CTISL8",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-CTISL8",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-CTISL8",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "C-CTISL8",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "C-CTISL8",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CTIS 487-003"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "name": "Sight Translation I",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 4
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "TRIN 267",
+  "sections": {
+    "TRIN 267-001": {
+      "instructor": "Zeliha Gürel",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "LB-Z10",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "LB-Z10",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "LB-Z10",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "LB-Z10",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "LB-Z10",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "LB-Z10",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "TRIN 267-001"
+    },
+    "TRIN 267-002": {
+      "instructor": "Aylin Bayrakçeken Akın  Zeliha Gürel",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "LA-101",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "LA-101",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "LA-101",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "LA-101",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "TRIN 267-002"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Production Systems Design-Synthesis",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 2,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 6.5
+  },
+  "code": "IE 477",
+  "sections": {}
+}

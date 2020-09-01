@@ -1,0 +1,17 @@
+{
+  "name": "Pre-Thesis Seminar",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 3
+  },
+  "code": "LAW 590",
+  "sections": {}
+}

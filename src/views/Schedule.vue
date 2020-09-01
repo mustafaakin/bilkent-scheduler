@@ -1,19 +1,8 @@
 <template>
   <div class="ui container">
-    <transition name="fade">
-      <sui-message
-          v-if="helpVisible"
-          color="warning"
-          header="How to use Scheduler?"
-          content="Select a department, and a course and hit the add button. The combinations will be generated automatically. You can also filter out certain instructors as they appear in the results. Additionally, clicking on the timetable will filter-out that specific time. Use Next and Prev arrows for navigating through all combinations."
-          dismissable
-          @dismiss="helpVisible = false"
-      />
-    </transition>
-
     <sui-form>
       <sui-form-fields fields="sixteen">
-        <sui-form-field width="five">
+        <sui-form-field width="six">
           <label>Department</label>
           <sui-dropdown
               placeholder="Select a department"
@@ -25,7 +14,7 @@
               v-model="selectedDepartment"
           />
         </sui-form-field>
-        <sui-form-field width="nine">
+        <sui-form-field width="eight">
           <label>Course</label>
           <sui-dropdown
               placeholder="Select a course"
@@ -39,19 +28,29 @@
         </sui-form-field>
         <sui-form-field width="two">
           <label style="color: white">&nbsp;Buraya Bakarlar</label>
-          <div class="ui button fluid primary">Add</div>
+          <button class="ui button fluid primary" @click="addCourse(selectedDepartment, selectedCourse)" :disabled="!isAddButtonEnabled">
+            <i class="plus icon"></i>
+            Add
+          </button>
         </sui-form-field>
       </sui-form-fields>
     </sui-form>
+
+    <button class="ui right floated button basic" @click="nextSchedule()">
+      Next
+    </button>
+    <button class="ui right floated button basic" @click="prevSchedule()">
+      Prev
+    </button>
 
     <div class="">
       <div class="ui labels">
         <a class="ui white label" v-if="selectedCourses.length === 0">
           No course selected
         </a>
-        <a class="ui label" v-for="s in selectedCourses" v-bind:key="s">
-          {{ s }}
-          <i class="icon close"></i>
+        <a class="ui blue label" v-for="s in selectedCourses" v-bind:key="s.course">
+          {{ s.course }}
+          <i class="icon close" @click="removeCourse(s.course)"></i>
         </a>
       </div>
     </div>
@@ -59,24 +58,18 @@
     <table class="ui celled definition compact table">
       <thead>
       <tr>
-        <th style="width:9%"></th>
-        <th style="width:13%">Monday</th>
-        <th style="width:13%">Tuesday</th>
-        <th style="width:13%">Wednesday</th>
-        <th style="width:13%">Friday</th>
-        <th style="width:13%">Saturday</th>
-        <th style="width:13%">Sunday</th>
+        <th style="width: 9%"></th>
+        <th style="width: 13%" v-for="d in dayNames" v-bind:key="d">{{ d }}</th>
       </tr>
       </thead>
       <tbody>
-      <tr v-for="i in [8,9,10,11,12,13,14,15,16,17,18,19,20,21]" v-bind:key="i">
-        <td>{{ i }}:30 - {{ i + 1 }}:20</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+      <tr v-for="i in timeSlots" v-bind:key="i">
+        <td>{{ i }}</td>
+        <td v-for="j in dayNames" v-bind:key="j">
+          <span v-if="timetable[`${j}/${i}`]">
+            {{ timetable[`${j}/${i}`].name }}
+          </span>
+        </td>
       </tr>
       </tbody>
     </table>
@@ -89,7 +82,7 @@
           <i class="settings icon"></i>
           <div class="content">
             Selection Details
-            <div class="sub header"><b>3</b> of <b>150</b></div>
+            <div class="sub header"><b>{{ scheduleIndex + 1 }}</b> of <b>{{ schedules.length }}</b></div>
 
           </div>
         </h4>
@@ -101,19 +94,14 @@
             <th width="60%">Instructor</th>
           </tr>
           </thead>
-          <tbody>
-          <tr>
-            <td>CS 101
+          <tbody v-if="currentScheduleDetails">
+          <tr v-for="d in currentScheduleDetails" v-bind:key="d.section">
+            <td><b>{{ d.courseCode }}</b>
               <br/>
-              <small>Introduction to programming</small>
+              <small>{{ d.courseName }}</small>
             </td>
-            <td>1</td>
-            <td>David Davenport</td>
-          </tr>
-          <tr>
-            <td>CS 102</td>
-            <td>3</td>
-            <td>David Davenport</td>
+            <td>{{ d.section.split("-")[1] }}</td>
+            <td>{{ d.data.instructor }}</td>
           </tr>
           </tbody>
         </table>
@@ -171,52 +159,129 @@
 
       </div>
     </div>
+
+    <pre>{{ timetable }}</pre>
   </div>
+
 </template>
 
 <script>
+import coursesData from '../data.json'
+import departmentsData from '../departments.json'
+import find from '../combinations.js'
 
 export default {
   name: "Schedule",
   data() {
     return {
-      selectedCourses: ["CS 101", "ENG 101", "ENG 102"],
+      dayNames: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+      timeSlots: ["08:30", "09:30", "10:30", "11:30", "12:30", "13:30", "14:30", "15:30", "16:30", "17:30", "18:30", "19:30", "20:30"],
+      departments: Object.keys(departmentsData).map(function (v) {
+        return {
+          text: v + " - " + departmentsData[v].name,
+          value: v,
+        }
+      }),
+      selectedCourses: [],
       helpVisible: true,
       selectedDepartment: null,
       selectedCourse: null,
-      departments: [
-        {
-          text: 'CS - Computer Science',
-          value: 'CS',
-        },
-        {
-          text: 'ENG - English',
-          value: 'ENG',
-        },
-      ],
-      courses: [
-        {
-          text: 'CS 101 - Introduction to Programming - I',
-          value: 'CS 101',
-        },
-        {
-          text: 'CS 102 - Introduction to Programming - II',
-          value: 'CS 102',
-        },
-      ],
+      scheduleIndex: 0,
     };
   },
+  computed: {
+    courses: function () {
+      if (!this.selectedDepartment) {
+        return
+      }
+
+      const a = coursesData[this.selectedDepartment]
+      if (!a) {
+        return []
+      }
+
+      return Object.keys(a).filter(value => {
+        for (let c of this.selectedCourses) {
+          if (value === c.course) return false
+        }
+        return true
+      }).map(function (value) {
+        return {
+          value: value,
+          text: value + " - " + a[value].name,
+        }
+      })
+    },
+    isAddButtonEnabled: function () {
+      if (!this.selectedCourse) return false
+      if (!this.selectedDepartment) return false
+
+      if (this.selectedCourse === "" || this.selectedDepartment === "") return false
+
+      for (let c of this.selectedCourses) {
+        if (c.course === this.selectedCourse) return false
+      }
+      return true
+    },
+    schedules: function () {
+      console.log("calculating")
+      return find(coursesData, this.selectedCourses)
+    },
+    currentSchedule: function () {
+      if (this.scheduleIndex > this.schedules.length) {
+        // Show the latest one
+        return this.schedules[this.schedules.length - 1]
+      }
+      return this.schedules[this.scheduleIndex]
+    },
+    currentScheduleDetails: function () {
+      if (!this.currentSchedule) return
+      return this.currentSchedule.map(section => {
+        let department = section.split(" ")[0]
+        let courseCode = section.split("-")[0]
+        let course = coursesData[department][courseCode]
+        let courseName = course.name
+        let data = course.sections[section]
+        return {department, courseName, courseCode, section, data}
+      })
+    },
+    timetable: function () {
+      if (!this.currentScheduleDetails) return {}
+      let table = {}
+      for (let d of this.currentScheduleDetails) {
+        for (let slot of d.data.schedule) {
+          table[slot.day + "/" + slot.start] = {
+            name: d.section,
+            start: slot.start,
+            place: slot.place,
+            type: slot.class,
+            day: slot.day,
+          }
+        }
+      }
+      return table
+    }
+  },
+  methods: {
+    addCourse: function (department, course) {
+      this.selectedCourses.push({
+        department, course
+      })
+      this.selectedCourse = null
+    },
+    removeCourse: function (course) {
+      this.selectedCourses = this.selectedCourses.filter(a => a.course !== course)
+    },
+    nextSchedule: function () {
+      if (this.scheduleIndex < this.schedules.length - 1) {
+        this.scheduleIndex++
+      }
+    },
+    prevSchedule: function () {
+      if (this.scheduleIndex > 0) {
+        this.scheduleIndex--
+      }
+    },
+  }
 }
 </script>
-
-<style media="screen" scoped>
-.fade-enter-active,
-.fade-leave-active {
-  transition: opacity 1s;
-}
-
-.fade-enter,
-.fade-leave-to {
-  opacity: 0;
-}
-</style>

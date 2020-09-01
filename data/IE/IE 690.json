@@ -1,0 +1,42 @@
+{
+  "name": "Advanced Research Topics in IE&OR",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 1
+  },
+  "code": "IE 690",
+  "sections": {
+    "IE 690-001": {
+      "instructor": "Alper Şen",
+      "quota": "10 Mand. 0 Elect.",
+      "total_quota": 10,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IE 690-001"
+    }
+  }
+}

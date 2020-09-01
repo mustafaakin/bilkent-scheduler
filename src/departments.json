@@ -1,0 +1,327 @@
+{
+  "ACC": {
+    "id": "ACC",
+    "name": "Accounting Information Systems",
+    "faculty": "School of Applied Languages"
+  },
+  "ADA": {
+    "id": "ADA",
+    "name": "Art, Design and Architecture",
+    "faculty": "Faculty of Art, Design, and Architecture"
+  },
+  "AMER": {
+    "id": "AMER",
+    "name": "American Culture and Literature",
+    "faculty": "Faculty of Humanities and Letters"
+  },
+  "ARCH": {
+    "id": "ARCH",
+    "name": "Architecture",
+    "faculty": "Faculty of Art, Design, and Architecture"
+  },
+  "BF": {
+    "id": "BF",
+    "name": "Banking and Finance",
+    "faculty": "School of Applied Languages"
+  },
+  "BIM": {
+    "id": "BIM",
+    "name": "Business Information Management",
+    "faculty": "School of Applied Technology and Management"
+  },
+  "BTE": {
+    "id": "BTE",
+    "name": "Curriculum and Instruction with Teaching Certificate",
+    "faculty": "Faculty of Education"
+  },
+  "CHEM": {
+    "id": "CHEM",
+    "name": "Chemistry",
+    "faculty": "Faculty of Science"
+  },
+  "CI": {
+    "id": "CI",
+    "name": "Curriculum and Instruction",
+    "faculty": "Faculty of Education"
+  },
+  "CINT": {
+    "id": "CINT",
+    "name": "Conference Interpreting",
+    "faculty": "Faculty of Humanities and Letters"
+  },
+  "COMD": {
+    "id": "COMD",
+    "name": "Communication and Design",
+    "faculty": "Faculty of Art, Design, and Architecture"
+  },
+  "CS": {
+    "id": "CS",
+    "name": "Computer Engineering",
+    "faculty": "Faculty of Engineering"
+  },
+  "CTE": {
+    "id": "CTE",
+    "name": "Computer and Instructional Technology Teacher Education",
+    "faculty": "Faculty of Education"
+  },
+  "CTIS": {
+    "id": "CTIS",
+    "name": "Information Systems and Technologies",
+    "faculty": "School of Applied Technology and Management"
+  },
+  "ECON": {
+    "id": "ECON",
+    "name": "Economics",
+    "faculty": "Faculty of Economics, Administrative, and Social Sciences"
+  },
+  "EDEB": {
+    "id": "EDEB",
+    "name": "Turkish Literature",
+    "faculty": "Faculty of Humanities and Letters"
+  },
+  "EEE": {
+    "id": "EEE",
+    "name": "Electrical and Electronics Engineering",
+    "faculty": "Faculty of Engineering"
+  },
+  "EEPS": {
+    "id": "EEPS",
+    "name": "Energy Economics, Policy, and Security",
+    "faculty": "Interdisciplinary Programs"
+  },
+  "ELIT": {
+    "id": "ELIT",
+    "name": "English Language and Literature",
+    "faculty": "Faculty of Humanities and Letters"
+  },
+  "ELS": {
+    "id": "ELS",
+    "name": "Faculty Academic English Program",
+    "faculty": "School of English Language"
+  },
+  "EMBA": {
+    "id": "EMBA",
+    "name": "Management",
+    "faculty": "Faculty of Business Administration"
+  },
+  "ENG": {
+    "id": "ENG",
+    "name": "Faculty Academic English Program",
+    "faculty": "School of English Language"
+  },
+  "ETE": {
+    "id": "ETE",
+    "name": "Curriculum and Instruction with Teaching Certificate",
+    "faculty": "Faculty of Education"
+  },
+  "FA": {
+    "id": "FA",
+    "name": "Fine Arts",
+    "faculty": "Faculty of Art, Design, and Architecture"
+  },
+  "FRP": {
+    "id": "FRP",
+    "name": "Translation and Interpretation",
+    "faculty": "Faculty of Humanities and Letters"
+  },
+  "GE": {
+    "id": "GE",
+    "name": "General Education Courses",
+    "faculty": "Rectorate"
+  },
+  "GRA": {
+    "id": "GRA",
+    "name": "Graphic Design",
+    "faculty": "Faculty of Art, Design, and Architecture"
+  },
+  "HART": {
+    "id": "HART",
+    "name": "Archaeology",
+    "faculty": "Faculty of Humanities and Letters"
+  },
+  "HCIV": {
+    "id": "HCIV",
+    "name": "History",
+    "faculty": "Faculty of Economics, Administrative, and Social Sciences"
+  },
+  "HIST": {
+    "id": "HIST",
+    "name": "History",
+    "faculty": "Faculty of Economics, Administrative, and Social Sciences"
+  },
+  "HUM": {
+    "id": "HUM",
+    "name": "Program in Cultures, Civilizations, and Ideas",
+    "faculty": "Faculty of Humanities and Letters"
+  },
+  "IAED": {
+    "id": "IAED",
+    "name": "Interior Architecture and Environmental Design",
+    "faculty": "Faculty of Art, Design, and Architecture"
+  },
+  "IE": {
+    "id": "IE",
+    "name": "Industrial Engineering",
+    "faculty": "Faculty of Engineering"
+  },
+  "IELTS": {
+    "id": "IELTS",
+    "name": "English Language Preparatory Program",
+    "faculty": "School of English Language"
+  },
+  "IR": {
+    "id": "IR",
+    "name": "International Relations",
+    "faculty": "Faculty of Economics, Administrative, and Social Sciences"
+  },
+  "LAUD": {
+    "id": "LAUD",
+    "name": "Urban Design and Landscape Architecture",
+    "faculty": "Faculty of Art, Design, and Architecture"
+  },
+  "LAW": {
+    "id": "LAW",
+    "name": "Law",
+    "faculty": "Faculty of Law"
+  },
+  "LNG": {
+    "id": "LNG",
+    "name": "Foreign Languages Unit",
+    "faculty": "Faculty of Humanities and Letters"
+  },
+  "MAN": {
+    "id": "MAN",
+    "name": "Management",
+    "faculty": "Faculty of Business Administration"
+  },
+  "MATH": {
+    "id": "MATH",
+    "name": "Mathematics",
+    "faculty": "Faculty of Science"
+  },
+  "MBA": {
+    "id": "MBA",
+    "name": "Management",
+    "faculty": "Faculty of Business Administration"
+  },
+  "MBG": {
+    "id": "MBG",
+    "name": "Molecular Biology and Genetics",
+    "faculty": "Faculty of Science"
+  },
+  "ME": {
+    "id": "ME",
+    "name": "Mechanical Engineering",
+    "faculty": "Faculty of Engineering"
+  },
+  "MIAPP": {
+    "id": "MIAPP",
+    "name": "Master of International Affairs and Public Policy",
+    "faculty": "Faculty of Economics, Administrative, and Social Sciences"
+  },
+  "MSC": {
+    "id": "MSC",
+    "name": "Music",
+    "faculty": "Faculty of Music and Performing Arts"
+  },
+  "MSN": {
+    "id": "MSN",
+    "name": "Materials Science and Nanotechnology",
+    "faculty": "Interdisciplinary Programs"
+  },
+  "MTE": {
+    "id": "MTE",
+    "name": "Curriculum and Instruction with Teaching Certificate",
+    "faculty": "Faculty of Education"
+  },
+  "MUS": {
+    "id": "MUS",
+    "name": "Music",
+    "faculty": "Faculty of Music and Performing Arts"
+  },
+  "NSC": {
+    "id": "NSC",
+    "name": "Neuroscience",
+    "faculty": "Interdisciplinary Programs"
+  },
+  "PE": {
+    "id": "PE",
+    "name": "Physical Education Unit",
+    "faculty": "Faculty of Education"
+  },
+  "PHIL": {
+    "id": "PHIL",
+    "name": "Philosophy",
+    "faculty": "Faculty of Humanities and Letters"
+  },
+  "PHYS": {
+    "id": "PHYS",
+    "name": "Physics",
+    "faculty": "Faculty of Science"
+  },
+  "POLS": {
+    "id": "POLS",
+    "name": "Political Science and Public Administration",
+    "faculty": "Faculty of Economics, Administrative, and Social Sciences"
+  },
+  "PREP": {
+    "id": "PREP",
+    "name": "English Language Preparatory Program",
+    "faculty": "School of English Language"
+  },
+  "PSYC": {
+    "id": "PSYC",
+    "name": "Psychology",
+    "faculty": "Faculty of Economics, Administrative, and Social Sciences"
+  },
+  "SFL": {
+    "id": "SFL",
+    "name": "Banking and Finance",
+    "faculty": "School of Applied Languages"
+  },
+  "SOC": {
+    "id": "SOC",
+    "name": "Political Science and Public Administration",
+    "faculty": "Faculty of Economics, Administrative, and Social Sciences"
+  },
+  "TE": {
+    "id": "TE",
+    "name": "Curriculum and Instruction with Teaching Certificate",
+    "faculty": "Faculty of Education"
+  },
+  "TEFL": {
+    "id": "TEFL",
+    "name": "English Language Teaching",
+    "faculty": "Faculty of Education"
+  },
+  "THEA": {
+    "id": "THEA",
+    "name": "Performing Arts",
+    "faculty": "Faculty of Music and Performing Arts"
+  },
+  "THM": {
+    "id": "THM",
+    "name": "Tourism and Hotel Management",
+    "faculty": "School of Applied Technology and Management"
+  },
+  "THR": {
+    "id": "THR",
+    "name": "Performing Arts",
+    "faculty": "Faculty of Music and Performing Arts"
+  },
+  "TOEFL": {
+    "id": "TOEFL",
+    "name": "English Language Preparatory Program",
+    "faculty": "School of English Language"
+  },
+  "TRIN": {
+    "id": "TRIN",
+    "name": "Translation and Interpretation",
+    "faculty": "Faculty of Humanities and Letters"
+  },
+  "TURK": {
+    "id": "TURK",
+    "name": "Turkish Unit",
+    "faculty": "Faculty of Humanities and Letters"
+  }
+}

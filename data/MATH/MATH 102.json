@@ -1,0 +1,298 @@
+{
+  "name": "Calculus II",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 4,
+    "ECTS": 6.5
+  },
+  "code": "MATH 102",
+  "sections": {
+    "MATH 102-001": {
+      "instructor": "Hakkı Turgay Kaptanoğlu",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-206",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-206",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "B-206",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "B-206",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 102-001"
+    },
+    "MATH 102-002": {
+      "instructor": "Metin Gürses",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-236",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-236",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "G-236",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "G-236",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 102-002"
+    },
+    "MATH 102-003": {
+      "instructor": "Ahmet Muhtar Güloğlu",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-236",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-236",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "G-236",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "G-236",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 102-003"
+    },
+    "MATH 102-004": {
+      "instructor": "Ahmet Muhtar Güloğlu",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-236",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-236",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "G-236",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "G-236",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 102-004"
+    },
+    "MATH 102-005": {
+      "instructor": "Hamza Yeşilyurt",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-236",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-236",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "G-236",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "G-236",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 102-005"
+    },
+    "MATH 102-006": {
+      "instructor": "Muhammet Yasir Kızmaz",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "SA-Z01",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "SA-Z01",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "SA-Z01",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "SA-Z01",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 102-006"
+    },
+    "MATH 102-007": {
+      "instructor": "Muhammet Yasir Kızmaz",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "SA-Z01",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "SA-Z01",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "SA-Z01",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "SA-Z01",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 102-007"
+    }
+  }
+}

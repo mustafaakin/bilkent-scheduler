@@ -1,0 +1,347 @@
+{
+  "name": "Introduction to Computer Tools",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 2,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "CS 121",
+  "sections": {
+    "CS 121-001": {
+      "instructor": "Rabia Üşenmez",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-207",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-207(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "FF-207",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 121-001"
+    },
+    "CS 121-002": {
+      "instructor": "Sibel Uğurlubilek",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-207",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-207(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "FF-207",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 121-002"
+    },
+    "CS 121-003": {
+      "instructor": "Rabia Üşenmez",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-207",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-207(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Friday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "FF-207",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 121-003"
+    },
+    "CS 121-004": {
+      "instructor": "Rabia Üşenmez",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-207",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-207(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "FF-207",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 121-004"
+    },
+    "CS 121-005": {
+      "instructor": "Staff",
+      "quota": "42 Mand. or Elect.",
+      "total_quota": 42,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-207",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-207(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "FF-207",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 121-005"
+    },
+    "CS 121-006": {
+      "instructor": "Rabia Üşenmez",
+      "quota": "42 Mand. or Elect.",
+      "total_quota": 42,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-207",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-207(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "FF-207",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 121-006"
+    },
+    "CS 121-007": {
+      "instructor": "Sibel Uğurlubilek",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-207",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-207",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-207(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Friday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "FF-207",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 121-007"
+    }
+  }
+}

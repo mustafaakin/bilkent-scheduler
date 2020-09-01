@@ -1,0 +1,17 @@
+{
+  "name": "Advances in Switching Networks",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "CS 527",
+  "sections": {}
+}

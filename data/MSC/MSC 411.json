@@ -1,0 +1,17 @@
+{
+  "name": "Composition VII",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 5,
+    "ECTS": 7.5
+  },
+  "code": "MSC 411",
+  "sections": {}
+}

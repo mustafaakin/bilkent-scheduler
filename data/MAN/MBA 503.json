@@ -1,0 +1,48 @@
+{
+  "name": "Business Economics",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "MBA 503",
+  "sections": {
+    "MBA 503-001": {
+      "instructor": "Süheyla Özyıldırım",
+      "quota": "0 Mand. or Elect.",
+      "total_quota": 0,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "MA-305",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "19:30",
+          "end": "20:10",
+          "place": "MA-305",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "MA-305",
+          "class": "Hybrid Lecture"
+        }
+      ],
+      "name": "MBA 503-001"
+    }
+  }
+}

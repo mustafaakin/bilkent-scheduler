@@ -1,0 +1,17 @@
+{
+  "name": "Senior Design Project I",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 6.5
+  },
+  "code": "CS 491",
+  "sections": {}
+}

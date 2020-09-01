@@ -1,0 +1,17 @@
+{
+  "name": "Strategic Financial Management",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 4
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "EMBA 546",
+  "sections": {}
+}

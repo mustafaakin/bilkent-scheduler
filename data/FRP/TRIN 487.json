@@ -1,0 +1,66 @@
+{
+  "name": "Interpreting for Public Services",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 4
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "TRIN 487",
+  "sections": {
+    "TRIN 487-001": {
+      "instructor": "Tanju İnal  Ayşe Şirin Okyayuz",
+      "quota": "5 Mand. or Elect.",
+      "total_quota": 5,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "place": "LB-Z09",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "LB-Z09",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "17:40",
+          "end": "18:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "place": "LB-Z09",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "20:10",
+          "end": "21:00",
+          "place": "LB-Z09",
+          "class": "Online Only Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "LB-Z09",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "TRIN 487-001"
+    }
+  }
+}

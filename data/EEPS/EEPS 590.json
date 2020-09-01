@@ -1,0 +1,17 @@
+{
+  "name": "Term Project",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 10
+  },
+  "code": "EEPS 590",
+  "sections": {}
+}

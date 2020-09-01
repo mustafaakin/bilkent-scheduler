@@ -1,0 +1,17 @@
+{
+  "name": "Experimental Molecular Biology and Genetics I",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 12,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "MBG 616",
+  "sections": {}
+}

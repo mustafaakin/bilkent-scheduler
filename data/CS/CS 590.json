@@ -1,0 +1,44 @@
+{
+  "name": "Research Seminar I",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 1
+  },
+  "code": "CS 590",
+  "sections": {
+    "CS 590-001": {
+      "instructor": "Uğur Doğrusöz  Sedat Özer",
+      "quota": "Unlimited",
+      "total_quota": null,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "CS 590-001"
+    }
+  }
+}

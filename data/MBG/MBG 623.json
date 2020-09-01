@@ -1,0 +1,17 @@
+{
+  "name": "Seminars in Molecular Genetics I",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 1
+  },
+  "code": "MBG 623",
+  "sections": {}
+}

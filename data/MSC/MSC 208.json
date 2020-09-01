@@ -1,0 +1,17 @@
+{
+  "name": "Individual Music Studies IV",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 2,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 2,
+    "ECTS": 3.5
+  },
+  "code": "MSC 208",
+  "sections": {}
+}

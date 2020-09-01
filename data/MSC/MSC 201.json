@@ -1,0 +1,17 @@
+{
+  "name": "Department Seminar III",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 0.5
+  },
+  "code": "MSC 201",
+  "sections": {}
+}

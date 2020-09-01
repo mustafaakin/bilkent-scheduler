@@ -1,0 +1,42 @@
+{
+  "name": "Guidance",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 2,
+    "ECTS": 3.5
+  },
+  "code": "TE 524",
+  "sections": {
+    "TE 524-001": {
+      "instructor": "Aikaterini Michou",
+      "quota": "22 Mand. or Elect.",
+      "total_quota": 22,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "start": "21:10",
+          "end": "22:00",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "TE 524-001"
+    }
+  }
+}
