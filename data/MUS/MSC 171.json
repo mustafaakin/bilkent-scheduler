@@ -1,0 +1,17 @@
+{
+  "name": "Theory I: Fundamentals",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "MSC 171",
+  "sections": {}
+}

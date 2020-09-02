@@ -1,0 +1,17 @@
+{
+  "name": "Semester Internship",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 9,
+    "ECTS": 20
+  },
+  "code": "THM 310",
+  "sections": {}
+}

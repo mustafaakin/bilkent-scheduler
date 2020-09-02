@@ -1,0 +1,17 @@
+{
+  "name": "Chamber Music III",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 2,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 2,
+    "ECTS": 3.5
+  },
+  "code": "MSC 233",
+  "sections": {}
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Nanoscience and Nanotechnology I",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 1,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "MSN 517",
+  "sections": {
+    "MSN 517-001": {
+      "instructor": "Seymur Jahangirov",
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "SU-01(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "SU-01",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "SU-01",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "SU-01",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MSN 517-001"
+    }
+  }
+}

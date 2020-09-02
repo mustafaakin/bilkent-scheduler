@@ -1,0 +1,17 @@
+{
+  "name": "Keyboard Skills I",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 1,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 1,
+    "ECTS": 2
+  },
+  "code": "MSC 183",
+  "sections": {}
+}

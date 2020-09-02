@@ -24,12 +24,14 @@
       },
       "schedule": [
         {
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
           "place": "EE-517",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "20:10",
           "end": "21:00",
           "place": "EE-517",

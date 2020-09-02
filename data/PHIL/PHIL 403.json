@@ -1,0 +1,17 @@
+{
+  "name": "Senior Thesis I",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "PHIL 403",
+  "sections": {}
+}

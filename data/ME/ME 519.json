@@ -24,24 +24,28 @@
       },
       "schedule": [
         {
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
           "place": "EB-101",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
           "place": "EB-101(S)",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Tuesday",
           "start": "20:10",
           "end": "21:00",
           "place": "EB-101",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Tuesday",
           "start": "21:10",
           "end": "22:00",
           "place": "EB-101",

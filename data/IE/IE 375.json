@@ -24,24 +24,28 @@
       },
       "schedule": [
         {
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
           "place": "B-Z02(S)",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
           "place": "B-Z02",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Monday",
           "start": "17:40",
           "end": "18:30",
           "place": "B-Z02",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Monday",
           "start": "18:40",
           "end": "19:30",
           "place": "B-Z02",
@@ -60,24 +64,28 @@
       },
       "schedule": [
         {
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
           "place": "EB-101",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
           "place": "EB-101(S)",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "20:10",
           "end": "21:00",
           "place": "EB-101",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Friday",
           "start": "21:10",
           "end": "22:00",
           "place": "EB-101",
@@ -96,24 +104,28 @@
       },
       "schedule": [
         {
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
           "place": "EB-101(S)",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
           "place": "EB-101",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "17:40",
           "end": "18:30",
           "place": "EB-101",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Friday",
           "start": "18:40",
           "end": "19:30",
           "place": "EB-101",

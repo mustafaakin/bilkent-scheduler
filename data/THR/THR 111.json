@@ -1,0 +1,17 @@
+{
+  "name": "Phonetics I",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 2
+  },
+  "credits": {
+    "bilkent": 2,
+    "ECTS": 3.5
+  },
+  "code": "THR 111",
+  "sections": {}
+}

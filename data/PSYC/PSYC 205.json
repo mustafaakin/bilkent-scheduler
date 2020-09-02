@@ -1,0 +1,58 @@
+{
+  "name": "Statistics II",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "PSYC 205",
+  "sections": {
+    "PSYC 205-001": {
+      "instructor": "Sezer Kadayıfçılar",
+      "quota": "25 Mand. 0 Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-227(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-227",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:40",
+          "end": "18:30",
+          "place": "A-227",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "A-227",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "PSYC 205-001"
+    }
+  }
+}

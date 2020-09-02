@@ -24,48 +24,56 @@
       },
       "schedule": [
         {
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
           "place": "C-CTISL8",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "C-CTISL8",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
           "place": "C-CTISL8",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "C-CTISL8",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
           "place": "(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
           "place": "(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Thursday",
           "start": "17:40",
           "end": "18:30",
           "place": "C-CTISL8",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Thursday",
           "start": "18:40",
           "end": "19:30",
           "place": "C-CTISL8",
@@ -84,48 +92,56 @@
       },
       "schedule": [
         {
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
           "place": "C-CTISL8",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
           "place": "C-CTISL8",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
           "place": "C-CTISL8",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
           "place": "C-CTISL8",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
           "place": "(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
           "place": "(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "17:40",
           "end": "18:30",
           "place": "C-CTISL8",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Monday",
           "start": "18:40",
           "end": "19:30",
           "place": "C-CTISL8",
@@ -144,42 +160,49 @@
       },
       "schedule": [
         {
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
           "place": "C-CTISL8",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
           "place": "C-CTISL8",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
           "place": "C-CTISL8",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "C-CTISL8",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
           "place": "(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Thursday",
           "start": "20:10",
           "end": "21:00",
           "place": "C-CTISL8",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Thursday",
           "start": "21:10",
           "end": "22:00",
           "place": "C-CTISL8",

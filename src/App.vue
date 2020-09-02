@@ -18,10 +18,6 @@
           <i class="icon university"></i>
           Courses
         </router-link>
-        <router-link class="item" to="/instructors" active-class="active">
-          <i class="icon users"></i>
-          Instructors
-        </router-link>
         <router-link class="item" to="/about" active-class="active">
           <i class="icon info"></i>
           About

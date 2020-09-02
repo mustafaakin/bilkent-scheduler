@@ -1,0 +1,86 @@
+{
+  "name": "Movement and Combat III",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 4,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "THR 205",
+  "sections": {
+    "THR 205-001": {
+      "instructor": "Halim Şener",
+      "quota": "0 Mand. or Elect.",
+      "total_quota": 0,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "THR 205-001"
+    }
+  }
+}

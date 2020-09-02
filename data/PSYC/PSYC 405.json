@@ -1,0 +1,58 @@
+{
+  "name": "Introduction to FMRI",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "PSYC 405",
+  "sections": {
+    "PSYC 405-001": {
+      "instructor": "Hüseyin Boyacı",
+      "quota": "0 Mand. 45 Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-330",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-330(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "A-330",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "A-330",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "PSYC 405-001"
+    }
+  }
+}

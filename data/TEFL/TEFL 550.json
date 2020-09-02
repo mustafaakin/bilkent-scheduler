@@ -1,0 +1,44 @@
+{
+  "name": "Thesis Seminar",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 2
+  },
+  "code": "TEFL 550",
+  "sections": {
+    "TEFL 550-001": {
+      "instructor": "Staff",
+      "quota": "14 Mand. or Elect.",
+      "total_quota": 14,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:40",
+          "end": "19:30",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "TEFL 550-001"
+    }
+  }
+}

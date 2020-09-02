@@ -1,0 +1,17 @@
+{
+  "name": "Instrument V",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 2,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 5,
+    "ECTS": 7.5
+  },
+  "code": "MSC 331",
+  "sections": {}
+}

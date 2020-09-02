@@ -24,24 +24,28 @@
       },
       "schedule": [
         {
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
           "place": "CD-B01",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
           "place": "CD-B01",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Thursday",
           "start": "20:10",
           "end": "21:00",
           "place": "CD-B01",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Thursday",
           "start": "21:10",
           "end": "22:00",
           "place": "CD-B01",
@@ -60,24 +64,28 @@
       },
       "schedule": [
         {
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
           "place": "C-216",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
           "place": "C-216",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Monday",
           "start": "20:10",
           "end": "21:00",
           "place": "C-216",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Monday",
           "start": "21:10",
           "end": "22:00",
           "place": "C-216",
@@ -96,24 +104,28 @@
       },
       "schedule": [
         {
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
           "place": "C-216",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
           "place": "C-216",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Wednesday",
           "start": "20:10",
           "end": "21:00",
           "place": "C-216",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Wednesday",
           "start": "21:10",
           "end": "22:00",
           "place": "C-216",

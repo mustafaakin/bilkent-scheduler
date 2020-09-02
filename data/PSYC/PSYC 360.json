@@ -1,0 +1,58 @@
+{
+  "name": "Individual Differences and Personality",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "PSYC 360",
+  "sections": {
+    "PSYC 360-001": {
+      "instructor": "Özlem Ataoğlu",
+      "quota": "0 Mand. 55 Elect.",
+      "total_quota": 55,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-Z06",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-Z06(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "B-Z06",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "B-Z06",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "PSYC 360-001"
+    }
+  }
+}

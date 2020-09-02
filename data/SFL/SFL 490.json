@@ -1,0 +1,17 @@
+{
+  "name": "Common European Framework of Reference Level B1",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 2.5
+  },
+  "code": "SFL 490",
+  "sections": {}
+}

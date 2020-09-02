@@ -1,6 +1,11 @@
 <template>
   <div class="ui text container" style="font-size: 1.25em">
     <br />
+    <h2 class="ui header">How to use?</h2>
+    <p>Select a department, and a course and hit the add button. The combinations will be generated automatically. You can also filter out certain instructors as they appear in the results. Additionally, clicking on the timetable will filter-out that specific time. Use Next and Prev arrows for navigating through all combinations.</p>
+
+    <br />
+    <h2 class="ui header">History</h2>
     <p>The original Scheduler was created in 2010 by <a href="https://www.linkedin.com/in/mustafaakin/">Mustafa Akın</a> and <a href="https://www.linkedin.com/in/semih-sahin-39612b37/">Semih Şahin</a> to aid course selection for the students and teachers, as a Java standalone desktop application. </p>
 
     <p>In 2011, Mustafa created a web version of Scheduler by coming to terms with BCC to provide a real-time API instead of scraping public data, with the help of Abdullah Atalar. Since then, it has been used by 100.000 unique users throughout the years, which of many are graduated from Bilkent. <small>I'm still a PhD Candidate though, working at Atlassian.</small></p>

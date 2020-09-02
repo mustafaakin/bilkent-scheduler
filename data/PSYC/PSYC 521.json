@@ -1,0 +1,58 @@
+{
+  "name": "Principles of Functional Magnetic Resonance Imaging",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "PSYC 521",
+  "sections": {
+    "PSYC 521-001": {
+      "instructor": "Hüseyin Boyacı",
+      "quota": "0 Mand. 15 Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-227",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-227(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "20:10",
+          "end": "21:00",
+          "place": "A-227",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "21:10",
+          "end": "22:00",
+          "place": "A-227",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "PSYC 521-001"
+    }
+  }
+}

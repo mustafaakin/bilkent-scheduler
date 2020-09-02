@@ -1,0 +1,17 @@
+{
+  "name": "Ph.D. Dissertation",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 190
+  },
+  "code": "PSYC 699",
+  "sections": {}
+}

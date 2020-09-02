@@ -85,8 +85,8 @@ async function getCourseData(page, course) {
   }
 
   let departments = Object.keys(JSON.parse(fs.readFileSync("src/departments.json").toString()))
-  // departments = departments.splice(departments.indexOf("MSC"))
-  departments = ["MATH", "PHYS"]
+  departments = departments.splice(departments.indexOf("NSC"))
+  // departments = ["MATH", "PHYS"]
   console.log(departments)
   for (let department of departments) {
     console.log("Initializing for " + department)

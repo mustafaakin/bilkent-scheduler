@@ -24,24 +24,28 @@
       },
       "schedule": [
         {
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
           "place": "(FS)",
@@ -60,24 +64,28 @@
       },
       "schedule": [
         {
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
           "place": "(FS)",
@@ -96,24 +104,28 @@
       },
       "schedule": [
         {
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
           "place": "(FS)",
@@ -132,24 +144,28 @@
       },
       "schedule": [
         {
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
           "place": "(FS)",
@@ -168,18 +184,21 @@
       },
       "schedule": [
         {
+          "day": "Saturday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Saturday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Saturday",
           "start": "10:30",
           "end": "11:20",
           "place": "",

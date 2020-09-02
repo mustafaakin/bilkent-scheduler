@@ -1,0 +1,17 @@
+{
+  "name": "Pre-Thesis Seminar I",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 1
+  },
+  "code": "POLS 651",
+  "sections": {}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Health Studies",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 1,
+    "ECTS": 2
+  },
+  "code": "THM 166",
+  "sections": {}
+}

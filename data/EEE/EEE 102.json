@@ -24,42 +24,49 @@
       },
       "schedule": [
         {
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
           "place": "EE-03",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
           "place": "EE-03",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
           "place": "EE-LAB103",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
           "place": "EE-LAB103",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
           "place": "EE-LAB103",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "17:40",
           "end": "18:30",
           "place": "EE-03",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Wednesday",
           "start": "18:40",
           "end": "19:30",
           "place": "EE-03",
@@ -78,42 +85,49 @@
       },
       "schedule": [
         {
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
           "place": "EE-03",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
           "place": "EE-03",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
           "place": "EE-LAB103",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
           "place": "EE-LAB103",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
           "place": "EE-LAB103",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "17:40",
           "end": "18:30",
           "place": "EE-03",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Monday",
           "start": "18:40",
           "end": "19:30",
           "place": "EE-03",
@@ -132,42 +146,49 @@
       },
       "schedule": [
         {
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "EE-04",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "EE-04",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
           "place": "EE-LAB103",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "EE-LAB103",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
           "place": "EE-LAB103",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Thursday",
           "start": "17:40",
           "end": "18:30",
           "place": "EE-04",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Thursday",
           "start": "18:40",
           "end": "19:30",
           "place": "EE-04",

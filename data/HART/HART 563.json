@@ -24,24 +24,28 @@
       },
       "schedule": [
         {
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
           "place": "H-132",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
           "place": "H-132(S)",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Thursday",
           "start": "20:10",
           "end": "21:00",
           "place": "H-132",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Thursday",
           "start": "21:10",
           "end": "22:00",
           "place": "H-132",

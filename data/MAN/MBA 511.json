@@ -24,18 +24,21 @@
       },
       "schedule": [
         {
+          "day": "Thursday",
           "start": "18:40",
           "end": "19:30",
           "place": "MA-305",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Thursday",
           "start": "19:30",
           "end": "20:10",
           "place": "MA-305",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Thursday",
           "start": "20:10",
           "end": "21:00",
           "place": "MA-305",

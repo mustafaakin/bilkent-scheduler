@@ -1,0 +1,17 @@
+{
+  "name": "Ear Training I",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 2,
+    "ECTS": 3.5
+  },
+  "code": "MSC 181",
+  "sections": {}
+}

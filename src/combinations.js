@@ -1,4 +1,4 @@
-function find(allData, selected) {
+function find(allData, selected, filteredSections, filteredInstructors, filteredSlots) {
   let combinations = [];
 
   function calculate(sections, currentSchedule, index) {
@@ -16,14 +16,18 @@ function find(allData, selected) {
       let arr = []
       let section = data.sections[key]
 
+      if ( filteredSections.indexOf(key) !== -1) continue
+      if ( filteredInstructors.indexOf(section.instructor) !== -1) continue
+
+      let schedule = Object.assign({}, currentSchedule)
       let conflict = false
       for (let slot of section.schedule) {
         let key = slot.day + "/" + slot.start
-        if (currentSchedule[key]) {
+        if ( filteredSlots.indexOf(key) !== -1 || currentSchedule[key]){
           conflict = true
           break
         }
-        currentSchedule[key] = true
+        schedule[key] = true
       }
 
       if (conflict) {
@@ -32,7 +36,7 @@ function find(allData, selected) {
 
       arr = [...sections]
       arr.push(section.name)
-      calculate(arr, Object.assign({}, currentSchedule), index + 1)
+      calculate(arr, Object.assign({}, schedule), index + 1)
     }
   }
 

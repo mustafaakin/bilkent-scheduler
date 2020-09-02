@@ -24,30 +24,35 @@
       },
       "schedule": [
         {
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
           "place": "(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "18:40",
           "end": "19:30",
           "place": "(S)",

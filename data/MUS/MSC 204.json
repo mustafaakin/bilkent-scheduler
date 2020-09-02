@@ -1,0 +1,17 @@
+{
+  "name": "Orchestra/Choir IV",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 4,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 2,
+    "ECTS": 3.5
+  },
+  "code": "MSC 204",
+  "sections": {}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Regional Security in the Middle East",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "POLS 569",
+  "sections": {}
+}

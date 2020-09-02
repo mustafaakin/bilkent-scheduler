@@ -1,0 +1,17 @@
+{
+  "name": "Nutrition and Sanitation",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 2,
+    "ECTS": 3.5
+  },
+  "code": "THM 168",
+  "sections": {}
+}

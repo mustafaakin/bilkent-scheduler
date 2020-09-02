@@ -24,96 +24,112 @@
       },
       "schedule": [
         {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-202",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Saturday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "MA-202",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "MA-202",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
+          "day": "Friday",
+          "start": "12:20",
+          "end": "13:30",
+          "place": "MA-202",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "12:20",
           "end": "13:30",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
-          "start": "12:20",
-          "end": "13:30",
-          "place": "",
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "MA-202",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "MA-202",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "MA-202",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
+          "day": "Friday",
           "start": "16:20",
           "end": "17:40",
-          "place": "",
+          "place": "MA-202",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "16:20",
           "end": "17:40",
           "place": "",
@@ -132,96 +148,112 @@
       },
       "schedule": [
         {
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "12:20",
           "end": "13:30",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "12:20",
           "end": "13:30",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "16:20",
           "end": "17:40",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "16:20",
           "end": "17:40",
           "place": "",
@@ -240,96 +272,112 @@
       },
       "schedule": [
         {
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "12:20",
           "end": "13:30",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "12:20",
           "end": "13:30",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "16:20",
           "end": "17:40",
           "place": "",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Saturday",
           "start": "16:20",
           "end": "17:40",
           "place": "",

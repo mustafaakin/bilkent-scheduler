@@ -1,0 +1,17 @@
+{
+  "name": "Pro-Thesis Seminar II",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 1,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 5
+  },
+  "code": "PSYC 691",
+  "sections": {}
+}

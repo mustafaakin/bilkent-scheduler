@@ -1,0 +1,17 @@
+{
+  "name": "Thesis Seminar II",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 1,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 1
+  },
+  "code": "PHIL 691",
+  "sections": {}
+}

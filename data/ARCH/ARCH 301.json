@@ -24,54 +24,63 @@
       },
       "schedule": [
         {
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
@@ -90,54 +99,63 @@
       },
       "schedule": [
         {
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
@@ -156,54 +174,63 @@
       },
       "schedule": [
         {
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
@@ -222,54 +249,63 @@
       },
       "schedule": [
         {
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
           "place": "",

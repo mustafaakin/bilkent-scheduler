@@ -24,24 +24,28 @@
       },
       "schedule": [
         {
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "EE-517(S)",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "EE-517",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Thursday",
           "start": "17:40",
           "end": "18:30",
           "place": "EE-517",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Thursday",
           "start": "18:40",
           "end": "19:30",
           "place": "EE-517",
@@ -60,24 +64,28 @@
       },
       "schedule": [
         {
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
           "place": "EE-317",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
           "place": "EE-317(S)",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Wednesday",
           "start": "20:10",
           "end": "21:00",
           "place": "EE-317",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Wednesday",
           "start": "21:10",
           "end": "22:00",
           "place": "EE-317",

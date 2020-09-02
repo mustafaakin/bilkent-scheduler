@@ -1,0 +1,17 @@
+{
+  "name": "Common European Framework of Reference Level B2",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": null,
+    "ECTS": 1
+  },
+  "code": "SFL 392",
+  "sections": {}
+}

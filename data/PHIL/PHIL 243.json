@@ -1,0 +1,17 @@
+{
+  "name": "Social and Political Philosophy I",
+  "lectureHours": {
+    "hybrid": 2,
+    "online": 4
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 6,
+    "ECTS": 8.5
+  },
+  "code": "PHIL 243",
+  "sections": {}
+}

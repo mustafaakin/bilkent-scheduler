@@ -24,24 +24,28 @@
       },
       "schedule": [
         {
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
           "place": "EB-103(S)",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
           "place": "EB-103",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Friday",
           "start": "17:40",
           "end": "18:30",
           "place": "EB-103",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Friday",
           "start": "18:40",
           "end": "19:30",
           "place": "EB-103",

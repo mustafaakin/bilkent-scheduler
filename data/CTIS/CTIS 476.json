@@ -24,24 +24,28 @@
       },
       "schedule": [
         {
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
           "place": "C-CTISL7",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
           "place": "C-CTISL7(S)",
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Monday",
           "start": "20:10",
           "end": "21:00",
           "place": "C-CTISL7",
           "class": "Online Only Lecture"
         },
         {
+          "day": "Monday",
           "start": "21:10",
           "end": "22:00",
           "place": "C-CTISL7",
