@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "POLS 569",
-  "sections": {}
+  "sections": {
+    "POLS 569-001": {
+      "instructor": "Hatice Pınar Bilgin",
+      "quota": "5 Mand. or Elect.",
+      "total_quota": 5,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "T-272(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "T-272",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "T-272",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "T-272",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "POLS 569-001"
+    }
+  }
 }

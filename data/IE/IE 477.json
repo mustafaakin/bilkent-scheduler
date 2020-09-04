@@ -13,5 +13,105 @@
     "ECTS": 6.5
   },
   "code": "IE 477",
-  "sections": {}
+  "sections": {
+    "IE 477-001": {
+      "instructor": "Nesim Kohen Erkip",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "IE 477-001"
+    },
+    "IE 477-002": {
+      "instructor": "Savaş Dayanık",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "IE 477-002"
+    },
+    "IE 477-003": {
+      "instructor": "Emre Uzun",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "IE 477-003"
+    }
+  }
 }

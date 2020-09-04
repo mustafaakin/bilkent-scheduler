@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "IR 5116",
-  "sections": {}
+  "sections": {
+    "IR 5116-001": {
+      "instructor": "Selver Buldanlıoğlu Şahin",
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-230(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-230",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "A-230",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "A-230",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IR 5116-001"
+    }
+  }
 }

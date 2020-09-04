@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "POLS 5437",
-  "sections": {}
+  "sections": {
+    "POLS 5437-001": {
+      "instructor": "Daniel Just",
+      "quota": "5 Mand. or Elect.",
+      "total_quota": 5,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-231(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-231",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "A-231",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "A-231",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "POLS 5437-001"
+    }
+  }
 }

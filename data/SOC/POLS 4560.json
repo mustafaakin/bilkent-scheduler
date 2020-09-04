@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "POLS 4560",
-  "sections": {}
+  "sections": {
+    "POLS 4560-001": {
+      "instructor": "Banu Helvacıoğlu",
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-Z27",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-Z27(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "A-Z27",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "A-Z27",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "POLS 4560-001"
+    }
+  }
 }

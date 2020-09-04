@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "POLS 431",
-  "sections": {}
+  "sections": {
+    "POLS 431-001": {
+      "instructor": "Alev Çınar",
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-231(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-231",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "A-231",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "A-231",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "POLS 431-001"
+    }
+  }
 }

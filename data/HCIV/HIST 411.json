@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "HIST 411",
-  "sections": {}
+  "sections": {
+    "HIST 411-001": {
+      "instructor": "Staff",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-Z03(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-Z03",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "MA-Z03",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "MA-Z03",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "HIST 411-001"
+    }
+  }
 }

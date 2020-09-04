@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "POLS 330",
-  "sections": {}
+  "sections": {
+    "POLS 330-001": {
+      "instructor": "Özlem Sefer",
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-Z02(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-Z02",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "MA-Z02",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "MA-Z02",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "POLS 330-001"
+    }
+  }
 }

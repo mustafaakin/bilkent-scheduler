@@ -13,5 +13,286 @@
     "ECTS": 5
   },
   "code": "SOC 101",
-  "sections": {}
+  "sections": {
+    "SOC 101-001": {
+      "instructor": "Jale Gürzumar",
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "SOC 101-001"
+    },
+    "SOC 101-002": {
+      "instructor": "Jale Gürzumar",
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "SOC 101-002"
+    },
+    "SOC 101-003": {
+      "instructor": "Jale Gürzumar",
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "SOC 101-003"
+    },
+    "SOC 101-004": {
+      "instructor": "Jale Gürzumar",
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "SOC 101-004"
+    },
+    "SOC 101-005": {
+      "instructor": "Daniel Just",
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "SOC 101-005"
+    },
+    "SOC 101-007": {
+      "instructor": "Esra Dilek",
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "SOC 101-007"
+    },
+    "SOC 101-008": {
+      "instructor": "Senem Yıldırım",
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "SOC 101-008"
+    }
+  }
 }

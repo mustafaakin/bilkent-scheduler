@@ -24,31 +24,24 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "SA-Z20",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "SA-Z20(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "SA-Z20",
+          "day": "Sunday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Online Only Lecture"
         },
         {
           "day": "Thursday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "SA-Z20",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "",
           "class": "Online Only Lecture"
         }
       ],

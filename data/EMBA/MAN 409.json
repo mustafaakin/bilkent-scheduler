@@ -16,8 +16,8 @@
   "sections": {
     "MAN 409-001": {
       "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

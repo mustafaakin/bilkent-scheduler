@@ -24,17 +24,17 @@
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "SB-Z03",
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "SA-Z01(S)",
           "class": "Hybrid Lecture"
         },
         {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "SB-Z03(S)",
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "SA-Z01",
           "class": "Hybrid Lecture"
         },
         {
@@ -59,17 +59,17 @@
           "class": "Hybrid Lab/Studio/Others"
         },
         {
-          "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "SB-Z03",
+          "day": "Monday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "SA-Z01",
           "class": "Online Only Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "SB-Z03",
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "SA-Z01",
           "class": "Online Only Lecture"
         }
       ],

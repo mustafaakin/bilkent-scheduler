@@ -13,46 +13,5 @@
     "ECTS": 5
   },
   "code": "PSYC 430",
-  "sections": {
-    "PSYC 430-001": {
-      "instructor": "Nedret Öztan",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "A-125",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "A-125(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "A-125",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "A-125",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "PSYC 430-001"
-    }
-  }
+  "sections": {}
 }

@@ -15,7 +15,7 @@
   "code": "TRIN 205",
   "sections": {
     "TRIN 205-001": {
-      "instructor": "Erin Maloney  Damla Erkay",
+      "instructor": "Erin Maloney  Neda Siami",
       "quota": "22 Mand. or Elect.",
       "total_quota": 22,
       "enrollment": {
@@ -39,15 +39,15 @@
         },
         {
           "day": "Friday",
-          "start": "20:10",
-          "end": "21:00",
+          "start": "20:00",
+          "end": "20:50",
           "place": "LA-101",
           "class": "Online Only Lecture"
         },
         {
           "day": "Friday",
-          "start": "21:10",
-          "end": "22:00",
+          "start": "21:00",
+          "end": "21:50",
           "place": "LA-101",
           "class": "Online Only Lecture"
         }
@@ -55,7 +55,7 @@
       "name": "TRIN 205-001"
     },
     "TRIN 205-002": {
-      "instructor": "Erin Maloney  Damla Erkay",
+      "instructor": "Erin Maloney  Neda Siami",
       "quota": "22 Mand. or Elect.",
       "total_quota": 22,
       "enrollment": {
@@ -79,15 +79,15 @@
         },
         {
           "day": "Friday",
-          "start": "20:10",
-          "end": "21:00",
+          "start": "20:00",
+          "end": "20:50",
           "place": "LD-4",
           "class": "Online Only Lecture"
         },
         {
           "day": "Friday",
-          "start": "21:10",
-          "end": "22:00",
+          "start": "21:00",
+          "end": "21:50",
           "place": "LD-4",
           "class": "Online Only Lecture"
         }

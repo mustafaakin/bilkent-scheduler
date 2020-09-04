@@ -13,5 +13,86 @@
     "ECTS": 5
   },
   "code": "IR 305",
-  "sections": {}
+  "sections": {
+    "IR 305-001": {
+      "instructor": "Tuğba Bayar",
+      "quota": "40 Mand. 5 Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-330(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-330",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "A-330",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "A-330",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IR 305-001"
+    },
+    "IR 305-002": {
+      "instructor": "Staff",
+      "quota": "40 Mand. 5 Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-331(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-331",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "A-331",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "A-331",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IR 305-002"
+    }
+  }
 }

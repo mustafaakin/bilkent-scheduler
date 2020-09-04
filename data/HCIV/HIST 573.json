@@ -1,0 +1,58 @@
+{
+  "name": "New Era/New Deal (1920-1945)",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "HIST 573",
+  "sections": {
+    "HIST 573-001": {
+      "instructor": "Kenneth Weisbrode",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "HIST 573-001"
+    }
+  }
+}

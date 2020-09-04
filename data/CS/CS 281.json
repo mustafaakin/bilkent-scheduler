@@ -102,7 +102,7 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-211(FS)",
+          "place": "(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
@@ -116,7 +116,7 @@
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-211(FS)",
+          "place": "(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
@@ -156,14 +156,14 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-211(FS)",
+          "place": "(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-211(FS)",
+          "place": "(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {

@@ -27,35 +27,35 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EB-204",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EB-204",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EB-204",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
+          "place": "EB-204(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Thursday",
           "start": "17:40",
           "end": "18:30",
-          "place": "",
+          "place": "EB-204",
           "class": "Online Only Lecture"
         }
       ],
@@ -74,35 +74,35 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EB-202",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EB-202",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EB-202",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
+          "place": "EB-202(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Friday",
           "start": "17:40",
           "end": "18:30",
-          "place": "",
+          "place": "EB-202",
           "class": "Online Only Lecture"
         }
       ],
@@ -121,35 +121,35 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EB-202",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EB-202",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EB-202",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
+          "place": "EB-202(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Monday",
           "start": "17:40",
           "end": "18:30",
-          "place": "",
+          "place": "EB-202",
           "class": "Online Only Lecture"
         }
       ],
@@ -168,35 +168,35 @@
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "FC-Z23B",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "FC-Z23B",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "FC-Z23B",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
+          "place": "FC-Z23B(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Tuesday",
           "start": "18:40",
           "end": "19:30",
-          "place": "",
+          "place": "FC-Z23B",
           "class": "Online Only Lecture"
         }
       ],

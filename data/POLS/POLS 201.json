@@ -13,5 +13,86 @@
     "ECTS": 5
   },
   "code": "POLS 201",
-  "sections": {}
+  "sections": {
+    "POLS 201-001": {
+      "instructor": "Mehmet Nedim Karakayalı",
+      "quota": "40 Mand. 0 Elect.",
+      "total_quota": 40,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-231(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-231",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "A-231",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "A-231",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "POLS 201-001"
+    },
+    "POLS 201-002": {
+      "instructor": "Zerrin Tandoğan",
+      "quota": "40 Mand. 0 Elect.",
+      "total_quota": 40,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "T-272(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "T-272",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "T-272",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "T-272",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "POLS 201-002"
+    }
+  }
 }

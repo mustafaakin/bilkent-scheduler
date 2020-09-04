@@ -27,35 +27,35 @@
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-207",
+          "place": "EB-202",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-B14",
+          "place": "EB-202",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-B14",
+          "place": "EB-202",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-B14(FS)",
+          "place": "EB-202(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Monday",
           "start": "18:40",
           "end": "19:30",
-          "place": "FF-207",
+          "place": "EB-202",
           "class": "Online Only Lecture"
         }
       ],
@@ -74,35 +74,35 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-211",
+          "place": "EB-102",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-B14",
+          "place": "EB-102",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-B14",
+          "place": "EB-102",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-B14(FS)",
+          "place": "EB-102(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Tuesday",
           "start": "17:40",
           "end": "18:30",
-          "place": "EE-211",
+          "place": "EB-102",
           "class": "Online Only Lecture"
         }
       ],
@@ -121,35 +121,35 @@
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-B14",
+          "place": "EB-202",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-B14",
+          "place": "EB-202",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-B14",
+          "place": "EB-202",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-B14(FS)",
+          "place": "EB-202(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Friday",
           "start": "18:40",
           "end": "19:30",
-          "place": "G-B14",
+          "place": "EB-202",
           "class": "Online Only Lecture"
         }
       ],
@@ -168,35 +168,35 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-211",
+          "place": "EB-104",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-211",
+          "place": "EB-104",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-211",
+          "place": "EB-104",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-211(FS)",
+          "place": "EB-104(FS)",
           "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Wednesday",
           "start": "17:40",
           "end": "18:30",
-          "place": "EE-211",
+          "place": "EB-104",
           "class": "Online Only Lecture"
         }
       ],

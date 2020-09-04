@@ -13,5 +13,74 @@
     "ECTS": 3.5
   },
   "code": "MSC 304",
-  "sections": {}
+  "sections": {
+    "MSC 304-001": {
+      "instructor": "Işın Metin",
+      "quota": "12 Mand. 0 Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "MSC 304-001"
+    }
+  }
 }

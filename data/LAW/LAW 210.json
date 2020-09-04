@@ -13,5 +13,166 @@
     "ECTS": 5
   },
   "code": "LAW 210",
-  "sections": {}
+  "sections": {
+    "LAW 210-001": {
+      "instructor": "Mehmet Artuk Ardıçoğlu",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "LAW 210-001"
+    },
+    "LAW 210-002": {
+      "instructor": "Mehmet Artuk Ardıçoğlu",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "LAW 210-002"
+    },
+    "LAW 210-003": {
+      "instructor": "Yeliz Şanlı Atay",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-Z06(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-Z06",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "B-Z06",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "B-Z06",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "LAW 210-003"
+    },
+    "LAW 210-004": {
+      "instructor": "Fatma Aslı Bayata Canyaş",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "LAW 210-004"
+    }
+  }
 }

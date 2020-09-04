@@ -25,22 +25,22 @@
       "schedule": [
         {
           "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
+          "start": "18:30",
+          "end": "19:20",
           "place": "MA-302",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "19:30",
-          "end": "20:10",
+          "start": "19:20",
+          "end": "20:00",
           "place": "MA-302",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
+          "start": "20:00",
+          "end": "20:50",
           "place": "MA-302",
           "class": "Hybrid Lecture"
         }

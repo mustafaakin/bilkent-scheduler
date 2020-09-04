@@ -39,15 +39,15 @@
         },
         {
           "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
+          "start": "20:00",
+          "end": "20:50",
           "place": "MCORUH",
           "class": "Online Only Lecture"
         },
         {
           "day": "Monday",
-          "start": "21:10",
-          "end": "22:00",
+          "start": "21:00",
+          "end": "21:50",
           "place": "MCORUH",
           "class": "Online Only Lecture"
         }

@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "MSC 323",
-  "sections": {}
+  "sections": {
+    "MSC 323-001": {
+      "instructor": "Tahsin Tolga Yayalar",
+      "quota": "6 Mand. or Elect.",
+      "total_quota": 6,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MSC 323-001"
+    }
+  }
 }

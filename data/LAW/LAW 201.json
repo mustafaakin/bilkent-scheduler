@@ -39,15 +39,15 @@
         },
         {
           "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
+          "start": "17:30",
+          "end": "18:20",
           "place": "G-140",
           "class": "Online Only Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
+          "start": "18:30",
+          "end": "19:20",
           "place": "G-140",
           "class": "Online Only Lecture"
         }
@@ -67,28 +67,28 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-203",
+          "place": "V-01",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-203(S)",
+          "place": "V-01(S)",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "B-203",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "V-01",
           "class": "Online Only Lecture"
         },
         {
           "day": "Monday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "B-203",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "V-01",
           "class": "Online Only Lecture"
         }
       ],

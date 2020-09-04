@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "POLS 5490",
-  "sections": {}
+  "sections": {
+    "POLS 5490-001": {
+      "instructor": "Aida Just",
+      "quota": "5 Mand. or Elect.",
+      "total_quota": 5,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "POLS 5490-001"
+    }
+  }
 }

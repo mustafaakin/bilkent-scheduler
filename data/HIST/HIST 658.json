@@ -1,0 +1,58 @@
+{
+  "name": "The World Transformed (1789-1914)",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "HIST 658",
+  "sections": {
+    "HIST 658-001": {
+      "instructor": "Owen Miller",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-231",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-231(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "A-231",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "A-231",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "HIST 658-001"
+    }
+  }
+}

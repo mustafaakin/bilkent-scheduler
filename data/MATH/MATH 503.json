@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "MATH 503",
-  "sections": {}
+  "sections": {
+    "MATH 503-001": {
+      "instructor": "Ali Sinan Sertöz",
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "SB-Z10(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "SB-Z10",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "SB-Z10",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "SB-Z10",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MATH 503-001"
+    }
+  }
 }

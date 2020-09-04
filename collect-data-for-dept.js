@@ -85,7 +85,13 @@ async function getCourseData(page, course) {
   }
 
   let departments = Object.keys(JSON.parse(fs.readFileSync("src/departments.json").toString()))
-  departments = departments.splice(departments.indexOf("NSC"))
+  departments = departments.splice(departments.indexOf("EEPS"))
+  const browser = await puppeteer.launch({headless: false, slowMo: 150});
+  const page = await browser.newPage();
+  await page.setViewport({width: 1920, height: 1080});
+  await page.goto('https://stars.bilkent.edu.tr/homepage/plain_offerings');
+  await new Promise(r => setTimeout(r, 7500));
+
   // departments = ["MATH", "PHYS"]
   console.log(departments)
   for (let department of departments) {
@@ -96,12 +102,7 @@ async function getCourseData(page, course) {
     } catch (ignore) {
     }
 
-    const browser = await puppeteer.launch({headless: false, slowMo: 300});
-    const page = await browser.newPage();
-    await page.setViewport({width: 1920, height: 1080});
-    await page.goto('https://stars.bilkent.edu.tr/homepage/plain_offerings');
-    await page.click(`tr[id='${department}'`)
-    await page.click("input#detailsButton")
+    await page.goto(`https://stars.bilkent.edu.tr/homepage/offerings.php?COURSE_CODE=${department}`);
 
     const courses = await page.$$eval("#courses>tbody>tr", els => els.map(c => c.id))
     for (let course of courses) {
@@ -133,6 +134,7 @@ async function getCourseData(page, course) {
       fs.writeFileSync(`data/${department}/${course}.json`, JSON.stringify(courseData, null, 2))
     }
 
-    await browser.close()
   }
+
+  await browser.close()
 })();

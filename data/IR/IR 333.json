@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "IR 333",
-  "sections": {}
+  "sections": {
+    "IR 333-001": {
+      "instructor": "Selver Buldanlıoğlu Şahin",
+      "quota": "40 Mand. 5 Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-330",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-330(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "A-330",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "A-330",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IR 333-001"
+    }
+  }
 }

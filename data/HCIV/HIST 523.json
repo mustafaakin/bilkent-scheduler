@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "MA-101(S)",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "MA-101",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "MA-101",
           "class": "Online Only Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "MA-101",
           "class": "Online Only Lecture"
         }
       ],

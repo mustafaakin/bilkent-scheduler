@@ -38,6 +38,27 @@
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
           "day": "Monday",
           "start": "17:40",
           "end": "18:30",
@@ -76,6 +97,27 @@
           "end": "10:20",
           "place": "V-02",
           "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Monday",
@@ -118,6 +160,27 @@
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
           "day": "Monday",
           "start": "17:40",
           "end": "18:30",
@@ -135,7 +198,7 @@
       "name": "ECON 102-003"
     },
     "ECON 102-004": {
-      "instructor": "Refet Soykan Gürkaynak",
+      "instructor": "Staff",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -156,6 +219,27 @@
           "end": "10:20",
           "place": "V-02",
           "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Monday",
@@ -175,7 +259,7 @@
       "name": "ECON 102-004"
     },
     "ECON 102-005": {
-      "instructor": "Refet Soykan Gürkaynak",
+      "instructor": "Staff",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -196,6 +280,27 @@
           "end": "10:20",
           "place": "V-02",
           "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Monday",
@@ -215,7 +320,7 @@
       "name": "ECON 102-005"
     },
     "ECON 102-006": {
-      "instructor": "Refet Soykan Gürkaynak",
+      "instructor": "Staff",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -236,6 +341,27 @@
           "end": "10:20",
           "place": "V-02",
           "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Monday",
@@ -278,6 +404,27 @@
           "class": "Hybrid Lecture"
         },
         {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
           "day": "Monday",
           "start": "17:40",
           "end": "18:30",
@@ -316,6 +463,27 @@
           "end": "10:20",
           "place": "V-02",
           "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
         },
         {
           "day": "Monday",

@@ -13,5 +13,46 @@
     "ECTS": 3.5
   },
   "code": "MSC 315",
-  "sections": {}
+  "sections": {
+    "MSC 315-001": {
+      "instructor": "Işın Metin",
+      "quota": "8 Mand. 0 Elect.",
+      "total_quota": 8,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "MSC 315-001"
+    }
+  }
 }

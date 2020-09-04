@@ -31,6 +31,46 @@
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lab/Studio/Others"
+        }
+      ],
+      "name": "MSC 104-001"
+    },
+    "MSC 104-002": {
+      "instructor": "Işın Metin",
+      "quota": "12 Mand. or Elect.",
+      "total_quota": 12,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(FS)",
+          "class": "Hybrid Lab/Studio/Others"
+        },
+        {
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
@@ -80,7 +120,7 @@
           "class": "Hybrid Lab/Studio/Others"
         }
       ],
-      "name": "MSC 104-001"
+      "name": "MSC 104-002"
     }
   }
 }

@@ -13,5 +13,46 @@
     "ECTS": 3.5
   },
   "code": "THR 111",
-  "sections": {}
+  "sections": {
+    "THR 111-001": {
+      "instructor": "Eray Eserol",
+      "quota": "5 Mand. 0 Elect.",
+      "total_quota": 5,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(FS)",
+          "class": "Face-to-face Only Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "(FS)",
+          "class": "Face-to-face Only Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-face Only Lab/Studio/Others"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-face Only Lab/Studio/Others"
+        }
+      ],
+      "name": "THR 111-001"
+    }
+  }
 }

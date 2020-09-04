@@ -39,15 +39,15 @@
         },
         {
           "day": "Wednesday",
-          "start": "17:40",
-          "end": "18:30",
+          "start": "17:30",
+          "end": "18:20",
           "place": "SA-Z03",
           "class": "Online Only Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
+          "start": "18:30",
+          "end": "19:20",
           "place": "SA-Z03",
           "class": "Online Only Lecture"
         }

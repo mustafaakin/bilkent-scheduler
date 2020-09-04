@@ -1,8 +1,8 @@
 {
   "name": "Fundamentals of Mechanical Engineering",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 2,
+    "online": 0
   },
   "labStudioOthersHours": {
     "hybrid": 2,
@@ -38,11 +38,25 @@
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
           "place": "(FS)",
           "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lecture"
         },
         {
           "day": "Friday",
@@ -78,11 +92,25 @@
           "class": "Hybrid Lab/Studio/Others"
         },
         {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Hybrid Lecture"
+        },
+        {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Hybrid Lab/Studio/Others"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Hybrid Lecture"
         },
         {
           "day": "Friday",

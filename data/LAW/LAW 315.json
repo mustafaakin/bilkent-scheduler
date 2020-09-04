@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "LAW 315",
-  "sections": {}
+  "sections": {
+    "LAW 315-001": {
+      "instructor": "Kamile Türkoğlu Üstün",
+      "quota": "0 Mand. or Elect.",
+      "total_quota": 0,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "T-272",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "T-272(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "T-272",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "T-272",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "LAW 315-001"
+    }
+  }
 }

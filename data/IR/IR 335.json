@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "IR 335",
-  "sections": {}
+  "sections": {
+    "IR 335-001": {
+      "instructor": "Ersel Aydınlı",
+      "quota": "40 Mand. 5 Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-330(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-330",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "A-330",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "A-330",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IR 335-001"
+    }
+  }
 }

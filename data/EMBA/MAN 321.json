@@ -16,8 +16,8 @@
   "sections": {
     "MAN 321-001": {
       "instructor": "Zeynep Önder",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "35 Mand. 3 Elect.",
+      "total_quota": 38,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "MAN 321-002": {
       "instructor": "Kürşat Aydoğan",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "35 Mand. 3 Elect.",
+      "total_quota": 38,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "MAN 321-003": {
       "instructor": "Ahmet Şensoy",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "35 Mand. 3 Elect.",
+      "total_quota": 38,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -136,8 +136,8 @@
     },
     "MAN 321-004": {
       "instructor": "Ahmet Şensoy",
-      "quota": "35 Mand. 0 Elect.",
-      "total_quota": 35,
+      "quota": "35 Mand. 3 Elect.",
+      "total_quota": 38,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

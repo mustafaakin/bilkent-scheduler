@@ -1,0 +1,17 @@
+{
+  "name": "Global Marketing and Emerging Markets",
+  "lectureHours": {
+    "hybrid": 1,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 3,
+    "ECTS": 5
+  },
+  "code": "MAN 433",
+  "sections": {}
+}

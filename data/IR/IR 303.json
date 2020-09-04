@@ -13,5 +13,86 @@
     "ECTS": 5
   },
   "code": "IR 303",
-  "sections": {}
+  "sections": {
+    "IR 303-001": {
+      "instructor": "Tuğba Bayar",
+      "quota": "40 Mand. 5 Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-230(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-230",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "A-230",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "A-230",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IR 303-001"
+    },
+    "IR 303-002": {
+      "instructor": "Tuğba Bayar",
+      "quota": "40 Mand. 5 Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-230",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-230(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "A-230",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "A-230",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "IR 303-002"
+    }
+  }
 }

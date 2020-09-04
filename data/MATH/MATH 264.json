@@ -27,28 +27,28 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "A-329",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "(S)",
+          "place": "A-329(S)",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "A-329",
           "class": "Online Only Lecture"
         },
         {
           "day": "Monday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "A-329",
           "class": "Online Only Lecture"
         }
       ],
@@ -67,28 +67,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "SA-Z04",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "(S)",
+          "place": "SA-Z04(S)",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "SA-Z04",
           "class": "Online Only Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "SA-Z04",
           "class": "Online Only Lecture"
         }
       ],
@@ -119,15 +119,15 @@
         },
         {
           "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
+          "start": "20:00",
+          "end": "20:50",
           "place": "G-B40",
           "class": "Online Only Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
+          "start": "21:00",
+          "end": "21:50",
           "place": "G-B40",
           "class": "Online Only Lecture"
         }

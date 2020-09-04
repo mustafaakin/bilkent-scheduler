@@ -13,5 +13,46 @@
     "ECTS": 5
   },
   "code": "POLS 602",
-  "sections": {}
+  "sections": {
+    "POLS 602-001": {
+      "instructor": "Saime Özçürümez",
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-229(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "T-271",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "A-229",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "A-229",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "POLS 602-001"
+    }
+  }
 }
