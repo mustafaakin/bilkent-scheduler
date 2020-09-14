@@ -15,11 +15,11 @@
   "code": "ENG 206",
   "sections": {
     "ENG 206-001": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "instructor": "Hümeyra Başol Çetin",
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 24,
         "elective": 0
       },
       "schedule": [
@@ -39,15 +39,15 @@
         },
         {
           "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
+          "start": "17:30",
+          "end": "18:20",
           "place": "MA-206",
           "class": "Online Only Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
+          "start": "18:30",
+          "end": "19:20",
           "place": "MA-206",
           "class": "Online Only Lecture"
         }
@@ -55,11 +55,11 @@
       "name": "ENG 206-001"
     },
     "ENG 206-002": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "instructor": "Zeynep Özek",
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 24,
         "elective": 0
       },
       "schedule": [
@@ -79,15 +79,15 @@
         },
         {
           "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
+          "start": "20:00",
+          "end": "20:50",
           "place": "MA-206",
           "class": "Online Only Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
+          "start": "21:00",
+          "end": "21:50",
           "place": "MA-206",
           "class": "Online Only Lecture"
         }

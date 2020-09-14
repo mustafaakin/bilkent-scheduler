@@ -14,12 +14,12 @@
   },
   "code": "ENG 102",
   "sections": {
-    "ENG 102-001": {
-      "instructor": "Staff",
-      "quota": "120 Mand. or Elect.",
-      "total_quota": 120,
+    "ENG 102-002": {
+      "instructor": "Yan Trefor Overfield Shaw",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -27,53 +27,215 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "G-Z07(S)",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "G-Z07",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-Z07",
           "class": "Online Only Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-Z07",
           "class": "Online Only Lecture"
         },
         {
           "day": "Friday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-Z07",
           "class": "Online Only Lecture"
         },
         {
           "day": "Friday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "(S)",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-Z07",
           "class": "Online Only Lecture"
         }
       ],
-      "name": "ENG 102-001"
+      "name": "ENG 102-002"
     },
-    "ENG 102-011": {
-      "instructor": "Staff",
-      "quota": "80 Mand. or Elect.",
-      "total_quota": 80,
+    "ENG 102-003": {
+      "instructor": "Pınar Demir",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 19,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-Z09",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-Z09",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-Z09",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-Z09",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-Z09",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-Z09(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-003"
+    },
+    "ENG 102-004": {
+      "instructor": "Robert McNamara  Loomis",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-Z37",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-Z37",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-Z37",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-Z37",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-Z37",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-Z37(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-004"
+    },
+    "ENG 102-005": {
+      "instructor": "Nilüfer Yeşil",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 19,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-Z38",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-Z38",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-Z38",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-Z38",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-Z38",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-Z38(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-005"
+    },
+    "ENG 102-012": {
+      "instructor": "Andrew Bonar",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -81,53 +243,215 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "G-134(S)",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "G-134",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-134",
           "class": "Online Only Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-134",
           "class": "Online Only Lecture"
         },
         {
           "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-134",
           "class": "Online Only Lecture"
         },
         {
           "day": "Monday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "(S)",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-134",
           "class": "Online Only Lecture"
         }
       ],
-      "name": "ENG 102-011"
+      "name": "ENG 102-012"
     },
-    "ENG 102-019": {
-      "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+    "ENG 102-013": {
+      "instructor": "Ceylan Kızılduman Yazıcı",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-153",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-153",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-153",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-153",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-153",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-153(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-013"
+    },
+    "ENG 102-014": {
+      "instructor": "Özge Ezici Çetin",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-209",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-209",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-209",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-209",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-209",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-209(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-014"
+    },
+    "ENG 102-015": {
+      "instructor": "Ersin Soylu",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 10,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-206",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-206",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-206",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-206",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-206",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-206(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-015"
+    },
+    "ENG 102-020": {
+      "instructor": "Ceylan Kızılduman Yazıcı",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -135,53 +459,107 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "G-140",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "G-140",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Friday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-140",
           "class": "Online Only Lecture"
         },
         {
           "day": "Friday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-140",
           "class": "Online Only Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-140",
           "class": "Online Only Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "(S)",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-140(S)",
           "class": "Online Only Lecture"
         }
       ],
-      "name": "ENG 102-019"
+      "name": "ENG 102-020"
     },
-    "ENG 102-025": {
-      "instructor": "Staff",
-      "quota": "80 Mand. or Elect.",
-      "total_quota": 80,
+    "ENG 102-021": {
+      "instructor": "Emel Bekişoğlu",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-210",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-210",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-210",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-210",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-210",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-210(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-021"
+    },
+    "ENG 102-026": {
+      "instructor": "Robert McNamara  Loomis",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -189,53 +567,215 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "G-Z39",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "G-Z39",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Monday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-Z39",
           "class": "Online Only Lecture"
         },
         {
           "day": "Monday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-Z39",
           "class": "Online Only Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-Z39",
           "class": "Online Only Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "(S)",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-Z39(S)",
           "class": "Online Only Lecture"
         }
       ],
-      "name": "ENG 102-025"
+      "name": "ENG 102-026"
     },
-    "ENG 102-033": {
-      "instructor": "Staff",
-      "quota": "80 Mand. or Elect.",
-      "total_quota": 80,
+    "ENG 102-027": {
+      "instructor": "Pınar Esma Önkol",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-109",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-109",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-109",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-109",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-109",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-109(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-027"
+    },
+    "ENG 102-028": {
+      "instructor": "Gülnur Uğuz",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-Z54",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-Z54",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-Z54",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-Z54",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-Z55",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-Z55(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-028"
+    },
+    "ENG 102-029": {
+      "instructor": "Türküm Azmiye Cankatan",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-Z53",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-Z53",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-Z53",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-Z53",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-Z10",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-Z10(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-029"
+    },
+    "ENG 102-034": {
+      "instructor": "Andrew Bonar",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
@@ -243,53 +783,215 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "G-227",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "G-227",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-227",
           "class": "Online Only Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-227",
           "class": "Online Only Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-227",
           "class": "Online Only Lecture"
         },
         {
           "day": "Thursday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "(S)",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-227(S)",
           "class": "Online Only Lecture"
         }
       ],
-      "name": "ENG 102-033"
+      "name": "ENG 102-034"
     },
-    "ENG 102-041": {
-      "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+    "ENG 102-035": {
+      "instructor": "Pınar Demir",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 19,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-231",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-231",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-231",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-231",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-228",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-228(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-035"
+    },
+    "ENG 102-036": {
+      "instructor": "Nilüfer Yeşil",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 9,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-210",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-210",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-210",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-210",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-210",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-210(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-036"
+    },
+    "ENG 102-037": {
+      "instructor": "John William Day",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 15,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-Z55",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-Z55",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-Z55",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-Z55",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "B-102",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "B-102(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-037"
+    },
+    "ENG 102-042": {
+      "instructor": "Türküm Azmiye Cankatan",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -297,53 +999,107 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "G-Z39",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "G-Z39",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-Z39",
           "class": "Online Only Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-Z39",
           "class": "Online Only Lecture"
         },
         {
           "day": "Friday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-Z39",
           "class": "Online Only Lecture"
         },
         {
           "day": "Friday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "(S)",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-Z39(S)",
           "class": "Online Only Lecture"
         }
       ],
-      "name": "ENG 102-041"
+      "name": "ENG 102-042"
     },
-    "ENG 102-047": {
-      "instructor": "Staff",
-      "quota": "80 Mand. or Elect.",
-      "total_quota": 80,
+    "ENG 102-043": {
+      "instructor": "Hümeyra Başol Çetin",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-106",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-106",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-106",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-106",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-106",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-106(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-043"
+    },
+    "ENG 102-048": {
+      "instructor": "Lorna Yeşilkaya",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -351,53 +1107,215 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "G-109",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "G-109",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-135",
           "class": "Online Only Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-135",
           "class": "Online Only Lecture"
         },
         {
           "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-109",
           "class": "Online Only Lecture"
         },
         {
           "day": "Monday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "(S)",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-109(S)",
           "class": "Online Only Lecture"
         }
       ],
-      "name": "ENG 102-047"
+      "name": "ENG 102-048"
     },
-    "ENG 102-055": {
-      "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+    "ENG 102-049": {
+      "instructor": "Robert McNamara  Loomis",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 16,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-Z54",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-Z54",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "FC-Z23D",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "FC-Z23D",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-Z54",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-Z54(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-049"
+    },
+    "ENG 102-050": {
+      "instructor": "Hossein Dabir",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 8,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-131",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-131(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "FA-214",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "FA-214",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "G-131",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "G-131",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-050"
+    },
+    "ENG 102-051": {
+      "instructor": "Emel Bekişoğlu",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-106",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-106",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "FA-217",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "FA-217",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "FA-217",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "FA-217(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-051"
+    },
+    "ENG 102-056": {
+      "instructor": "Byrne Rhys Brewerton",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -405,53 +1323,161 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "G-Z07",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "G-Z07",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Friday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "FA-118",
           "class": "Online Only Lecture"
         },
         {
           "day": "Friday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "FA-118",
           "class": "Online Only Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "FA-118",
           "class": "Online Only Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "(S)",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "FA-118(S)",
           "class": "Online Only Lecture"
         }
       ],
-      "name": "ENG 102-055"
+      "name": "ENG 102-056"
     },
-    "ENG 102-062": {
-      "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+    "ENG 102-057": {
+      "instructor": "Ersin Soylu",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 11,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-Z09",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-Z09",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "FA-120",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "FA-120",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "FA-120",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "FA-120(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-057"
+    },
+    "ENG 102-058": {
+      "instructor": "Hümeyra Başol Çetin",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-Z37",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-Z37",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "FA-213",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "FA-213",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "FA-213",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "FA-213(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-058"
+    },
+    "ENG 102-063": {
+      "instructor": "Hossein Dabir",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 10,
         "elective": 0
       },
       "schedule": [
@@ -459,53 +1485,107 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "G-Z09",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "G-Z09(S)",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Monday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "FA-122",
           "class": "Online Only Lecture"
         },
         {
           "day": "Monday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "FA-122",
           "class": "Online Only Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "FA-122",
           "class": "Online Only Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "(S)",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "FA-122",
           "class": "Online Only Lecture"
         }
       ],
-      "name": "ENG 102-062"
+      "name": "ENG 102-063"
     },
-    "ENG 102-068": {
-      "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+    "ENG 102-064": {
+      "instructor": "Özge Ezici Çetin",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-Z07",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-Z07",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "FA-213",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "FA-213",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "FA-213",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "FA-213(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-064"
+    },
+    "ENG 102-069": {
+      "instructor": "Pınar Esma Önkol",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -513,53 +1593,161 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "G-Z36",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "G-Z36",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "FA-122",
           "class": "Online Only Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "FA-122",
           "class": "Online Only Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "FA-122",
           "class": "Online Only Lecture"
         },
         {
           "day": "Thursday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "(S)",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "FA-122(S)",
           "class": "Online Only Lecture"
         }
       ],
-      "name": "ENG 102-068"
+      "name": "ENG 102-069"
     },
-    "ENG 102-075": {
-      "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+    "ENG 102-070": {
+      "instructor": "Gülnur Uğuz",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 12,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-Z38",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-Z38",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "FA-214",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "FA-214",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "FA-214",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "FA-214(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-070"
+    },
+    "ENG 102-071": {
+      "instructor": "Hossein Dabir",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 11,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-109",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-109(S)",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-109",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-109",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "FA-213",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "FA-213",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-071"
+    },
+    "ENG 102-076": {
+      "instructor": "Byrne Rhys Brewerton",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -567,46 +1755,100 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "FA-118",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "FA-118",
           "class": "Hybrid Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "FA-213",
           "class": "Online Only Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "FA-213",
           "class": "Online Only Lecture"
         },
         {
           "day": "Friday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "FA-214",
           "class": "Online Only Lecture"
         },
         {
           "day": "Friday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "(S)",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "FA-214(S)",
           "class": "Online Only Lecture"
         }
       ],
-      "name": "ENG 102-075"
+      "name": "ENG 102-076"
+    },
+    "ENG 102-077": {
+      "instructor": "Lorna Yeşilkaya",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "RB-207",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "RB-207",
+          "class": "Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "RB-207",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "RB-207",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "20:00",
+          "end": "20:50",
+          "place": "RB-207",
+          "class": "Online Only Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "21:00",
+          "end": "21:50",
+          "place": "RB-207(S)",
+          "class": "Online Only Lecture"
+        }
+      ],
+      "name": "ENG 102-077"
     }
   }
 }
