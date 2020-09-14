@@ -86,7 +86,7 @@ async function getCourseData(page, course) {
 
   let departments = Object.keys(JSON.parse(fs.readFileSync("src/departments.json").toString()))
   // departments = departments.splice(departments.indexOf("EEPS")
-  departments = ["ENG"]
+  departments = ["GE"]
   const browser = await puppeteer.launch({headless: false, slowMo: 150});
   const page = await browser.newPage();
   await page.setViewport({width: 1920, height: 1080});

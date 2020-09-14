@@ -1,17 +1,17 @@
 {
-  "name": "Science Technology and Society",
+  "name": "Collegiate Activities Program II",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 0
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 2,
-    "ECTS": 3.5
+    "bilkent": 1,
+    "ECTS": 2
   },
-  "code": "GE 301",
+  "code": "GE 251",
   "sections": {}
 }
