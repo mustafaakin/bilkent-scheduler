@@ -1,55 +1,55 @@
 {
   "name": "Museum Practices and the Preservation of Cultural Heritage",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "HART 409",
   "sections": {
     "HART 409-001": {
       "instructor": "Dominique Tezgör Kassab",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "H-133A(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-133A",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
+          "start": "11:30",
+          "end": "12:20",
           "place": "H-133A",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
           "place": "H-133A",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "H-133A",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HART 409-001"

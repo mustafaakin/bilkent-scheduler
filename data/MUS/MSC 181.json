@@ -1,58 +1,17 @@
 {
   "name": "Ear Training I",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 4
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 2,
-    "ECTS": 3.5
+    "bilkent": 0,
+    "ECTS": 2
   },
   "code": "MSC 181",
-  "sections": {
-    "MSC 181-001": {
-      "instructor": "Ülkemin Akbaş",
-      "quota": "5 Mand. or Elect.",
-      "total_quota": 5,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "MSC 181-001"
-    }
-  }
+  "sections": {}
 }

@@ -1,55 +1,55 @@
 {
   "name": "Quantum Mechanics I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "PHYS 325",
   "sections": {
     "PHYS 325-001": {
-      "instructor": "Cemal Yalabık",
-      "quota": "45 Mand. or Elect.",
-      "total_quota": 45,
+      "instructor": "Staff",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "SA-Z20(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "SA-Z20",
-          "class": "Hybrid Lecture"
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "SA-Z20",
-          "class": "Online Only Lecture"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "SA-Z20",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PHYS 325-001"

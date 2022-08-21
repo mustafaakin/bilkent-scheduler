@@ -1,58 +1,17 @@
 {
   "name": "Theory I: Fundamentals",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 4
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MSC 171",
-  "sections": {
-    "MSC 171-001": {
-      "instructor": "Yiğit Aydın",
-      "quota": "12 Mand. 4 Elect.",
-      "total_quota": 16,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "MSC 171-001"
-    }
-  }
+  "sections": {}
 }

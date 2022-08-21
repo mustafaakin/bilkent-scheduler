@@ -5,17 +5,17 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 4,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 4
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "THM 244",
   "sections": {
     "THM 244-001": {
-      "instructor": "Yaşar Bülent Karaoğlu",
+      "instructor": "Oğuz Benice",
       "quota": "12 Mand. or Elect.",
       "total_quota": 12,
       "enrollment": {
@@ -27,29 +27,29 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "RC-110",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "RC-103",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "RC-110",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "RC-103",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "RC-110",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "RC-103",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "RC-110",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "RC-103",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "THM 244-001"

@@ -1,16 +1,16 @@
 {
   "name": "Turkish I",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 4
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "LNG 171",
   "sections": {
@@ -27,29 +27,29 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z10",
-          "class": "Hybrid Lecture"
+          "place": "G-Z52",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-Z10",
-          "class": "Hybrid Lecture"
+          "place": "G-Z52",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-Z10",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-Z52",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-Z10",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-Z52",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LNG 171-001"
@@ -64,38 +64,38 @@
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z10",
-          "class": "Hybrid Lecture"
+          "place": "G-Z53",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-Z10",
-          "class": "Hybrid Lecture"
+          "place": "G-Z53",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-Z10",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-Z53",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-Z10",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-Z53",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LNG 171-002"
     },
     "LNG 171-003": {
-      "instructor": "Staff",
+      "instructor": "Özlem Aksu Kurtoğlu",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -105,34 +105,74 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-Z07",
-          "class": "Hybrid Lecture"
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-Z53",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-Z07",
-          "class": "Hybrid Lecture"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-Z53",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-Z07",
-          "class": "Online Only Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-Z53",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-Z07",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-Z53",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LNG 171-003"
+    },
+    "LNG 171-004": {
+      "instructor": "Özlem Aksu Kurtoğlu",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-Z52",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-Z52",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-Z52",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-Z52",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "LNG 171-004"
     }
   }
 }

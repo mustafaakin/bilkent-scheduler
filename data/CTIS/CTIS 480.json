@@ -1,0 +1,17 @@
+{
+  "name": "iOS Application Development",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 4
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 4
+  },
+  "code": "CTIS 480",
+  "sections": {}
+}

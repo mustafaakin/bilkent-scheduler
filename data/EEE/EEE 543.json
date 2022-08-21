@@ -1,16 +1,16 @@
 {
   "name": "Neural Networks",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "EEE 543",
   "sections": {
@@ -24,75 +24,35 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-517(S)",
-          "class": "Hybrid Lecture"
+          "place": "EE-04(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-517",
-          "class": "Hybrid Lecture"
+          "place": "EE-04",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "EE-517",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EE-04",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "EE-517",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EE-04",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 543-001"
-    },
-    "EEE 543-002": {
-      "instructor": "Staff",
-      "quota": "10 Mand. or Elect.",
-      "total_quota": 10,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "EB-102(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "EB-102",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "EB-102",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "EB-102",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "EEE 543-002"
     }
   }
 }

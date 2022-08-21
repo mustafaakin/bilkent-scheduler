@@ -1,23 +1,23 @@
 {
   "name": "Human Genetics",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MBG 601",
   "sections": {
     "MBG 601-001": {
       "instructor": "Tayfun Özçelik",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,29 +27,29 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "SA-Z02(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "SA-Z02",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "SA-Z02",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "SA-Z02",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MBG 601-001"

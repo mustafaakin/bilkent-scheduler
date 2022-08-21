@@ -1,103 +1,103 @@
 {
   "name": "Cultures Civilizations and Ideas I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "HUM 111",
   "sections": {
     "HUM 111-001": {
-      "instructor": "Victor Lenthe",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Scott Allen Kennedy",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EB-103",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EB-103(S)",
-          "class": "Hybrid Lecture"
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "EB-103",
-          "class": "Online Only Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "EB-103",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-001"
     },
     "HUM 111-002": {
-      "instructor": "William Norman Coker",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Angelina Del Balzo",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-132",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-132(S)",
-          "class": "Hybrid Lecture"
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-132",
-          "class": "Online Only Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-132",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-002"
     },
     "HUM 111-003": {
-      "instructor": "Patrick Flaherty Fessenbecker",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Scott Allen Kennedy",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -107,157 +107,157 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-207",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-207(S)",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-207",
-          "class": "Online Only Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-207",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-003"
     },
     "HUM 111-004": {
-      "instructor": "Michael Douglas Sheridan",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Angelina Del Balzo",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-207(S)",
-          "class": "Hybrid Lecture"
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-207",
-          "class": "Hybrid Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-207",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-207",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-004"
     },
     "HUM 111-005": {
-      "instructor": "Victor Lenthe",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Angelina Del Balzo",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-231(S)",
-          "class": "Hybrid Lecture"
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-231",
-          "class": "Hybrid Lecture"
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-231",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-231",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-005"
     },
     "HUM 111-006": {
-      "instructor": "Paul Elliot Kimball",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Scott Allen Kennedy",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-207",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-207(S)",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-207",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-207",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-006"
     },
     "HUM 111-007": {
       "instructor": "Nathan Paul Leidholm",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -265,39 +265,39 @@
       "schedule": [
         {
           "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-210",
-          "class": "Hybrid Lecture"
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-210(S)",
-          "class": "Hybrid Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-210",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-210",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-007"
     },
     "HUM 111-008": {
-      "instructor": "Paul Elliot Kimball",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "William Norman Coker",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -307,77 +307,77 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-228(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-228",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-228",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-228",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-008"
     },
     "HUM 111-009": {
-      "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "William Norman Coker",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-229(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-229",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-229",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-229",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-009"
     },
     "HUM 111-010": {
-      "instructor": "Patrick Flaherty Fessenbecker",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Nathan Paul Leidholm",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -387,237 +387,237 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-207(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-207",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-207",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-207",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-010"
     },
     "HUM 111-011": {
-      "instructor": "Mustafa Nakeeb",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Nathan Paul Leidholm",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-231(S)",
-          "class": "Hybrid Lecture"
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-231",
-          "class": "Hybrid Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-231",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-231",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-011"
     },
     "HUM 111-012": {
-      "instructor": "Rachel Bruzzone",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "William Norman Coker",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-210(S)",
-          "class": "Hybrid Lecture"
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-210",
-          "class": "Hybrid Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-210",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-210",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-012"
     },
     "HUM 111-013": {
-      "instructor": "Andrew Jonathan Ploeg",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Buffy Ann Turner",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-132",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-132(S)",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-132",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-132",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-013"
     },
     "HUM 111-014": {
-      "instructor": "Costantino Costantini",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Dragan Ilic",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-135",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-135(S)",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-135",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-135",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-014"
     },
     "HUM 111-015": {
-      "instructor": "Paul Elliot Kimball",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Buffy Ann Turner",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-136(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-136",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-136",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-136",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-015"
     },
     "HUM 111-016": {
-      "instructor": "Rachel Bruzzone",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Dragan Ilic",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -627,197 +627,197 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-136(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-136",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-136",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-136",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-016"
     },
     "HUM 111-017": {
-      "instructor": "William Norman Coker",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Buffy Ann Turner",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-135",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-135(S)",
-          "class": "Hybrid Lecture"
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-135",
-          "class": "Online Only Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-135",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-017"
     },
     "HUM 111-018": {
-      "instructor": "Michael Douglas Sheridan",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Dragan Ilic",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-231",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-231(S)",
-          "class": "Hybrid Lecture"
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-231",
-          "class": "Online Only Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-231",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-018"
     },
     "HUM 111-019": {
-      "instructor": "Matthew Thomas Stoltz",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Mustafa Nakeeb",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-210",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-210(S)",
-          "class": "Hybrid Lecture"
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-210",
-          "class": "Online Only Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-210",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-019"
     },
     "HUM 111-020": {
-      "instructor": "Nathan Paul Leidholm",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Aslı Menevşe",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-232",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-232(S)",
-          "class": "Hybrid Lecture"
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-232",
-          "class": "Online Only Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-232",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-020"
     },
     "HUM 111-021": {
-      "instructor": "Michael Douglas Sheridan",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Aslı Menevşe",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -825,39 +825,39 @@
       "schedule": [
         {
           "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-228(S)",
-          "class": "Hybrid Lecture"
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-228",
-          "class": "Hybrid Lecture"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-228",
-          "class": "Online Only Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-228",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-021"
     },
     "HUM 111-022": {
-      "instructor": "William Norman Coker",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Mustafa Nakeeb",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -865,439 +865,559 @@
       "schedule": [
         {
           "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-132(S)",
-          "class": "Hybrid Lecture"
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-132",
-          "class": "Hybrid Lecture"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-132",
-          "class": "Online Only Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-132",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-022"
     },
     "HUM 111-023": {
-      "instructor": "Andrew Jonathan Ploeg",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Paul Elliot Kimball",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-152",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-152(S)",
-          "class": "Hybrid Lecture"
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-152",
-          "class": "Online Only Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-152",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-023"
     },
     "HUM 111-024": {
-      "instructor": "Costantino Costantini",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Paul Elliot Kimball",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z55(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-Z55",
-          "class": "Hybrid Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-Z55",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-Z55",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-024"
     },
     "HUM 111-025": {
-      "instructor": "Scott Allen Kennedy",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Paul Elliot Kimball",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-154(S)",
-          "class": "Hybrid Lecture"
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-154",
-          "class": "Hybrid Lecture"
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-154",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-154",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-025"
     },
     "HUM 111-026": {
-      "instructor": "Scott Allen Kennedy",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Paul Elliot Kimball",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-153",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-153(S)",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-153",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-153",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-026"
     },
     "HUM 111-027": {
-      "instructor": "Dragan Ilic",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Luuk Otmar De Boer",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-154(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-154",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-154",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-154",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-027"
     },
     "HUM 111-028": {
-      "instructor": "Dragan Ilic",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Luuk Otmar De Boer",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-154",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-154(S)",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-154",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-154",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-028"
     },
     "HUM 111-029": {
-      "instructor": "Rachel Bruzzone",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Foster Pease Chamberlin",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-153(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-153",
-          "class": "Hybrid Lecture"
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-153",
-          "class": "Online Only Lecture"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-153",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-029"
     },
     "HUM 111-030": {
-      "instructor": "Nathan Paul Leidholm",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Foster Pease Chamberlin",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-152(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-152",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-152",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-152",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-030"
     },
     "HUM 111-031": {
-      "instructor": "Mustafa Nakeeb",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Marjan Mohammadi",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-152(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-152",
-          "class": "Hybrid Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-152",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-152",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-031"
     },
     "HUM 111-032": {
-      "instructor": "Paul Elliot Kimball",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Staff",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-154",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-154(S)",
-          "class": "Hybrid Lecture"
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-154",
-          "class": "Online Only Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-154",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-032"
     },
     "HUM 111-033": {
-      "instructor": "Patrick Flaherty Fessenbecker",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Staff",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-033"
+    },
+    "HUM 111-034": {
+      "instructor": "Matthew Thomas Stoltz",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-034"
+    },
+    "HUM 111-035": {
+      "instructor": "Matthew Thomas Stoltz",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-035"
+    },
+    "HUM 111-036": {
+      "instructor": "Matthew Thomas Stoltz",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1307,237 +1427,117 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-154",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-154(S)",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-154",
-          "class": "Online Only Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-154",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "HUM 111-033"
-    },
-    "HUM 111-034": {
-      "instructor": "Andrew Jonathan Ploeg",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-153(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-153",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-153",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-153",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "HUM 111-034"
-    },
-    "HUM 111-035": {
-      "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-154(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-154",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-154",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-154",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "HUM 111-035"
-    },
-    "HUM 111-036": {
-      "instructor": "Scott Allen Kennedy",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-154(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-154",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-154",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-154",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-036"
     },
     "HUM 111-037": {
-      "instructor": "Victor Lenthe",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Costantino Costantini",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-153(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-153",
-          "class": "Hybrid Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-153",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-153",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-037"
     },
     "HUM 111-038": {
-      "instructor": "Dragan Ilic",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Costantino Costantini",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-153(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-153",
-          "class": "Hybrid Lecture"
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-153",
-          "class": "Online Only Lecture"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-153",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-038"
     },
     "HUM 111-039": {
-      "instructor": "Matthew Thomas Stoltz",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Mihaela P. Harper",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1547,32 +1547,112 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-154(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-154",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-154",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-154",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-039"
+    },
+    "HUM 111-040": {
+      "instructor": "Mihaela P. Harper",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-040"
+    },
+    "HUM 111-041": {
+      "instructor": "Mihaela P. Harper",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-041"
     }
   }
 }

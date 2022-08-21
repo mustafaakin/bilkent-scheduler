@@ -5,18 +5,18 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "CS 153",
   "sections": {
     "CS 153-001": {
-      "instructor": "Levent Y. İnce",
-      "quota": "25 Mand. 0 Elect.",
+      "instructor": "Staff",
+      "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
@@ -24,32 +24,39 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CS 153-001"
     },
     "CS 153-002": {
-      "instructor": "Egemen Kırkağaç",
-      "quota": "25 Mand. 0 Elect.",
+      "instructor": "Staff",
+      "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
@@ -58,31 +65,38 @@
       "schedule": [
         {
           "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
+          "start": "09:30",
+          "end": "10:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CS 153-002"
     },
     "CS 153-003": {
-      "instructor": "Egemen Kırkağaç",
-      "quota": "25 Mand. 0 Elect.",
+      "instructor": "Staff",
+      "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
@@ -94,21 +108,28 @@
           "start": "13:30",
           "end": "14:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CS 153-003"

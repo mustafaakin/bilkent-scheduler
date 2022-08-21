@@ -1,16 +1,16 @@
 {
   "name": "Composition VIII: Graduation Project",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 2
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 5,
-    "ECTS": 7.5
+    "bilkent": 0,
+    "ECTS": 5
   },
   "code": "MSC 412",
   "sections": {}

@@ -9,8 +9,8 @@
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 9
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "ECON 399",
   "sections": {}

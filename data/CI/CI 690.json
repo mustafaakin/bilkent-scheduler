@@ -1,0 +1,17 @@
+{
+  "name": "Dissertation Seminar",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": null
+  },
+  "code": "CI 690",
+  "sections": {}
+}

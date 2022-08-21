@@ -1,23 +1,23 @@
 {
   "name": "History of Built Environment I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "ADA 263",
   "sections": {
     "ADA 263-001": {
       "instructor": "Serpil Özaloğlu",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,39 +25,39 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-202(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-202",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-202",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-202",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ADA 263-001"
     },
     "ADA 263-002": {
       "instructor": "Serpil Özaloğlu",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -65,39 +65,39 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-115(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-115",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-115",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-115",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ADA 263-002"
     },
     "ADA 263-003": {
-      "instructor": "Deniz Avcı Hosanlı",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "instructor": "Merve Aslı Hetemoğlu",
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -105,39 +105,39 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-114(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-114",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-114",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-114",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ADA 263-003"
     },
     "ADA 263-004": {
-      "instructor": "Kumru Arapgirlioğlu",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "instructor": "Ayşe Henry",
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -147,152 +147,112 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
+          "place": "FF-114(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "place": "FF-114",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-114",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-114",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ADA 263-004"
     },
     "ADA 263-005": {
-      "instructor": "Cem Korkmaz",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "instructor": "Meral Özdengiz Başak",
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
+          "place": "FF-115(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-115",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-115",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-115",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ADA 263-005"
     },
     "ADA 263-006": {
-      "instructor": "Meral Özdengiz",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "instructor": "Berrak Erdal",
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FA-118(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FA-118",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FA-118",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FA-118",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ADA 263-006"
-    },
-    "ADA 263-007": {
-      "instructor": "Saadet Ayşe Gül Tokol",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ADA 263-007"
     }
   }
 }

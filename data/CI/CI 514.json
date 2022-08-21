@@ -1,0 +1,58 @@
+{
+  "name": "Curriculum Development and Evaluation",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "CI 514",
+  "sections": {
+    "CI 514-001": {
+      "instructor": "Jennie Farber Lane",
+      "quota": "6 Mand. or Elect.",
+      "total_quota": 6,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-255(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-255",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CI 514-001"
+    }
+  }
+}

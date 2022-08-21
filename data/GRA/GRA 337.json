@@ -5,44 +5,51 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "GRA 337",
   "sections": {
     "GRA 337-001": {
-      "instructor": "Ahmet Gökhan Numanoğlu",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "instructor": "Erhan Tunalı",
+      "quota": "18 Mand. or Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FB-321(S)",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FB-321",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FB-321",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FB-321",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "GRA 337-001"

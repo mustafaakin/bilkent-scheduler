@@ -1,98 +1,17 @@
 {
   "name": "Fundamentals of Marketing",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MAN 335",
-  "sections": {
-    "MAN 335-001": {
-      "instructor": "Ahmet Ekici",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "MA-201(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "MA-201",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "MA-201",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "MA-201",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "MAN 335-001"
-    },
-    "MAN 335-002": {
-      "instructor": "Ahmet Ekici",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "MA-201",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MA-201(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "MA-201",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "MA-201",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "MAN 335-002"
-    }
-  }
+  "sections": {}
 }

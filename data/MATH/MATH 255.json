@@ -1,23 +1,63 @@
 {
   "name": "Probability and Statistics",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 4
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 4,
-    "ECTS": 6.5
+    "bilkent": 0,
+    "ECTS": 4
   },
   "code": "MATH 255",
   "sections": {
     "MATH 255-001": {
-      "instructor": "Erdal Arıkan",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "instructor": "Muhammed Ömer Sayın",
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 255-001"
+    },
+    "MATH 255-002": {
+      "instructor": "Muhammed Ömer Sayın",
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,69 +67,29 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-412",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-412",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "EE-412",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "EE-412",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "MATH 255-001"
-    },
-    "MATH 255-002": {
-      "instructor": "Erdal Arıkan",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EE-412",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EE-412",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "EE-412",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "EE-412",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 255-002"

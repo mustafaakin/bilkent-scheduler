@@ -1,21 +1,21 @@
 {
   "name": "Graduate Seminar I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 2
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 1
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "EEE 591",
   "sections": {
     "EEE 591-001": {
-      "instructor": "Erdinç Tatar",
+      "instructor": "Tolga Çukur",
       "quota": "Unlimited",
       "total_quota": null,
       "enrollment": {
@@ -24,18 +24,18 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
           "place": "EE-517",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "20:10",
-          "end": "21:00",
+          "start": "16:30",
+          "end": "17:20",
           "place": "EE-517",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 591-001"

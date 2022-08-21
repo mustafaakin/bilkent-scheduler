@@ -5,19 +5,19 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "ARCH 428",
   "sections": {
     "ARCH 428-001": {
       "instructor": "Özge Selen Duran",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,24 +25,31 @@
       "schedule": [
         {
           "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-217(S)",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-217",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-217",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-217",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "ARCH 428-001"

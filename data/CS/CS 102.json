@@ -1,147 +1,86 @@
 {
   "name": "Algorithms and Programming II",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
-    "hybrid": 4,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 4
   },
   "credits": {
-    "bilkent": 4,
-    "ECTS": 6.5
+    "bilkent": 0,
+    "ECTS": 4
   },
   "code": "CS 102",
   "sections": {
     "CS 102-001": {
-      "instructor": "Özcan Öztürk",
-      "quota": "32 Mand. 3 Elect.",
-      "total_quota": 35,
+      "instructor": "Uğur Güdükbay",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
           "place": "B-206(S)",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
           "place": "B-206",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-201",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "B-206",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-201",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "B-206",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-201",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "B-206",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "B-206",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CS 102-001"
-    },
-    "CS 102-002": {
-      "instructor": "Özcan Öztürk",
-      "quota": "32 Mand. 3 Elect.",
-      "total_quota": 35,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-206(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-201",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-206",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-201",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-201",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-201(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "B-206",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "B-206",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CS 102-002"
     }
   }
 }

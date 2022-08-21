@@ -5,51 +5,51 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "COMD 437",
   "sections": {
     "COMD 437-001": {
-      "instructor": "Andreas Treske",
-      "quota": "12 Mand. or Elect.",
-      "total_quota": 12,
+      "instructor": "Wickham Catesby Flannagan",
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-122(S)",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-122",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-122",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-122",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "COMD 437-001"

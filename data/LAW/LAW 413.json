@@ -1,55 +1,55 @@
 {
   "name": "European Union Law",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "LAW 413",
   "sections": {
     "LAW 413-001": {
       "instructor": "Gülüm Özçelik",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "place": "G-B40(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-B40",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-B40",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-B40",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LAW 413-001"

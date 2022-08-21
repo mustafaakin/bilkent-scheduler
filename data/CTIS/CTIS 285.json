@@ -1,55 +1,55 @@
 {
   "name": "Hospitality Industry Computerization",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "CTIS 285",
   "sections": {
     "CTIS 285-001": {
-      "instructor": "Fatma Güliz Esen",
-      "quota": "10 Mand. or Elect.",
-      "total_quota": 10,
+      "instructor": "Güneş Karamullaoğlu",
+      "quota": "9 Mand. or Elect.",
+      "total_quota": 9,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "RE-002(S)",
-          "class": "Hybrid Lecture"
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "RE-107(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "RE-002",
-          "class": "Hybrid Lecture"
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "RE-107",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "RE-002",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "RE-107",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "RE-002",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "RE-107",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CTIS 285-001"

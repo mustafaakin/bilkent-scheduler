@@ -1,23 +1,23 @@
 {
   "name": "Rooms Division Management",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "THM 243",
   "sections": {
     "THM 243-001": {
       "instructor": "Jamel Ben Chafra",
-      "quota": "10 Mand. or Elect.",
-      "total_quota": 10,
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,31 +25,31 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "RB-201",
-          "class": "Hybrid Lecture"
+          "start": "08:30",
+          "end": "09:20",
+          "place": "RB-201(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
+          "start": "09:30",
+          "end": "10:20",
           "place": "RB-201",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
+          "start": "13:30",
+          "end": "14:20",
           "place": "RB-201",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
+          "start": "14:30",
+          "end": "15:20",
           "place": "RB-201",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "THM 243-001"

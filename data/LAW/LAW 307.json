@@ -1,21 +1,21 @@
 {
   "name": "Commercial Enterprise Law",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "LAW 307",
   "sections": {
     "LAW 307-001": {
-      "instructor": "Süleyman Zühtü Aytaç",
+      "instructor": "Hamdi Pınar",
       "quota": "0 Mand. or Elect.",
       "total_quota": 0,
       "enrollment": {
@@ -24,32 +24,32 @@
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-113",
-          "class": "Hybrid Lecture"
+          "place": "V-03(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "V-03",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-113(S)",
-          "class": "Hybrid Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "V-03",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "B-113",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "B-113",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "V-03",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LAW 307-001"
@@ -67,72 +67,32 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-114(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-140(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-114",
-          "class": "Hybrid Lecture"
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "B-114",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "B-114",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LAW 307-002"
-    },
-    "LAW 307-003": {
-      "instructor": "Aslı Elif Gürbüz Usluel",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-114",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-114(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "B-114",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "B-114",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "LAW 307-003"
     }
   }
 }

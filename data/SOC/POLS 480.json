@@ -1,16 +1,16 @@
 {
   "name": "European Politics",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "POLS 480",
   "sections": {
@@ -25,31 +25,31 @@
       "schedule": [
         {
           "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "20:00",
-          "end": "20:50",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "21:00",
-          "end": "21:50",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "POLS 480-001"

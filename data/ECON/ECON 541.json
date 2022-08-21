@@ -1,58 +1,17 @@
 {
   "name": "Economics of Labor Market",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 4
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "ECON 541",
-  "sections": {
-    "ECON 541-001": {
-      "instructor": "Şaziye Pelin Akyol",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "A-227",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-227",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "A-227",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "A-227",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ECON 541-001"
-    }
-  }
+  "sections": {}
 }

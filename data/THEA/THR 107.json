@@ -5,47 +5,13 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 2,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 2
   },
   "credits": {
-    "bilkent": 2,
-    "ECTS": 3.5
+    "bilkent": 0,
+    "ECTS": 2
   },
   "code": "THR 107",
-  "sections": {
-    "THR 107-001": {
-      "instructor": "Staff",
-      "quota": "5 Mand. or Elect.",
-      "total_quota": 5,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        }
-      ],
-      "name": "THR 107-001"
-    }
-  }
+  "sections": {}
 }

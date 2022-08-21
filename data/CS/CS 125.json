@@ -1,117 +1,343 @@
 {
   "name": "Introduction to Data Analysis for Social Sciences",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 2
   },
   "labStudioOthersHours": {
-    "hybrid": 2,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 2
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "CS 125",
   "sections": {
     "CS 125-001": {
-      "instructor": "Lori Rae Russell Dağ",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "instructor": "Can Kültür",
+      "quota": "48 Mand. or Elect.",
+      "total_quota": 48,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "EB-204",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EB-204",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EB-204",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EB-204(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "EB-204",
-          "class": "Online Only Lecture"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 125-001"
     },
     "CS 125-002": {
-      "instructor": "Staff",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "instructor": "Can Kültür",
+      "quota": "49 Mand. or Elect.",
+      "total_quota": 49,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "EB-202",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EB-202",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EB-202",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EB-202(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "EB-202",
-          "class": "Online Only Lecture"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 125-002"
     },
     "CS 125-003": {
       "instructor": "Lori Rae Russell Dağ",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "49 Mand. or Elect.",
+      "total_quota": 49,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CS 125-003"
+    },
+    "CS 125-004": {
+      "instructor": "Rabia Üşenmez",
+      "quota": "49 Mand. or Elect.",
+      "total_quota": 49,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CS 125-004"
+    },
+    "CS 125-005": {
+      "instructor": "Lori Rae Russell Dağ",
+      "quota": "49 Mand. or Elect.",
+      "total_quota": 49,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CS 125-005"
+    },
+    "CS 125-006": {
+      "instructor": "Ayışığı Başak Sevdik Çallı",
+      "quota": "49 Mand. or Elect.",
+      "total_quota": 49,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CS 125-006"
+    },
+    "CS 125-007": {
+      "instructor": "Ayışığı Başak Sevdik Çallı",
+      "quota": "49 Mand. or Elect.",
+      "total_quota": 49,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CS 125-007"
+    },
+    "CS 125-008": {
+      "instructor": "Ayışığı Başak Sevdik Çallı",
+      "quota": "49 Mand. or Elect.",
+      "total_quota": 49,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CS 125-008"
+    },
+    "CS 125-009": {
+      "instructor": "Rabia Üşenmez",
+      "quota": "49 Mand. or Elect.",
+      "total_quota": 49,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -121,86 +347,32 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EB-202",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EB-202",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EB-202",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EB-202(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "EB-202",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CS 125-003"
-    },
-    "CS 125-004": {
-      "instructor": "Staff",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FC-Z23B",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FC-Z23B",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FC-Z23B",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FC-Z23B(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "FC-Z23B",
-          "class": "Online Only Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "CS 125-004"
+      "name": "CS 125-009"
     }
   }
 }

@@ -5,12 +5,12 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "FA 211",
   "sections": {
@@ -24,32 +24,32 @@
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-320(S)",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-320",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-320",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-320",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "FA 211-001"

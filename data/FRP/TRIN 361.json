@@ -1,98 +1,17 @@
 {
   "name": "Technical  Translation (English-Turkish)",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "TRIN 361",
-  "sections": {
-    "TRIN 361-001": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "LB-Z10",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "LB-Z10",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "LB-Z10",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "TRIN 361-001"
-    },
-    "TRIN 361-002": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "LA-101",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "LA-101",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "LA-101",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "TRIN 361-002"
-    }
-  }
+  "sections": {}
 }

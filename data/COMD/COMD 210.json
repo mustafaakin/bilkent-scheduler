@@ -5,204 +5,211 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "COMD 210",
   "sections": {
     "COMD 210-001": {
       "instructor": "Fulten Larlar",
-      "quota": "12 Mand. 0 Elect.",
-      "total_quota": 12,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FB-110(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "COMD 210-001"
     },
     "COMD 210-002": {
       "instructor": "Fulten Larlar",
-      "quota": "12 Mand. 0 Elect.",
-      "total_quota": 12,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FB-110(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "COMD 210-002"
     },
     "COMD 210-003": {
       "instructor": "Wickham Catesby Flannagan",
-      "quota": "12 Mand. 0 Elect.",
-      "total_quota": 12,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FB-110(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "COMD 210-003"
     },
     "COMD 210-004": {
       "instructor": "Wickham Catesby Flannagan",
-      "quota": "12 Mand. 0 Elect.",
-      "total_quota": 12,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FB-110(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "COMD 210-004"
     },
     "COMD 210-005": {
       "instructor": "Emre Yalgın",
-      "quota": "12 Mand. 0 Elect.",
-      "total_quota": 12,
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Saturday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-110(S)",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Saturday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Saturday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "COMD 210-005"

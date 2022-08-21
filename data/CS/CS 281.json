@@ -1,84 +1,77 @@
 {
   "name": "Computers and Data Organization",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
-    "hybrid": 2,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 2
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "CS 281",
   "sections": {
     "CS 281-001": {
       "instructor": "Semra Güleç",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "quota": "64 Mand. or Elect.",
+      "total_quota": 64,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EA-Z01(S)",
-          "class": "Hybrid Lecture"
+          "place": "B-Z01(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-Z01",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "EA-Z01",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-211",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "B-Z01",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-211",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EE-211(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "EA-Z01",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "EA-Z01",
-          "class": "Online Only Lecture"
+          "place": "B-Z01",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 281-001"
     },
     "CS 281-002": {
       "instructor": "Semra Güleç",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "quota": "64 Mand. or Elect.",
+      "total_quota": 64,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -86,130 +79,48 @@
       "schedule": [
         {
           "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "EE-211",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "EE-211",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EA-Z01",
-          "class": "Hybrid Lecture"
+          "place": "B-Z01(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "B-Z01",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EA-Z01(S)",
-          "class": "Hybrid Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-Z01",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "EA-Z01",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "EA-Z01",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-Z01",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 281-002"
-    },
-    "CS 281-003": {
-      "instructor": "Uğur Güdükbay",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EE-211",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-Z05",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EE-211",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-Z05(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "B-Z05",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "B-Z05",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CS 281-003"
     }
   }
 }

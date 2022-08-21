@@ -1,0 +1,17 @@
+{
+  "name": "Data Analytics and Statistics",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": null,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "MAN 610",
+  "sections": {}
+}

@@ -5,44 +5,51 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 4,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 4
   },
   "credits": {
-    "bilkent": 2,
-    "ECTS": 3.5
+    "bilkent": 0,
+    "ECTS": 2
   },
   "code": "CHEM 214",
   "sections": {
     "CHEM 214-001": {
       "instructor": "Burak Ülgüt",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CHEM 214-001"

@@ -1,55 +1,55 @@
 {
   "name": "Race and Ethnicity in American Culture",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "AMER 459",
   "sections": {
     "AMER 459-001": {
       "instructor": "Emine Lale Demirtürk",
-      "quota": "20 Mand. 5 Elect.",
-      "total_quota": 25,
+      "quota": "20 Mand. 3 Elect.",
+      "total_quota": 23,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "G-110(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-110",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "17:40",
-          "end": "18:30",
+          "start": "11:30",
+          "end": "12:20",
           "place": "G-110",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "18:40",
-          "end": "19:30",
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
           "place": "G-110",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-110",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "AMER 459-001"

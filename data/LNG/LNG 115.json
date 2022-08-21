@@ -1,21 +1,21 @@
 {
   "name": "Intermediate Spanish II",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 4
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "LNG 115",
   "sections": {
     "LNG 115-001": {
-      "instructor": "Staff",
+      "instructor": "Özlem Doğan",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -24,32 +24,32 @@
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z52",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-Z52",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-Z52",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-Z52",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LNG 115-001"

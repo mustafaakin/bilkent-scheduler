@@ -1,55 +1,55 @@
 {
   "name": "Statistical Learning and Data Analytics",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "EEE 585",
   "sections": {
     "EEE 585-001": {
       "instructor": "Süleyman Serdar Kozat",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "5 Mand. or Elect.",
+      "total_quota": 5,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-214",
-          "class": "Hybrid Lecture"
+          "place": "EE-412(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-214(S)",
-          "class": "Hybrid Lecture"
+          "place": "EE-412",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "EE-214",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-412",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "EE-214",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EE-412",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 585-001"

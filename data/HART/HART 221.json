@@ -1,16 +1,16 @@
 {
   "name": "Great Discoveries from the Ancient World",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "HART 221",
   "sections": {
@@ -27,32 +27,72 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "H-132(S)",
-          "class": "Hybrid Lecture"
+          "place": "H-133B(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "H-132",
-          "class": "Hybrid Lecture"
+          "place": "H-133B",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "H-132",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "H-133B",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "H-132",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "H-133B",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HART 221-001"
+    },
+    "HART 221-002": {
+      "instructor": "Staff",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "H-132(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "H-132",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "H-132",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "H-132",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HART 221-002"
     }
   }
 }

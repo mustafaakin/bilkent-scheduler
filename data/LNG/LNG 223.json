@@ -1,16 +1,16 @@
 {
   "name": "Chinese III",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 4
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "LNG 223",
   "sections": {
@@ -24,32 +24,32 @@
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "G-Z07",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "G-Z07",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "G-Z07",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "G-Z07",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LNG 223-001"

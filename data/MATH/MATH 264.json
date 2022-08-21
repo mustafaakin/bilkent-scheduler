@@ -1,21 +1,21 @@
 {
   "name": "Statistics for Social Sciences",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MATH 264",
   "sections": {
     "MATH 264-001": {
-      "instructor": "Erin Maloney",
+      "instructor": "Staff",
       "quota": "58 Mand. 0 Elect.",
       "total_quota": 58,
       "enrollment": {
@@ -24,38 +24,38 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-329",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-329(S)",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "A-329",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "A-329",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 264-001"
     },
     "MATH 264-002": {
-      "instructor": "Erin Maloney",
+      "instructor": "Staff",
       "quota": "58 Mand. 0 Elect.",
       "total_quota": 58,
       "enrollment": {
@@ -64,38 +64,38 @@
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "SA-Z04",
-          "class": "Hybrid Lecture"
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "SA-Z04(S)",
-          "class": "Hybrid Lecture"
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "SA-Z04",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "SA-Z04",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 264-002"
     },
     "MATH 264-003": {
-      "instructor": "Erin Maloney",
+      "instructor": "Staff",
       "quota": "58 Mand. 0 Elect.",
       "total_quota": 58,
       "enrollment": {
@@ -104,32 +104,32 @@
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-B40",
-          "class": "Hybrid Lecture"
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-B40(S)",
-          "class": "Hybrid Lecture"
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-B40",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-B40",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 264-003"

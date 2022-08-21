@@ -5,19 +5,19 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 4,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 4
   },
   "credits": {
-    "bilkent": 4,
-    "ECTS": 6.5
+    "bilkent": 0,
+    "ECTS": 4
   },
   "code": "COMD 481",
   "sections": {
     "COMD 481-001": {
-      "instructor": "Emel  Özdora Akşak",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "instructor": "Funda Şenova Tunalı",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,39 +25,39 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FB-319",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FB-319",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FB-319",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FB-319",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "COMD 481-001"
     },
     "COMD 481-002": {
-      "instructor": "Hasan Yusuf Akçura",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "instructor": "Fulten Larlar",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -65,39 +65,39 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FB-110",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "COMD 481-002"
     },
     "COMD 481-003": {
-      "instructor": "Wickham Catesby Flannagan",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "instructor": "Emre Yalgın",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -105,31 +105,31 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "COMD 481-003"

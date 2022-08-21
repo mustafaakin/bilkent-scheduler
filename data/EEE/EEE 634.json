@@ -1,55 +1,55 @@
 {
   "name": "Information Theory",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "EEE 634",
   "sections": {
     "EEE 634-001": {
       "instructor": "Tolga Mete Duman",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
           "place": "EE-517(S)",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
           "place": "EE-517",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "17:40",
-          "end": "18:30",
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "EE-517",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "18:40",
-          "end": "19:30",
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "EE-517",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 634-001"

@@ -1,0 +1,58 @@
+{
+  "name": "Theory of Interpreting",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 1
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 2
+  },
+  "code": "CINT 501",
+  "sections": {
+    "CINT 501-001": {
+      "instructor": "Zeynep Şengel",
+      "quota": "3 Mand. or Elect.",
+      "total_quota": 3,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CINT 501-001"
+    }
+  }
+}

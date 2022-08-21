@@ -1,70 +1,17 @@
 {
   "name": "Thesis Seminar I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 2
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 4
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "CI 509",
-  "sections": {
-    "CI 509-001": {
-      "instructor": "Erdat Çataloğlu",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CI 509-001"
-    },
-    "CI 509-002": {
-      "instructor": "İlker Kalender",
-      "quota": "6 Mand. or Elect.",
-      "total_quota": 6,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CI 509-002"
-    }
-  }
+  "sections": {}
 }

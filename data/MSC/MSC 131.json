@@ -5,12 +5,12 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 2,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 2
   },
   "credits": {
-    "bilkent": 5,
-    "ECTS": 7.5
+    "bilkent": 0,
+    "ECTS": 5
   },
   "code": "MSC 131",
   "sections": {}

@@ -1,16 +1,16 @@
 {
   "name": "Japanese I",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 4
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "LNG 241",
   "sections": {
@@ -24,75 +24,35 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-152",
-          "class": "Hybrid Lecture"
+          "place": "G-Z09",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-152",
-          "class": "Hybrid Lecture"
+          "place": "G-Z09",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-152",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-Z09",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-152",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-Z09",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LNG 241-001"
-    },
-    "LNG 241-002": {
-      "instructor": "Masumi Hiratsuka (Cakmakcı)",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-152",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-152",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "G-152",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "G-152",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "LNG 241-002"
     }
   }
 }

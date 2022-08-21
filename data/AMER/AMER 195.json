@@ -1,95 +1,95 @@
 {
   "name": "Introduction to American Studies I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "AMER 195",
   "sections": {
     "AMER 195-001": {
       "instructor": "Kara McCormack",
-      "quota": "15 Mand. 5 Elect.",
-      "total_quota": 20,
+      "quota": "20 Mand. 3 Elect.",
+      "total_quota": 23,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-107",
-          "class": "Hybrid Lecture"
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-109(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-109",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-107(S)",
-          "class": "Hybrid Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-109",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "G-107",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "G-107",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-109",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "AMER 195-001"
     },
     "AMER 195-002": {
       "instructor": "Kara McCormack",
-      "quota": "15 Mand. 5 Elect.",
-      "total_quota": 20,
+      "quota": "20 Mand. 3 Elect.",
+      "total_quota": 23,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-107",
-          "class": "Hybrid Lecture"
+          "place": "G-107(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-107(S)",
-          "class": "Hybrid Lecture"
+          "place": "G-107",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
           "place": "G-107",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "21:10",
-          "end": "22:00",
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "G-107",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "AMER 195-002"

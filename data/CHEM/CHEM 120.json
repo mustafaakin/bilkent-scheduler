@@ -1,41 +1,34 @@
 {
   "name": "Orientation for Chemistry Majors",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 0
+    "hybrid": 0,
+    "online": 1
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 1,
-    "ECTS": 2
+    "bilkent": 0,
+    "ECTS": 1
   },
   "code": "CHEM 120",
   "sections": {
     "CHEM 120-001": {
-      "instructor": "Şefik Süzer",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Emrah Özensoy",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "(S)",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CHEM 120-001"

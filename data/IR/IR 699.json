@@ -9,8 +9,8 @@
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 171
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "IR 699",
   "sections": {}

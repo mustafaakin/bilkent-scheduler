@@ -1,58 +1,17 @@
 {
   "name": "Conducting I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MSC 326",
-  "sections": {
-    "MSC 326-001": {
-      "instructor": "Işın Metin",
-      "quota": "6 Mand. 4 Elect.",
-      "total_quota": 10,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "MSC 326-001"
-    }
-  }
+  "sections": {}
 }

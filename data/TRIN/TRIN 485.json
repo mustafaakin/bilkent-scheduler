@@ -1,126 +1,17 @@
 {
   "name": "Translation workshop for EU texts and official documents",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 4
+    "hybrid": 0,
+    "online": 6
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 6,
-    "ECTS": 8.5
+    "bilkent": 0,
+    "ECTS": 6
   },
   "code": "TRIN 485",
-  "sections": {
-    "TRIN 485-001": {
-      "instructor": "Tanju İnal  Cahide Ekiz",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "LA-101",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "LA-114",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "LA-114",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "LA-114",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "LA-114",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "TRIN 485-001"
-    },
-    "TRIN 485-002": {
-      "instructor": "Tanju İnal  Cahide Ekiz",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "LB-Z10",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "LB-Z10",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "LB-Z10",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "LB-Z10",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "LB-Z10",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "TRIN 485-002"
-    }
-  }
+  "sections": {}
 }
