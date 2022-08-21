@@ -5,389 +5,110 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 12,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 12
   },
   "credits": {
-    "bilkent": 6,
-    "ECTS": 8.5
+    "bilkent": 0,
+    "ECTS": 6
   },
   "code": "ARCH 401",
   "sections": {
-    "ARCH 401-001": {
-      "instructor": "Glenn Terry Kukkola",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
+    "ARCH 401-006": {
+      "instructor": "Staff",
+      "quota": "Unlimited",
+      "total_quota": null,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "ARCH 401-001"
-    },
-    "ARCH 401-002": {
-      "instructor": "Jesus Espinoza Alvarez",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        }
-      ],
-      "name": "ARCH 401-002"
-    },
-    "ARCH 401-003": {
-      "instructor": "Kristian Wren Frederickson",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        }
-      ],
-      "name": "ARCH 401-003"
-    },
-    "ARCH 401-004": {
-      "instructor": "Meral Özdengiz",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        }
-      ],
-      "name": "ARCH 401-004"
-    },
-    "ARCH 401-005": {
-      "instructor": "Zeynep Öktem",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        }
-      ],
-      "name": "ARCH 401-005"
+      "name": "ARCH 401-006"
     }
   }
 }

@@ -5,47 +5,13 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "THR 203",
-  "sections": {
-    "THR 203-001": {
-      "instructor": "Eray Eserol",
-      "quota": "4 Mand. 0 Elect.",
-      "total_quota": 4,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        }
-      ],
-      "name": "THR 203-001"
-    }
-  }
+  "sections": {}
 }

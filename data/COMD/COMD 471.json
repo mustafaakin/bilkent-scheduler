@@ -1,98 +1,58 @@
 {
   "name": "Media Ethics",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "COMD 471",
   "sections": {
     "COMD 471-001": {
       "instructor": "Bülent Mehmet Çaplı",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "17:40",
-          "end": "18:30",
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "18:40",
-          "end": "19:30",
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 471-001"
-    },
-    "COMD 471-002": {
-      "instructor": "Bülent Mehmet Çaplı",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "COMD 471-002"
     }
   }
 }

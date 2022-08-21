@@ -1,138 +1,17 @@
 {
   "name": "Introduction to Social Psychology",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "PSYC 102",
-  "sections": {
-    "PSYC 102-001": {
-      "instructor": "Ezgi Sakman",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "A-Z25",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "A-Z25(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "A-Z25",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "A-Z25",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "PSYC 102-001"
-    },
-    "PSYC 102-004": {
-      "instructor": "Emine Ulaşan Özgüle",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-Z06(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-Z06",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "B-Z06",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "B-Z06",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "PSYC 102-004"
-    },
-    "PSYC 102-005": {
-      "instructor": "Emine Ulaşan Özgüle",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-Z06",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-Z06(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "B-Z06",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "B-Z06",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "PSYC 102-005"
-    }
-  }
+  "sections": {}
 }

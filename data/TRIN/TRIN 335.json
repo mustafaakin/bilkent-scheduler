@@ -1,126 +1,17 @@
 {
   "name": "Note-Taking and Consecutive Interpretation",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 4
+    "hybrid": 0,
+    "online": 6
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "TRIN 335",
-  "sections": {
-    "TRIN 335-001": {
-      "instructor": "Füsun Ataseven  Ayşe Şirin Okyayuz",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "LB-101",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "LB-101",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "LA-103",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "LA-103",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "LA-114",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "LA-114",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "TRIN 335-001"
-    },
-    "TRIN 335-002": {
-      "instructor": "Füsun Ataseven",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "LB-Z10",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "LB-Z10",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "LB-101",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "LB-101",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "LB-101",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "LB-101",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "TRIN 335-002"
-    }
-  }
+  "sections": {}
 }

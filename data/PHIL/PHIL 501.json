@@ -1,17 +1,58 @@
 {
   "name": "Research Preparation in Philosophy I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "PHIL 501",
-  "sections": {}
+  "sections": {
+    "PHIL 501-001": {
+      "instructor": "William Giles Wringe",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "H-336(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "H-336",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "H-336",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "H-336",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PHIL 501-001"
+    }
+  }
 }

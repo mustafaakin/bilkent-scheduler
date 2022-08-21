@@ -1,16 +1,16 @@
 {
   "name": "Industrial Design Project I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 2
   },
   "labStudioOthersHours": {
-    "hybrid": 2,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 2
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 6.5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "EEE 493",
   "sections": {
@@ -28,35 +28,28 @@
           "start": "10:30",
           "end": "11:20",
           "place": "",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EE-LAB102",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EE-LAB102",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EE-LAB102(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:10",
-          "end": "21:00",
+          "start": "15:30",
+          "end": "16:20",
           "place": "",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "EEE 493-001"
@@ -75,35 +68,28 @@
           "start": "10:30",
           "end": "11:20",
           "place": "",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EE-LAB102",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EE-LAB102",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EE-LAB102(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:10",
-          "end": "21:00",
+          "start": "15:30",
+          "end": "16:20",
           "place": "",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "EEE 493-002"

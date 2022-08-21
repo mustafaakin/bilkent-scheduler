@@ -9,8 +9,8 @@
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 6.5
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "MBG 391",
   "sections": {}

@@ -5,12 +5,12 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 1,
+    "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "PSYC 591",
   "sections": {}

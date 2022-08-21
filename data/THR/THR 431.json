@@ -1,58 +1,17 @@
 {
   "name": "Textual Interpretation and Analysis III",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "THR 431",
-  "sections": {
-    "THR 431-001": {
-      "instructor": "Hande Vural Johnson",
-      "quota": "5 Mand. or Elect.",
-      "total_quota": 5,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "THR 431-001"
-    }
-  }
+  "sections": {}
 }

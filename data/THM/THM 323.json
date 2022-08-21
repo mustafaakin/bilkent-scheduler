@@ -5,13 +5,122 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 6,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 6
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "THM 323",
-  "sections": {}
+  "sections": {
+    "THM 323-001": {
+      "instructor": "Elif Denizci",
+      "quota": "2 Mand. or Elect.",
+      "total_quota": 2,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "RC-110",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "RC-110",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "RC-110",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "RC-110",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "12:30",
+          "end": "13:20",
+          "place": "RC-110",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "RC-110",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "THM 323-001"
+    },
+    "THM 323-002": {
+      "instructor": "Elif Denizci",
+      "quota": "2 Mand. or Elect.",
+      "total_quota": 2,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "RC-110",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "RC-110",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "RC-110",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "RC-110",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "12:30",
+          "end": "13:20",
+          "place": "RC-110",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "RC-110",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "THM 323-002"
+    }
+  }
 }

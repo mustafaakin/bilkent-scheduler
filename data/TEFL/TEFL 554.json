@@ -1,55 +1,55 @@
 {
   "name": "Thesis Writing",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 55
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "TEFL 554",
   "sections": {
     "TEFL 554-001": {
       "instructor": "Staff",
-      "quota": "Unlimited",
-      "total_quota": null,
+      "quota": "12 Mand. or Elect.",
+      "total_quota": 12,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-253(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-253",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-253",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-253",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "TEFL 554-001"

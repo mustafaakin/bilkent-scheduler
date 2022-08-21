@@ -9,8 +9,8 @@
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 69
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "LAW 599",
   "sections": {}

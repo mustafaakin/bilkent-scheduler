@@ -1,20 +1,60 @@
 {
   "name": "Governance and Public Policy",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "POLS 465",
   "sections": {
     "POLS 465-001": {
+      "instructor": "Hasan Tolga Bölükbaşı",
+      "quota": "50 Mand. 5 Elect.",
+      "total_quota": 55,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "POLS 465-001"
+    },
+    "POLS 465-002": {
       "instructor": "Staff",
       "quota": "50 Mand. 5 Elect.",
       "total_quota": 55,
@@ -24,35 +64,35 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z06(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z06",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "B-Z06",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "B-Z06",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "POLS 465-001"
+      "name": "POLS 465-002"
     }
   }
 }

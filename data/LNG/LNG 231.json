@@ -1,16 +1,16 @@
 {
   "name": "Korean I",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 4
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "LNG 231",
   "sections": {
@@ -24,35 +24,75 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z09",
-          "class": "Hybrid Lecture"
+          "place": "G-Z07",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-Z09",
-          "class": "Hybrid Lecture"
+          "place": "G-Z07",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "G-Z09",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-Z07",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "G-Z09",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-Z07",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LNG 231-001"
+    },
+    "LNG 231-002": {
+      "instructor": "Nam Sig Yang",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-Z07",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-Z07",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-Z07",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-Z07",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "LNG 231-002"
     }
   }
 }

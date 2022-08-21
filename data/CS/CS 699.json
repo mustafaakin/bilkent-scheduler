@@ -9,8 +9,8 @@
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 203
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "CS 699",
   "sections": {}

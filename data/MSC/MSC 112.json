@@ -1,16 +1,16 @@
 {
   "name": "Composition II",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 2
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 4,
-    "ECTS": 6.5
+    "bilkent": 0,
+    "ECTS": 4
   },
   "code": "MSC 112",
   "sections": {}

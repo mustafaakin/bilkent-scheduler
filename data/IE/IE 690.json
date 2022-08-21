@@ -1,22 +1,22 @@
 {
   "name": "Advanced Research Topics in IE&OR",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 0
   },
   "labStudioOthersHours": {
     "hybrid": 0,
-    "faceToFace": 0
+    "faceToFace": 2
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 1
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "IE 690",
   "sections": {
     "IE 690-001": {
-      "instructor": "Alper Şen",
-      "quota": "10 Mand. 0 Elect.",
+      "instructor": "Emre Nadar",
+      "quota": "10 Mand. or Elect.",
       "total_quota": 10,
       "enrollment": {
         "mandatory": 0,
@@ -25,17 +25,17 @@
       "schedule": [
         {
           "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "20:00",
-          "end": "20:50",
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IE 690-001"

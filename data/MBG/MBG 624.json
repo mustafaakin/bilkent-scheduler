@@ -1,16 +1,16 @@
 {
   "name": "Seminars in Molecular Genetics II",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 1
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "MBG 624",
   "sections": {}

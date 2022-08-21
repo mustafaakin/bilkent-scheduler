@@ -1,58 +1,17 @@
 {
   "name": "Human Resources Management",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MAN 462",
-  "sections": {
-    "MAN 462-001": {
-      "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "MA-301(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "MA-301",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "MA-301",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "MA-301",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "MAN 462-001"
-    }
-  }
+  "sections": {}
 }

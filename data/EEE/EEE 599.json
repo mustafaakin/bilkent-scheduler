@@ -9,8 +9,8 @@
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 71
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "EEE 599",
   "sections": {}

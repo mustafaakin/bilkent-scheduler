@@ -5,179 +5,174 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "ADA 131",
   "sections": {
     "ADA 131-001": {
-      "instructor": "Yiğit Acar",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "instructor": "Hatice Karaca",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FA-317(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "ADA 131-001"
     },
     "ADA 131-002": {
       "instructor": "Yiğit Acar",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-214",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-214",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-214",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FA-214(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "ADA 131-002"
     },
     "ADA 131-003": {
-      "instructor": "Alp Giray Köse",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "instructor": "Ezgi İşbilen",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-217",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-217",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-217",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FA-217(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "ADA 131-003"
     },
     "ADA 131-004": {
-      "instructor": "Hatice Karaca",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "instructor": "Staff",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-220",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-220",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-220",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FA-220(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "ADA 131-004"
-    },
-    "ADA 131-005": {
-      "instructor": "Cem Korkmaz",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        }
-      ],
-      "name": "ADA 131-005"
     }
   }
 }

@@ -1,51 +1,17 @@
 {
   "name": "Data Models and Decisions",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MBA 553",
-  "sections": {
-    "MBA 553-001": {
-      "instructor": "Erdal Erel",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "MA-305",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "19:20",
-          "end": "20:00",
-          "place": "MA-305",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "MA-305",
-          "class": "Hybrid Lecture"
-        }
-      ],
-      "name": "MBA 553-001"
-    }
-  }
+  "sections": {}
 }

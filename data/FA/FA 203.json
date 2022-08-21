@@ -5,19 +5,19 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 4,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 4
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "FA 203",
   "sections": {
     "FA 203-001": {
       "instructor": "Ahmet Özsalar",
-      "quota": "5 Mand. 0 Elect.",
-      "total_quota": 5,
+      "quota": "10 Mand. 0 Elect.",
+      "total_quota": 10,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,29 +27,29 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FC-213",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FC-213",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FC-213",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FC-213",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "FA 203-001"

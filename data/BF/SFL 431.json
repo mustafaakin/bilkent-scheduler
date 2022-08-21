@@ -1,58 +1,17 @@
 {
   "name": "French in Corporate Communication",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "SFL 431",
-  "sections": {
-    "SFL 431-001": {
-      "instructor": "Anna Kubaczynska",
-      "quota": "35 Mand. or Elect.",
-      "total_quota": 35,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "LB-Z10",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "LA-114",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "LA-114",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "SFL 431-001"
-    }
-  }
+  "sections": {}
 }

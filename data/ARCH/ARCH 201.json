@@ -1,426 +1,86 @@
 {
   "name": "Architectural Design Studio I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 6,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 8
   },
   "credits": {
-    "bilkent": 6,
-    "ECTS": 8.5
+    "bilkent": 0,
+    "ECTS": 6
   },
   "code": "ARCH 201",
   "sections": {
-    "ARCH 201-001": {
-      "instructor": "Zühre Sü Gül",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ARCH 201-001"
-    },
-    "ARCH 201-002": {
-      "instructor": "Yiğit Acar",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ARCH 201-002"
-    },
-    "ARCH 201-003": {
-      "instructor": "Ahmet Ünveren",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ARCH 201-003"
-    },
-    "ARCH 201-004": {
-      "instructor": "Ezgi İşbilen",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ARCH 201-004"
-    },
-    "ARCH 201-005": {
-      "instructor": "Melek Pınar Uz Baki",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ARCH 201-005"
-    },
-    "ARCH 201-006": {
+    "ARCH 201-007": {
       "instructor": "Staff",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
+      "quota": "Unlimited",
+      "total_quota": null,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "ARCH 201-006"
+      "name": "ARCH 201-007"
     }
   }
 }

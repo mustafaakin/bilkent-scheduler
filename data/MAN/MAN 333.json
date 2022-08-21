@@ -1,23 +1,23 @@
 {
   "name": "Marketing Principles",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MAN 333",
   "sections": {
     "MAN 333-001": {
       "instructor": "Ceren Aydoğmuş",
-      "quota": "20 Mand. 20 Elect.",
-      "total_quota": 40,
+      "quota": "30 Mand. 15 Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,72 +27,32 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-201(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-201",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "MA-201",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "MA-201",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MAN 333-001"
-    },
-    "MAN 333-002": {
-      "instructor": "Ceren Aydoğmuş",
-      "quota": "15 Mand. 25 Elect.",
-      "total_quota": 40,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "MA-301(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "MA-301",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "MA-301",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "MA-301",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "MAN 333-002"
     }
   }
 }

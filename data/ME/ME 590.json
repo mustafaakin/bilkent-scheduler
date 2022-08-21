@@ -1,16 +1,16 @@
 {
   "name": "Mechanical Engineering Seminar",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 0
+    "hybrid": 0,
+    "online": 1
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 1
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "ME 590",
   "sections": {}

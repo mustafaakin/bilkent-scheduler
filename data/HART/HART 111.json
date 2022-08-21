@@ -1,16 +1,16 @@
 {
   "name": "Introduction to Archaeology",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "HART 111",
   "sections": {
@@ -24,32 +24,32 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "H-132(S)",
-          "class": "Hybrid Lecture"
+          "place": "H-133A(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "H-132",
-          "class": "Hybrid Lecture"
+          "place": "H-133A",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "H-132",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "H-133A",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "H-132",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "H-133A",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HART 111-001"

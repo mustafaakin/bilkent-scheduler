@@ -9,8 +9,8 @@
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 1
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "MSC 500",
   "sections": {}

@@ -1,23 +1,23 @@
 {
   "name": "Analysis on Manifolds",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MATH 445",
   "sections": {
     "MATH 445-001": {
       "instructor": "Bülent Ünal",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,31 +25,31 @@
       "schedule": [
         {
           "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "SA-Z02",
-          "class": "Hybrid Lecture"
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "SA-Z02(S)",
-          "class": "Hybrid Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "SA-Z02",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "SA-Z02",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 445-001"

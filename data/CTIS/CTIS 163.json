@@ -1,138 +1,17 @@
 {
   "name": "Discrete Mathematics",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 4,
-    "ECTS": 6.5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "CTIS 163",
-  "sections": {
-    "CTIS 163-001": {
-      "instructor": "Satılmış Topçu",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "CD-B01",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "CD-B01",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "CD-B01",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "CD-B01",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CTIS 163-001"
-    },
-    "CTIS 163-002": {
-      "instructor": "Duygu Albayrak",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "C-216",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "C-216",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "C-216",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "C-216",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CTIS 163-002"
-    },
-    "CTIS 163-003": {
-      "instructor": "Duygu Albayrak",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "C-216",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "C-216",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "C-216",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "C-216",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CTIS 163-003"
-    }
-  }
+  "sections": {}
 }

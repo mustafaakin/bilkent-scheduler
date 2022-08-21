@@ -1,55 +1,55 @@
 {
   "name": "Imagining the American West",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "AMER 488",
   "sections": {
     "AMER 488-001": {
       "instructor": "Kara McCormack",
-      "quota": "23 Mand. or Elect.",
-      "total_quota": 23,
+      "quota": "0 Mand. 20 Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-110",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
           "place": "G-110(S)",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
           "place": "G-110",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "21:10",
-          "end": "22:00",
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "G-110",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-110",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "AMER 488-001"

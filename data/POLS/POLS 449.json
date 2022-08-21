@@ -1,58 +1,17 @@
 {
   "name": "Political Concepts",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "POLS 449",
-  "sections": {
-    "POLS 449-001": {
-      "instructor": "John James Alexander",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "A-231(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-231",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "A-231",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "A-231",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "POLS 449-001"
-    }
-  }
+  "sections": {}
 }

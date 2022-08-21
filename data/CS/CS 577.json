@@ -1,0 +1,51 @@
+{
+  "name": "Data Privacy",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "CS 577",
+  "sections": {
+    "CS 577-001": {
+      "instructor": "Staff",
+      "quota": "10 Mand. or Elect.",
+      "total_quota": 10,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "",
+          "class": "Online/Hybrid Lecture"
+        }
+      ],
+      "name": "CS 577-001"
+    }
+  }
+}

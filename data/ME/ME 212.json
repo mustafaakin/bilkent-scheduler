@@ -1,0 +1,72 @@
+{
+  "name": "Thermo-Fluids Engineering II",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 4
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 2
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 4
+  },
+  "code": "ME 212",
+  "sections": {
+    "ME 212-001": {
+      "instructor": "Gökberk Kabacaoğlu",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EA-Z01",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EA-Z01",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EA-Z01",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EA-Z01",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ME 212-001"
+    }
+  }
+}

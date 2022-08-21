@@ -1,22 +1,22 @@
 {
   "name": "Fundamentals of Social Research",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "POLS 201",
   "sections": {
     "POLS 201-001": {
-      "instructor": "Mehmet Nedim Karakayalı",
-      "quota": "40 Mand. 0 Elect.",
+      "instructor": "Zerrin Tandoğan",
+      "quota": "40 Mand. or Elect.",
       "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
@@ -24,75 +24,35 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-231(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-231",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "A-231",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "A-231",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "POLS 201-001"
-    },
-    "POLS 201-002": {
-      "instructor": "Zerrin Tandoğan",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "T-272(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "T-272",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "T-272",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "T-272",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "POLS 201-002"
     }
   }
 }

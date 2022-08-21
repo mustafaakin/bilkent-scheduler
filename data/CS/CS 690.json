@@ -1,21 +1,21 @@
 {
   "name": "Research Seminar II",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 0
+    "hybrid": 0,
+    "online": 2
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 1
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "CS 690",
   "sections": {
     "CS 690-001": {
-      "instructor": "Uğur Doğrusöz  Sedat Özer",
+      "instructor": "Özgür Salih Öğüz",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -25,17 +25,17 @@
       "schedule": [
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
+          "start": "15:30",
+          "end": "16:20",
           "place": "",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "(S)",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 690-001"

@@ -5,82 +5,13 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 4,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 4
   },
   "credits": {
-    "bilkent": 2,
-    "ECTS": 3.5
+    "bilkent": 0,
+    "ECTS": 2
   },
   "code": "MSC 404",
-  "sections": {
-    "MSC 404-001": {
-      "instructor": "Işın Metin",
-      "quota": "10 Mand. 0 Elect.",
-      "total_quota": 10,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        }
-      ],
-      "name": "MSC 404-001"
-    }
-  }
+  "sections": {}
 }

@@ -1,58 +1,17 @@
 {
   "name": "Pro-thesis Seminar I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 1
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "NSC 591",
-  "sections": {
-    "NSC 591-001": {
-      "instructor": "Michelle Marie Adams",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "NSC 591-001"
-    }
-  }
+  "sections": {}
 }

@@ -1,21 +1,21 @@
 {
   "name": "Introduction to Machine Learning",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "CS 464",
   "sections": {
     "CS 464-001": {
-      "instructor": "Abdullah Ercüment Çiçek",
+      "instructor": "Ayşegül Dündar",
       "quota": "65 Mand. or Elect.",
       "total_quota": 65,
       "enrollment": {
@@ -24,75 +24,35 @@
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-05(S)",
-          "class": "Hybrid Lecture"
+          "place": "EE-412(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EE-412",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "EE-05",
-          "class": "Hybrid Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EE-412",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "EE-05",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "EE-05",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EE-412",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 464-001"
-    },
-    "CS 464-002": {
-      "instructor": "Staff",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EE-03",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EE-03(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "EE-03",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "EE-03",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CS 464-002"
     }
   }
 }

@@ -1,23 +1,23 @@
 {
   "name": "20th Century World Politics",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "IR 236",
   "sections": {
     "IR 236-001": {
       "instructor": "Samuel John Hirst",
-      "quota": "40 Mand. 5 Elect.",
-      "total_quota": 45,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,71 +25,71 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "A-227",
-          "class": "Hybrid Lecture"
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "A-227(S)",
-          "class": "Hybrid Lecture"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "A-227",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "A-227",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "IR 236-001"
     },
     "IR 236-002": {
-      "instructor": "Anastassia Bugday",
-      "quota": "40 Mand. 5 Elect.",
-      "total_quota": 45,
+      "instructor": "Dimitrios Akrivoulis",
+      "quota": "0 Mand. or Elect.",
+      "total_quota": 0,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "A-230(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-230",
-          "class": "Hybrid Lecture"
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "A-230",
-          "class": "Online Only Lecture"
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "A-230",
-          "class": "Online Only Lecture"
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "IR 236-002"

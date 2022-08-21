@@ -1,21 +1,21 @@
 {
   "name": "Law of Obligations Special Provisions",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "LAW 309",
   "sections": {
     "LAW 309-001": {
-      "instructor": "Mehmet Ali Erten",
+      "instructor": "Pınar Altınok Ormancı",
       "quota": "0 Mand. or Elect.",
       "total_quota": 0,
       "enrollment": {
@@ -24,32 +24,32 @@
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-113(S)",
-          "class": "Hybrid Lecture"
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-203(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-203",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-113",
-          "class": "Hybrid Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-203",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "B-113",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "B-113",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-203",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LAW 309-001"
@@ -67,72 +67,32 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-203(S)",
-          "class": "Hybrid Lecture"
+          "place": "V-03(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-203",
-          "class": "Hybrid Lecture"
+          "place": "V-03",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "B-203",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "V-03",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "B-203",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "V-03",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LAW 309-002"
-    },
-    "LAW 309-003": {
-      "instructor": "Pınar Altınok Ormancı",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-203(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-203",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "B-203",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "B-203",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "LAW 309-003"
     }
   }
 }

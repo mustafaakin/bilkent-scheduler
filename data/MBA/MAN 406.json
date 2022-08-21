@@ -1,58 +1,17 @@
 {
   "name": "Business Strategy",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MAN 406",
-  "sections": {
-    "MAN 406-001": {
-      "instructor": "Aydın Örsan Örge",
-      "quota": "35 Mand. 0 Elect.",
-      "total_quota": 35,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "MA-105(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "MA-105",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "MA-105",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "MA-105",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "MAN 406-001"
-    }
-  }
+  "sections": {}
 }

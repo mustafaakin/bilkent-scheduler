@@ -1,84 +1,23 @@
 {
   "name": "Signals and Systems",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
-    "hybrid": 2,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 2
   },
   "credits": {
-    "bilkent": 4,
-    "ECTS": 6.5
+    "bilkent": 0,
+    "ECTS": 4
   },
   "code": "EEE 321",
   "sections": {
     "EEE 321-001": {
-      "instructor": "Haldun Özaktaş",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "EE-05(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "EE-05",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EE-211",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EE-211",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EE-211(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "EE-05",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "EE-05",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "EEE 321-001"
-    },
-    "EEE 321-002": {
-      "instructor": "Haldun Özaktaş",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "instructor": "Levent Onural",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -88,50 +27,97 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-05",
-          "class": "Hybrid Lecture"
+          "place": "EE-412(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-05(S)",
-          "class": "Hybrid Lecture"
+          "place": "EE-412",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-412",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EE-412",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "EEE 321-001"
+    },
+    "EEE 321-002": {
+      "instructor": "Levent Onural",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EE-412(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EE-412",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-211",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-211",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-211(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "EE-412",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "EE-05",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "EE-05",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EE-412",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 321-002"

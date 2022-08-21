@@ -1,98 +1,17 @@
 {
   "name": "Precis Writing in English-French",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 4
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "TRIN 337",
-  "sections": {
-    "TRIN 337-001": {
-      "instructor": "Barbara Gülen  Neda Siami",
-      "quota": "22 Mand. or Elect.",
-      "total_quota": 22,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "LB-Z09",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "LB-Z09",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "LB-Z09",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "LB-Z09",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "TRIN 337-001"
-    },
-    "TRIN 337-002": {
-      "instructor": "Barbara Gülen  Neda Siami",
-      "quota": "22 Mand. or Elect.",
-      "total_quota": 22,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "LA-101",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "TRIN 337-002"
-    }
-  }
+  "sections": {}
 }

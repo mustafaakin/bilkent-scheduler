@@ -1,51 +1,17 @@
 {
   "name": "Production and Operations Management",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MBA 542",
-  "sections": {
-    "MBA 542-001": {
-      "instructor": "Eyüp Emre Berk",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "MA-305",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "19:30",
-          "end": "20:10",
-          "place": "MA-305",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "MA-305",
-          "class": "Hybrid Lecture"
-        }
-      ],
-      "name": "MBA 542-001"
-    }
-  }
+  "sections": {}
 }

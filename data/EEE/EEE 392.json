@@ -1,0 +1,17 @@
+{
+  "name": "Individual Research Study",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": null,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "EEE 392",
+  "sections": {}
+}

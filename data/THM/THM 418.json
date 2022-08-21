@@ -2,15 +2,15 @@
   "name": "Senior Project",
   "lectureHours": {
     "hybrid": 0,
-    "online": 0
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "THM 418",
   "sections": {}

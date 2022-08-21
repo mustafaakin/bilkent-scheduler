@@ -1,58 +1,17 @@
 {
   "name": "Governance and Public Policy",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "POLS 465",
-  "sections": {
-    "POLS 465-001": {
-      "instructor": "Staff",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-Z06(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-Z06",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "B-Z06",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "B-Z06",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "POLS 465-001"
-    }
-  }
+  "sections": {}
 }

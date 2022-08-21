@@ -1,16 +1,16 @@
 {
   "name": "Fundamentals of Musicianship I",
   "lectureHours": {
-    "hybrid": 1,
+    "hybrid": 0,
     "online": 0
   },
   "labStudioOthersHours": {
     "hybrid": 0,
-    "faceToFace": 0
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 0.5
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "MSC 121",
   "sections": {}

@@ -1,0 +1,98 @@
+{
+  "name": "Introduction to Sculpture I",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 3
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "FA 215",
+  "sections": {
+    "FA 215-001": {
+      "instructor": "Ercan Sağlam",
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FC-123(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FC-123",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FC-123",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FC-123",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "FA 215-001"
+    },
+    "FA 215-002": {
+      "instructor": "Ercan Sağlam",
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FC-123",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FC-123",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FC-123",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FC-123(S)",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "FA 215-002"
+    }
+  }
+}

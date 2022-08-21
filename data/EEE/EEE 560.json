@@ -1,16 +1,16 @@
 {
   "name": "Nanoengineering and Nanodevices",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
-    "hybrid": 1,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 1
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "EEE 560",
   "sections": {
@@ -24,32 +24,32 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-Z04(S)",
-          "class": "Hybrid Lecture"
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EE-517(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-Z04",
-          "class": "Hybrid Lecture"
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EE-517",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "B-Z04",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-517",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "B-Z04",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EE-517",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 560-001"

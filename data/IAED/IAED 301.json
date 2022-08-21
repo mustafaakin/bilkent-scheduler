@@ -1,23 +1,23 @@
 {
   "name": "Interior Design Studio III",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 2
   },
   "labStudioOthersHours": {
-    "hybrid": 6,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 6
   },
   "credits": {
-    "bilkent": 6,
-    "ECTS": 8.5
+    "bilkent": 0,
+    "ECTS": 6
   },
   "code": "IAED 301",
   "sections": {
     "IAED 301-001": {
-      "instructor": "Burçak Altay",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
+      "instructor": "Elif Erdemir Türkkan",
+      "quota": "14 Mand. or Elect.",
+      "total_quota": 14,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,67 +25,81 @@
       "schedule": [
         {
           "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-106(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "place": "FF-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-106(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IAED 301-001"
     },
     "IAED 301-002": {
-      "instructor": "Necmiye Şule Aybar",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
+      "instructor": "Sibel Ertez Ural",
+      "quota": "14 Mand. or Elect.",
+      "total_quota": 14,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -93,67 +107,81 @@
       "schedule": [
         {
           "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-106(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "place": "FF-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-106(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IAED 301-002"
     },
     "IAED 301-003": {
-      "instructor": "Giuseppe Resta",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
+      "instructor": "Yunus Altay",
+      "quota": "14 Mand. or Elect.",
+      "total_quota": 14,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -161,67 +189,81 @@
       "schedule": [
         {
           "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-105(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "place": "FF-105",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-105(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IAED 301-003"
     },
     "IAED 301-004": {
-      "instructor": "Tijen Sonkan Türkkan",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
+      "instructor": "Andre Naghi Lopes Dos Santos Nouri",
+      "quota": "14 Mand. or Elect.",
+      "total_quota": 14,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -229,67 +271,81 @@
       "schedule": [
         {
           "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-105(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "place": "FF-105",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-105(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IAED 301-004"
     },
     "IAED 301-005": {
-      "instructor": "Deniz Avcı Hosanlı",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
+      "instructor": "Merve Aslı Hetemoğlu",
+      "quota": "14 Mand. or Elect.",
+      "total_quota": 14,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -297,67 +353,81 @@
       "schedule": [
         {
           "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-101(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-101",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-101",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "place": "FF-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-101",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-101",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-101",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-101",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-101(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IAED 301-005"
     },
     "IAED 301-006": {
-      "instructor": "Serpil Özaloğlu",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
+      "instructor": "Alper Küçük",
+      "quota": "14 Mand. or Elect.",
+      "total_quota": 14,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -365,59 +435,73 @@
       "schedule": [
         {
           "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-101(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-101",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-101",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "place": "FF-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-101",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-101",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-101",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-101",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-101(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IAED 301-006"

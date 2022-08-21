@@ -1,0 +1,58 @@
+{
+  "name": "Chemistry for the Society and Planet",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": null,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "CHEM 111",
+  "sections": {
+    "CHEM 111-001": {
+      "instructor": "Emrah Özensoy",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CHEM 111-001"
+    }
+  }
+}

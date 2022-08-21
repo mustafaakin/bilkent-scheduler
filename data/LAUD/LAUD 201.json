@@ -1,23 +1,23 @@
 {
   "name": "Design Studio I:Site Design",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 2
   },
   "labStudioOthersHours": {
-    "hybrid": 8,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 8
   },
   "credits": {
-    "bilkent": 6,
-    "ECTS": 8.5
+    "bilkent": 0,
+    "ECTS": 6
   },
   "code": "LAUD 201",
   "sections": {
     "LAUD 201-001": {
-      "instructor": "Hatice Karaca",
-      "quota": "12 Mand. or Elect.",
-      "total_quota": 12,
+      "instructor": "Gizem Karabay Can",
+      "quota": "0 Mand. or Elect.",
+      "total_quota": 0,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,57 +27,71 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "place": "FA-317",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FA-317",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FA-317",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "LAUD 201-001"

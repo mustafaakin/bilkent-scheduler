@@ -1,0 +1,17 @@
+{
+  "name": "Chamber Music IV",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 2
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 2
+  },
+  "code": "MSC 234",
+  "sections": {}
+}

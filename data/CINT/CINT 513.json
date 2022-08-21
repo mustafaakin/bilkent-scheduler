@@ -1,0 +1,79 @@
+{
+  "name": "Advanced Simultaneous Interpreting I",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 5
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 6
+  },
+  "code": "CINT 513",
+  "sections": {
+    "CINT 513-001": {
+      "instructor": "Staff",
+      "quota": "3 Mand. or Elect.",
+      "total_quota": 3,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CINT 513-001"
+    }
+  }
+}

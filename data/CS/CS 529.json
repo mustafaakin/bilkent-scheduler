@@ -1,0 +1,58 @@
+{
+  "name": "Dynamic and Social Network Analysis",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": null,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "CS 529",
+  "sections": {
+    "CS 529-001": {
+      "instructor": "Staff",
+      "quota": "10 Mand. or Elect.",
+      "total_quota": 10,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "(S)",
+          "class": "Online/Hybrid Lecture"
+        }
+      ],
+      "name": "CS 529-001"
+    }
+  }
+}

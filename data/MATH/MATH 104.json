@@ -1,21 +1,61 @@
 {
   "name": "Thinking Mathematically II",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MATH 104",
   "sections": {
     "MATH 104-001": {
-      "instructor": "Fatma Güliz Esen",
+      "instructor": "Fatma Güliz Bolat",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 104-001"
+    },
+    "MATH 104-002": {
+      "instructor": "Fatma Güliz Bolat",
       "quota": "58 Mand. 0 Elect.",
       "total_quota": 58,
       "enrollment": {
@@ -27,69 +67,29 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-125",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-125(S)",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "A-125",
-          "class": "Online Only Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "A-125",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "MATH 104-001"
-    },
-    "MATH 104-002": {
-      "instructor": "Özgün Ünlü",
-      "quota": "55 Mand. 0 Elect.",
-      "total_quota": 55,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-112(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-112",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "B-112",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "B-112",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 104-002"

@@ -1,58 +1,17 @@
 {
   "name": "Contemporary Issues in Turkish Economy I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "ECON 409",
-  "sections": {
-    "ECON 409-001": {
-      "instructor": "Ali Hakan Kara",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "A-229",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "A-229(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "A-229",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "A-229",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ECON 409-001"
-    }
-  }
+  "sections": {}
 }

@@ -1,17 +1,58 @@
 {
   "name": "Metaphysics",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "PHIL 401",
-  "sections": {}
+  "sections": {
+    "PHIL 401-001": {
+      "instructor": "Yehezkel S. Berkovski",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "H-336(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "H-336",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "H-336",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "H-336",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PHIL 401-001"
+    }
+  }
 }

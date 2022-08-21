@@ -1,16 +1,16 @@
 {
   "name": "Advanced English Grammar I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "ENG 117",
   "sections": {
@@ -24,195 +24,35 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "17:40",
-          "end": "18:30",
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "18:40",
-          "end": "19:30",
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 117-001"
-    },
-    "ENG 117-002": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ENG 117-002"
-    },
-    "ENG 117-003": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ENG 117-003"
-    },
-    "ENG 117-004": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ENG 117-004"
-    },
-    "ENG 117-005": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "ENG 117-005"
     }
   }
 }

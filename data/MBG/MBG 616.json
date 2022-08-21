@@ -5,12 +5,12 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 12,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 12
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MBG 616",
   "sections": {}

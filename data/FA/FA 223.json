@@ -5,19 +5,19 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "FA 223",
   "sections": {
     "FA 223-001": {
       "instructor": "Elvan Serin",
-      "quota": "10 Mand. or Elect.",
-      "total_quota": 10,
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,30 +27,37 @@
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FC-223",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FC-223",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FC-223",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FC-223(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "FA 223-001"
     },
     "FA 223-002": {
       "instructor": "Elvan Serin",
-      "quota": "10 Mand. or Elect.",
-      "total_quota": 10,
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -60,22 +67,29 @@
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FC-223",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FC-223",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FC-223",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FC-223(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "FA 223-002"

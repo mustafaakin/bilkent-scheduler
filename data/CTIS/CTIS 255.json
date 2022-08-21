@@ -1,138 +1,17 @@
 {
-  "name": "Web Technologies I",
+  "name": "Frontend Web Technologies",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "CTIS 255",
-  "sections": {
-    "CTIS 255-001": {
-      "instructor": "Serkan Genç",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "C-216(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "C-216",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "C-216",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "C-216",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CTIS 255-001"
-    },
-    "CTIS 255-002": {
-      "instructor": "Serkan Genç",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "CE-107(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "CE-107",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "CE-107",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "CE-107",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CTIS 255-002"
-    },
-    "CTIS 255-003": {
-      "instructor": "Serkan Genç",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "C-216",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "C-216(S)",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "C-216",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "C-216",
-          "class": "Online Only Lecture"
-        }
-      ],
-      "name": "CTIS 255-003"
-    }
-  }
+  "sections": {}
 }

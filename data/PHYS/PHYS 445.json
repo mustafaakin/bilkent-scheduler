@@ -1,21 +1,21 @@
 {
   "name": "Condensed Matter Physics I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "PHYS 445",
   "sections": {
     "PHYS 445-001": {
-      "instructor": "Oğuz Gülseren",
+      "instructor": "Staff",
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
@@ -27,29 +27,29 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "SA-Z04(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "SA-Z04",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "SA-Z04",
-          "class": "Online Only Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "SA-Z04",
-          "class": "Online Only Lecture"
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PHYS 445-001"

@@ -1,55 +1,55 @@
 {
-  "name": "Introduction to Hotel Operations",
+  "name": "Introduction to Tourism and Hospitality in the Digital Age",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "THM 125",
   "sections": {
     "THM 125-001": {
       "instructor": "Esin Şenol",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "10 Mand. or Elect.",
+      "total_quota": 10,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "RB-202",
-          "class": "Hybrid Lecture"
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "RB-202(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
           "place": "RB-202",
-          "class": "Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "20:00",
-          "end": "20:50",
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "RB-202",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "21:00",
-          "end": "21:50",
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "RB-202",
-          "class": "Online Only Lecture"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "THM 125-001"

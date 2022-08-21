@@ -1,0 +1,98 @@
+{
+  "name": "Introduction to Translation in French",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "TRIN 111",
+  "sections": {
+    "TRIN 111-001": {
+      "instructor": "Cenk Cangır",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "LD-4(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "LD-4",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "LD-4",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "LD-4",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "TRIN 111-001"
+    },
+    "TRIN 111-002": {
+      "instructor": "Cenk Cangır",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "LD-4(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "LD-4",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "LD-4",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "LD-4",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "TRIN 111-002"
+    }
+  }
+}

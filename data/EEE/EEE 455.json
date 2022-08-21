@@ -1,55 +1,55 @@
 {
   "name": "Power System Analysis and Design",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "EEE 455",
   "sections": {
     "EEE 455-001": {
       "instructor": "Ayhan Altıntaş",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EB-102(S)",
-          "class": "Hybrid Lecture"
+          "place": "EE-317(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EB-102",
-          "class": "Hybrid Lecture"
+          "place": "EE-317",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "EB-102",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EE-317",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "EB-102",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EE-317",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 455-001"

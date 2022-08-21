@@ -1,95 +1,95 @@
 {
   "name": "Introduction to Psychology I / Cognitive and Biological",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "PSYC 101",
   "sections": {
     "PSYC 101-001": {
-      "instructor": "Michelle Marie Adams",
-      "quota": "55 Mand. 0 Elect.",
-      "total_quota": 55,
+      "instructor": "Burcu Ayşen Ürgen",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "T-173",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "T-173(S)",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "T-173",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "T-173",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PSYC 101-001"
     },
     "PSYC 101-002": {
-      "instructor": "Burcu Ayşen Ürgen",
-      "quota": "55 Mand. 0 Elect.",
-      "total_quota": 55,
+      "instructor": "Kaan Kerman",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "T-172",
-          "class": "Hybrid Lecture"
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "T-172(S)",
-          "class": "Hybrid Lecture"
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "T-172",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "T-172",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PSYC 101-002"

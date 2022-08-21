@@ -2,16 +2,43 @@
   "name": "Thesis Seminar I",
   "lectureHours": {
     "hybrid": 0,
-    "online": 0
+    "online": 2
   },
   "labStudioOthersHours": {
-    "hybrid": 1,
+    "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": null,
-    "ECTS": 1
+    "bilkent": 0,
+    "ECTS": null
   },
   "code": "PHIL 591",
-  "sections": {}
+  "sections": {
+    "PHIL 591-001": {
+      "instructor": "Staff",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "H-336",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "H-336",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PHIL 591-001"
+    }
+  }
 }

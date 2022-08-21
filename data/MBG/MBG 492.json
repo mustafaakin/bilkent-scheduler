@@ -5,12 +5,12 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 6,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 6
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MBG 492",
   "sections": {}

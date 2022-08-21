@@ -1,21 +1,21 @@
 {
   "name": "Criminal Procedure",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "LAW 411",
   "sections": {
     "LAW 411-001": {
-      "instructor": "Sami Selçuk",
+      "instructor": "Haluk Toroslu",
       "quota": "0 Mand. or Elect.",
       "total_quota": 0,
       "enrollment": {
@@ -24,32 +24,32 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "V-01(S)",
-          "class": "Hybrid Lecture"
+          "place": "V-03(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "V-01",
-          "class": "Hybrid Lecture"
+          "place": "V-03",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "V-01",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "V-03",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "V-01",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "V-03",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LAW 411-001"
@@ -64,32 +64,32 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "V-01(S)",
-          "class": "Hybrid Lecture"
+          "place": "B-203(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "V-01",
-          "class": "Hybrid Lecture"
+          "place": "B-203",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "V-01",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-203",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "V-01",
-          "class": "Online Only Lecture"
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-203",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LAW 411-002"

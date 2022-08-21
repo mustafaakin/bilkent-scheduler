@@ -1,22 +1,22 @@
 {
   "name": "Complex Analysis",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MATH 202",
   "sections": {
     "MATH 202-001": {
-      "instructor": "Alexander Degtyarev",
-      "quota": "35 Mand. 10 Elect.",
+      "instructor": "Türker Özsarı",
+      "quota": "45 Mand. 0 Elect.",
       "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
@@ -27,29 +27,29 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "SA-Z04",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "SA-Z04(S)",
-          "class": "Hybrid Lecture"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "SA-Z04",
-          "class": "Online Only Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "SA-Z04",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 202-001"

@@ -1,16 +1,16 @@
 {
   "name": "Ear Training for Non-Majors I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 2
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 2,
-    "ECTS": 3.5
+    "bilkent": 0,
+    "ECTS": 2
   },
   "code": "MSC 105",
   "sections": {}

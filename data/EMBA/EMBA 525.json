@@ -1,135 +1,17 @@
 {
   "name": "Managing Systems Effectively",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 4
+    "hybrid": 0,
+    "online": 6
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "EMBA 525",
-  "sections": {
-    "EMBA 525-001": {
-      "instructor": "Eyüp Emre Berk",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Saturday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Saturday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Saturday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Saturday",
-          "start": "12:20",
-          "end": "13:30",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "MA-305",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Saturday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "MA-305",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Saturday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "MA-305",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Saturday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "16:20",
-          "end": "17:40",
-          "place": "MA-305",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Saturday",
-          "start": "16:20",
-          "end": "17:40",
-          "place": "",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "MA-305",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "MA-305",
-          "class": "Hybrid Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "19:30",
-          "end": "20:10",
-          "place": "MA-305",
-          "class": "Hybrid Lecture"
-        }
-      ],
-      "name": "EMBA 525-001"
-    }
-  }
+  "sections": {}
 }

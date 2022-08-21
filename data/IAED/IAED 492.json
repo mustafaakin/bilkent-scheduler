@@ -5,12 +5,12 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "IAED 492",
   "sections": {
@@ -25,24 +25,31 @@
       "schedule": [
         {
           "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-312(S)",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-312",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-312",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-312",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IAED 492-001"

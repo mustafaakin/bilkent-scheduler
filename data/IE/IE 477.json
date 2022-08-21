@@ -1,21 +1,21 @@
 {
-  "name": "Production Systems Design-Synthesis",
+  "name": "Systems Design - Analysis",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 2,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 6.5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "IE 477",
   "sections": {
     "IE 477-001": {
-      "instructor": "Nesim Kohen Erkip",
+      "instructor": "Ayşe Selin Kocaman",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
@@ -24,25 +24,32 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "MCORUH",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "MCORUH",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "MCORUH",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "MCORUH(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IE 477-001"
@@ -57,25 +64,32 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "MCORUH",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "MCORUH",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "MCORUH",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "MCORUH(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IE 477-002"
@@ -90,25 +104,32 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "MCORUH",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "MCORUH",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "MCORUH",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "MCORUH(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IE 477-003"

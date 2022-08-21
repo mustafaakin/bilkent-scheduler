@@ -1,55 +1,55 @@
 {
   "name": "Landscape Ecology Studio",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 2
   },
   "labStudioOthersHours": {
-    "hybrid": 2,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 2
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "LAUD 481",
   "sections": {
     "LAUD 481-001": {
       "instructor": "Kumru Arapgirlioğlu",
-      "quota": "10 Mand. or Elect.",
-      "total_quota": 10,
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-313",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-313",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-313",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FA-313",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "LAUD 481-001"

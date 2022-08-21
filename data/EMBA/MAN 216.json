@@ -1,55 +1,55 @@
 {
   "name": "Elements of Finance",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "MAN 216",
   "sections": {
     "MAN 216-001": {
-      "instructor": "Barış İnce",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "instructor": "Staff",
+      "quota": "40 Mand. 5 Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "MA-201",
-          "class": "Hybrid Lecture"
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-114(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MA-201(S)",
-          "class": "Hybrid Lecture"
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-114",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "MA-201",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-114",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "MA-201",
-          "class": "Online Only Lecture"
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-114",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MAN 216-001"

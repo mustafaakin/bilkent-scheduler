@@ -1,55 +1,55 @@
 {
   "name": "Selected Topics in Cognitive Science",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 2
+    "hybrid": 0,
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "PSYC 423",
   "sections": {
     "PSYC 423-001": {
       "instructor": "Jedediah Wilfred Papas Allen",
-      "quota": "0 Mand. 45 Elect.",
-      "total_quota": 45,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "T-172(S)",
-          "class": "Hybrid Lecture"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "T-172",
-          "class": "Hybrid Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "17:30",
-          "end": "18:20",
-          "place": "T-172",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:30",
-          "end": "19:20",
-          "place": "T-172",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PSYC 423-001"

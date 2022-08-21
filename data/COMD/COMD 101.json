@@ -1,23 +1,23 @@
 {
   "name": "Visual Communication Design I",
   "lectureHours": {
-    "hybrid": 1,
-    "online": 1
+    "hybrid": 0,
+    "online": 2
   },
   "labStudioOthersHours": {
-    "hybrid": 8,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 8
   },
   "credits": {
-    "bilkent": 6,
-    "ECTS": 8.5
+    "bilkent": 0,
+    "ECTS": 6
   },
   "code": "COMD 101",
   "sections": {
     "COMD 101-001": {
       "instructor": "Jülide Akşiyote Görür",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,79 +27,79 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 101-001"
     },
     "COMD 101-002": {
       "instructor": "Jülide Akşiyote Görür",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -109,79 +109,79 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-Z17",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 101-002"
     },
     "COMD 101-003": {
       "instructor": "Maria Helena Brzozowska",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -191,79 +191,79 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "",
-          "class": "Online Only Lecture"
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FB-114",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FB-114",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 101-003"
     },
     "COMD 101-004": {
-      "instructor": "Funda Şenova Tunalı",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "instructor": "Maria Helena Brzozowska",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -273,71 +273,71 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FB-114",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lecture"
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FB-114",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "",
-          "class": "Online Only Lecture"
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FB-114",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 101-004"

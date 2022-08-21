@@ -1,23 +1,23 @@
 {
   "name": "Dynamics and Control I",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 2
+    "hybrid": 0,
+    "online": 4
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 4,
-    "ECTS": 6.5
+    "bilkent": 0,
+    "ECTS": 4
   },
   "code": "ME 341",
   "sections": {
     "ME 341-001": {
       "instructor": "Melih Çakmakcı",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,37 +27,37 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z05",
-          "class": "Hybrid Lecture"
+          "place": "EA-Z03",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z05",
-          "class": "Hybrid Lecture"
+          "place": "EA-Z03",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "B-Z05",
-          "class": "Online Only Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EA-Z03",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "B-Z05",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EA-Z03",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ME 341-001"
     },
     "ME 341-002": {
       "instructor": "Sami Turgut Tümer",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -65,31 +65,31 @@
       "schedule": [
         {
           "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-204",
-          "class": "Hybrid Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EB-103",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EB-103",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-204",
-          "class": "Hybrid Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EB-103",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "20:00",
-          "end": "20:50",
-          "place": "B-204",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "21:00",
-          "end": "21:50",
-          "place": "B-204",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EB-103",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ME 341-002"

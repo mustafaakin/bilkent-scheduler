@@ -5,82 +5,13 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 4,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 4
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "THR 205",
-  "sections": {
-    "THR 205-001": {
-      "instructor": "Halim Şener",
-      "quota": "4 Mand. 0 Elect.",
-      "total_quota": 4,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        }
-      ],
-      "name": "THR 205-001"
-    }
-  }
+  "sections": {}
 }

@@ -1,0 +1,17 @@
+{
+  "name": "Turkish for Translators",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 2
+  },
+  "code": "TRIN 191",
+  "sections": {}
+}
