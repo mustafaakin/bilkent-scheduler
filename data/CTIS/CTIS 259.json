@@ -13,5 +13,246 @@
     "ECTS": 4
   },
   "code": "CTIS 259",
-  "sections": {}
+  "sections": {
+    "CTIS 259-001": {
+      "instructor": "Nimet Ceren Serim",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "CE-106(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 259-001"
+    },
+    "CTIS 259-002": {
+      "instructor": "Nimet Ceren Serim",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CE-106(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 259-002"
+    },
+    "CTIS 259-003": {
+      "instructor": "Nimet Ceren Serim",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "CE-107(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "CE-107",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "CE-107",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CE-107",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 259-003"
+    },
+    "CTIS 259-004": {
+      "instructor": "Nimet Ceren Serim",
+      "quota": "6 Mand. 0 Elect.",
+      "total_quota": 6,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "CE-106(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 259-004"
+    },
+    "CTIS 259-005": {
+      "instructor": "Nimet Ceren Serim",
+      "quota": "6 Mand. 0 Elect.",
+      "total_quota": 6,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CE-106(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 259-005"
+    },
+    "CTIS 259-006": {
+      "instructor": "Nimet Ceren Serim",
+      "quota": "6 Mand. 0 Elect.",
+      "total_quota": 6,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "CE-107(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "CE-107",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "CE-107",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CE-107",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 259-006"
+    }
+  }
 }

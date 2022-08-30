@@ -13,5 +13,137 @@
     "ECTS": 3
   },
   "code": "EMBA 535",
-  "sections": {}
+  "sections": {
+    "EMBA 535-001": {
+      "instructor": "Banu Sultanoğlu",
+      "quota": "32 Mand. or Elect.",
+      "total_quota": 32,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Saturday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Saturday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Saturday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "12:30",
+          "end": "13:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Saturday",
+          "start": "12:30",
+          "end": "13:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Saturday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Saturday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Saturday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Saturday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Saturday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "EMBA 535-001"
+    }
+  }
 }

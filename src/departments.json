@@ -24,11 +24,6 @@
     "name": "Banking and Finance",
     "faculty": "School of Applied Languages"
   },
-  "BIM": {
-    "id": "BIM",
-    "name": "Business Information Management",
-    "faculty": "School of Applied Technology and Management"
-  },
   "BTE": {
     "id": "BTE",
     "name": "Curriculum and Instruction with Teaching Certificate",
@@ -67,7 +62,7 @@
   "CTIS": {
     "id": "CTIS",
     "name": "Information Systems and Technologies",
-    "faculty": "School of Applied Technology and Management"
+    "faculty": "Faculty of Applied Sciences"
   },
   "ECON": {
     "id": "ECON",
@@ -302,7 +297,7 @@
   "THM": {
     "id": "THM",
     "name": "Tourism and Hotel Management",
-    "faculty": "School of Applied Technology and Management"
+    "faculty": "Faculty of Applied Sciences"
   },
   "THR": {
     "id": "THR",

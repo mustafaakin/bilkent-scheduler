@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "THR 203",
-  "sections": {}
+  "sections": {
+    "THR 203-001": {
+      "instructor": "Staff",
+      "quota": "0 Mand. 0 Elect.",
+      "total_quota": 0,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "THR 203-001"
+    }
+  }
 }

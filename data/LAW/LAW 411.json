@@ -16,8 +16,8 @@
   "sections": {
     "LAW 411-001": {
       "instructor": "Haluk Toroslu",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "110 Mand. or Elect.",
+      "total_quota": 110,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "LAW 411-002": {
       "instructor": "Devrim Güngör",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -67,28 +67,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-203(S)",
+          "place": "B-113(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-203",
+          "place": "B-113",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-203",
+          "place": "B-113",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-203",
+          "place": "B-113",
           "class": "Face-to-Face Lecture"
         }
       ],

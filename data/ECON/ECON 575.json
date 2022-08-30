@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "ECON 575",
-  "sections": {}
+  "sections": {
+    "ECON 575-001": {
+      "instructor": "Burçin Kısacıkoğlu",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-227(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-227",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-227",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-227",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 575-001"
+    }
+  }
 }

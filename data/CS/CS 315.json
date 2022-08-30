@@ -16,8 +16,8 @@
   "sections": {
     "CS 315-001": {
       "instructor": "H. Altay Güvenir",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "CS 315-002": {
       "instructor": "Aynur Dayanık",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "CS 315-003": {
       "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

@@ -16,8 +16,8 @@
   "sections": {
     "HART 221-001": {
       "instructor": "Julian Bennett",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "HART 221-002": {
       "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

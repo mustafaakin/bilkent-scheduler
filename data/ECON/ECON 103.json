@@ -93,6 +93,126 @@
         }
       ],
       "name": "ECON 103-002"
+    },
+    "ECON 103-003": {
+      "instructor": "Halil Baha Karabudak",
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-114",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-114",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-114",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-114",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 103-003"
+    },
+    "ECON 103-004": {
+      "instructor": "Halil Baha Karabudak",
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 103-004"
+    },
+    "ECON 103-005": {
+      "instructor": "Halil Baha Karabudak",
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "G-140",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 103-005"
     }
   }
 }

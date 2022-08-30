@@ -34,7 +34,7 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "V-02(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -48,7 +48,7 @@
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-02",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -69,14 +69,14 @@
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-02",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-02",
           "class": "Face-to-Face Lecture"
         }
       ],

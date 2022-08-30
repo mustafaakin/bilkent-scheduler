@@ -16,8 +16,8 @@
   "sections": {
     "IAED 351-001": {
       "instructor": "Murat Özdamar",
-      "quota": "35 Mand. or Elect.",
-      "total_quota": 35,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "IAED 351-002": {
       "instructor": "Çiler Gözde Gül Günday",
-      "quota": "35 Mand. or Elect.",
-      "total_quota": 35,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "IAED 351-003": {
       "instructor": "Staff",
-      "quota": "35 Mand. or Elect.",
-      "total_quota": 35,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

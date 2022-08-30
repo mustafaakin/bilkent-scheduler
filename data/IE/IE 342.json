@@ -15,8 +15,8 @@
   "code": "IE 342",
   "sections": {
     "IE 342-001": {
-      "instructor": "Staff",
-      "quota": "65 Mand. or Elect.",
+      "instructor": "Arnab Basu",
+      "quota": "40 Mand. 25 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
@@ -55,8 +55,8 @@
       "name": "IE 342-001"
     },
     "IE 342-002": {
-      "instructor": "Arnab Basu",
-      "quota": "65 Mand. or Elect.",
+      "instructor": "Staff",
+      "quota": "40 Mand. 25 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,

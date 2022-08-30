@@ -16,8 +16,8 @@
   "sections": {
     "LAW 105-001": {
       "instructor": "Osman B. Gürzumar",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "85 Mand. or Elect.",
+      "total_quota": 85,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "LAW 105-002": {
       "instructor": "Osman B. Gürzumar",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "85 Mand. or Elect.",
+      "total_quota": 85,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

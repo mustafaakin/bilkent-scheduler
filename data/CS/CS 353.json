@@ -16,8 +16,8 @@
   "sections": {
     "CS 353-001": {
       "instructor": "Özgür Ulusoy",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "CS 353-002": {
       "instructor": "Özgür Ulusoy",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

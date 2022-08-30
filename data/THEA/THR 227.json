@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "THR 227",
-  "sections": {}
+  "sections": {
+    "THR 227-001": {
+      "instructor": "Hande Vural Johnson",
+      "quota": "0 Mand. 0 Elect.",
+      "total_quota": 0,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "THR 227-001"
+    }
+  }
 }

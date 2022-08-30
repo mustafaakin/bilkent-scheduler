@@ -16,8 +16,8 @@
   "sections": {
     "LAW 403-001": {
       "instructor": "Pınar Çağlayan Aksoy",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "V-01(S)",
+          "place": "B-203(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "V-01",
+          "place": "B-203",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "V-01",
+          "place": "B-203",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "V-01",
+          "place": "B-203",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,8 +56,8 @@
     },
     "LAW 403-002": {
       "instructor": "Pınar Çağlayan Aksoy",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "100 Mand. or Elect.",
+      "total_quota": 100,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

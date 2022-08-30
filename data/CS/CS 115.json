@@ -27,7 +27,7 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -41,7 +41,7 @@
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -55,14 +55,14 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -109,21 +109,21 @@
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -137,7 +137,7 @@
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -184,7 +184,7 @@
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -198,21 +198,21 @@
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -245,7 +245,7 @@
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -259,7 +259,7 @@
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -273,14 +273,14 @@
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -299,7 +299,7 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -313,7 +313,7 @@
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -327,14 +327,14 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -367,14 +367,14 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -388,7 +388,7 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -402,7 +402,7 @@
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -435,21 +435,21 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -463,7 +463,7 @@
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -524,7 +524,7 @@
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -538,21 +538,21 @@
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

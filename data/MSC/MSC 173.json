@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "MSC 173",
-  "sections": {}
+  "sections": {
+    "MSC 173-001": {
+      "instructor": "Onur Türkmen",
+      "quota": "12 Mand. 4 Elect.",
+      "total_quota": 16,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "P-250",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "P-250",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "P-250",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "P-250",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MSC 173-001"
+    }
+  }
 }

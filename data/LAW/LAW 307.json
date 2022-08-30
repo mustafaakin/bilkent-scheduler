@@ -16,8 +16,8 @@
   "sections": {
     "LAW 307-001": {
       "instructor": "Hamdi Pınar",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "120 Mand. or Elect.",
+      "total_quota": 120,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "LAW 307-002": {
       "instructor": "Aslı Elif Gürbüz Usluel",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

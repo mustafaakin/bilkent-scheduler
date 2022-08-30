@@ -16,39 +16,39 @@
   "sections": {
     "IR 227-001": {
       "instructor": "Serdar Ş. Güner",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "50 Mand. 5 Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "B-Z06(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-Z06",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-Z06",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-Z06",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,39 +56,39 @@
     },
     "IR 227-002": {
       "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "50 Mand. 5 Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "B-Z07(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "B-Z07",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "B-Z07",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "B-Z07",
           "class": "Face-to-Face Lecture"
         }
       ],

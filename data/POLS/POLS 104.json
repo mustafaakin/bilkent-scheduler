@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "T-173(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "T-173",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "T-173",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "T-173",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -67,28 +67,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "A-329(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "A-329",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "A-329",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "A-329",
           "class": "Face-to-Face Lecture"
         }
       ],

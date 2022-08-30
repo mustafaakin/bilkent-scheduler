@@ -13,5 +13,166 @@
     "ECTS": 3
   },
   "code": "ADA 265",
-  "sections": {}
+  "sections": {
+    "ADA 265-001": {
+      "instructor": "Staff",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FC-Z23C(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FC-Z23C",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FC-Z23C",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FC-Z23C",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ADA 265-001"
+    },
+    "ADA 265-002": {
+      "instructor": "Staff",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FC-Z23D(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FC-Z23D",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FC-Z23D",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FC-Z23D",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ADA 265-002"
+    },
+    "ADA 265-003": {
+      "instructor": "Staff",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FC-Z13(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FC-Z13",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FC-Z13",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FC-Z13",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ADA 265-003"
+    },
+    "ADA 265-004": {
+      "instructor": "Staff",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FC-Z23B(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FC-Z23B",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FC-Z23B",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FC-Z23B",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ADA 265-004"
+    }
+  }
 }

@@ -16,8 +16,8 @@
   "sections": {
     "IR 101-001": {
       "instructor": "Seçkin Köstem",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "20 Mand. 4 Elect.",
+      "total_quota": 24,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,35 +27,35 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "V-04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "B-103",
           "class": "Recitation"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -63,8 +63,8 @@
     },
     "IR 101-002": {
       "instructor": "Seçkin Köstem",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "20 Mand. 4 Elect.",
+      "total_quota": 24,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -74,35 +74,35 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "V-04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "B-103",
           "class": "Recitation"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -110,8 +110,8 @@
     },
     "IR 101-003": {
       "instructor": "Seçkin Köstem",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "20 Mand. 4 Elect.",
+      "total_quota": 24,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -121,35 +121,35 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "V-04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-103",
           "class": "Recitation"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -157,8 +157,8 @@
     },
     "IR 101-004": {
       "instructor": "Seçkin Köstem",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "20 Mand. 4 Elect.",
+      "total_quota": 24,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -168,35 +168,35 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "V-04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-103",
           "class": "Recitation"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -204,8 +204,8 @@
     },
     "IR 101-005": {
       "instructor": "Seçkin Köstem",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "20 Mand. 4 Elect.",
+      "total_quota": 24,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -215,35 +215,35 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "V-04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "B-103",
           "class": "Recitation"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -251,8 +251,8 @@
     },
     "IR 101-006": {
       "instructor": "Seçkin Köstem",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "20 Mand. 4 Elect.",
+      "total_quota": 24,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -262,35 +262,35 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "V-04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "B-103",
           "class": "Recitation"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -298,8 +298,8 @@
     },
     "IR 101-007": {
       "instructor": "Seçkin Köstem",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "20 Mand. 4 Elect.",
+      "total_quota": 24,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -309,35 +309,35 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "V-04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-103",
           "class": "Recitation"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -345,8 +345,8 @@
     },
     "IR 101-008": {
       "instructor": "Seçkin Köstem",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "20 Mand. 4 Elect.",
+      "total_quota": 24,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -356,35 +356,35 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "V-04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-103",
           "class": "Recitation"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],

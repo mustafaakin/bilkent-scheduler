@@ -16,8 +16,8 @@
   "sections": {
     "LAW 554-001": {
       "instructor": "Şemsi Barış Özçelik",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "B-105(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-105",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-105",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-105",
           "class": "Face-to-Face Lecture"
         }
       ],

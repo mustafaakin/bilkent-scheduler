@@ -16,8 +16,48 @@
   "sections": {
     "PSYC 204-001": {
       "instructor": "Miri Besken",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "quota": "40 Mand. 0 Elect.",
+      "total_quota": 40,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-125(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-125",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "A-125",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "A-125",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PSYC 204-001"
+    },
+    "PSYC 204-002": {
+      "instructor": "Hande Ilgaz",
+      "quota": "40 Mand. 0 Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -52,7 +92,7 @@
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "PSYC 204-001"
+      "name": "PSYC 204-002"
     }
   }
 }

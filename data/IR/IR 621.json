@@ -13,5 +13,46 @@
     "ECTS": 4
   },
   "code": "IR 621",
-  "sections": {}
+  "sections": {
+    "IR 621-001": {
+      "instructor": "İhsan Efe Tokdemir",
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-331(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-331",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "A-331",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "A-331",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "IR 621-001"
+    }
+  }
 }

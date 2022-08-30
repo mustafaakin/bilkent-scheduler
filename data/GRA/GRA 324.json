@@ -25,6 +25,46 @@
       "schedule": [
         {
           "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FB-209(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FB-209",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FB-209",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FB-209",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "GRA 324-001"
+    },
+    "GRA 324-002": {
+      "instructor": "Murad Gürzumar",
+      "quota": "18 Mand. or Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "FB-209",
@@ -52,7 +92,7 @@
           "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "GRA 324-001"
+      "name": "GRA 324-002"
     }
   }
 }

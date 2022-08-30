@@ -15,7 +15,7 @@
   "code": "LAW 377",
   "sections": {
     "LAW 377-001": {
-      "instructor": "Staff",
+      "instructor": "Işıl Selen Denemeç  Yavuz Selim Günay",
       "quota": "65 Mand. or Elect.",
       "total_quota": 65,
       "enrollment": {
@@ -27,28 +27,28 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-140(S)",
+          "place": "B-114(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-140",
+          "place": "B-114",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-140",
+          "place": "B-114",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-140",
+          "place": "B-114",
           "class": "Face-to-Face Lecture"
         }
       ],

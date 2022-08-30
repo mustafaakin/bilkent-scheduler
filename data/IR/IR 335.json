@@ -16,8 +16,8 @@
   "sections": {
     "IR 335-001": {
       "instructor": "Tore Fougner",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "50 Mand. 5 Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,30 +25,30 @@
       "schedule": [
         {
           "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-111(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-111",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-111",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-111",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,39 +56,39 @@
     },
     "IR 335-002": {
       "instructor": "Dimitrios Akrivoulis",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "50 Mand. 5 Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "T-272(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "T-272",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "T-272",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "T-272",
           "class": "Face-to-Face Lecture"
         }
       ],

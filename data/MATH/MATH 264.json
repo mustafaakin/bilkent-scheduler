@@ -16,8 +16,8 @@
   "sections": {
     "MATH 264-001": {
       "instructor": "Staff",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "SA-Z18(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "SA-Z18",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "SA-Z18",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "SA-Z18",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,8 +56,8 @@
     },
     "MATH 264-002": {
       "instructor": "Staff",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -67,28 +67,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "SA-Z04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "SA-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "SA-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "SA-Z04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,8 +96,8 @@
     },
     "MATH 264-003": {
       "instructor": "Staff",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -107,28 +107,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "V-02(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-02",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-02",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-02",
           "class": "Face-to-Face Lecture"
         }
       ],

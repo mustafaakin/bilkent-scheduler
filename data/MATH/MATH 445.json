@@ -16,7 +16,7 @@
   "sections": {
     "MATH 445-001": {
       "instructor": "Bülent Ünal",
-      "quota": "20 Mand. 0 Elect.",
+      "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "SA-Z19(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "SA-Z19",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "SA-Z19",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "SA-Z19",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -13,5 +13,86 @@
     "ECTS": 3
   },
   "code": "POLS 465",
-  "sections": {}
+  "sections": {
+    "POLS 465-001": {
+      "instructor": "Hasan Tolga Bölükbaşı",
+      "quota": "50 Mand. 5 Elect.",
+      "total_quota": 55,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-201(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-201",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "MA-201",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "MA-201",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "POLS 465-001"
+    },
+    "POLS 465-002": {
+      "instructor": "Staff",
+      "quota": "50 Mand. 5 Elect.",
+      "total_quota": 55,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-329(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-329",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-329",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-329",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "POLS 465-002"
+    }
+  }
 }

@@ -16,8 +16,8 @@
   "sections": {
     "MAN 211-001": {
       "instructor": "Selda Sevin",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
+      "quota": "42 Mand. 8 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "MAN 211-002": {
       "instructor": "Selda Sevin",
-      "quota": "35 Mand. 5 Elect.",
-      "total_quota": 40,
+      "quota": "42 Mand. 8 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "MAN 211-003": {
       "instructor": "Selda Sevin",
-      "quota": "35 Mand. 5 Elect.",
-      "total_quota": 40,
+      "quota": "42 Mand. 8 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

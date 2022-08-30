@@ -24,32 +24,32 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
-          "class": "Face-to-Face Lab/Studio"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
-          "class": "Face-to-Face Lab/Studio"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
-          "class": "Face-to-Face Lecture"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
-          "class": "Face-to-Face Lecture"
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CINT 501-001"

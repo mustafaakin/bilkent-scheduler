@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "CTIS 472",
-  "sections": {}
+  "sections": {
+    "CTIS 472-001": {
+      "instructor": "Duygu Albayrak",
+      "quota": "0 Mand. 20 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "C-216(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-216",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-216",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-216",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 472-001"
+    }
+  }
 }

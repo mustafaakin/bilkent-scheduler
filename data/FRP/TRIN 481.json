@@ -1,21 +1,21 @@
 {
   "name": "Consecutive and Simultaneous Interpretation Techniques",
   "lectureHours": {
-    "hybrid": 2,
-    "online": 4
+    "hybrid": 0,
+    "online": 6
   },
   "labStudioOthersHours": {
     "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
-    "bilkent": 6,
-    "ECTS": 8.5
+    "bilkent": 0,
+    "ECTS": 6
   },
   "code": "TRIN 481",
   "sections": {
     "TRIN 481-001": {
-      "instructor": "Yasemin Tanbi  Ayşe Akıncı Candoğan",
+      "instructor": "Elvin Abbasbeyli",
       "quota": "5 Mand. or Elect.",
       "total_quota": 5,
       "enrollment": {
@@ -24,46 +24,46 @@
       },
       "schedule": [
         {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "LB-Z10",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "LB-Z10",
+          "class": "Face-to-Face Lecture"
+        },
+        {
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "LA-103",
-          "class": "Hybrid Lecture"
+          "place": "LB-Z10",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "LA-103",
-          "class": "Hybrid Lecture"
+          "place": "LB-Z10",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "17:40",
-          "end": "18:30",
-          "place": "LA-103",
-          "class": "Online Only Lecture"
+          "start": "15:30",
+          "end": "16:20",
+          "place": "LB-Z10",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "18:40",
-          "end": "19:30",
-          "place": "LA-103",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "20:10",
-          "end": "21:00",
-          "place": "LA-103",
-          "class": "Online Only Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "21:10",
-          "end": "22:00",
-          "place": "LA-103",
-          "class": "Online Only Lecture"
+          "start": "16:30",
+          "end": "17:20",
+          "place": "LB-Z10",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "TRIN 481-001"

@@ -16,8 +16,8 @@
   "sections": {
     "IE 380-001": {
       "instructor": "Staff",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "IE 380-002": {
       "instructor": "Staff",
-      "quota": "58 Mand. or Elect.",
-      "total_quota": 58,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

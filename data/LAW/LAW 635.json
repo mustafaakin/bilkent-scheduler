@@ -16,8 +16,8 @@
   "sections": {
     "LAW 635-001": {
       "instructor": "Mehmet Çağlar Manavgat",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "B-105(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-105",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-105",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-105",
           "class": "Face-to-Face Lecture"
         }
       ],

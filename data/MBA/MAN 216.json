@@ -16,8 +16,8 @@
   "sections": {
     "MAN 216-001": {
       "instructor": "Staff",
-      "quota": "40 Mand. 5 Elect.",
-      "total_quota": 45,
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

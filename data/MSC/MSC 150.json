@@ -13,5 +13,32 @@
     "ECTS": 1
   },
   "code": "MSC 150",
-  "sections": {}
+  "sections": {
+    "MSC 150-001": {
+      "instructor": "Jennifer Leigh Tipton",
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "MSC 150-001"
+    }
+  }
 }

@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "A-330(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "A-330",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "A-330",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "A-330",
           "class": "Face-to-Face Lecture"
         }
       ],

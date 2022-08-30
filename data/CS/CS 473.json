@@ -16,8 +16,8 @@
   "sections": {
     "CS 473-001": {
       "instructor": "Cevdet Aykanat",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,7 +56,7 @@
     },
     "CS 473-002": {
       "instructor": "Cevdet Aykanat",
-      "quota": "50 Mand. or Elect.",
+      "quota": "50 Mand. 0 Elect.",
       "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
@@ -96,8 +96,8 @@
     },
     "CS 473-003": {
       "instructor": "Ertuğrul Kartal Tabak",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -107,28 +107,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EB-204(S)",
+          "place": "EE-03(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EB-204",
+          "place": "EE-03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EB-204",
+          "place": "EE-03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EB-204",
+          "place": "EE-03",
           "class": "Face-to-Face Lecture"
         }
       ],

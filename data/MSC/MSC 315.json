@@ -13,5 +13,46 @@
     "ECTS": 2
   },
   "code": "MSC 315",
-  "sections": {}
+  "sections": {
+    "MSC 315-001": {
+      "instructor": "Işın Metin",
+      "quota": "6 Mand. or Elect.",
+      "total_quota": 6,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "P-241(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "P-241",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "P-241",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "P-241",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MSC 315-001"
+    }
+  }
 }

@@ -394,8 +394,8 @@
     },
     "ENG 102-065": {
       "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

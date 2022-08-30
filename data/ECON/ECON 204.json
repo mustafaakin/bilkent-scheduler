@@ -13,5 +13,86 @@
     "ECTS": 3
   },
   "code": "ECON 204",
-  "sections": {}
+  "sections": {
+    "ECON 204-001": {
+      "instructor": "Kevin Edward Hasker",
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-Z27(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 204-001"
+    },
+    "ECON 204-002": {
+      "instructor": "Nuh Aygün Dalkıran",
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-Z25(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-Z25",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-Z25",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-Z25",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 204-002"
+    }
+  }
 }

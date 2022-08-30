@@ -16,8 +16,8 @@
   "sections": {
     "MBG 416-001": {
       "instructor": "Serkan İsmail Göktuna",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "SB-Z03(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "SB-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "SB-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "SB-Z03",
           "class": "Face-to-Face Lecture"
         }
       ],

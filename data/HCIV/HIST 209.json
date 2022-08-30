@@ -13,5 +13,86 @@
     "ECTS": 4
   },
   "code": "HIST 209",
-  "sections": {}
+  "sections": {
+    "HIST 209-001": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-301(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-301",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "MA-301",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "MA-301",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 209-001"
+    },
+    "HIST 209-002": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "T-272(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "T-272",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "T-272",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "T-272",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 209-002"
+    }
+  }
 }

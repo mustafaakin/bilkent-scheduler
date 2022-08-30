@@ -27,56 +27,56 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-317(S)",
+          "place": "B-Z04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-317",
+          "place": "B-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-317",
+          "place": "B-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-317",
+          "place": "B-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -95,56 +95,56 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-317(S)",
+          "place": "B-Z04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-317",
+          "place": "B-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-317",
+          "place": "B-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-317",
+          "place": "B-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -163,56 +163,56 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-317(S)",
+          "place": "B-Z02(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-317",
+          "place": "B-Z02",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-317",
+          "place": "B-Z02",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-317",
+          "place": "B-Z02",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -231,56 +231,56 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-317(S)",
+          "place": "B-Z02(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-317",
+          "place": "B-Z02",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-317",
+          "place": "B-Z02",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-317",
+          "place": "B-Z02",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

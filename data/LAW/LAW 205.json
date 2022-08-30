@@ -16,8 +16,8 @@
   "sections": {
     "LAW 205-001": {
       "instructor": "Turgut Tan",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "LAW 205-002": {
       "instructor": "Turgut Tan",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "120 Mand. or Elect.",
+      "total_quota": 120,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

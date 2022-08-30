@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "TRIN 461",
-  "sections": {}
+  "sections": {
+    "TRIN 461-001": {
+      "instructor": "Elvin Abbasbeyli",
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "LA-101(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "LA-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "LA-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "LA-101",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "TRIN 461-001"
+    }
+  }
 }

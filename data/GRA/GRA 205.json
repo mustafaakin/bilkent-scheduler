@@ -1,0 +1,58 @@
+{
+  "name": "Rendering for Graphic Design I",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 3
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "GRA 205",
+  "sections": {
+    "GRA 205-001": {
+      "instructor": "Birsu Semra Çeltek",
+      "quota": "18 Mand. or Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FB-121",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FB-121",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FB-121",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FB-121(S)",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "GRA 205-001"
+    }
+  }
+}

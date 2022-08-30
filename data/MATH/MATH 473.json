@@ -16,7 +16,7 @@
   "sections": {
     "MATH 473-001": {
       "instructor": "Ali Süleyman Üstünel",
-      "quota": "10 Mand. 0 Elect.",
+      "quota": "10 Mand. or Elect.",
       "total_quota": 10,
       "enrollment": {
         "mandatory": 0,
@@ -27,28 +27,28 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "SA-Z19(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "SA-Z19",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "SA-Z19",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "SA-Z19",
           "class": "Face-to-Face Lecture"
         }
       ],

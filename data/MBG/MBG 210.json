@@ -34,7 +34,7 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "SB-Z03(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -48,7 +48,7 @@
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "SB-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -69,14 +69,14 @@
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "SB-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "SB-Z03",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -109,7 +109,7 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "SA-Z01(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -123,7 +123,7 @@
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "SA-Z01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -137,14 +137,14 @@
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "SA-Z01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "SA-Z01",
           "class": "Face-to-Face Lecture"
         }
       ],

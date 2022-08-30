@@ -16,8 +16,8 @@
   "sections": {
     "LAW 103-001": {
       "instructor": "Zülfiye Yılmaz",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "LAW 103-002": {
       "instructor": "Erdal Onar",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -107,28 +107,28 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-140(S)",
+          "place": "B-203(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-140",
+          "place": "B-203",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-140",
+          "place": "B-203",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-140",
+          "place": "B-203",
           "class": "Face-to-Face Lecture"
         }
       ],

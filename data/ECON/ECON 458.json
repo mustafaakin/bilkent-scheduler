@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "ECON 458",
-  "sections": {}
+  "sections": {
+    "ECON 458-001": {
+      "instructor": "Çağla Ökten",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-Z25(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-Z25",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-Z25",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-Z25",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 458-001"
+    }
+  }
 }

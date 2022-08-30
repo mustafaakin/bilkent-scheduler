@@ -16,8 +16,8 @@
   "sections": {
     "LAW 309-001": {
       "instructor": "Pınar Altınok Ormancı",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "LAW 309-002": {
       "instructor": "Pınar Altınok Ormancı",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "110 Mand. or Elect.",
+      "total_quota": 110,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

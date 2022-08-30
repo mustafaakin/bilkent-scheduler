@@ -16,7 +16,7 @@
   "sections": {
     "PSYC 310-001": {
       "instructor": "Burcu Ayşen Ürgen",
-      "quota": "60 Mand. 5 Elect.",
+      "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
@@ -27,28 +27,28 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "B-Z06(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-Z06",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-Z06",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-Z06",
           "class": "Face-to-Face Lecture"
         }
       ],

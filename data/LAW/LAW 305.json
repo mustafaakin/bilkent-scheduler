@@ -16,8 +16,8 @@
   "sections": {
     "LAW 305-001": {
       "instructor": "Şemsi Barış Özçelik",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "90 Mand. or Elect.",
+      "total_quota": 90,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "LAW 305-002": {
       "instructor": "Arif Barış Özbilen",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

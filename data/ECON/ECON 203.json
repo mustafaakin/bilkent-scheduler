@@ -13,5 +13,86 @@
     "ECTS": 3
   },
   "code": "ECON 203",
-  "sections": {}
+  "sections": {
+    "ECON 203-001": {
+      "instructor": "Çağla Ökten",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "MA-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "MA-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "MA-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "MA-101(S)",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 203-001"
+    },
+    "ECON 203-002": {
+      "instructor": "Şaziye Pelin Akyol",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-101(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "MA-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "MA-101",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 203-002"
+    }
+  }
 }

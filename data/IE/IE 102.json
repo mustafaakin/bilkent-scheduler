@@ -27,35 +27,35 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z04(S)",
+          "place": "EA-Z03(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z04",
+          "place": "EA-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z04",
+          "place": "EA-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z04",
+          "place": "EA-Z03",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "IE 102-001"
     },
     "IE 102-002": {
-      "instructor": "Özlem Karsu",
+      "instructor": "Staff",
       "quota": "58 Mand. or Elect.",
       "total_quota": 58,
       "enrollment": {

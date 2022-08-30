@@ -1,0 +1,44 @@
+{
+  "name": "Bilkent Chorale I",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 2
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 2
+  },
+  "code": "MSC 153",
+  "sections": {
+    "MSC 153-001": {
+      "instructor": "Jennifer Leigh Tipton",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "P-242",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "P-242",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "MSC 153-001"
+    }
+  }
+}

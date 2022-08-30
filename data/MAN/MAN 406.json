@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "MAN 406",
-  "sections": {}
+  "sections": {
+    "MAN 406-001": {
+      "instructor": "Aydın Örsan Örge",
+      "quota": "53 Mand. 0 Elect.",
+      "total_quota": 53,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "V-02(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "V-02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "V-02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "V-02",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MAN 406-001"
+    }
+  }
 }

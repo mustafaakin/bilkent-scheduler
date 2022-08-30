@@ -13,5 +13,32 @@
     "ECTS": 2
   },
   "code": "THR 111",
-  "sections": {}
+  "sections": {
+    "THR 111-001": {
+      "instructor": "Staff",
+      "quota": "0 Mand. 0 Elect.",
+      "total_quota": 0,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "THR 111-001"
+    }
+  }
 }

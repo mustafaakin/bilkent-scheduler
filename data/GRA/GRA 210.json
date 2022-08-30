@@ -5,57 +5,17 @@
     "online": 0
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
-    "faceToFace": 0
+    "hybrid": 0,
+    "faceToFace": 3
   },
   "credits": {
-    "bilkent": 3,
-    "ECTS": 5
+    "bilkent": 0,
+    "ECTS": 3
   },
   "code": "GRA 210",
   "sections": {
     "GRA 210-001": {
-      "instructor": "Erhan Tunalı",
-      "quota": "18 Mand. or Elect.",
-      "total_quota": 18,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Hybrid Lab/Studio/Others"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "(FS)",
-          "class": "Hybrid Lab/Studio/Others"
-        }
-      ],
-      "name": "GRA 210-001"
-    },
-    "GRA 210-002": {
-      "instructor": "Mehmet Atıl Kurttekin",
+      "instructor": "Can İzzet Birand",
       "quota": "18 Mand. or Elect.",
       "total_quota": 18,
       "enrollment": {
@@ -68,24 +28,31 @@
           "start": "13:30",
           "end": "14:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
-          "class": "Hybrid Lab/Studio/Others"
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "GRA 210-002"
+      "name": "GRA 210-001"
     }
   }
 }

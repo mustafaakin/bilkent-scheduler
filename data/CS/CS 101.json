@@ -27,7 +27,7 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -41,7 +41,7 @@
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -55,14 +55,14 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -102,7 +102,7 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -116,21 +116,21 @@
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -163,14 +163,14 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -184,7 +184,7 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -198,7 +198,7 @@
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {

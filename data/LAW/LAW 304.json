@@ -16,8 +16,8 @@
   "sections": {
     "LAW 304-001": {
       "instructor": "Bilgin Tiryakioğlu",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "LAW 304-002": {
       "instructor": "Gülüm Özçelik",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "90 Mand. or Elect.",
+      "total_quota": 90,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

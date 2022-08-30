@@ -13,5 +13,886 @@
     "ECTS": 4
   },
   "code": "HIST 200",
-  "sections": {}
+  "sections": {
+    "HIST 200-001": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-127(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-127",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-127",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-127",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-001"
+    },
+    "HIST 200-002": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-111(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-111",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-111",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-111",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-002"
+    },
+    "HIST 200-003": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-112(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-112",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-112",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-112",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-003"
+    },
+    "HIST 200-004": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-004"
+    },
+    "HIST 200-005": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-Z25(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-Z25",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-Z25",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-Z25",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-005"
+    },
+    "HIST 200-006": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-Z27(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-006"
+    },
+    "HIST 200-007": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-127(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-127",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-127",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-127",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-007"
+    },
+    "HIST 200-008": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EB-101(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EB-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EB-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EB-101",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-008"
+    },
+    "HIST 200-009": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-Z27(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-009"
+    },
+    "HIST 200-010": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-Z27(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-010"
+    },
+    "HIST 200-011": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-112(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-112",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-112",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-112",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-011"
+    },
+    "HIST 200-012": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-Z06(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-Z06",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-Z06",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-Z06",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-012"
+    },
+    "HIST 200-013": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-Z07(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-Z07",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-Z07",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-Z07",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-013"
+    },
+    "HIST 200-014": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-111(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-111",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-111",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-111",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-014"
+    },
+    "HIST 200-015": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-112(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-112",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-112",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-112",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-015"
+    },
+    "HIST 200-016": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "MA-101(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "MA-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "MA-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "MA-101",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-016"
+    },
+    "HIST 200-017": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-Z27(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-017"
+    },
+    "HIST 200-018": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-Z27(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-018"
+    },
+    "HIST 200-019": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-019"
+    },
+    "HIST 200-020": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-020"
+    },
+    "HIST 200-021": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-021"
+    },
+    "HIST 200-022": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-022"
+    }
+  }
 }

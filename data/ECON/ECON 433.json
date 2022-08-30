@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "ECON 433",
-  "sections": {}
+  "sections": {
+    "ECON 433-001": {
+      "instructor": "Kevin Edward Hasker",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-Z27(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-Z27",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 433-001"
+    }
+  }
 }

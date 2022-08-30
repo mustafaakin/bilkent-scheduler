@@ -13,5 +13,53 @@
     "ECTS": 3
   },
   "code": "ECON 509",
-  "sections": {}
+  "sections": {
+    "ECON 509-001": {
+      "instructor": "Tarık Kara",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-230(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-230",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-230",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-230",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Recitation"
+        }
+      ],
+      "name": "ECON 509-001"
+    }
+  }
 }

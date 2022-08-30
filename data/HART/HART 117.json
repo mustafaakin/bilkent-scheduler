@@ -14,50 +14,10 @@
   },
   "code": "HART 117",
   "sections": {
-    "HART 117-001": {
-      "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-133A(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-133A",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-133A",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-133A",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HART 117-001"
-    },
     "HART 117-002": {
       "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +56,8 @@
     },
     "HART 117-003": {
       "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

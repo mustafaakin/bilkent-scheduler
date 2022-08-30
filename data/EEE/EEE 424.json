@@ -16,8 +16,8 @@
   "sections": {
     "EEE 424-001": {
       "instructor": "Aykut Koç",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,32 +27,72 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-412(S)",
+          "place": "EE-517(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-412",
+          "place": "EE-517",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-412",
+          "place": "EE-517",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-412",
+          "place": "EE-517",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 424-001"
+    },
+    "EEE 424-002": {
+      "instructor": "Süleyman Serdar Kozat",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EE-317(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EE-317",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EE-317",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EE-317",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "EEE 424-002"
     }
   }
 }

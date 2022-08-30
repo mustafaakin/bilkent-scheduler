@@ -16,8 +16,8 @@
   "sections": {
     "CS 201-001": {
       "instructor": "Selim Aksoy",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "CS 201-002": {
       "instructor": "Selim Aksoy",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "CS 201-003": {
       "instructor": "Aynur Dayanık",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

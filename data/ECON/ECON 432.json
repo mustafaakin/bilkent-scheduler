@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "ECON 432",
-  "sections": {}
+  "sections": {
+    "ECON 432-001": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "T-172(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "T-172",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "T-172",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "T-172",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 432-001"
+    }
+  }
 }

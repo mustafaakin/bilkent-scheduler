@@ -1,5 +1,5 @@
 {
-  "name": "Techniques of Notation and Instrumentation",
+  "name": "Notation",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "MSC 113",
-  "sections": {}
+  "sections": {
+    "MSC 113-001": {
+      "instructor": "Onur Yıldırım",
+      "quota": "5 Mand. or Elect.",
+      "total_quota": 5,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "P-336(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "P-336",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "P-336",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "P-336",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MSC 113-001"
+    }
+  }
 }

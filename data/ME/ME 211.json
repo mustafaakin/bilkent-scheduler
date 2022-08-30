@@ -16,8 +16,8 @@
   "sections": {
     "ME 211-001": {
       "instructor": "Emine Yegan Erdem",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "28 Mand. or Elect.",
+      "total_quota": 28,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -70,8 +70,8 @@
     },
     "ME 211-002": {
       "instructor": "Emine Yegan Erdem",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "28 Mand. or Elect.",
+      "total_quota": 28,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -124,8 +124,8 @@
     },
     "ME 211-003": {
       "instructor": "Barbaros Çetin",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "28 Mand. or Elect.",
+      "total_quota": 28,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -178,8 +178,8 @@
     },
     "ME 211-004": {
       "instructor": "Barbaros Çetin",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "28 Mand. or Elect.",
+      "total_quota": 28,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -189,14 +189,14 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EA-Z01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EA-Z01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -217,14 +217,14 @@
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EA-Z01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EA-Z01",
           "class": "Face-to-Face Lecture"
         }
       ],

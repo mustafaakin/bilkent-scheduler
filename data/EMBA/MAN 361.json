@@ -13,5 +13,126 @@
     "ECTS": 3
   },
   "code": "MAN 361",
-  "sections": {}
+  "sections": {
+    "MAN 361-001": {
+      "instructor": "Zahide Karakitapoğlu Aygün",
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "V-02(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "V-02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "V-02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "V-02",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MAN 361-001"
+    },
+    "MAN 361-002": {
+      "instructor": "Zahide Karakitapoğlu Aygün",
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "V-02(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "V-02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "V-02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "V-02",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MAN 361-002"
+    },
+    "MAN 361-003": {
+      "instructor": "Rasim Serdar Kurdoğlu",
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-201(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-201",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "MA-201",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "MA-201",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MAN 361-003"
+    }
+  }
 }

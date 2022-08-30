@@ -27,7 +27,7 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EB-204(S)",
+          "place": "EB-204",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -48,7 +48,7 @@
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EB-204",
+          "place": "EB-204(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

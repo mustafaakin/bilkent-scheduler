@@ -24,46 +24,6 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FB-119",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FB-119",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FB-119",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FB-119(S)",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "GRA 209-001"
-    },
-    "GRA 209-002": {
-      "instructor": "Ekin Kılıç Ezer",
-      "quota": "6 Mand. 12 Elect.",
-      "total_quota": 18,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
@@ -92,7 +52,7 @@
           "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "GRA 209-002"
+      "name": "GRA 209-001"
     }
   }
 }

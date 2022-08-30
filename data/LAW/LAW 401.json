@@ -16,8 +16,8 @@
   "sections": {
     "LAW 401-001": {
       "instructor": "Mehmet Çağlar Manavgat",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "LAW 401-002": {
       "instructor": "Aslı Elif Gürbüz Usluel",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "100 Mand. or Elect.",
+      "total_quota": 100,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

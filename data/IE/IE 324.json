@@ -16,8 +16,8 @@
   "sections": {
     "IE 324-001": {
       "instructor": "Emre Uzun",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -48,7 +48,7 @@
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -62,7 +62,7 @@
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -70,8 +70,8 @@
     },
     "IE 324-002": {
       "instructor": "Emre Uzun",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -102,7 +102,7 @@
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -116,7 +116,7 @@
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

@@ -13,5 +13,86 @@
     "ECTS": 3
   },
   "code": "CTIS 411",
-  "sections": {}
+  "sections": {
+    "CTIS 411-001": {
+      "instructor": "Oumout Chousein Oglou",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CE-104(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 411-001"
+    },
+    "CTIS 411-002": {
+      "instructor": "Oumout Chousein Oglou",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "C-216(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-216",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-216",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-216",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 411-002"
+    }
+  }
 }

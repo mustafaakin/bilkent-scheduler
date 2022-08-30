@@ -16,8 +16,8 @@
   "sections": {
     "IR 303-001": {
       "instructor": "Tuğba Bayar",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "50 Mand. 5 Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "B-111(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-111",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-111",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-111",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -16,7 +16,7 @@
   "sections": {
     "PSYC 230-001": {
       "instructor": "Ezgi Sakman",
-      "quota": "60 Mand. 5 Elect.",
+      "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
@@ -27,28 +27,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "T-272(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "T-272",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "T-272",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "T-272",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,7 +56,7 @@
     },
     "PSYC 230-002": {
       "instructor": "Ezgi Sakman",
-      "quota": "60 Mand. 5 Elect.",
+      "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
@@ -67,28 +67,28 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "T-272",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "T-272",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "T-272",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "(S)",
+          "place": "T-272(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

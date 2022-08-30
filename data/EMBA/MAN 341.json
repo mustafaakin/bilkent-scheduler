@@ -13,5 +13,126 @@
     "ECTS": 3
   },
   "code": "MAN 341",
-  "sections": {}
+  "sections": {
+    "MAN 341-001": {
+      "instructor": "Fehmi Tanrısever",
+      "quota": "45 Mand. 5 Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-305(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-305",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "MA-305",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "MA-305",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MAN 341-001"
+    },
+    "MAN 341-002": {
+      "instructor": "Fehmi Tanrısever",
+      "quota": "45 Mand. 5 Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "MA-302(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MAN 341-002"
+    },
+    "MAN 341-003": {
+      "instructor": "Eyüp Emre Berk",
+      "quota": "45 Mand. 5 Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "MA-302(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "MA-302",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MAN 341-003"
+    }
+  }
 }

@@ -15,7 +15,7 @@
   "code": "ECON 207",
   "sections": {
     "ECON 207-001": {
-      "instructor": "Staff",
+      "instructor": "Hakan Berument",
       "quota": "58 Mand. 0 Elect.",
       "total_quota": 58,
       "enrollment": {
@@ -27,35 +27,35 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "B-Z05(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 207-001"
     },
     "ECON 207-002": {
-      "instructor": "Hakan Berument",
+      "instructor": "Staff",
       "quota": "58 Mand. 0 Elect.",
       "total_quota": 58,
       "enrollment": {
@@ -67,28 +67,28 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "B-Z04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "B-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "B-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "B-Z04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -107,28 +107,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "B-Z05(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         }
       ],

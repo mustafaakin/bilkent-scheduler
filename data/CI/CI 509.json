@@ -13,5 +13,32 @@
     "ECTS": null
   },
   "code": "CI 509",
-  "sections": {}
+  "sections": {
+    "CI 509-001": {
+      "instructor": "İlker Kalender",
+      "quota": "5 Mand. or Elect.",
+      "total_quota": 5,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-252",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-252",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CI 509-001"
+    }
+  }
 }

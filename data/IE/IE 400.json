@@ -16,8 +16,8 @@
   "sections": {
     "IE 400-001": {
       "instructor": "Tagi Hanalioğlu",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "45 Mand. 13 Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-214(S)",
+          "place": "EA-Z03(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-214",
+          "place": "EA-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-214",
+          "place": "EA-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-214",
+          "place": "EA-Z03",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,8 +56,8 @@
     },
     "IE 400-002": {
       "instructor": "Tagi Hanalioğlu",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "45 Mand. 13 Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -67,28 +67,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-214(S)",
+          "place": "B-Z05(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-214",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-214",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-214",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,8 +96,8 @@
     },
     "IE 400-003": {
       "instructor": "Staff",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "45 Mand. 13 Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

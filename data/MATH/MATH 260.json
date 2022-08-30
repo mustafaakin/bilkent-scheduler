@@ -16,7 +16,7 @@
   "sections": {
     "MATH 260-001": {
       "instructor": "Gökhan Yıldırım",
-      "quota": "58 Mand. 0 Elect.",
+      "quota": "40 Mand. 18 Elect.",
       "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "B-Z05(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,7 +56,7 @@
     },
     "MATH 260-002": {
       "instructor": "Gökhan Yıldırım",
-      "quota": "58 Mand. 0 Elect.",
+      "quota": "40 Mand. 18 Elect.",
       "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
@@ -67,28 +67,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "B-Z05",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "B-Z05(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

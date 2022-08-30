@@ -16,8 +16,8 @@
   "sections": {
     "IE 325-001": {
       "instructor": "Özlem Çavuş İyigün",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "IE 325-002": {
       "instructor": "Özlem Çavuş İyigün",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

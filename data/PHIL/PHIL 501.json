@@ -16,8 +16,8 @@
   "sections": {
     "PHIL 501-001": {
       "instructor": "William Giles Wringe",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

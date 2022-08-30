@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EA-302",
           "class": "Online/Hybrid Lecture"
         },
         {
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EA-302",
           "class": "Online/Hybrid Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EA-302",
           "class": "Online/Hybrid Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "(S)",
+          "place": "EA-302(S)",
           "class": "Online/Hybrid Lecture"
         }
       ],
