@@ -14,46 +14,6 @@
   },
   "code": "ADA 134",
   "sections": {
-    "ADA 134-001": {
-      "instructor": "Staff",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FA-213",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FA-213",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FA-213",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FA-213(S)",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "ADA 134-001"
-    },
     "ADA 134-002": {
       "instructor": "Alp Giray Köse",
       "quota": "20 Mand. 0 Elect.",

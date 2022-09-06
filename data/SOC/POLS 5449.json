@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "POLS 5449",
-  "sections": {}
+  "sections": {
+    "POLS 5449-001": {
+      "instructor": "John James Alexander",
+      "quota": "10 Mand. 0 Elect.",
+      "total_quota": 10,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "A-230(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "A-230",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "A-230",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "A-230",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "POLS 5449-001"
+    }
+  }
 }

@@ -16,8 +16,8 @@
   "sections": {
     "POLS 201-001": {
       "instructor": "Zerrin Tandoğan",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "45 Mand. 5 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

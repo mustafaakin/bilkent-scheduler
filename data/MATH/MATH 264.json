@@ -16,7 +16,7 @@
   "sections": {
     "MATH 264-001": {
       "instructor": "Staff",
-      "quota": "65 Mand. 0 Elect.",
+      "quota": "64 Mand. 1 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
@@ -56,8 +56,8 @@
     },
     "MATH 264-002": {
       "instructor": "Staff",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "quota": "64 Mand. 1 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -67,28 +67,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "SA-Z04(S)",
+          "place": "A-Z25(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "SA-Z04",
+          "place": "A-Z25",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "SA-Z04",
+          "place": "A-Z25",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "SA-Z04",
+          "place": "A-Z25",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,8 +96,8 @@
     },
     "MATH 264-003": {
       "instructor": "Staff",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "quota": "64 Mand. 2 Elect.",
+      "total_quota": 66,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

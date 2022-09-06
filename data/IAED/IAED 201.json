@@ -16,8 +16,8 @@
   "sections": {
     "IAED 201-001": {
       "instructor": "Burcu Egel",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -98,8 +98,8 @@
     },
     "IAED 201-002": {
       "instructor": "Nilgün Olguntürk",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -180,8 +180,8 @@
     },
     "IAED 201-003": {
       "instructor": "Sevil Funda Ataylar",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -262,8 +262,8 @@
     },
     "IAED 201-004": {
       "instructor": "Tijen Sonkan Türkkan",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -344,8 +344,8 @@
     },
     "IAED 201-005": {
       "instructor": "Elçin Yörük",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -426,8 +426,8 @@
     },
     "IAED 201-006": {
       "instructor": "Staff",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -437,70 +437,70 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-109(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-109",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-109",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-109",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-109",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-109",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-109",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-109",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FF-109",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FF-109(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -508,8 +508,8 @@
     },
     "IAED 201-007": {
       "instructor": "Staff",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -519,156 +519,74 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-107(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-107",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-107",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-107",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-107",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-107",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-107",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-107",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FF-107",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FF-107(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IAED 201-007"
-    },
-    "IAED 201-008": {
-      "instructor": "Irmak Özman",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FF207(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FF207",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF207",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF207",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF207",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF207",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FF207",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FF207",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FF207",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FF207(S)",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "IAED 201-008"
     }
   }
 }

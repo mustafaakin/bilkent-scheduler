@@ -15,9 +15,9 @@
   "code": "MATH 490",
   "sections": {
     "MATH 490-001": {
-      "instructor": "Aurelian  Gheondea",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
+      "instructor": "Aurelian Gheondea",
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

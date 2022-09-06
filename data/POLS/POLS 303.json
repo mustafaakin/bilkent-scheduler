@@ -16,8 +16,8 @@
   "sections": {
     "POLS 303-001": {
       "instructor": "Saime Özçürümez",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "POLS 303-002": {
       "instructor": "Ioannis N. Grigoriadis",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

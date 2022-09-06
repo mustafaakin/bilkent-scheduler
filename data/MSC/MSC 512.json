@@ -13,5 +13,32 @@
     "ECTS": 3
   },
   "code": "MSC 512",
-  "sections": {}
+  "sections": {
+    "MSC 512-001": {
+      "instructor": "Işın Metin",
+      "quota": "1 Mand. or Elect.",
+      "total_quota": 1,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MSC 512-001"
+    }
+  }
 }

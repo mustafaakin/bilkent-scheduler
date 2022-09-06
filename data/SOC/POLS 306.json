@@ -15,9 +15,9 @@
   "code": "POLS 306",
   "sections": {
     "POLS 306-001": {
-      "instructor": "Meral  Uğur Çınar",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
+      "instructor": "Meral Uğur Çınar",
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

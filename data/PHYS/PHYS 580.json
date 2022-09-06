@@ -1,58 +1,58 @@
 {
-  "name": "Computer Aided Design",
+  "name": "Experimental Methods in Applied Physics",
   "lectureHours": {
     "hybrid": 0,
-    "online": 0
+    "online": 2
   },
   "labStudioOthersHours": {
     "hybrid": 0,
-    "faceToFace": 3
+    "faceToFace": 4
   },
   "credits": {
     "bilkent": 0,
     "ECTS": 3
   },
-  "code": "IAED 311",
+  "code": "PHYS 580",
   "sections": {
-    "IAED 311-001": {
-      "instructor": "Tijen Sonkan Türkkan",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+    "PHYS 580-001": {
+      "instructor": "Onur Tokel",
+      "quota": "9 Mand. or Elect.",
+      "total_quota": 9,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-216",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-216",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FF-216",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FF-216(S)",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "IAED 311-001"
+      "name": "PHYS 580-001"
     }
   }
 }

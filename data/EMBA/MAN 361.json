@@ -16,8 +16,8 @@
   "sections": {
     "MAN 361-001": {
       "instructor": "Zahide Karakitapoğlu Aygün",
-      "quota": "35 Mand. 0 Elect.",
-      "total_quota": 35,
+      "quota": "38 Mand. 2 Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "MAN 361-002": {
       "instructor": "Zahide Karakitapoğlu Aygün",
-      "quota": "35 Mand. 0 Elect.",
-      "total_quota": 35,
+      "quota": "38 Mand. 2 Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "MAN 361-003": {
       "instructor": "Rasim Serdar Kurdoğlu",
-      "quota": "35 Mand. 0 Elect.",
-      "total_quota": 35,
+      "quota": "38 Mand. 2 Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

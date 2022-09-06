@@ -15,9 +15,9 @@
   "code": "PHYS 315",
   "sections": {
     "PHYS 315-001": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Cemal Yalabık",
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

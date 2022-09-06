@@ -67,14 +67,14 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-412(S)",
+          "place": "EE-412",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-412",
+          "place": "EE-412(S)",
           "class": "Face-to-Face Lecture"
         },
         {

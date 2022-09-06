@@ -16,8 +16,8 @@
   "sections": {
     "ADA 263-001": {
       "instructor": "Serpil Özaloğlu",
-      "quota": "35 Mand. 0 Elect.",
-      "total_quota": 35,
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "ADA 263-002": {
       "instructor": "Serpil Özaloğlu",
-      "quota": "35 Mand. 0 Elect.",
-      "total_quota": 35,
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "ADA 263-003": {
       "instructor": "Merve Aslı Hetemoğlu",
-      "quota": "35 Mand. 0 Elect.",
-      "total_quota": 35,
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -136,8 +136,8 @@
     },
     "ADA 263-004": {
       "instructor": "Ayşe Henry",
-      "quota": "35 Mand. 0 Elect.",
-      "total_quota": 35,
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -176,8 +176,8 @@
     },
     "ADA 263-005": {
       "instructor": "Meral Özdengiz Başak",
-      "quota": "35 Mand. 0 Elect.",
-      "total_quota": 35,
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -213,46 +213,6 @@
         }
       ],
       "name": "ADA 263-005"
-    },
-    "ADA 263-006": {
-      "instructor": "Berrak Erdal",
-      "quota": "35 Mand. 0 Elect.",
-      "total_quota": 35,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FA-118(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FA-118",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FA-118",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FA-118",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ADA 263-006"
     }
   }
 }

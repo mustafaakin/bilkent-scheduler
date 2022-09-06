@@ -15,9 +15,9 @@
   "code": "PHYS 102",
   "sections": {
     "PHYS 102-001": {
-      "instructor": "Staff",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "instructor": "Ceyhun Bulutay",
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -83,9 +83,9 @@
       "name": "PHYS 102-001"
     },
     "PHYS 102-002": {
-      "instructor": "Staff",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "instructor": "Bilal Tanatar",
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -151,9 +151,9 @@
       "name": "PHYS 102-002"
     },
     "PHYS 102-003": {
-      "instructor": "Staff",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "instructor": "Ceyhun Bulutay",
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -219,9 +219,9 @@
       "name": "PHYS 102-003"
     },
     "PHYS 102-004": {
-      "instructor": "Staff",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "instructor": "Bilal Tanatar",
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -287,9 +287,9 @@
       "name": "PHYS 102-004"
     },
     "PHYS 102-005": {
-      "instructor": "Staff",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "instructor": "Ahmet Züfer Eriş",
+      "quota": "58 Mand. or Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -299,7 +299,7 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FC-Z23C(S)",
+          "place": "FC-Z23C",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -334,7 +334,7 @@
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FC-Z23C",
+          "place": "FC-Z23C(S)",
           "class": "Face-to-Face Lecture"
         },
         {

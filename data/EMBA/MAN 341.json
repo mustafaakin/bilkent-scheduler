@@ -16,8 +16,8 @@
   "sections": {
     "MAN 341-001": {
       "instructor": "Fehmi Tanrısever",
-      "quota": "45 Mand. 5 Elect.",
-      "total_quota": 50,
+      "quota": "48 Mand. 7 Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "MAN 341-002": {
       "instructor": "Fehmi Tanrısever",
-      "quota": "45 Mand. 5 Elect.",
-      "total_quota": 50,
+      "quota": "48 Mand. 7 Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "MAN 341-003": {
       "instructor": "Eyüp Emre Berk",
-      "quota": "45 Mand. 5 Elect.",
-      "total_quota": 50,
+      "quota": "48 Mand. 7 Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

@@ -15,9 +15,9 @@
   "code": "COMD 358",
   "sections": {
     "COMD 358-001": {
-      "instructor": "Emel  Özdora Akşak",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "instructor": "Emel Özdora Akşak",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "SA-Z03(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "SA-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "SA-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "SA-Z03",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,8 +56,8 @@
     },
     "COMD 358-002": {
       "instructor": "Didem Özkul McGeoch",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -67,28 +67,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "SA-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "SA-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "SA-Z04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "SA-Z04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,8 +96,8 @@
     },
     "COMD 358-003": {
       "instructor": "Staff",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -107,37 +107,37 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "SA-Z03(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "SA-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "SA-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "SA-Z03",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 358-003"
     },
     "COMD 358-004": {
-      "instructor": "Staff",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "instructor": "Ufuk Önen",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -175,9 +175,9 @@
       "name": "COMD 358-004"
     },
     "COMD 358-005": {
-      "instructor": "Staff",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "instructor": "Ufuk Önen",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -187,28 +187,28 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "SA-Z04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "SA-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "SA-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "SA-Z04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -216,8 +216,8 @@
     },
     "COMD 358-006": {
       "instructor": "Müge Mengü Hale",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -227,28 +227,28 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "MA-Z04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "MA-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "MA-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "MA-Z04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -256,8 +256,8 @@
     },
     "COMD 358-007": {
       "instructor": "Didem Özkul McGeoch",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -267,28 +267,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "A-330",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "A-330",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "A-330",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "A-330(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -296,8 +296,8 @@
     },
     "COMD 358-008": {
       "instructor": "Elif Ünal Arslan",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -336,8 +336,8 @@
     },
     "COMD 358-009": {
       "instructor": "Elif Ünal Arslan",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -376,8 +376,8 @@
     },
     "COMD 358-010": {
       "instructor": "Didem Özkul McGeoch",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -415,9 +415,9 @@
       "name": "COMD 358-010"
     },
     "COMD 358-011": {
-      "instructor": "Emel  Özdora Akşak",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "instructor": "Emel Özdora Akşak",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -453,6 +453,46 @@
         }
       ],
       "name": "COMD 358-011"
+    },
+    "COMD 358-012": {
+      "instructor": "Müge Mengü Hale",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FA-120(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FA-120",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FA-120",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FA-120",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "COMD 358-012"
     }
   }
 }

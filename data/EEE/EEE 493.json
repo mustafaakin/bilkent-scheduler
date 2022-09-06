@@ -16,8 +16,8 @@
   "sections": {
     "EEE 493-001": {
       "instructor": "Mehmet Alper Kutay",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "EEE 493-002": {
       "instructor": "Mehmet Alper Kutay",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

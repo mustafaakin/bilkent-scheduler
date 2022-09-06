@@ -16,8 +16,8 @@
   "sections": {
     "FA 101-001": {
       "instructor": "Burçak Altay",
-      "quota": "13 Mand. 0 Elect.",
-      "total_quota": 13,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -84,8 +84,8 @@
     },
     "FA 101-002": {
       "instructor": "Çağrı İmamoğlu",
-      "quota": "13 Mand. 0 Elect.",
-      "total_quota": 13,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -152,8 +152,8 @@
     },
     "FA 101-003": {
       "instructor": "Mehmet Tahir Ayparlar",
-      "quota": "13 Mand. 0 Elect.",
-      "total_quota": 13,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -220,8 +220,8 @@
     },
     "FA 101-004": {
       "instructor": "Mehmet Tevfik Gürsu",
-      "quota": "13 Mand. 0 Elect.",
-      "total_quota": 13,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -288,8 +288,8 @@
     },
     "FA 101-005": {
       "instructor": "Sema Karamanoğlu",
-      "quota": "13 Mand. 0 Elect.",
-      "total_quota": 13,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -356,8 +356,8 @@
     },
     "FA 101-006": {
       "instructor": "Sanem Deniz Karlıdağ",
-      "quota": "13 Mand. 0 Elect.",
-      "total_quota": 13,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -424,8 +424,8 @@
     },
     "FA 101-007": {
       "instructor": "Ayşe Henry",
-      "quota": "13 Mand. 0 Elect.",
-      "total_quota": 13,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -492,8 +492,8 @@
     },
     "FA 101-008": {
       "instructor": "Segah Sak",
-      "quota": "13 Mand. 0 Elect.",
-      "total_quota": 13,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -560,8 +560,8 @@
     },
     "FA 101-009": {
       "instructor": "Aysu Berk",
-      "quota": "13 Mand. 0 Elect.",
-      "total_quota": 13,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -628,8 +628,8 @@
     },
     "FA 101-010": {
       "instructor": "Melek Pınar Uz Baki",
-      "quota": "13 Mand. 0 Elect.",
-      "total_quota": 13,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -696,8 +696,8 @@
     },
     "FA 101-011": {
       "instructor": "Staff",
-      "quota": "13 Mand. 0 Elect.",
-      "total_quota": 13,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -761,142 +761,6 @@
         }
       ],
       "name": "FA 101-011"
-    },
-    "FA 101-012": {
-      "instructor": "Staff",
-      "quota": "13 Mand. 0 Elect.",
-      "total_quota": 13,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FA-320",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FA-320",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FA-320",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FA-320",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FA-320",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FA-320",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FA-320",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FA-320",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "FA 101-012"
-    },
-    "FA 101-013": {
-      "instructor": "Staff",
-      "quota": "13 Mand. 0 Elect.",
-      "total_quota": 13,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FF-109",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FF-109",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF-109",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF-109",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FF-109",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FF-109",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FF-109",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FF-109",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "FA 101-013"
     }
   }
 }

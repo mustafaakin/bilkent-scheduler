@@ -81,14 +81,14 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-101",
+          "place": "T-169",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "MA-101",
+          "place": "T-169",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -102,7 +102,7 @@
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-101",
+          "place": "T-169",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -116,7 +116,7 @@
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-101",
+          "place": "T-169",
           "class": "Face-to-Face Lecture"
         }
       ],

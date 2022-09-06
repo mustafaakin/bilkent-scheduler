@@ -16,8 +16,8 @@
   "sections": {
     "MAN 333-001": {
       "instructor": "Ceren Aydoğmuş",
-      "quota": "30 Mand. 15 Elect.",
-      "total_quota": 45,
+      "quota": "35 Mand. 25 Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "MAN 333-002": {
       "instructor": "Ceren Aydoğmuş",
-      "quota": "10 Mand. 35 Elect.",
-      "total_quota": 45,
+      "quota": "15 Mand. 45 Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

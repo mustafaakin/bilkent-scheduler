@@ -1,5 +1,5 @@
 {
-  "name": "Machine Elements",
+  "name": "Financial Services Marketing",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -12,47 +12,47 @@
     "bilkent": 0,
     "ECTS": 3
   },
-  "code": "ME 443",
+  "code": "MAN 435",
   "sections": {
-    "ME 443-001": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+    "MAN 435-001": {
+      "instructor": "Can Mehmet Pamir",
+      "quota": "0 Mand. 50 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EB-203",
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-202(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-202",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EB-203",
+          "place": "MA-202",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EB-203",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EB-203(S)",
+          "place": "MA-202",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "ME 443-001"
+      "name": "MAN 435-001"
     }
   }
 }

@@ -16,8 +16,8 @@
   "sections": {
     "POLS 480-001": {
       "instructor": "Ioannis N. Grigoriadis",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-330(S)",
+          "place": "A-127(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-330",
+          "place": "A-127",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-330",
+          "place": "A-127",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-330",
+          "place": "A-127",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "name": "Experience of Space and Place",
+  "name": "The Ottoman Empire in the Great War 1911-1923",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -12,12 +12,12 @@
     "bilkent": 0,
     "ECTS": 3
   },
-  "code": "IAED 424",
+  "code": "HIST 476",
   "sections": {
-    "IAED 424-001": {
-      "instructor": "Yasemin Afacan",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+    "HIST 476-001": {
+      "instructor": "Staff",
+      "quota": "10 Mand. or Elect.",
+      "total_quota": 10,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,34 +25,34 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FF-205(S)",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "MA-105(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FF-205",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "MA-105",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FF-205",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "MA-105",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FF-205",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "MA-105",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "IAED 424-001"
+      "name": "HIST 476-001"
     }
   }
 }

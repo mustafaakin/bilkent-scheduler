@@ -16,8 +16,8 @@
   "sections": {
     "HCIV 102-001": {
       "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "HCIV 102-002": {
       "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "HCIV 102-003": {
       "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -136,8 +136,8 @@
     },
     "HCIV 102-004": {
       "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

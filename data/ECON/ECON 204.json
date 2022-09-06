@@ -15,7 +15,7 @@
   "code": "ECON 204",
   "sections": {
     "ECON 204-001": {
-      "instructor": "Kevin Edward Hasker",
+      "instructor": "Nuh Aygün Dalkıran",
       "quota": "50 Mand. 0 Elect.",
       "total_quota": 50,
       "enrollment": {
@@ -27,7 +27,7 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-Z27(S)",
+          "place": "A-Z27",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -48,14 +48,14 @@
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-Z27",
+          "place": "A-Z27(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 204-001"
     },
     "ECON 204-002": {
-      "instructor": "Nuh Aygün Dalkıran",
+      "instructor": "Kevin Edward Hasker",
       "quota": "50 Mand. 0 Elect.",
       "total_quota": 50,
       "enrollment": {

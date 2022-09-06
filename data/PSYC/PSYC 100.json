@@ -16,8 +16,8 @@
   "sections": {
     "PSYC 100-001": {
       "instructor": "Staff",
-      "quota": "45 Mand. 20 Elect.",
-      "total_quota": 65,
+      "quota": "10 Mand. 50 Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,7 +56,7 @@
     },
     "PSYC 100-002": {
       "instructor": "Staff",
-      "quota": "45 Mand. 20 Elect.",
+      "quota": "25 Mand. 40 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
@@ -64,31 +64,31 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "T-172(S)",
+          "place": "A-Z25(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-Z25",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "T-172",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "T-172",
+          "place": "A-Z25",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "T-172",
+          "place": "A-Z25",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,7 +96,7 @@
     },
     "PSYC 100-003": {
       "instructor": "Emine Ulaşan Özgüle",
-      "quota": "45 Mand. 20 Elect.",
+      "quota": "10 Mand. 55 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
@@ -136,8 +136,8 @@
     },
     "PSYC 100-004": {
       "instructor": "Staff",
-      "quota": "45 Mand. 20 Elect.",
-      "total_quota": 65,
+      "quota": "25 Mand. 35 Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -176,8 +176,8 @@
     },
     "PSYC 100-005": {
       "instructor": "Kaan Kerman",
-      "quota": "45 Mand. 20 Elect.",
-      "total_quota": 65,
+      "quota": "25 Mand. 35 Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -216,8 +216,8 @@
     },
     "PSYC 100-006": {
       "instructor": "Staff",
-      "quota": "45 Mand. 20 Elect.",
-      "total_quota": 65,
+      "quota": "25 Mand. 35 Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -256,8 +256,8 @@
     },
     "PSYC 100-007": {
       "instructor": "Staff",
-      "quota": "45 Mand. 20 Elect.",
-      "total_quota": 65,
+      "quota": "10 Mand. 50 Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

@@ -16,8 +16,8 @@
   "sections": {
     "CS 411-001": {
       "instructor": "Haluk Altunel",
-      "quota": "35 Mand. or Elect.",
-      "total_quota": 35,
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "CS 411-002": {
       "instructor": "Haluk Altunel",
-      "quota": "35 Mand. or Elect.",
-      "total_quota": 35,
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

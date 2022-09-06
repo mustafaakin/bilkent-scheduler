@@ -1,58 +1,58 @@
 {
-  "name": "Deep Generative Networks",
+  "name": "Statistical Physics",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
   },
   "labStudioOthersHours": {
-    "hybrid": null,
+    "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
     "bilkent": 0,
     "ECTS": 3
   },
-  "code": "CS 585",
+  "code": "PHYS 552",
   "sections": {
-    "CS 585-001": {
-      "instructor": "Ayşegül Dündar",
-      "quota": "10 Mand. or Elect.",
-      "total_quota": 10,
+    "PHYS 552-001": {
+      "instructor": "Cemal Yalabık",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-204(S)",
+          "place": "SA-Z03(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-204",
+          "place": "SA-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-204",
+          "place": "SA-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-204",
+          "place": "SA-Z03",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "CS 585-001"
+      "name": "PHYS 552-001"
     }
   }
 }

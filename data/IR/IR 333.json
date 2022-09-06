@@ -15,49 +15,9 @@
   "code": "IR 333",
   "sections": {
     "IR 333-001": {
-      "instructor": "Selver Buldanlıoğlu Şahin",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "A-229(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-229",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "A-229",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "A-229",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "IR 333-001"
-    },
-    "IR 333-002": {
-      "instructor": "Staff",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
+      "instructor": "Ömer Zarplı",
+      "quota": "61 Mand. 4 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -92,7 +52,7 @@
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "IR 333-002"
+      "name": "IR 333-001"
     }
   }
 }

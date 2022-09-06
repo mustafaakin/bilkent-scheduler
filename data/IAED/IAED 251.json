@@ -16,8 +16,8 @@
   "sections": {
     "IAED 251-001": {
       "instructor": "Necmiye Şule Aybar",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "IAED 251-002": {
       "instructor": "Ertan Ergin",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -67,37 +67,37 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-107",
+          "place": "FF-308",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-107",
+          "place": "FF-308",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-107",
+          "place": "FF-308",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-107",
+          "place": "FF-308",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "IAED 251-002"
     },
     "IAED 251-003": {
-      "instructor": "Çiler Gözde Gül Günday",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Necmiye Şule Aybar",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -105,114 +105,34 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FF-308",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FF-308",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FF-308",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FF-308",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "IAED 251-003"
-    },
-    "IAED 251-004": {
-      "instructor": "Necmiye Şule Aybar",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF-305",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF-305",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FF-305",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FF-305",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "IAED 251-004"
-    },
-    "IAED 251-005": {
-      "instructor": "Ertan Ergin",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF-107",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF-107",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FF-107",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FF-107",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "IAED 251-005"
     }
   }
 }

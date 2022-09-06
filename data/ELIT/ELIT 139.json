@@ -15,49 +15,49 @@
   "code": "ELIT 139",
   "sections": {
     "ELIT 139-001": {
-      "instructor": "Ayşe Çelikkol",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Staff",
+      "quota": "36 Mand. 4 Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "T-169(S)",
+          "place": "A-230(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "T-169",
+          "place": "A-230",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "T-169",
+          "place": "A-230",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "T-169",
+          "place": "A-230",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ELIT 139-001"
     },
     "ELIT 139-002": {
-      "instructor": "Ayşe Çelikkol",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Ceylan Köşker",
+      "quota": "36 Mand. 4 Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -93,46 +93,6 @@
         }
       ],
       "name": "ELIT 139-002"
-    },
-    "ELIT 139-003": {
-      "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-107(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-107",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-107",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-107",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ELIT 139-003"
     }
   }
 }

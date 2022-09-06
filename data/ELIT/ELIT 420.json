@@ -13,5 +13,39 @@
     "ECTS": 3
   },
   "code": "ELIT 420",
-  "sections": {}
+  "sections": {
+    "ELIT 420-001": {
+      "instructor": "Stein Haugom Olsen",
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "H-235",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "H-235",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "19:30",
+          "end": "20:20",
+          "place": "H-235",
+          "class": "Online/Hybrid Lecture"
+        }
+      ],
+      "name": "ELIT 420-001"
+    }
+  }
 }

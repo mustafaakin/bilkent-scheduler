@@ -16,8 +16,8 @@
   "sections": {
     "ENG 101-001": {
       "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "200 Mand. or Elect.",
+      "total_quota": 200,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -70,8 +70,8 @@
     },
     "ENG 101-015": {
       "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "300 Mand. or Elect.",
+      "total_quota": 300,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -124,8 +124,8 @@
     },
     "ENG 101-034": {
       "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "240 Mand. or Elect.",
+      "total_quota": 240,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -178,8 +178,8 @@
     },
     "ENG 101-049": {
       "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "120 Mand. or Elect.",
+      "total_quota": 120,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -232,8 +232,8 @@
     },
     "ENG 101-059": {
       "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "180 Mand. or Elect.",
+      "total_quota": 180,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -284,10 +284,172 @@
       ],
       "name": "ENG 101-059"
     },
+    "ENG 101-072": {
+      "instructor": "Donna Cristina Moros",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-Z39(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-Z39",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-Z36",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-Z36",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-Z36",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-Z36",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 101-072"
+    },
+    "ENG 101-073": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "MA-305(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "MA-305",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "T-169",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "T-169",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "T-169",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "T-169",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 101-073"
+    },
+    "ENG 101-074": {
+      "instructor": "Semra Akbaş",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-228(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-228",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-228",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-228",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "G-228",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-228",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 101-074"
+    },
     "ENG 101-078": {
       "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "140 Mand. or Elect.",
+      "total_quota": 140,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -340,8 +502,8 @@
     },
     "ENG 101-089": {
       "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "100 Mand. or Elect.",
+      "total_quota": 100,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -394,8 +556,8 @@
     },
     "ENG 101-098": {
       "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "80 Mand. or Elect.",
+      "total_quota": 80,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -448,8 +610,8 @@
     },
     "ENG 101-106": {
       "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "140 Mand. or Elect.",
+      "total_quota": 140,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -499,6 +661,222 @@
         }
       ],
       "name": "ENG 101-106"
+    },
+    "ENG 101-117": {
+      "instructor": "Jeffrey Michael Doonan",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CD-B02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CD-B02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "CD-B02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "CD-B02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "CD-B02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CD-B02(S)",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 101-117"
+    },
+    "ENG 101-118": {
+      "instructor": "Donna Cristina Moros",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CE-Z05(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CE-Z05",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "CE-Z05",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "CE-Z05",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "CE-Z05",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CE-Z05",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 101-118"
+    },
+    "ENG 101-119": {
+      "instructor": "Andrew William Hassell",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CD-B02(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CD-B02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "CD-B02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "CD-B02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "CD-B02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CD-B02",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 101-119"
+    },
+    "ENG 101-120": {
+      "instructor": "Semra Akbaş",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CE-Z05(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CE-Z05",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "CE-Z05",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "CE-Z05",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "CE-Z05",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CE-Z05",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 101-120"
     }
   }
 }

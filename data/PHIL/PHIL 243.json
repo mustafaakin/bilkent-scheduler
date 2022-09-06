@@ -16,8 +16,8 @@
   "sections": {
     "PHIL 243-001": {
       "instructor": "Yan Trefor Overfield Shaw  Mary Katrina Krizan",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -84,8 +84,8 @@
     },
     "PHIL 243-002": {
       "instructor": "Iain Board  Adriana Monica Solomon",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -152,8 +152,8 @@
     },
     "PHIL 243-003": {
       "instructor": "İklil Kaya Yıldırım  Jonathan Payton",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -220,8 +220,8 @@
     },
     "PHIL 243-004": {
       "instructor": "Matthew Llyod Gorman  Tufan Kıymaz",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -288,8 +288,8 @@
     },
     "PHIL 243-005": {
       "instructor": "Saniye Vatansever  Laura Elizabeth Salgın",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -356,8 +356,8 @@
     },
     "PHIL 243-006": {
       "instructor": "İklil Kaya Yıldırım  Jonathan Payton",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -424,8 +424,8 @@
     },
     "PHIL 243-007": {
       "instructor": "Iain Board  Daniel Mark Wolt",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -492,8 +492,8 @@
     },
     "PHIL 243-008": {
       "instructor": "Yan Trefor Overfield Shaw  Mary Katrina Krizan",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -560,8 +560,8 @@
     },
     "PHIL 243-009": {
       "instructor": "Sandrine Berges  Elif Hande Özer",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -628,8 +628,8 @@
     },
     "PHIL 243-010": {
       "instructor": "David Christopher Butcher  Istvan Albert Aranyosi",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -696,8 +696,8 @@
     },
     "PHIL 243-011": {
       "instructor": "David Christopher Butcher  Istvan Albert Aranyosi",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -764,8 +764,8 @@
     },
     "PHIL 243-012": {
       "instructor": "Sandrine Berges  Elif Hande Özer",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -832,8 +832,8 @@
     },
     "PHIL 243-013": {
       "instructor": "William Giles Wringe  John William Day",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -900,8 +900,8 @@
     },
     "PHIL 243-014": {
       "instructor": "Saniye Vatansever  Laura Elizabeth Salgın",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -911,14 +911,14 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "H-333(S)",
+          "place": "H-333",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "H-333(S)",
+          "place": "H-333",
           "class": "Recitation"
         },
         {
@@ -953,14 +953,14 @@
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "H-333",
+          "place": "H-333(S)",
           "class": "Recitation"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "H-333",
+          "place": "H-333(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -968,8 +968,8 @@
     },
     "PHIL 243-015": {
       "instructor": "William Giles Wringe  John William Day",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1036,8 +1036,8 @@
     },
     "PHIL 243-016": {
       "instructor": "Iain Board  Daniel Mark Wolt",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "27 Mand. 0 Elect.",
+      "total_quota": 27,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1101,6 +1101,74 @@
         }
       ],
       "name": "PHIL 243-016"
+    },
+    "PHIL 243-018": {
+      "instructor": "Yan Trefor Overfield Shaw  Adriana Monica Solomon",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "H-233(S)",
+          "class": "Recitation"
+        },
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "A-231(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "H-233",
+          "class": "Recitation"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "A-231",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "H-233",
+          "class": "Recitation"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "A-231",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "H-233",
+          "class": "Recitation"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "A-231",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PHIL 243-018"
     }
   }
 }

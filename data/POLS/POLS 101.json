@@ -16,8 +16,8 @@
   "sections": {
     "POLS 101-001": {
       "instructor": "John James Alexander",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "POLS 101-002": {
       "instructor": "Banu Helvacıoğlu",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "POLS 101-003": {
       "instructor": "İhsan İlker Aytürk",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -136,8 +136,8 @@
     },
     "POLS 101-004": {
       "instructor": "Başak İnce",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -176,8 +176,8 @@
     },
     "POLS 101-005": {
       "instructor": "Senem Yıldırım",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -213,46 +213,6 @@
         }
       ],
       "name": "POLS 101-005"
-    },
-    "POLS 101-006": {
-      "instructor": "Staff",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "T-173(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "T-173",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "T-173",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "T-173",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "POLS 101-006"
     }
   }
 }

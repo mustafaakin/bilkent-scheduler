@@ -27,7 +27,7 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EA-302(S)",
+          "place": "EA-302",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -48,7 +48,7 @@
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EA-302",
+          "place": "EA-302(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

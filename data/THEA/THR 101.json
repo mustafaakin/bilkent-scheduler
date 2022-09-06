@@ -16,8 +16,8 @@
   "sections": {
     "THR 101-001": {
       "instructor": "Jason Edward Hale",
-      "quota": "0 Mand. 0 Elect.",
-      "total_quota": 0,
+      "quota": "5 Mand. 0 Elect.",
+      "total_quota": 5,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

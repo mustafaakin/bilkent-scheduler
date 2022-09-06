@@ -16,7 +16,7 @@
   "sections": {
     "PSYC 102-001": {
       "instructor": "Staff",
-      "quota": "50 Mand. 15 Elect.",
+      "quota": "25 Mand. 40 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
@@ -56,7 +56,7 @@
     },
     "PSYC 102-002": {
       "instructor": "Staff",
-      "quota": "50 Mand. 15 Elect.",
+      "quota": "25 Mand. 40 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
@@ -64,31 +64,31 @@
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "A-Z25(S)",
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "T-272(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "T-272",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-Z25",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "T-272",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "A-Z25",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "A-Z25",
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "T-272",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,7 +96,7 @@
     },
     "PSYC 102-003": {
       "instructor": "Staff",
-      "quota": "50 Mand. 15 Elect.",
+      "quota": "25 Mand. 40 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
@@ -136,7 +136,7 @@
     },
     "PSYC 102-004": {
       "instructor": "Staff",
-      "quota": "50 Mand. 15 Elect.",
+      "quota": "25 Mand. 40 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
@@ -144,31 +144,31 @@
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-Z27(S)",
+          "place": "T-172(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-Z27",
+          "place": "T-172",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-Z27",
+          "place": "T-172",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-Z27",
+          "place": "T-172",
           "class": "Face-to-Face Lecture"
         }
       ],

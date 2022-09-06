@@ -15,7 +15,7 @@
   "code": "PHYS 101",
   "sections": {
     "PHYS 101-001": {
-      "instructor": "Staff",
+      "instructor": "Ceren Sibel Sayın",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
@@ -83,7 +83,7 @@
       "name": "PHYS 101-001"
     },
     "PHYS 101-002": {
-      "instructor": "Staff",
+      "instructor": "Ahmet Züfer Eriş",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
@@ -95,14 +95,14 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FC-Z23D(S)",
+          "place": "FC-Z23D",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FC-Z23D",
+          "place": "FC-Z23D(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -151,7 +151,7 @@
       "name": "PHYS 101-002"
     },
     "PHYS 101-003": {
-      "instructor": "Staff",
+      "instructor": "Ceren Sibel Sayın",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
@@ -219,7 +219,7 @@
       "name": "PHYS 101-003"
     },
     "PHYS 101-004": {
-      "instructor": "Staff",
+      "instructor": "Yiğit Gündüç",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
@@ -287,7 +287,7 @@
       "name": "PHYS 101-004"
     },
     "PHYS 101-005": {
-      "instructor": "Staff",
+      "instructor": "Yiğit Gündüç",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
@@ -313,7 +313,7 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "V-02(S)",
+          "place": "B-113(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -327,7 +327,7 @@
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "V-02",
+          "place": "B-113",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -341,21 +341,21 @@
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "V-02",
+          "place": "B-113",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "V-02",
+          "place": "B-113",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PHYS 101-005"
     },
     "PHYS 101-006": {
-      "instructor": "Staff",
+      "instructor": "İbrahim Sarpkaya",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
@@ -423,7 +423,7 @@
       "name": "PHYS 101-006"
     },
     "PHYS 101-007": {
-      "instructor": "Staff",
+      "instructor": "Şahin Büyükdağlı",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
@@ -491,7 +491,7 @@
       "name": "PHYS 101-007"
     },
     "PHYS 101-008": {
-      "instructor": "Staff",
+      "instructor": "Ali Ulvi Yılmazer",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
@@ -559,7 +559,7 @@
       "name": "PHYS 101-008"
     },
     "PHYS 101-009": {
-      "instructor": "Staff",
+      "instructor": "Yiğit Gündüç",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
@@ -627,7 +627,7 @@
       "name": "PHYS 101-009"
     },
     "PHYS 101-010": {
-      "instructor": "Staff",
+      "instructor": "Şahin Büyükdağlı",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
@@ -695,7 +695,7 @@
       "name": "PHYS 101-010"
     },
     "PHYS 101-011": {
-      "instructor": "Staff",
+      "instructor": "Ekmel Özbay",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
@@ -763,9 +763,9 @@
       "name": "PHYS 101-011"
     },
     "PHYS 101-012": {
-      "instructor": "Staff",
-      "quota": "45 Mand. or Elect.",
-      "total_quota": 45,
+      "instructor": "Ali Ulvi Yılmazer",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -831,9 +831,9 @@
       "name": "PHYS 101-012"
     },
     "PHYS 101-013": {
-      "instructor": "Staff",
-      "quota": "45 Mand. or Elect.",
-      "total_quota": 45,
+      "instructor": "Ceren Sibel Sayın",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -899,9 +899,9 @@
       "name": "PHYS 101-013"
     },
     "PHYS 101-014": {
-      "instructor": "Staff",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "instructor": "Mehmet Özgür Oktel",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -932,7 +932,7 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "SA-Z01(S)",
+          "place": "SA-Z01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -960,7 +960,7 @@
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "SA-Z01",
+          "place": "SA-Z01(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

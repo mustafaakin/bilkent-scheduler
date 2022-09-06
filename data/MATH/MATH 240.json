@@ -16,8 +16,8 @@
   "sections": {
     "MATH 240-001": {
       "instructor": "Fatihcan Atay",
-      "quota": "45 Mand. 0 Elect.",
-      "total_quota": 45,
+      "quota": "40 Mand. 1 Elect.",
+      "total_quota": 41,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z08(S)",
+          "place": "B-112(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z08",
+          "place": "B-112",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z08",
+          "place": "B-112",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z08",
+          "place": "B-112",
           "class": "Face-to-Face Lecture"
         }
       ],

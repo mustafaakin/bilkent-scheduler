@@ -16,8 +16,8 @@
   "sections": {
     "ELIT 143-001": {
       "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "36 Mand. 4 Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "ELIT 143-002": {
       "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "36 Mand. 4 Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -93,46 +93,6 @@
         }
       ],
       "name": "ELIT 143-002"
-    },
-    "ELIT 143-003": {
-      "instructor": "Staff",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-106(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-106",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-106",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-106",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ELIT 143-003"
     }
   }
 }

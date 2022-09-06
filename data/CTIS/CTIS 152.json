@@ -24,6 +24,20 @@
       },
       "schedule": [
         {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
@@ -36,6 +50,20 @@
           "end": "12:20",
           "place": "CD-B01",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-CTISL4",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-CTISL4",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
@@ -64,11 +92,25 @@
       },
       "schedule": [
         {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
           "place": "CE-106(S)",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
@@ -85,11 +127,25 @@
           "class": "Face-to-Face Lecture"
         },
         {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "C-CTISL4",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
           "place": "CE-106",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-CTISL4",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CTIS 152-002"
@@ -104,11 +160,25 @@
       },
       "schedule": [
         {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
           "place": "CD-B01(S)",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
@@ -118,11 +188,25 @@
           "class": "Face-to-Face Lecture"
         },
         {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
           "place": "CD-B01",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
@@ -144,11 +228,25 @@
       },
       "schedule": [
         {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
           "place": "CE-106(S)",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
@@ -165,11 +263,25 @@
           "class": "Face-to-Face Lecture"
         },
         {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
           "place": "CE-106",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-CTISL1",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CTIS 152-004"

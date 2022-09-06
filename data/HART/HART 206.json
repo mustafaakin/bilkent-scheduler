@@ -1,23 +1,23 @@
 {
-  "name": "Deep Generative Networks",
+  "name": "Mythologies of the Ancient Mediterranean World",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
   },
   "labStudioOthersHours": {
-    "hybrid": null,
+    "hybrid": 0,
     "faceToFace": 0
   },
   "credits": {
     "bilkent": 0,
     "ECTS": 3
   },
-  "code": "CS 485",
+  "code": "HART 206",
   "sections": {
-    "CS 485-001": {
-      "instructor": "Ayşegül Dündar",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+    "HART 206-001": {
+      "instructor": "Nebahat İlgi Gerçek",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,34 +25,34 @@
       "schedule": [
         {
           "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-204(S)",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "H-335(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-204",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "H-335",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "B-204",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "H-335",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "B-204",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "H-335",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "CS 485-001"
+      "name": "HART 206-001"
     }
   }
 }

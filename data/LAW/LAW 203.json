@@ -67,35 +67,35 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "V-01(S)",
+          "place": "B-203(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "V-01",
+          "place": "B-203",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "V-01",
+          "place": "B-203",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "V-01",
+          "place": "B-203",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LAW 203-002"
     },
     "LAW 203-003": {
-      "instructor": "Staff",
+      "instructor": "Fahri Gökçen Taner",
       "quota": "58 Mand. or Elect.",
       "total_quota": 58,
       "enrollment": {

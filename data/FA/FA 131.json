@@ -55,7 +55,7 @@
       "name": "FA 131-001"
     },
     "FA 131-002": {
-      "instructor": "Mehmet Tahir Ayparlar",
+      "instructor": "Burcu Egel",
       "quota": "16 Mand. 0 Elect.",
       "total_quota": 16,
       "enrollment": {
@@ -267,28 +267,28 @@
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-305",
+          "place": "FF-308",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-305",
+          "place": "FF-308",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FF-305",
+          "place": "FF-308",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FF-305(S)",
+          "place": "FF-308(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

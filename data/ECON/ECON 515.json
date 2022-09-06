@@ -27,35 +27,35 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-230(S)",
-          "class": "Face-to-Face Lecture"
+          "place": "B-110",
+          "class": "Recitation"
         },
         {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-230",
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "T-162(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Recitation"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "A-230",
+          "place": "T-162",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "T-162",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-230",
+          "place": "T-162",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -16,7 +16,7 @@
   "sections": {
     "CS 281-001": {
       "instructor": "Semra Güleç",
-      "quota": "65 Mand. or Elect.",
+      "quota": "60 Mand. 5 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
@@ -70,7 +70,7 @@
     },
     "CS 281-002": {
       "instructor": "Semra Güleç",
-      "quota": "65 Mand. or Elect.",
+      "quota": "60 Mand. 5 Elect.",
       "total_quota": 65,
       "enrollment": {
         "mandatory": 0,

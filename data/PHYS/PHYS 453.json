@@ -1,5 +1,5 @@
 {
-  "name": "Special Topics in Interior Design II",
+  "name": "Nuclear and Particle Physics",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -12,47 +12,47 @@
     "bilkent": 0,
     "ECTS": 3
   },
-  "code": "IAED 392",
+  "code": "PHYS 453",
   "sections": {
-    "IAED 392-001": {
-      "instructor": "Burçak Altay",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+    "PHYS 453-001": {
+      "instructor": "Ali Ulvi Yılmazer",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-107(S)",
+          "place": "SA-Z20(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-107",
+          "place": "SA-Z20",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-107",
+          "place": "SA-Z20",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-107",
+          "place": "SA-Z20",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "IAED 392-001"
+      "name": "PHYS 453-001"
     }
   }
 }

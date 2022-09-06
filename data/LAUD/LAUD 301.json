@@ -16,8 +16,8 @@
   "sections": {
     "LAUD 301-001": {
       "instructor": "Hatice Karaca",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "10 Mand. or Elect.",
+      "total_quota": 10,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -98,8 +98,8 @@
     },
     "LAUD 301-002": {
       "instructor": "Kumru Arapgirlioğlu",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "quota": "10 Mand. or Elect.",
+      "total_quota": 10,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

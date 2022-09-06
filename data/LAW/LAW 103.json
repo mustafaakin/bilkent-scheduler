@@ -135,7 +135,7 @@
       "name": "LAW 103-003"
     },
     "LAW 103-004": {
-      "instructor": "Staff",
+      "instructor": "Serkan Yolcu",
       "quota": "65 Mand. or Elect.",
       "total_quota": 65,
       "enrollment": {
@@ -147,7 +147,7 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-140(S)",
+          "place": "G-140",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -168,7 +168,7 @@
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-140",
+          "place": "G-140(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

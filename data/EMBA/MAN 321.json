@@ -16,8 +16,8 @@
   "sections": {
     "MAN 321-001": {
       "instructor": "Kürşat Aydoğan",
-      "quota": "35 Mand. 5 Elect.",
-      "total_quota": 40,
+      "quota": "40 Mand. 5 Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "MAN 321-002": {
       "instructor": "Ahmet Şensoy",
-      "quota": "35 Mand. 5 Elect.",
-      "total_quota": 40,
+      "quota": "40 Mand. 5 Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "MAN 321-003": {
       "instructor": "Tolga Demir",
-      "quota": "35 Mand. 5 Elect.",
-      "total_quota": 40,
+      "quota": "40 Mand. 5 Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -136,8 +136,8 @@
     },
     "MAN 321-004": {
       "instructor": "Tolga Demir",
-      "quota": "35 Mand. 5 Elect.",
-      "total_quota": 40,
+      "quota": "40 Mand. 5 Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

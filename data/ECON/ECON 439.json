@@ -16,39 +16,39 @@
   "sections": {
     "ECON 439-001": {
       "instructor": "Semih Koray",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-229(S)",
+          "place": "A-127(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-229",
+          "place": "A-127",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-229",
+          "place": "A-127",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-229",
+          "place": "A-127",
           "class": "Face-to-Face Lecture"
         }
       ],

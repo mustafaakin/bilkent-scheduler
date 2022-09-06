@@ -16,8 +16,8 @@
   "sections": {
     "COMD 203-001": {
       "instructor": "Burcu Baykan",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "COMD 203-002": {
       "instructor": "Staff",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "COMD 203-003": {
       "instructor": "Staff",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -136,8 +136,8 @@
     },
     "COMD 203-004": {
       "instructor": "Burcu Baykan",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -176,8 +176,8 @@
     },
     "COMD 203-005": {
       "instructor": "Lutz Peschke",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -216,8 +216,8 @@
     },
     "COMD 203-006": {
       "instructor": "Lutz Peschke",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -253,46 +253,6 @@
         }
       ],
       "name": "COMD 203-006"
-    },
-    "COMD 203-007": {
-      "instructor": "Staff",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "COMD 203-007"
     }
   }
 }

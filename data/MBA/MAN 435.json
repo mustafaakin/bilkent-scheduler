@@ -1,5 +1,5 @@
 {
-  "name": "Contemporary Architecture and Theory",
+  "name": "Financial Services Marketing",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -12,12 +12,12 @@
     "bilkent": 0,
     "ECTS": 3
   },
-  "code": "ARCH 465",
+  "code": "MAN 435",
   "sections": {
-    "ARCH 465-001": {
-      "instructor": "Giorgio Gasco",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+    "MAN 435-001": {
+      "instructor": "Can Mehmet Pamir",
+      "quota": "0 Mand. 50 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,32 +27,32 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FA-313(S)",
+          "place": "MA-202(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FA-313",
+          "place": "MA-202",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FA-313",
+          "place": "MA-202",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FA-313",
+          "place": "MA-202",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "ARCH 465-001"
+      "name": "MAN 435-001"
     }
   }
 }

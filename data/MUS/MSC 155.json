@@ -1,5 +1,5 @@
 {
-  "name": "Turkish International Arbitration Law",
+  "name": "Diction for Singers: English and Italian",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -12,12 +12,12 @@
     "bilkent": 0,
     "ECTS": 3
   },
-  "code": "LAW 420",
+  "code": "MSC 155",
   "sections": {
-    "LAW 420-001": {
-      "instructor": "Bilgin Tiryakioğlu",
-      "quota": "58 Mand. or Elect.",
-      "total_quota": 58,
+    "MSC 155-001": {
+      "instructor": "Jennifer Leigh Tipton",
+      "quota": "8 Mand. or Elect.",
+      "total_quota": 8,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,32 +27,32 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-113(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-113",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-113",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-113",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "LAW 420-001"
+      "name": "MSC 155-001"
     }
   }
 }

@@ -16,8 +16,8 @@
   "sections": {
     "CTIS 261-001": {
       "instructor": "Hamdi Murat Yıldırım",
-      "quota": "24 Mand. 0 Elect.",
-      "total_quota": 24,
+      "quota": "29 Mand. 0 Elect.",
+      "total_quota": 29,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -41,28 +41,28 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "C-CTISL3(S)",
+          "place": "C-216(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "C-CTISL3",
+          "place": "C-216",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "C-CTISL3",
+          "place": "C-216",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "C-CTISL3",
+          "place": "C-216",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -70,8 +70,8 @@
     },
     "CTIS 261-002": {
       "instructor": "Seyid Amjad Ali",
-      "quota": "24 Mand. 0 Elect.",
-      "total_quota": 24,
+      "quota": "29 Mand. 0 Elect.",
+      "total_quota": 29,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -81,14 +81,14 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "C-CTISL3(S)",
+          "place": "CE-104",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "C-CTISL3",
+          "place": "CE-104",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -109,14 +109,14 @@
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "C-CTISL3",
+          "place": "CE-104",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "C-CTISL3",
+          "place": "CE-104(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -124,8 +124,8 @@
     },
     "CTIS 261-003": {
       "instructor": "Hamdi Murat Yıldırım",
-      "quota": "24 Mand. 0 Elect.",
-      "total_quota": 24,
+      "quota": "29 Mand. 0 Elect.",
+      "total_quota": 29,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -135,21 +135,21 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "C-CTISL3(S)",
+          "place": "C-216(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "C-CTISL3",
+          "place": "C-216",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "C-CTISL3",
+          "place": "C-216",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -163,7 +163,7 @@
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "C-CTISL3",
+          "place": "C-216",
           "class": "Face-to-Face Lecture"
         },
         {

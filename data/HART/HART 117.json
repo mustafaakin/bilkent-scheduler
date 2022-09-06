@@ -14,7 +14,7 @@
   },
   "code": "HART 117",
   "sections": {
-    "HART 117-002": {
+    "HART 117-001": {
       "instructor": "Staff",
       "quota": "40 Mand. or Elect.",
       "total_quota": 40,
@@ -25,36 +25,36 @@
       "schedule": [
         {
           "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
+          "start": "08:30",
+          "end": "09:20",
           "place": "H-132(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
+          "start": "09:30",
+          "end": "10:20",
           "place": "H-132",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
+          "start": "13:30",
+          "end": "14:20",
           "place": "H-132",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
+          "start": "14:30",
+          "end": "15:20",
           "place": "H-132",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "HART 117-002"
+      "name": "HART 117-001"
     },
-    "HART 117-003": {
+    "HART 117-002": {
       "instructor": "Staff",
       "quota": "40 Mand. or Elect.",
       "total_quota": 40,
@@ -67,32 +67,32 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "H-133B(S)",
+          "place": "H-132(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "H-133B",
+          "place": "H-132",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "H-133B",
+          "place": "H-132",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "H-133B",
+          "place": "H-132",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "HART 117-003"
+      "name": "HART 117-002"
     }
   }
 }

@@ -16,8 +16,8 @@
   "sections": {
     "AMER 207-001": {
       "instructor": "Patrick Charles McDonald",
-      "quota": "20 Mand. 3 Elect.",
-      "total_quota": 23,
+      "quota": "25 Mand. 3 Elect.",
+      "total_quota": 28,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "AMER 207-002": {
       "instructor": "Patrick Charles McDonald",
-      "quota": "20 Mand. 3 Elect.",
-      "total_quota": 23,
+      "quota": "25 Mand. 3 Elect.",
+      "total_quota": 28,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

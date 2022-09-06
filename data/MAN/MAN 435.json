@@ -1,8 +1,8 @@
 {
-  "name": "Theory and Analysis of Sonata Forms",
+  "name": "Financial Services Marketing",
   "lectureHours": {
     "hybrid": 0,
-    "online": 4
+    "online": 3
   },
   "labStudioOthersHours": {
     "hybrid": 0,
@@ -12,12 +12,12 @@
     "bilkent": 0,
     "ECTS": 3
   },
-  "code": "MSC 323",
+  "code": "MAN 435",
   "sections": {
-    "MSC 323-001": {
-      "instructor": "Tahsin Tolga Yayalar",
-      "quota": "8 Mand. or Elect.",
-      "total_quota": 8,
+    "MAN 435-001": {
+      "instructor": "Can Mehmet Pamir",
+      "quota": "0 Mand. 50 Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,32 +27,32 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "P-336",
+          "place": "MA-202(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "P-336",
+          "place": "MA-202",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "P-336",
+          "place": "MA-202",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "P-336",
+          "place": "MA-202",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "MSC 323-001"
+      "name": "MAN 435-001"
     }
   }
 }

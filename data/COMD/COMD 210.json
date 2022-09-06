@@ -15,9 +15,9 @@
   "code": "COMD 210",
   "sections": {
     "COMD 210-001": {
-      "instructor": "Fulten Larlar",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "instructor": "Staff",
+      "quota": "16 Mand. 0 Elect.",
+      "total_quota": 16,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "COMD 210-002": {
       "instructor": "Fulten Larlar",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "quota": "16 Mand. 0 Elect.",
+      "total_quota": 16,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "COMD 210-003": {
       "instructor": "Wickham Catesby Flannagan",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "quota": "16 Mand. 0 Elect.",
+      "total_quota": 16,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -136,8 +136,8 @@
     },
     "COMD 210-004": {
       "instructor": "Wickham Catesby Flannagan",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "quota": "16 Mand. 0 Elect.",
+      "total_quota": 16,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -175,9 +175,9 @@
       "name": "COMD 210-004"
     },
     "COMD 210-005": {
-      "instructor": "Emre Yalgın",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "instructor": "Fulten Larlar",
+      "quota": "16 Mand. or Elect.",
+      "total_quota": 16,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -213,6 +213,46 @@
         }
       ],
       "name": "COMD 210-005"
+    },
+    "COMD 210-006": {
+      "instructor": "Staff",
+      "quota": "16 Mand. or Elect.",
+      "total_quota": 16,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "COMD 210-006"
     }
   }
 }

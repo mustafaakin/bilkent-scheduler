@@ -16,8 +16,8 @@
   "sections": {
     "ECON 432-001": {
       "instructor": "Staff",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

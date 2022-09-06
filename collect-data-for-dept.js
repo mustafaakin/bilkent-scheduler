@@ -93,11 +93,11 @@ async function getCourseData(page, course) {
     let departments = Object.keys(JSON.parse(fs.readFileSync('src/departments.json').toString()));
     // departments = departments.splice(departments.indexOf("PHYS"))
     // departments = ["PHYS"]
-    const browser = await puppeteer.launch({headless: false, slowMo: 150});
+    const browser = await puppeteer.launch({headless: false, slowMo: 100});
     const page = await browser.newPage();
     await page.setViewport({width: 1920, height: 1080});
     await page.goto('https://stars.bilkent.edu.tr/homepage/plain_offerings');
-    await new Promise((r) => setTimeout(r, 1000));
+    await new Promise((r) => setTimeout(r, 10000));
 
     fs.rmdirSync('data/', {recursive: true})
     fs.mkdirSync('data');
@@ -120,10 +120,11 @@ async function getCourseData(page, course) {
             courseData.code = course;
             courseData.sections = {};
             const sections = await page.$$eval('#sections>tbody>tr', (els) => els.map((c) => c.id));
-            for (let section of sections) {
+            for (let i = 0; i < sections.length; i++) {
+                const section = sections[i]
                 // Go to each section
                 console.log(`Section: ${section}`);
-                await page.click(`tr[id='${section}']`);
+                if (i !== 0) await page.click(`tr[id='${section}']`);
 
                 let sectionData = await getSectionData(page, section);
                 let schedule = await getSchedule(page);

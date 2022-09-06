@@ -16,8 +16,8 @@
   "sections": {
     "CTIS 365-001": {
       "instructor": "Seyid Amjad Ali",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
+      "quota": "17 Mand. 0 Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -70,8 +70,8 @@
     },
     "CTIS 365-002": {
       "instructor": "Seyid Amjad Ali",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
+      "quota": "17 Mand. 0 Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -81,7 +81,7 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "CD-B01(S)",
+          "place": "CD-B01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -102,7 +102,7 @@
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "CD-B01",
+          "place": "CD-B01(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -124,8 +124,8 @@
     },
     "CTIS 365-003": {
       "instructor": "Seyid Amjad Ali",
-      "quota": "9 Mand. 0 Elect.",
-      "total_quota": 9,
+      "quota": "8 Mand. 0 Elect.",
+      "total_quota": 8,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -178,8 +178,8 @@
     },
     "CTIS 365-004": {
       "instructor": "Seyid Amjad Ali",
-      "quota": "9 Mand. 0 Elect.",
-      "total_quota": 9,
+      "quota": "8 Mand. 0 Elect.",
+      "total_quota": 8,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -189,7 +189,7 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "CD-B01(S)",
+          "place": "CD-B01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -210,7 +210,7 @@
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "CD-B01",
+          "place": "CD-B01(S)",
           "class": "Face-to-Face Lecture"
         },
         {

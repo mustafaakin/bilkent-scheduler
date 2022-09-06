@@ -16,8 +16,8 @@
   "sections": {
     "HUM 111-001": {
       "instructor": "Scott Allen Kennedy",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "HUM 111-002": {
       "instructor": "Angelina Del Balzo",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,8 +96,8 @@
     },
     "HUM 111-003": {
       "instructor": "Scott Allen Kennedy",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -107,7 +107,7 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-228(S)",
+          "place": "G-228",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -128,7 +128,7 @@
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-228",
+          "place": "G-228(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -136,8 +136,8 @@
     },
     "HUM 111-004": {
       "instructor": "Angelina Del Balzo",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -176,8 +176,8 @@
     },
     "HUM 111-005": {
       "instructor": "Angelina Del Balzo",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -216,8 +216,8 @@
     },
     "HUM 111-006": {
       "instructor": "Scott Allen Kennedy",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -256,8 +256,8 @@
     },
     "HUM 111-007": {
       "instructor": "Nathan Paul Leidholm",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -296,8 +296,8 @@
     },
     "HUM 111-008": {
       "instructor": "William Norman Coker",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -336,8 +336,8 @@
     },
     "HUM 111-009": {
       "instructor": "William Norman Coker",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -376,8 +376,8 @@
     },
     "HUM 111-010": {
       "instructor": "Nathan Paul Leidholm",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -416,8 +416,8 @@
     },
     "HUM 111-011": {
       "instructor": "Nathan Paul Leidholm",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -456,8 +456,8 @@
     },
     "HUM 111-012": {
       "instructor": "William Norman Coker",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -496,8 +496,8 @@
     },
     "HUM 111-013": {
       "instructor": "Buffy Ann Turner",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -536,8 +536,8 @@
     },
     "HUM 111-014": {
       "instructor": "Dragan Ilic",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -576,8 +576,8 @@
     },
     "HUM 111-015": {
       "instructor": "Buffy Ann Turner",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -616,8 +616,8 @@
     },
     "HUM 111-016": {
       "instructor": "Dragan Ilic",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -656,8 +656,8 @@
     },
     "HUM 111-017": {
       "instructor": "Buffy Ann Turner",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -696,8 +696,8 @@
     },
     "HUM 111-018": {
       "instructor": "Dragan Ilic",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -736,8 +736,8 @@
     },
     "HUM 111-019": {
       "instructor": "Mustafa Nakeeb",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -776,8 +776,8 @@
     },
     "HUM 111-020": {
       "instructor": "Aslı Menevşe",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -816,8 +816,8 @@
     },
     "HUM 111-021": {
       "instructor": "Aslı Menevşe",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -827,14 +827,14 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-135(S)",
+          "place": "G-135",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-135",
+          "place": "G-135(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -856,8 +856,8 @@
     },
     "HUM 111-022": {
       "instructor": "Mustafa Nakeeb",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -896,8 +896,8 @@
     },
     "HUM 111-023": {
       "instructor": "Paul Elliot Kimball",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -936,8 +936,8 @@
     },
     "HUM 111-024": {
       "instructor": "Paul Elliot Kimball",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -976,8 +976,8 @@
     },
     "HUM 111-025": {
       "instructor": "Paul Elliot Kimball",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -987,7 +987,7 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-131(S)",
+          "place": "G-131",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -1008,7 +1008,7 @@
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-131",
+          "place": "G-131(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -1016,8 +1016,8 @@
     },
     "HUM 111-026": {
       "instructor": "Paul Elliot Kimball",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1027,7 +1027,7 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-153(S)",
+          "place": "G-153",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -1048,7 +1048,7 @@
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-153",
+          "place": "G-153(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -1056,8 +1056,8 @@
     },
     "HUM 111-027": {
       "instructor": "Luuk Otmar De Boer",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1096,8 +1096,8 @@
     },
     "HUM 111-028": {
       "instructor": "Luuk Otmar De Boer",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1136,8 +1136,8 @@
     },
     "HUM 111-029": {
       "instructor": "Foster Pease Chamberlin",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1176,8 +1176,8 @@
     },
     "HUM 111-030": {
       "instructor": "Foster Pease Chamberlin",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1216,8 +1216,8 @@
     },
     "HUM 111-031": {
       "instructor": "Marjan Mohammadi",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1256,8 +1256,8 @@
     },
     "HUM 111-032": {
       "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1296,8 +1296,8 @@
     },
     "HUM 111-033": {
       "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1336,8 +1336,8 @@
     },
     "HUM 111-034": {
       "instructor": "Matthew Thomas Stoltz",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1376,8 +1376,8 @@
     },
     "HUM 111-035": {
       "instructor": "Matthew Thomas Stoltz",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1387,14 +1387,14 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-152(S)",
+          "place": "G-152",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-152",
+          "place": "G-152(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -1416,8 +1416,8 @@
     },
     "HUM 111-036": {
       "instructor": "Matthew Thomas Stoltz",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1456,8 +1456,8 @@
     },
     "HUM 111-037": {
       "instructor": "Costantino Costantini",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1536,8 +1536,8 @@
     },
     "HUM 111-039": {
       "instructor": "Andrew Jonathan Ploeg",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1576,8 +1576,8 @@
     },
     "HUM 111-040": {
       "instructor": "Andrew Jonathan Ploeg",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1616,8 +1616,8 @@
     },
     "HUM 111-041": {
       "instructor": "Andrew Jonathan Ploeg",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -1656,8 +1656,8 @@
     },
     "HUM 111-042": {
       "instructor": "Marjan Mohammadi",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "31 Mand. or Elect.",
+      "total_quota": 31,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

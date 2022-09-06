@@ -55,46 +55,6 @@
       "name": "IAED 351-001"
     },
     "IAED 351-002": {
-      "instructor": "Çiler Gözde Gül Günday",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FF-105",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FF-105",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FF-105",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FF-105(S)",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "IAED 351-002"
-    },
-    "IAED 351-003": {
       "instructor": "Staff",
       "quota": "40 Mand. or Elect.",
       "total_quota": 40,
@@ -132,7 +92,7 @@
           "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "IAED 351-003"
+      "name": "IAED 351-002"
     }
   }
 }

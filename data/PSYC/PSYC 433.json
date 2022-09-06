@@ -27,7 +27,7 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "T-173(S)",
+          "place": "T-173",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -48,7 +48,7 @@
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "T-173",
+          "place": "T-173(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -16,8 +16,8 @@
   "sections": {
     "IR 236-001": {
       "instructor": "Samuel John Hirst",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
+      "quota": "60 Mand. 5 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,72 +27,32 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z07(S)",
+          "place": "A-Z27(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z07",
+          "place": "A-Z27",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z07",
+          "place": "A-Z27",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z07",
+          "place": "A-Z27",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "IR 236-001"
-    },
-    "IR 236-002": {
-      "instructor": "Dimitrios Akrivoulis",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-Z07(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-Z07",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "B-Z07",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "B-Z07",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "IR 236-002"
     }
   }
 }

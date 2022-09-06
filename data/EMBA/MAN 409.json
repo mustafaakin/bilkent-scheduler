@@ -13,5 +13,39 @@
     "ECTS": 3
   },
   "code": "MAN 409",
-  "sections": {}
+  "sections": {
+    "MAN 409-001": {
+      "instructor": "Selcen Erdem",
+      "quota": "0 Mand. 57 Elect.",
+      "total_quota": 57,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "MA-105",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "19:30",
+          "end": "20:20",
+          "place": "MA-105",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "20:30",
+          "end": "21:20",
+          "place": "MA-105",
+          "class": "Online/Hybrid Lecture"
+        }
+      ],
+      "name": "MAN 409-001"
+    }
+  }
 }

@@ -6,7 +6,7 @@ const fs = require("fs");
     await page.setViewport({width: 1920, height: 1080});
     await page.goto('https://stars.bilkent.edu.tr/homepage/plain_offerings');
 
-    await new Promise(r => setTimeout(r, 200));
+    await new Promise(r => setTimeout(r, 10000));
 
     const departments = await page.$$eval("table#ccTable>tbody>tr", els => els.map(c => c.id))
 

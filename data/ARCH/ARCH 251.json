@@ -16,8 +16,8 @@
   "sections": {
     "ARCH 251-001": {
       "instructor": "Glenn Terry Kukkola",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -55,9 +55,9 @@
       "name": "ARCH 251-001"
     },
     "ARCH 251-002": {
-      "instructor": "Deniz Üçer Erduran",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Glenn Terry Kukkola",
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -93,46 +93,6 @@
         }
       ],
       "name": "ARCH 251-002"
-    },
-    "ARCH 251-003": {
-      "instructor": "Glenn Terry Kukkola",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FF-201(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FF-201",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FF-201",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FF-201",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ARCH 251-003"
     }
   }
 }

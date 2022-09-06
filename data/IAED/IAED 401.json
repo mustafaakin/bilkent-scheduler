@@ -16,8 +16,8 @@
   "sections": {
     "IAED 401-001": {
       "instructor": "Serpil Özaloğlu",
-      "quota": "14 Mand. or Elect.",
-      "total_quota": 14,
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -98,8 +98,8 @@
     },
     "IAED 401-002": {
       "instructor": "Murat Özdamar",
-      "quota": "14 Mand. or Elect.",
-      "total_quota": 14,
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -180,8 +180,8 @@
     },
     "IAED 401-003": {
       "instructor": "Necmiye Şule Aybar",
-      "quota": "14 Mand. or Elect.",
-      "total_quota": 14,
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -262,8 +262,8 @@
     },
     "IAED 401-004": {
       "instructor": "Fatma Eda Kutay",
-      "quota": "14 Mand. or Elect.",
-      "total_quota": 14,
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -344,8 +344,8 @@
     },
     "IAED 401-005": {
       "instructor": "Ertan Ergin",
-      "quota": "14 Mand. or Elect.",
-      "total_quota": 14,
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -425,9 +425,9 @@
       "name": "IAED 401-005"
     },
     "IAED 401-006": {
-      "instructor": "Ali Cengizkan",
-      "quota": "14 Mand. or Elect.",
-      "total_quota": 14,
+      "instructor": "Semiha Yılmazer",
+      "quota": "17 Mand. or Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -437,156 +437,74 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-312(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-312",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-312",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-312",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-312",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-312",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-312",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-312",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FF-312",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FF-312(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IAED 401-006"
-    },
-    "IAED 401-007": {
-      "instructor": "Semiha Yılmazer",
-      "quota": "14 Mand. or Elect.",
-      "total_quota": 14,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FF-310(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FF-310",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF-310",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF-310",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF-310",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF-310",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FF-310",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FF-310",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FF-310",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FF-310(S)",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "IAED 401-007"
     }
   }
 }

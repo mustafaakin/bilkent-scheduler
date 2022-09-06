@@ -16,8 +16,8 @@
   "sections": {
     "MAN 406-001": {
       "instructor": "Aydın Örsan Örge",
-      "quota": "53 Mand. 0 Elect.",
-      "total_quota": 53,
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "V-02(S)",
+          "place": "MA-105(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "V-02",
+          "place": "MA-105",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "V-02",
+          "place": "MA-105",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "V-02",
+          "place": "MA-105",
           "class": "Face-to-Face Lecture"
         }
       ],
