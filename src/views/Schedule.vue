@@ -44,10 +44,10 @@
 
     <div class="">
       <div class="ui labels">
-        <a class="ui white label" v-if="selectedCourses.length === 0" style="cursor: default ">
+        <a class="ui white label" v-if="selectedCourses.length + dummyCourses.length === 0" style="cursor: default ">
           No course selected
         </a>
-        <a class="ui label" v-for="(s,i) in selectedCourses" v-bind:key="s.course" :style="`background: ${colors[i]}; color: white`" @click="removeCourse(s.course)">
+        <a class="ui label" v-for="(s,i) in selectedCourses.concat(this.dummyCourses)" v-bind:key="s.course" :style="`background: ${colors[i]}; color: white`" @click="removeCourse(s.course)">
           {{ s.course }}
           <i class="icon close"></i>
         </a>
@@ -105,7 +105,7 @@
               </a>
             </td>
             <td>
-              <a style="cursor: pointer" @click="addInstructorFilter(d.data.instructor)">
+              <a v-if="d.data !== null" style="cursor: pointer" @click="addInstructorFilter(d.data.instructor)">
                 {{ d.data.instructor }}
               </a>
             </td>
@@ -181,6 +181,7 @@ export default {
         }
       }),
       selectedCourses: [],
+      dummyCourses: [], // We are holding this variable for courses without any lecture & lab hours (i.e. CS 299)
       filteredInstructors: [],
       filteredSections: [],
       filteredSlots: [],
@@ -227,7 +228,7 @@ export default {
     schedules: function () {
       // To track if VueJS is efficient enough
       console.log("calculating")
-      return find(coursesData, this.selectedCourses, this.filteredSections, this.filteredInstructors, this.filteredSlots)
+      return find(coursesData, this.selectedCourses, this.dummyCourses.map(x => {return x.course}), this.filteredSections, this.filteredInstructors, this.filteredSlots)
     },
     currentSchedule: function () {
       if (this.scheduleIndex > this.schedules.length) {
@@ -243,7 +244,7 @@ export default {
         let courseCode = section.split("-")[0]
         let course = coursesData[department][courseCode]
         let courseName = course.name
-        let data = course.sections[section]
+        let data = (Object.keys(course.sections).length !== 0) ? course.sections[section] : null
         return {department, courseName, courseCode, section, data}
       })
     },
@@ -251,6 +252,7 @@ export default {
       if (!this.currentScheduleDetails) return {}
       let table = {}
       for (let d of this.currentScheduleDetails) {
+        if (!d.data) continue
         for (let slot of d.data.schedule) {
           table[slot.day + "/" + slot.start] = {
             name: d.section,
@@ -266,13 +268,32 @@ export default {
   },
   methods: {
     addCourse: function (department, course) {
-      this.selectedCourses.push({
-        department, course
-      })
+      let checkHours = this.calculateTotalHours(department, course)
+
+      if (checkHours["success"] === true && checkHours["totalHours"] === 0) {
+        this.dummyCourses.push({
+          department, course
+        })
+      }
+
+      else {
+        this.selectedCourses.push({
+          department, course
+        })
+      }
+
       this.selectedCourse = null
     },
     removeCourse: function (course) {
-      this.selectedCourses = this.selectedCourses.filter(a => a.course !== course)
+      let checkHours = this.calculateTotalHours(course.split(" ")[0], course)
+
+      if (checkHours["success"] === true && checkHours["totalHours"] === 0) {
+        this.dummyCourses = this.dummyCourses.filter(a => a.course !== course)
+      }
+
+      else {
+        this.selectedCourses = this.selectedCourses.filter(a => a.course !== course)
+      }
     },
     nextSchedule: function () {
       this.scheduleIndex = (this.scheduleIndex + 1) % this.schedules.length
@@ -313,7 +334,27 @@ export default {
     isSlotReserved(i, j) {
       let key = j + "/" + i
       return this.filteredSlots.indexOf(key) !== -1;
-    }
+    },
+    calculateTotalHours: function (department, course) {
+      let total = 0
+      let error = null
+
+      try {
+        let courseData = coursesData[department][course]
+        let labStudioHours = courseData["labStudioOthersHours"]
+        let lectureHours = courseData["lectureHours"]
+
+        total = labStudioHours["hybrid"] + labStudioHours["faceToFace"] + lectureHours["hybrid"] + lectureHours["online"]
+      } catch (e) {
+        console.log(e)
+        error = e
+      }
+
+      return {
+        "totalHours": total,
+        "success": error === null
+      }
+    },
   },
   watch: {
     selectedCourse: function (value) {
