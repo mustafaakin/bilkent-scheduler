@@ -19,7 +19,7 @@
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -59,7 +59,7 @@
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [
@@ -99,7 +99,7 @@
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 26,
         "elective": 0
       },
       "schedule": [
@@ -139,7 +139,7 @@
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 22,
         "elective": 0
       },
       "schedule": [
@@ -147,28 +147,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "G-136(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "G-136",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "G-136",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "G-136",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -179,7 +179,7 @@
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 9,
         "elective": 0
       },
       "schedule": [
@@ -219,7 +219,7 @@
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 1,
         "elective": 0
       },
       "schedule": [
@@ -227,7 +227,7 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-Z04(S)",
+          "place": "MA-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -248,7 +248,7 @@
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-Z04",
+          "place": "MA-Z04(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -299,7 +299,7 @@
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 12,
         "elective": 0
       },
       "schedule": [
@@ -339,7 +339,7 @@
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 13,
         "elective": 0
       },
       "schedule": [
@@ -387,28 +387,28 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "G-136(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "G-136",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "G-136",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "G-136",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -419,7 +419,7 @@
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 6,
         "elective": 0
       },
       "schedule": [
@@ -427,28 +427,28 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "G-140(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "G-140",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "G-140",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "G-140",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -459,7 +459,7 @@
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 9,
         "elective": 0
       },
       "schedule": [
@@ -467,14 +467,14 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FA-120(S)",
+          "place": "FA-120",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FA-120",
+          "place": "FA-120(S)",
           "class": "Face-to-Face Lecture"
         },
         {

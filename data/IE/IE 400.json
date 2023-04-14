@@ -19,7 +19,7 @@
       "quota": "45 Mand. 13 Elect.",
       "total_quota": 58,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 26,
         "elective": 0
       },
       "schedule": [
@@ -59,7 +59,7 @@
       "quota": "45 Mand. 13 Elect.",
       "total_quota": 58,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 21,
         "elective": 0
       },
       "schedule": [
@@ -99,7 +99,7 @@
       "quota": "45 Mand. 13 Elect.",
       "total_quota": 58,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [

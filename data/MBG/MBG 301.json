@@ -16,10 +16,10 @@
   "sections": {
     "MBG 301-001": {
       "instructor": "Onur Çizmecioğlu",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "quota": "66 Mand. 0 Elect.",
+      "total_quota": 66,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 54,
         "elective": 0
       },
       "schedule": [

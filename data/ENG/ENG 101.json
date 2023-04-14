@@ -16,10 +16,10 @@
   "sections": {
     "ENG 101-001": {
       "instructor": "Staff",
-      "quota": "200 Mand. or Elect.",
-      "total_quota": 200,
+      "quota": "240 Mand. or Elect.",
+      "total_quota": 240,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -70,10 +70,10 @@
     },
     "ENG 101-015": {
       "instructor": "Staff",
-      "quota": "300 Mand. or Elect.",
-      "total_quota": 300,
+      "quota": "360 Mand. or Elect.",
+      "total_quota": 360,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 24,
         "elective": 0
       },
       "schedule": [
@@ -124,10 +124,10 @@
     },
     "ENG 101-034": {
       "instructor": "Staff",
-      "quota": "240 Mand. or Elect.",
-      "total_quota": 240,
+      "quota": "288 Mand. or Elect.",
+      "total_quota": 288,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -178,10 +178,10 @@
     },
     "ENG 101-049": {
       "instructor": "Staff",
-      "quota": "120 Mand. or Elect.",
-      "total_quota": 120,
+      "quota": "144 Mand. or Elect.",
+      "total_quota": 144,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 25,
         "elective": 0
       },
       "schedule": [
@@ -232,10 +232,10 @@
     },
     "ENG 101-059": {
       "instructor": "Staff",
-      "quota": "180 Mand. or Elect.",
-      "total_quota": 180,
+      "quota": "216 Mand. or Elect.",
+      "total_quota": 216,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -286,8 +286,8 @@
     },
     "ENG 101-072": {
       "instructor": "Donna Cristina Moros",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -340,8 +340,8 @@
     },
     "ENG 101-073": {
       "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -394,8 +394,8 @@
     },
     "ENG 101-074": {
       "instructor": "Semra Akbaş",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -448,10 +448,10 @@
     },
     "ENG 101-078": {
       "instructor": "Staff",
-      "quota": "140 Mand. or Elect.",
-      "total_quota": 140,
+      "quota": "168 Mand. or Elect.",
+      "total_quota": 168,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 6,
         "elective": 0
       },
       "schedule": [
@@ -502,10 +502,10 @@
     },
     "ENG 101-089": {
       "instructor": "Staff",
-      "quota": "100 Mand. or Elect.",
-      "total_quota": 100,
+      "quota": "120 Mand. or Elect.",
+      "total_quota": 120,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 8,
         "elective": 0
       },
       "schedule": [
@@ -556,10 +556,10 @@
     },
     "ENG 101-098": {
       "instructor": "Staff",
-      "quota": "80 Mand. or Elect.",
-      "total_quota": 80,
+      "quota": "96 Mand. or Elect.",
+      "total_quota": 96,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 6,
         "elective": 0
       },
       "schedule": [
@@ -610,10 +610,10 @@
     },
     "ENG 101-106": {
       "instructor": "Staff",
-      "quota": "140 Mand. or Elect.",
-      "total_quota": 140,
+      "quota": "168 Mand. or Elect.",
+      "total_quota": 168,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 12,
         "elective": 0
       },
       "schedule": [
@@ -664,10 +664,10 @@
     },
     "ENG 101-117": {
       "instructor": "Jeffrey Michael Doonan",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 2,
         "elective": 0
       },
       "schedule": [
@@ -718,10 +718,10 @@
     },
     "ENG 101-118": {
       "instructor": "Donna Cristina Moros",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 1,
         "elective": 0
       },
       "schedule": [
@@ -772,10 +772,10 @@
     },
     "ENG 101-119": {
       "instructor": "Andrew William Hassell",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 1,
         "elective": 0
       },
       "schedule": [
@@ -826,10 +826,10 @@
     },
     "ENG 101-120": {
       "instructor": "Semra Akbaş",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 1,
         "elective": 0
       },
       "schedule": [

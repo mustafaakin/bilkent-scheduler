@@ -19,7 +19,7 @@
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 3,
         "elective": 0
       },
       "schedule": [
@@ -59,7 +59,7 @@
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 3,
         "elective": 0
       },
       "schedule": [
@@ -95,11 +95,11 @@
       "name": "ADA 131-002"
     },
     "ADA 131-003": {
-      "instructor": "Ezgi İşbilen",
+      "instructor": "Staff",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 3,
         "elective": 0
       },
       "schedule": [
@@ -139,7 +139,7 @@
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 2,
         "elective": 0
       },
       "schedule": [

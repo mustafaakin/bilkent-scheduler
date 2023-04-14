@@ -19,7 +19,7 @@
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 26,
         "elective": 0
       },
       "schedule": [
@@ -59,7 +59,7 @@
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 25,
         "elective": 0
       },
       "schedule": [
@@ -99,7 +99,7 @@
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 34,
         "elective": 0
       },
       "schedule": [

@@ -19,7 +19,7 @@
       "quota": "25 Mand. 3 Elect.",
       "total_quota": 28,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 21,
         "elective": 0
       },
       "schedule": [
@@ -53,46 +53,6 @@
         }
       ],
       "name": "AMER 293-001"
-    },
-    "AMER 293-002": {
-      "instructor": "Daniel Peter Johnson",
-      "quota": "25 Mand. 3 Elect.",
-      "total_quota": 28,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-107(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-107",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-107",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-107",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "AMER 293-002"
     }
   }
 }

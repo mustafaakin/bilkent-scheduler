@@ -16,10 +16,10 @@
   "sections": {
     "CS 476-001": {
       "instructor": "Can Alkan",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "75 Mand. 0 Elect.",
+      "total_quota": 75,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 51,
         "elective": 0
       },
       "schedule": [

@@ -19,7 +19,7 @@
       "quota": "Unlimited",
       "total_quota": null,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 64,
         "elective": 0
       },
       "schedule": [

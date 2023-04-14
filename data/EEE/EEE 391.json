@@ -16,10 +16,10 @@
   "sections": {
     "EEE 391-001": {
       "instructor": "Haldun Özaktaş",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "quota": "75 Mand. 0 Elect.",
+      "total_quota": 75,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 46,
         "elective": 0
       },
       "schedule": [
@@ -56,10 +56,10 @@
     },
     "EEE 391-002": {
       "instructor": "Haldun Özaktaş",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "quota": "75 Mand. 0 Elect.",
+      "total_quota": 75,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 48,
         "elective": 0
       },
       "schedule": [

@@ -19,7 +19,7 @@
       "quota": "180 Mand. or Elect.",
       "total_quota": 180,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 123,
         "elective": 0
       },
       "schedule": [
@@ -28,21 +28,21 @@
           "start": "19:30",
           "end": "20:20",
           "place": "",
-          "class": "Face-to-Face Lecture"
+          "class": "Online/Hybrid Lecture"
         },
         {
           "day": "Tuesday",
           "start": "20:30",
           "end": "21:20",
           "place": "",
-          "class": "Face-to-Face Lecture"
+          "class": "Online/Hybrid Lecture"
         },
         {
           "day": "Tuesday",
           "start": "21:30",
           "end": "22:20",
           "place": "",
-          "class": "Face-to-Face Lecture"
+          "class": "Online/Hybrid Lecture"
         }
       ],
       "name": "LAW 303-001"

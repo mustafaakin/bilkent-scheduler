@@ -15,11 +15,11 @@
   "code": "ME 371",
   "sections": {
     "ME 371-001": {
-      "instructor": "Şakir Baytaroğlu",
+      "instructor": "Şakir Baytaroğlu  Onur Özcan",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -55,11 +55,11 @@
       "name": "ME 371-001"
     },
     "ME 371-002": {
-      "instructor": "Onur Özcan",
+      "instructor": "Şakir Baytaroğlu  Onur Özcan",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [

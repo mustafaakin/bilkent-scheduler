@@ -19,7 +19,7 @@
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 46,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "FC-Z23B(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "FC-Z23B",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "FC-Z23B",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "FC-Z23B",
           "class": "Face-to-Face Lecture"
         }
       ],

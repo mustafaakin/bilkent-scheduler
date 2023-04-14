@@ -19,7 +19,7 @@
       "quota": "36 Mand. 4 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 6,
         "elective": 0
       },
       "schedule": [
@@ -59,7 +59,7 @@
       "quota": "36 Mand. 4 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 7,
         "elective": 0
       },
       "schedule": [

@@ -16,10 +16,10 @@
   "sections": {
     "CS 342-001": {
       "instructor": "İbrahim Körpeoğlu",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "70 Mand. or Elect.",
+      "total_quota": 70,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 49,
         "elective": 0
       },
       "schedule": [

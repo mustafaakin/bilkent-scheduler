@@ -16,10 +16,10 @@
   "sections": {
     "THM 244-001": {
       "instructor": "Oğuz Benice",
-      "quota": "12 Mand. or Elect.",
+      "quota": "12 Mand. 0 Elect.",
       "total_quota": 12,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 7,
         "elective": 0
       },
       "schedule": [

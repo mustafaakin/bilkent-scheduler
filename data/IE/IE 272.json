@@ -16,10 +16,10 @@
   "sections": {
     "IE 272-001": {
       "instructor": "Yiğit Karpat",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "75 Mand. 0 Elect.",
+      "total_quota": 75,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 43,
         "elective": 0
       },
       "schedule": [
@@ -70,10 +70,10 @@
     },
     "IE 272-002": {
       "instructor": "Yiğit Karpat",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "75 Mand. 0 Elect.",
+      "total_quota": 75,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 43,
         "elective": 0
       },
       "schedule": [

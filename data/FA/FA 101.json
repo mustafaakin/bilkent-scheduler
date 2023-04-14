@@ -19,7 +19,7 @@
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 5,
         "elective": 0
       },
       "schedule": [
@@ -87,7 +87,7 @@
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 4,
         "elective": 0
       },
       "schedule": [
@@ -155,7 +155,7 @@
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 5,
         "elective": 0
       },
       "schedule": [
@@ -223,7 +223,7 @@
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 5,
         "elective": 0
       },
       "schedule": [
@@ -291,7 +291,7 @@
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 5,
         "elective": 0
       },
       "schedule": [
@@ -359,7 +359,7 @@
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 5,
         "elective": 0
       },
       "schedule": [
@@ -427,7 +427,7 @@
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 4,
         "elective": 0
       },
       "schedule": [
@@ -495,7 +495,7 @@
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 5,
         "elective": 0
       },
       "schedule": [
@@ -563,7 +563,7 @@
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 5,
         "elective": 0
       },
       "schedule": [
@@ -631,7 +631,7 @@
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 5,
         "elective": 0
       },
       "schedule": [
@@ -699,7 +699,7 @@
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 5,
         "elective": 0
       },
       "schedule": [

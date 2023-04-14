@@ -19,7 +19,7 @@
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 3,
         "elective": 0
       },
       "schedule": [
@@ -59,7 +59,7 @@
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 4,
         "elective": 0
       },
       "schedule": [
@@ -67,14 +67,14 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-331(S)",
+          "place": "A-331",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-331",
+          "place": "A-331(S)",
           "class": "Face-to-Face Lecture"
         },
         {

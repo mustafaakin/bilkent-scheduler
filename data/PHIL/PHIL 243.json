@@ -19,7 +19,7 @@
       "quota": "27 Mand. 0 Elect.",
       "total_quota": 27,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 26,
         "elective": 0
       },
       "schedule": [
@@ -87,7 +87,7 @@
       "quota": "27 Mand. 0 Elect.",
       "total_quota": 27,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 26,
         "elective": 0
       },
       "schedule": [
@@ -155,7 +155,7 @@
       "quota": "27 Mand. 0 Elect.",
       "total_quota": 27,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -223,7 +223,7 @@
       "quota": "27 Mand. 0 Elect.",
       "total_quota": 27,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -231,7 +231,7 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "H-333(S)",
+          "place": "H-333",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -280,7 +280,7 @@
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "H-333",
+          "place": "H-333(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -291,7 +291,7 @@
       "quota": "27 Mand. 0 Elect.",
       "total_quota": 27,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
@@ -359,7 +359,7 @@
       "quota": "27 Mand. 0 Elect.",
       "total_quota": 27,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -517,7 +517,7 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "H-334(S)",
+          "place": "H-334",
           "class": "Recitation"
         },
         {
@@ -552,7 +552,7 @@
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "H-334",
+          "place": "H-334(S)",
           "class": "Recitation"
         }
       ],
@@ -699,7 +699,7 @@
       "quota": "27 Mand. 0 Elect.",
       "total_quota": 27,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 27,
         "elective": 0
       },
       "schedule": [
@@ -767,7 +767,7 @@
       "quota": "27 Mand. 0 Elect.",
       "total_quota": 27,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 22,
         "elective": 0
       },
       "schedule": [
@@ -835,7 +835,7 @@
       "quota": "27 Mand. 0 Elect.",
       "total_quota": 27,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
@@ -903,7 +903,7 @@
       "quota": "27 Mand. 0 Elect.",
       "total_quota": 27,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
@@ -971,7 +971,7 @@
       "quota": "27 Mand. 0 Elect.",
       "total_quota": 27,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -1039,7 +1039,7 @@
       "quota": "27 Mand. 0 Elect.",
       "total_quota": 27,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -1107,7 +1107,7 @@
       "quota": "28 Mand. 0 Elect.",
       "total_quota": 28,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [

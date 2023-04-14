@@ -19,7 +19,7 @@
       "quota": "55 Mand. 0 Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 48,
         "elective": 0
       },
       "schedule": [

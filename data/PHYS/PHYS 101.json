@@ -87,7 +87,7 @@
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 1,
         "elective": 0
       },
       "schedule": [
@@ -223,7 +223,7 @@
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 1,
         "elective": 0
       },
       "schedule": [
@@ -495,7 +495,7 @@
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 2,
         "elective": 0
       },
       "schedule": [
@@ -563,7 +563,7 @@
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 52,
         "elective": 0
       },
       "schedule": [
@@ -631,7 +631,7 @@
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 47,
         "elective": 0
       },
       "schedule": [
@@ -699,7 +699,7 @@
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 50,
         "elective": 0
       },
       "schedule": [
@@ -707,7 +707,7 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-204(S)",
+          "place": "B-204",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -735,7 +735,7 @@
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-204",
+          "place": "B-204(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -767,7 +767,7 @@
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 13,
         "elective": 0
       },
       "schedule": [
@@ -835,7 +835,7 @@
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 1,
         "elective": 0
       },
       "schedule": [
@@ -903,7 +903,7 @@
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [

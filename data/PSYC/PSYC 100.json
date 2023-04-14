@@ -19,7 +19,7 @@
       "quota": "10 Mand. 50 Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 2,
         "elective": 0
       },
       "schedule": [
@@ -59,7 +59,7 @@
       "quota": "25 Mand. 40 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
@@ -99,7 +99,7 @@
       "quota": "10 Mand. 55 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 1,
         "elective": 0
       },
       "schedule": [
@@ -139,7 +139,7 @@
       "quota": "25 Mand. 35 Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 8,
         "elective": 0
       },
       "schedule": [
@@ -179,7 +179,7 @@
       "quota": "25 Mand. 35 Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
@@ -219,7 +219,7 @@
       "quota": "25 Mand. 35 Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 13,
         "elective": 0
       },
       "schedule": [
@@ -259,7 +259,7 @@
       "quota": "10 Mand. 50 Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 1,
         "elective": 0
       },
       "schedule": [

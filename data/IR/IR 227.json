@@ -16,10 +16,10 @@
   "sections": {
     "IR 227-001": {
       "instructor": "Serdar Ş. Güner",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
+      "quota": "64 Mand. 0 Elect.",
+      "total_quota": 64,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -56,10 +56,10 @@
     },
     "IR 227-002": {
       "instructor": "Crystal Marie Whestone",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
+      "quota": "64 Mand. 0 Elect.",
+      "total_quota": 64,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 54,
         "elective": 0
       },
       "schedule": [

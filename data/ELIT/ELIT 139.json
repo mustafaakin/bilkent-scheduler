@@ -19,7 +19,7 @@
       "quota": "36 Mand. 4 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 7,
         "elective": 0
       },
       "schedule": [
@@ -55,11 +55,11 @@
       "name": "ELIT 139-001"
     },
     "ELIT 139-002": {
-      "instructor": "Ceylan Köşker",
+      "instructor": "Ceylan Bevington",
       "quota": "36 Mand. 4 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 9,
         "elective": 0
       },
       "schedule": [
