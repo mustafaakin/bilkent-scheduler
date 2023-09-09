@@ -15,40 +15,40 @@
   "code": "MAN 216",
   "sections": {
     "MAN 216-001": {
-      "instructor": "İdil Ayberk",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "instructor": "Altan Pazarbaşı",
+      "quota": "80 Mand. 0 Elect.",
+      "total_quota": 80,
       "enrollment": {
-        "mandatory": 45,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-114(S)",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-114",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "B-114",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "B-114",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

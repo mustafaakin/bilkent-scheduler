@@ -16,10 +16,10 @@
   "sections": {
     "ARCH 401-006": {
       "instructor": "Staff",
-      "quota": "Unlimited",
-      "total_quota": null,
+      "quota": "0 Mand. or Elect.",
+      "total_quota": 0,
       "enrollment": {
-        "mandatory": 58,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [

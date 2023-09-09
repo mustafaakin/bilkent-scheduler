@@ -14,52 +14,12 @@
   },
   "code": "ADA 134",
   "sections": {
-    "ADA 134-002": {
-      "instructor": "Alp Giray Köse",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 11,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FA-213(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FA-213",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FA-213",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FA-213",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "ADA 134-002"
-    },
-    "ADA 134-003": {
+    "ADA 134-001": {
       "instructor": "Staff",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
+      "quota": "25 Mand. 0 Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
@@ -67,32 +27,32 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-212(S)",
+          "place": "FF-217(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-212",
+          "place": "FF-217",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-212",
+          "place": "FF-217",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-212",
+          "place": "FF-217",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "ADA 134-003"
+      "name": "ADA 134-001"
     }
   }
 }

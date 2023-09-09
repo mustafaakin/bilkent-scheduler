@@ -15,40 +15,40 @@
   "code": "IR 358",
   "sections": {
     "IR 358-001": {
-      "instructor": "Tudor A. Onea",
-      "quota": "50 Mand. 5 Elect.",
+      "instructor": "Rodica Eliza Gheorghe",
+      "quota": "55 Mand. 0 Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 28,
+        "mandatory": 26,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-Z07(S)",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-Z07",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "B-Z07",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "B-Z07",
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

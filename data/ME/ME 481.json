@@ -2,7 +2,7 @@
   "name": "Mechanical Engineering Design I",
   "lectureHours": {
     "hybrid": 0,
-    "online": 3
+    "online": 4
   },
   "labStudioOthersHours": {
     "hybrid": 0,
@@ -15,9 +15,9 @@
   "code": "ME 481",
   "sections": {
     "ME 481-001": {
-      "instructor": "Müjdat Tohumcu  Yıldıray Yıldız",
-      "quota": "Unlimited",
-      "total_quota": null,
+      "instructor": "Barbaros Çetin",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,32 +27,72 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MCORUH(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MCORUH",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MCORUH",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MCORUH",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ME 481-001"
+    },
+    "ME 481-002": {
+      "instructor": "Müjdat Tohumcu",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ME 481-002"
     }
   }
 }

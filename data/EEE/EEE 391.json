@@ -19,7 +19,7 @@
       "quota": "75 Mand. 0 Elect.",
       "total_quota": 75,
       "enrollment": {
-        "mandatory": 46,
+        "mandatory": 75,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-412(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-412",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-412",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-412",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -59,7 +59,7 @@
       "quota": "75 Mand. 0 Elect.",
       "total_quota": 75,
       "enrollment": {
-        "mandatory": 48,
+        "mandatory": 75,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-412(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-412",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-412",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-412",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

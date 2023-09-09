@@ -16,7 +16,7 @@
   "sections": {
     "IR 214-001": {
       "instructor": "Tore Fougner",
-      "quota": "40 Mand. or Elect.",
+      "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
@@ -24,31 +24,31 @@
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-331(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-331",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-331",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-331",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

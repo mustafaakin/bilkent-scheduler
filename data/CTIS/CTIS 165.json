@@ -16,10 +16,10 @@
   "sections": {
     "CTIS 165-001": {
       "instructor": "Erkan Uçar",
-      "quota": "26 Mand. 0 Elect.",
-      "total_quota": 26,
+      "quota": "30 Mand. 0 Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
@@ -38,14 +38,14 @@
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "C-CTISL7",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "C-CTISL7",
@@ -70,10 +70,10 @@
     },
     "CTIS 165-002": {
       "instructor": "Erkan Uçar",
-      "quota": "26 Mand. 0 Elect.",
-      "total_quota": 26,
+      "quota": "30 Mand. 0 Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -124,10 +124,10 @@
     },
     "CTIS 165-003": {
       "instructor": "Erkan Uçar",
-      "quota": "26 Mand. 0 Elect.",
-      "total_quota": 26,
+      "quota": "30 Mand. 0 Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 26,
         "elective": 0
       },
       "schedule": [
@@ -146,6 +146,20 @@
           "class": "Face-to-Face Lecture"
         },
         {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
@@ -153,25 +167,11 @@
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "C-CTISL7",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
           "place": "CE-106",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "C-CTISL7",
-          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CTIS 165-003"

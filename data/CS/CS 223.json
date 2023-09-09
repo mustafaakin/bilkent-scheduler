@@ -16,10 +16,10 @@
   "sections": {
     "CS 223-001": {
       "instructor": "Shervin Rahimzadeh Arashloo",
-      "quota": "36 Mand. or Elect.",
-      "total_quota": 36,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -48,7 +48,7 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-214(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -62,21 +62,21 @@
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -84,10 +84,10 @@
     },
     "CS 223-002": {
       "instructor": "Shervin Rahimzadeh Arashloo",
-      "quota": "36 Mand. or Elect.",
-      "total_quota": 36,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 25,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -116,7 +116,7 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-214(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -130,21 +130,21 @@
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -152,10 +152,10 @@
     },
     "CS 223-003": {
       "instructor": "Shervin Rahimzadeh Arashloo",
-      "quota": "36 Mand. or Elect.",
-      "total_quota": 36,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [
@@ -177,7 +177,7 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-214(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -191,7 +191,7 @@
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -205,14 +205,14 @@
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -220,10 +220,10 @@
     },
     "CS 223-004": {
       "instructor": "Shervin Rahimzadeh Arashloo",
-      "quota": "36 Mand. or Elect.",
-      "total_quota": 36,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [
@@ -231,14 +231,14 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-214(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -266,7 +266,7 @@
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -280,7 +280,7 @@
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -288,10 +288,10 @@
     },
     "CS 223-005": {
       "instructor": "Alper Sarıkan",
-      "quota": "36 Mand. or Elect.",
-      "total_quota": 36,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 21,
         "elective": 0
       },
       "schedule": [
@@ -313,7 +313,7 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z08(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -327,7 +327,7 @@
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -341,14 +341,14 @@
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -356,10 +356,10 @@
     },
     "CS 223-006": {
       "instructor": "Alper Sarıkan",
-      "quota": "36 Mand. or Elect.",
-      "total_quota": 36,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 25,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -367,14 +367,14 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z08(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -402,7 +402,7 @@
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -416,7 +416,7 @@
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

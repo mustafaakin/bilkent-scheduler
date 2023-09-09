@@ -15,11 +15,11 @@
   "code": "THM 244",
   "sections": {
     "THM 244-001": {
-      "instructor": "Oğuz Benice",
-      "quota": "12 Mand. 0 Elect.",
+      "instructor": "Elif Denizci",
+      "quota": "12 Mand. or Elect.",
       "total_quota": 12,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 1,
         "elective": 0
       },
       "schedule": [

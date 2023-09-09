@@ -15,51 +15,51 @@
   "code": "FA 171",
   "sections": {
     "FA 171-001": {
-      "instructor": "Sema Karamanoğlu",
+      "instructor": "Egemen Kırkağaç",
       "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FC-Z11(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FC-Z11",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FC-Z11",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FC-Z11",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "FA 171-001"
     },
     "FA 171-002": {
-      "instructor": "Fulya Turan",
+      "instructor": "Staff",
       "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 11,
         "elective": 0
       },
       "schedule": [
@@ -67,108 +67,108 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-201(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-201",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FF-201",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FF-201",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "FA 171-002"
     },
     "FA 171-003": {
-      "instructor": "Staff",
-      "quota": "40 Mand. 0 Elect.",
+      "instructor": "Egemen Kırkağaç",
+      "quota": "40 Mand. or Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FC-Z11(S)",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FC-Z11",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FC-Z11",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FC-Z11",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "FA 171-003"
     },
     "FA 171-004": {
-      "instructor": "Staff",
+      "instructor": "Sema Karamanoğlu",
       "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 40,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FC-Z13(S)",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FC-Z13",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FC-Z13",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FC-Z13",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -176,210 +176,250 @@
     },
     "FA 171-005": {
       "instructor": "Gaye Çulcuoğlu",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 5,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FA-118(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FA-118",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FA-118",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FA-118",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "FA 171-005"
     },
     "FA 171-006": {
-      "instructor": "Staff",
+      "instructor": "Fulya Turan",
       "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 40,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FB-310(S)",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FB-310",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FB-310",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FB-310",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "FA 171-006"
     },
     "FA 171-007": {
-      "instructor": "Yasemin Gümüş Ağca",
+      "instructor": "Alp Rodoplu",
       "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 39,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FB-310(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FB-310",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FB-310",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FB-310",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "FA 171-007"
     },
     "FA 171-008": {
-      "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
+      "instructor": "Gaye Çulcuoğlu",
+      "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 22,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FB-310(S)",
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FB-310",
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FB-310",
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FB-310",
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "FA 171-008"
     },
     "FA 171-009": {
-      "instructor": "Gaye Çulcuoğlu",
-      "quota": "40 Mand. or Elect.",
+      "instructor": "Alp Rodoplu",
+      "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 5,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FB-209(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FB-209",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FB-209",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FB-209",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "FA 171-009"
     },
     "FA 171-010": {
-      "instructor": "Fulya Turan",
-      "quota": "40 Mand. or Elect.",
+      "instructor": "Staff",
+      "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 5,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "FA 171-010"
+    },
+    "FA 171-011": {
+      "instructor": "Fulya Turan",
+      "quota": "40 Mand. 0 Elect.",
+      "total_quota": 40,
+      "enrollment": {
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
@@ -387,68 +427,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-111(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-111",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-111",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-111",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "FA 171-010"
-    },
-    "FA 171-011": {
-      "instructor": "Burcu Şenyapılı Özcan",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FB-209(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FB-209",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FB-209",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FB-209",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

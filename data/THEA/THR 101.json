@@ -15,11 +15,11 @@
   "code": "THR 101",
   "sections": {
     "THR 101-001": {
-      "instructor": "Jason Edward Hale",
-      "quota": "5 Mand. 0 Elect.",
-      "total_quota": 5,
+      "instructor": "Ahmet Sinan Pekinton  Jason Edward Hale",
+      "quota": "7 Mand. 0 Elect.",
+      "total_quota": 7,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 7,
         "elective": 0
       },
       "schedule": [

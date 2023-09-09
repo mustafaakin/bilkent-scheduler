@@ -1,5 +1,5 @@
 {
-  "name": "Criminal Law I",
+  "name": "Criminal Law I (in Turkish)",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -16,39 +16,39 @@
   "sections": {
     "LAW 203-001": {
       "instructor": "Haluk Toroslu",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "95 Mand. or Elect.",
+      "total_quota": 95,
       "enrollment": {
-        "mandatory": 63,
+        "mandatory": 60,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "V-01(S)",
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "V-01",
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "V-01",
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "V-01",
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,83 +56,43 @@
     },
     "LAW 203-002": {
       "instructor": "Haluk Toroslu",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "95 Mand. or Elect.",
+      "total_quota": 95,
       "enrollment": {
-        "mandatory": 42,
+        "mandatory": 61,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-203(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-203",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-203",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-203",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LAW 203-002"
-    },
-    "LAW 203-003": {
-      "instructor": "Fahri Gökçen Taner",
-      "quota": "58 Mand. or Elect.",
-      "total_quota": 58,
-      "enrollment": {
-        "mandatory": 31,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-113(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-113",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "B-113",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "B-113",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "LAW 203-003"
     }
   }
 }

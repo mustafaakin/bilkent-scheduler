@@ -15,51 +15,51 @@
   "code": "IR 227",
   "sections": {
     "IR 227-001": {
-      "instructor": "Serdar Ş. Güner",
-      "quota": "64 Mand. 0 Elect.",
-      "total_quota": 64,
+      "instructor": "İhsan Efe Tokdemir",
+      "quota": "57 Mand. 1 Elect.",
+      "total_quota": 58,
       "enrollment": {
         "mandatory": 30,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-Z06(S)",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-Z06",
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "B-Z06",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "B-Z06",
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "IR 227-001"
     },
     "IR 227-002": {
-      "instructor": "Crystal Marie Whestone",
-      "quota": "64 Mand. 0 Elect.",
-      "total_quota": 64,
+      "instructor": "Serdar Ş. Güner",
+      "quota": "57 Mand. 1 Elect.",
+      "total_quota": 58,
       "enrollment": {
-        "mandatory": 54,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z07(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z07",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z07",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z07",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

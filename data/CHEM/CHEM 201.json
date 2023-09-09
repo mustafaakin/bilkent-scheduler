@@ -19,7 +19,7 @@
       "quota": "60 Mand. or Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 22,
         "elective": 0
       },
       "schedule": [
@@ -27,39 +27,39 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FC-Z23D(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FC-Z23D",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FC-Z23D",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FC-Z23D",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CHEM 201-001"
     },
     "CHEM 201-002": {
-      "instructor": "Ferdi Karadaş",
+      "instructor": "Ahmet Macit Özenbaş",
       "quota": "60 Mand. or Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 17,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -67,39 +67,39 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FC-Z23D(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FC-Z23D",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FC-Z23D",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FC-Z23D",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CHEM 201-002"
     },
     "CHEM 201-003": {
-      "instructor": "Halil İbrahim Okur",
+      "instructor": "Ahmet Macit Özenbaş",
       "quota": "60 Mand. or Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 20,
+        "mandatory": 26,
         "elective": 0
       },
       "schedule": [
@@ -107,28 +107,28 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "SA-Z01(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "SA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "SA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "SA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

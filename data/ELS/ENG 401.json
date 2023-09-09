@@ -16,10 +16,10 @@
   "sections": {
     "ENG 401-001": {
       "instructor": "Marinus Hendrik Johannes Langbroek",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 24,
+        "mandatory": 13,
         "elective": 0
       },
       "schedule": [
@@ -55,11 +55,11 @@
       "name": "ENG 401-001"
     },
     "ENG 401-002": {
-      "instructor": "Özge Ezici Çetin",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "instructor": "Pınar Demir",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -67,39 +67,39 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z53(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-Z53",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-Z53",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-Z53",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-002"
     },
     "ENG 401-003": {
-      "instructor": "Marinus Hendrik Johannes Langbroek",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "instructor": "Pınar Demir",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 12,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -107,28 +107,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z38(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-Z38",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-Z38",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-Z38",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -136,10 +136,10 @@
     },
     "ENG 401-004": {
       "instructor": "Marlene Denice Elwell",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -147,39 +147,39 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-209",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-209",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-209",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-209(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-004"
     },
     "ENG 401-005": {
-      "instructor": "Jennifer Lyn Schroeder",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "instructor": "Andrew Bonar",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 18,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
@@ -187,37 +187,37 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-252(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-252",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-252",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-252",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-005"
     },
     "ENG 401-006": {
-      "instructor": "Bengü Yurtseven",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "instructor": "Marinus Hendrik Johannes Langbroek",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 20,
         "elective": 0
@@ -227,28 +227,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-155(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-155",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-155",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-155",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -256,10 +256,10 @@
     },
     "ENG 401-007": {
       "instructor": "Marlene Denice Elwell",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 13,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -267,39 +267,39 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-207(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-207",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-207",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-207",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-007"
     },
     "ENG 401-008": {
-      "instructor": "Özge Ezici Çetin",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "instructor": "Andrew Bonar",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 19,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -307,28 +307,28 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-209(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-209",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-209",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-209",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -336,10 +336,10 @@
     },
     "ENG 401-009": {
       "instructor": "Andrew Bonar",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 13,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -347,39 +347,39 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-134",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-134(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-009"
     },
     "ENG 401-010": {
-      "instructor": "Özge Ezici Çetin",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "instructor": "Marlene Denice Elwell",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 12,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
@@ -387,39 +387,39 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-153(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-153",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-153",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-153",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-010"
     },
     "ENG 401-011": {
-      "instructor": "Marlene Denice Elwell",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "instructor": "Bengü Yurtseven",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -427,39 +427,39 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-134",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-134(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-011"
     },
     "ENG 401-012": {
-      "instructor": "Bengü Yurtseven",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "instructor": "Andrew Bonar",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
@@ -467,28 +467,28 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-155(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-155",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-155",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-155",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -496,8 +496,8 @@
     },
     "ENG 401-013": {
       "instructor": "Marlene Denice Elwell",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 20,
         "elective": 0
@@ -507,119 +507,119 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-110",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-110(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-110",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-110",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-013"
     },
     "ENG 401-014": {
-      "instructor": "Ceylan Kızılduman Yazıcı",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "instructor": "Özge Ezici Çetin",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-227(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-227",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-227",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-227",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-014"
     },
     "ENG 401-015": {
-      "instructor": "Bengü Yurtseven",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "instructor": "Marlene Denice Elwell",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 24,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-132(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-132",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-132",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-132",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 401-015"
     },
     "ENG 401-016": {
-      "instructor": "Andrew Bonar",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "instructor": "Bengü Yurtseven",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 19,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
@@ -627,28 +627,28 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-155(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-155",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-155",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-155",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

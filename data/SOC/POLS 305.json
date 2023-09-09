@@ -16,10 +16,10 @@
   "sections": {
     "POLS 305-001": {
       "instructor": "İhsan İlker Aytürk",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "quota": "50 Mand. 5 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 18,
+        "mandatory": 25,
         "elective": 0
       },
       "schedule": [
@@ -27,39 +27,39 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "T-173(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "T-173",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "T-173",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "T-173",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "POLS 305-001"
     },
     "POLS 305-002": {
-      "instructor": "Zeki Sarıgil",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "instructor": "Berrak Burçak Della Fave",
+      "quota": "50 Mand. 5 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 17,
+        "mandatory": 25,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-229(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

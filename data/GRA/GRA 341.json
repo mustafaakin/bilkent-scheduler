@@ -15,11 +15,11 @@
   "code": "GRA 341",
   "sections": {
     "GRA 341-001": {
-      "instructor": "Staff",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
+      "instructor": "Yasemin Gümüş Ağca",
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
-        "mandatory": 25,
+        "mandatory": 42,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FC-Z11(S)",
+          "place": "FB-209(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FC-Z11",
+          "place": "FB-209",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FC-Z11",
+          "place": "FC-209",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FC-Z11",
+          "place": "FC-209",
           "class": "Face-to-Face Lecture"
         }
       ],

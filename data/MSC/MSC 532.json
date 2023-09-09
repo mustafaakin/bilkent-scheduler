@@ -1,0 +1,17 @@
+{
+  "name": "Conducting II",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "MSC 532",
+  "sections": {}
+}

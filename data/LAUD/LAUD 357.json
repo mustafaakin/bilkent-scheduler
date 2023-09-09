@@ -16,39 +16,39 @@
   "sections": {
     "LAUD 357-001": {
       "instructor": "Ahmet Oktan Nalbantoğlu",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 8,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FA-313",
+          "place": "FA-118",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FA-313",
+          "place": "FA-118",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FA-313",
+          "place": "FA-118",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FA-313",
+          "place": "FA-118",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

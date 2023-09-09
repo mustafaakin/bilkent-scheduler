@@ -15,80 +15,80 @@
   "code": "HIST 209",
   "sections": {
     "HIST 209-001": {
-      "instructor": "Staff",
+      "instructor": "Kaan Gazne",
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 5,
+        "mandatory": 2,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-301(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HIST 209-001"
     },
     "HIST 209-002": {
-      "instructor": "Staff",
+      "instructor": "Kaan Gazne",
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 3,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "T-272(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "T-272",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "T-272",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "T-272",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

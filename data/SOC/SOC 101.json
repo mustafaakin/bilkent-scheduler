@@ -15,40 +15,40 @@
   "code": "SOC 101",
   "sections": {
     "SOC 101-001": {
-      "instructor": "Daniel Just",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "instructor": "Anh Susann Pham Thi",
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 13,
+        "mandatory": 36,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-229",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "A-229",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-229(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,39 +56,39 @@
     },
     "SOC 101-002": {
       "instructor": "Anh Susann Pham Thi",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 29,
+        "mandatory": 44,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "A-329",
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "A-329",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "A-329",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "A-329(S)",
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,90 +96,90 @@
     },
     "SOC 101-003": {
       "instructor": "Anh Susann Pham Thi",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 38,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "A-329(S)",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-329",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "A-329",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "A-329",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "SOC 101-003"
     },
     "SOC 101-004": {
-      "instructor": "Anh Susann Pham Thi",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "instructor": "Daniel Just",
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 5,
+        "mandatory": 50,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-229(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "SOC 101-004"
     },
     "SOC 101-005": {
-      "instructor": "Özlem Sefer",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "instructor": "Staff",
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 33,
         "elective": 0
       },
       "schedule": [
@@ -187,148 +187,148 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-229(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "SOC 101-005"
     },
     "SOC 101-006": {
-      "instructor": "Barış Alpertan",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "instructor": "Staff",
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-329(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "A-329",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-329",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-329",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "SOC 101-006"
     },
     "SOC 101-007": {
-      "instructor": "Barış Alpertan",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "instructor": "Staff",
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 25,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-125(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-125",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-125",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-125",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "SOC 101-007"
     },
     "SOC 101-008": {
-      "instructor": "Pınar Akdeniz",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "instructor": "Staff",
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 34,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "A-329(S)",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-329",
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "A-329",
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "A-329",
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -336,39 +336,39 @@
     },
     "SOC 101-009": {
       "instructor": "Staff",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 13,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z06(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z06",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z06",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z06",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -376,39 +376,39 @@
     },
     "SOC 101-010": {
       "instructor": "Staff",
-      "quota": "0 Mand. 0 Elect.",
-      "total_quota": 0,
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 25,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-Z06(S)",
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-Z06",
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "B-Z06",
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "B-Z06",
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -416,39 +416,39 @@
     },
     "SOC 101-011": {
       "instructor": "Staff",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 30,
+        "mandatory": 48,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z07(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z07",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z07",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z07",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

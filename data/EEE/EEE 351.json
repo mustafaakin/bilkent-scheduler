@@ -16,10 +16,10 @@
   "sections": {
     "EEE 351-001": {
       "instructor": "Vakur Behçet Ertürk",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 31,
+        "mandatory": 47,
         "elective": 0
       },
       "schedule": [
@@ -27,39 +27,39 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-03(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 351-001"
     },
     "EEE 351-002": {
-      "instructor": "Manouchehr Takrimi",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Ayhan Altıntaş",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 29,
+        "mandatory": 45,
         "elective": 0
       },
       "schedule": [
@@ -67,68 +67,68 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-05(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 351-002"
     },
     "EEE 351-003": {
-      "instructor": "Vakur Behçet Ertürk",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Ayhan Altıntaş",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 47,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-03(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

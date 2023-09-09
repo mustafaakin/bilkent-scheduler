@@ -15,9 +15,9 @@
   "code": "CI 690",
   "sections": {
     "CI 690-001": {
-      "instructor": "İlker Kalender",
-      "quota": "5 Mand. or Elect.",
-      "total_quota": 5,
+      "instructor": "Jennie Farber Lane",
+      "quota": "10 Mand. or Elect.",
+      "total_quota": 10,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,14 +27,14 @@
           "day": "Monday",
           "start": "19:30",
           "end": "20:20",
-          "place": "G-254",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "20:30",
           "end": "21:20",
-          "place": "G-254",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

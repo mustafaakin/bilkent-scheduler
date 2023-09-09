@@ -15,9 +15,9 @@
   "code": "IE 590",
   "sections": {
     "IE 590-001": {
-      "instructor": "Emre Nadar",
-      "quota": "Unlimited",
-      "total_quota": null,
+      "instructor": "Tagi Hanalioğlu",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

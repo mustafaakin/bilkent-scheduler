@@ -15,7 +15,7 @@
   "code": "HIST 501",
   "sections": {
     "HIST 501-001": {
-      "instructor": "Özer Ergenç",
+      "instructor": "Staff",
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
@@ -27,28 +27,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MA-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

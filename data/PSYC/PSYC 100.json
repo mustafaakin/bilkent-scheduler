@@ -15,40 +15,40 @@
   "code": "PSYC 100",
   "sections": {
     "PSYC 100-001": {
-      "instructor": "Staff",
-      "quota": "10 Mand. 50 Elect.",
-      "total_quota": 60,
+      "instructor": "Selin Salman Engin",
+      "quota": "45 Mand. 20 Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-112(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-112",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,50 +56,50 @@
     },
     "PSYC 100-002": {
       "instructor": "Staff",
-      "quota": "25 Mand. 40 Elect.",
+      "quota": "45 Mand. 20 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "A-Z25(S)",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-Z25",
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "A-Z25",
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "A-Z25",
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PSYC 100-002"
     },
     "PSYC 100-003": {
-      "instructor": "Emine Ulaşan Özgüle",
-      "quota": "10 Mand. 55 Elect.",
+      "instructor": "Staff",
+      "quota": "45 Mand. 20 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 6,
         "elective": 0
       },
       "schedule": [
@@ -107,28 +107,28 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "T-172(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "T-172",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "T-172",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "T-172",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -136,10 +136,50 @@
     },
     "PSYC 100-004": {
       "instructor": "Staff",
-      "quota": "25 Mand. 35 Elect.",
-      "total_quota": 60,
+      "quota": "45 Mand. 20 Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 6,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PSYC 100-004"
+    },
+    "PSYC 100-005": {
+      "instructor": "Staff",
+      "quota": "45 Mand. 20 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 6,
         "elective": 0
       },
       "schedule": [
@@ -147,68 +187,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z07(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z07",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z07",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z07",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "PSYC 100-004"
-    },
-    "PSYC 100-005": {
-      "instructor": "Kaan Kerman",
-      "quota": "25 Mand. 35 Elect.",
-      "total_quota": 60,
-      "enrollment": {
-        "mandatory": 19,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-112",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-112",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "B-112",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "B-112(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -216,83 +216,43 @@
     },
     "PSYC 100-006": {
       "instructor": "Staff",
-      "quota": "25 Mand. 35 Elect.",
-      "total_quota": 60,
+      "quota": "45 Mand. 20 Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 13,
+        "mandatory": 4,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-Z06(S)",
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-Z06",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "B-Z06",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "B-Z06",
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PSYC 100-006"
-    },
-    "PSYC 100-007": {
-      "instructor": "Staff",
-      "quota": "10 Mand. 50 Elect.",
-      "total_quota": 60,
-      "enrollment": {
-        "mandatory": 1,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FC-Z23B(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FC-Z23B",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FC-Z23B",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FC-Z23B",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "PSYC 100-007"
     }
   }
 }

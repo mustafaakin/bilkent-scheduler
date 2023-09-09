@@ -15,11 +15,11 @@
   "code": "HCIV 101",
   "sections": {
     "HCIV 101-001": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Ann Marie Thornton",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 7,
         "elective": 0
       },
       "schedule": [
@@ -27,348 +27,428 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "CD-B01(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "CD-B01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "CD-B01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "CD-B01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HCIV 101-001"
     },
     "HCIV 101-002": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Ann Marie Thornton",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 25,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-Z25(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-Z25",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-Z25",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-Z25",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HCIV 101-002"
     },
-    "HCIV 101-004": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+    "HCIV 101-003": {
+      "instructor": "Doğuş Aytaç",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 22,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "MA-103(S)",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "MA-103",
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HCIV 101-003"
+    },
+    "HCIV 101-004": {
+      "instructor": "Mustafa Özgür Elmacıoğlu",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 14,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "MA-103",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "MA-103",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HCIV 101-004"
     },
     "HCIV 101-005": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Ann Marie Thornton",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 13,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "MA-Z04(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "MA-Z04",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "MA-Z04",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "MA-Z04",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HCIV 101-005"
     },
     "HCIV 101-006": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Eylül Çetinbaş",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 13,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "MA-Z05(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "MA-Z05",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "MA-Z05",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "MA-Z05",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HCIV 101-006"
     },
     "HCIV 101-007": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Doğuş Aytaç",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "CD-B01(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "CD-B01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "CD-B01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "CD-B01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HCIV 101-007"
     },
-    "HCIV 101-009": {
+    "HCIV 101-008": {
       "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 9,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-Z02(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "MA-Z02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-Z02",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HCIV 101-008"
+    },
+    "HCIV 101-009": {
+      "instructor": "Ann Marie Thornton",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 9,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-Z02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HCIV 101-009"
     },
     "HCIV 101-010": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Mustafa Özgür Elmacıoğlu",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 9,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-104(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "MA-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HCIV 101-010"
     },
     "HCIV 101-011": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Eylül Çetinbaş",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 5,
+        "mandatory": 25,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-Z03(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MA-Z03",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -376,203 +456,43 @@
     },
     "HCIV 101-012": {
       "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 5,
+        "mandatory": 25,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-104(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MA-104",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HCIV 101-012"
-    },
-    "HCIV 101-013": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 5,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "MA-Z04(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MA-Z04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "MA-Z04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "MA-Z04",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HCIV 101-013"
-    },
-    "HCIV 101-014": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "A-331(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "A-331",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "A-331",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "A-331",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HCIV 101-014"
-    },
-    "HCIV 101-015": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "MA-103(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MA-103",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "MA-103",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "MA-103",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HCIV 101-015"
-    },
-    "HCIV 101-016": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "MA-104(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MA-104",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "MA-104",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "MA-104",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HCIV 101-016"
     }
   }
 }

@@ -15,40 +15,40 @@
   "code": "LNG 172",
   "sections": {
     "LNG 172-001": {
-      "instructor": "Özlem Aksu Kurtoğlu",
+      "instructor": "Staff",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-Z52",
+          "day": "Tuesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-Z52",
+          "day": "Thursday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-Z52",
+          "day": "Tuesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-Z52",
+          "day": "Thursday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

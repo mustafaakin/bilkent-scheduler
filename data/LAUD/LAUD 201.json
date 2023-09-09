@@ -15,11 +15,11 @@
   "code": "LAUD 201",
   "sections": {
     "LAUD 201-001": {
-      "instructor": "Gizem Karabay Can",
-      "quota": "12 Mand. or Elect.",
-      "total_quota": 12,
+      "instructor": "Staff",
+      "quota": "16 Mand. or Elect.",
+      "total_quota": 16,
       "enrollment": {
-        "mandatory": 5,
+        "mandatory": 10,
         "elective": 0
       },
       "schedule": [

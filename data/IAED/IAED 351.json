@@ -16,10 +16,10 @@
   "sections": {
     "IAED 351-001": {
       "instructor": "Murat Özdamar",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 32,
+        "mandatory": 35,
         "elective": 0
       },
       "schedule": [
@@ -56,39 +56,39 @@
     },
     "IAED 351-002": {
       "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 33,
+        "mandatory": 36,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FF-106(S)",
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-105",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FF-106",
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-105",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF-106",
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-105",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF-106",
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-105(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

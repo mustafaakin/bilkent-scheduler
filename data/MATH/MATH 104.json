@@ -15,9 +15,9 @@
   "code": "MATH 104",
   "sections": {
     "MATH 104-001": {
-      "instructor": "Fatma Güliz Bolat",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Güliz Bolat",
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 9,
         "elective": 0
@@ -27,39 +27,39 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "SA-Z18(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "SA-Z18",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "SA-Z18",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "SA-Z18",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 104-001"
     },
     "MATH 104-002": {
-      "instructor": "Fatma Güliz Bolat",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Güliz Bolat",
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 12,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-127(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

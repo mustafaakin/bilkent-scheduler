@@ -15,7 +15,7 @@
   "code": "LNG 121",
   "sections": {
     "LNG 121-001": {
-      "instructor": "Pierre Bertrand Mossoa",
+      "instructor": "Staff",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z10",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-Z10",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-Z10",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-Z10",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -64,31 +64,31 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z10",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-Z10",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-Z10",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-Z10",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -105,30 +105,30 @@
       "schedule": [
         {
           "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-Z10",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-Z10",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-Z10",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-Z10",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -144,30 +144,30 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
+          "start": "15:30",
+          "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }

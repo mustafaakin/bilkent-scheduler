@@ -15,11 +15,11 @@
   "code": "PHIL 303",
   "sections": {
     "PHIL 303-001": {
-      "instructor": "Saniye Vatansever",
+      "instructor": "Daniel Mark Wolt",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 6,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "H-332(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "H-332",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "H-332",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "H-332",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -16,43 +16,83 @@
   "sections": {
     "AMER 343-001": {
       "instructor": "Patrick Charles McDonald",
-      "quota": "30 Mand. 3 Elect.",
-      "total_quota": 33,
+      "quota": "20 Mand. 5 Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 30,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-107(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-107",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-107",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-107",
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "AMER 343-001"
+    },
+    "AMER 343-002": {
+      "instructor": "Patrick Charles McDonald",
+      "quota": "20 Mand. 5 Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 18,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "AMER 343-002"
     }
   }
 }

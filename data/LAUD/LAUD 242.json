@@ -15,40 +15,40 @@
   "code": "LAUD 242",
   "sections": {
     "LAUD 242-001": {
-      "instructor": "Didem Dizdaroğlu",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 7,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FA-118",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FA-118",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FA-313",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FA-313",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FA-313",
+          "place": "FA-118",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FA-313",
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FA-118",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

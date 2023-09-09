@@ -16,10 +16,10 @@
   "sections": {
     "GRA 131-001": {
       "instructor": "Mehmet Atıl Kurttekin",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
+      "quota": "16 Mand. 0 Elect.",
+      "total_quota": 16,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
@@ -56,10 +56,10 @@
     },
     "GRA 131-002": {
       "instructor": "Mehmet Atıl Kurttekin",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
+      "quota": "16 Mand. 0 Elect.",
+      "total_quota": 16,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 11,
         "elective": 0
       },
       "schedule": [
@@ -93,6 +93,46 @@
         }
       ],
       "name": "GRA 131-002"
+    },
+    "GRA 131-003": {
+      "instructor": "Çavlan Başarır",
+      "quota": "16 Mand. 0 Elect.",
+      "total_quota": 16,
+      "enrollment": {
+        "mandatory": 10,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FB-115(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FB-115",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FB-115",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FB-115",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "GRA 131-003"
     }
   }
 }

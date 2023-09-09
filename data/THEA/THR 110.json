@@ -16,39 +16,39 @@
   "sections": {
     "THR 110-001": {
       "instructor": "Staff",
-      "quota": "32 Mand. or Elect.",
-      "total_quota": 32,
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-107(S)",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-107",
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "B-107",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "B-107",
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,39 +56,39 @@
     },
     "THR 110-002": {
       "instructor": "Staff",
-      "quota": "32 Mand. or Elect.",
-      "total_quota": 32,
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-107(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-107",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-107",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-107",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,39 +96,39 @@
     },
     "THR 110-003": {
       "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF-106(S)",
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF-106",
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FF-106",
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FF-106",
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -136,39 +136,39 @@
     },
     "THR 110-004": {
       "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FF-106(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FF-106",
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FF-106",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FF-106",
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -176,8 +176,48 @@
     },
     "THR 110-005": {
       "instructor": "Staff",
-      "quota": "32 Mand. or Elect.",
-      "total_quota": 32,
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "THR 110-005"
+    },
+    "THR 110-006": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -187,32 +227,32 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z04(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "THR 110-005"
+      "name": "THR 110-006"
     }
   }
 }

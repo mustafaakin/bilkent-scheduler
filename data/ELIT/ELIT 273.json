@@ -15,11 +15,11 @@
   "code": "ELIT 273",
   "sections": {
     "ELIT 273-001": {
-      "instructor": "Ayşe Çelikkol",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Ivana Bicak",
+      "quota": "27 Mand. or Elect.",
+      "total_quota": 27,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [
@@ -27,68 +27,68 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "T-268(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "T-268",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "T-268",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "T-268",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ELIT 273-001"
     },
     "ELIT 273-002": {
-      "instructor": "Ayşe Çelikkol",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Ivana Bicak",
+      "quota": "27 Mand. or Elect.",
+      "total_quota": 27,
       "enrollment": {
-        "mandatory": 27,
+        "mandatory": 22,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "T-268(S)",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "T-268",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "T-268",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "T-268",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

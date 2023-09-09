@@ -2,10 +2,10 @@
   "name": "Social and Political Philosophy I",
   "lectureHours": {
     "hybrid": 0,
-    "online": 3
+    "online": 6
   },
   "labStudioOthersHours": {
-    "hybrid": 3,
+    "hybrid": null,
     "faceToFace": 0
   },
   "credits": {
@@ -15,827 +15,827 @@
   "code": "PHIL 243",
   "sections": {
     "PHIL 243-001": {
-      "instructor": "Yan Trefor Overfield Shaw  Mary Katrina Krizan",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
+      "instructor": "Sandrine Berges  Yan Trefor Overfield Shaw",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 9,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "H-332(S)",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-332(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "H-332",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-332",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "H-332",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-332",
-          "class": "Recitation"
-        },
-        {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "H-332",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-332",
-          "class": "Recitation"
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PHIL 243-001"
     },
     "PHIL 243-002": {
-      "instructor": "Iain Board  Adriana Monica Solomon",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
+      "instructor": "Matthew Llyod Gorman",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 8,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "H-333(S)",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-333(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "H-333",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-333",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "H-333",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-333",
-          "class": "Recitation"
-        },
-        {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "H-333",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-333",
-          "class": "Recitation"
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PHIL 243-002"
     },
     "PHIL 243-003": {
       "instructor": "İklil Kaya Yıldırım  Jonathan Payton",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 9,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "H-332(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "H-332(S)",
-          "class": "Recitation"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-332",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-332",
-          "class": "Recitation"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-332",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-332",
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "H-332",
-          "class": "Recitation"
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "H-332",
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PHIL 243-003"
     },
     "PHIL 243-004": {
-      "instructor": "Matthew Llyod Gorman  Tufan Kıymaz",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
+      "instructor": "Yehezkel S. Berkovski  Jeffrey Michael Doonan",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
       "enrollment": {
-        "mandatory": 17,
+        "mandatory": 9,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "H-333",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "H-333(S)",
-          "class": "Recitation"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-333",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-333",
-          "class": "Recitation"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-333",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-333",
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "H-333",
-          "class": "Recitation"
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "H-333(S)",
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PHIL 243-004"
     },
     "PHIL 243-005": {
-      "instructor": "Saniye Vatansever  Laura Elizabeth Salgın",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
+      "instructor": "İklil Kaya Yıldırım  Jonathan Payton",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-332(S)",
-          "class": "Recitation"
-        },
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-332(S)",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-332",
-          "class": "Recitation"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-332",
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-332",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-332",
-          "class": "Recitation"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-332",
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-332",
-          "class": "Recitation"
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PHIL 243-005"
     },
     "PHIL 243-006": {
-      "instructor": "İklil Kaya Yıldırım  Jonathan Payton",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
-      "enrollment": {
-        "mandatory": 16,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-333(S)",
-          "class": "Recitation"
-        },
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-333(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-333",
-          "class": "Recitation"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-333",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-333",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-333",
-          "class": "Recitation"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-333",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-333",
-          "class": "Recitation"
-        }
-      ],
-      "name": "PHIL 243-006"
-    },
-    "PHIL 243-007": {
-      "instructor": "Iain Board  Daniel Mark Wolt",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-336(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-336",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "H-336(S)",
-          "class": "Recitation"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-336",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-336",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-336",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-336",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "H-336",
-          "class": "Recitation"
-        }
-      ],
-      "name": "PHIL 243-007"
-    },
-    "PHIL 243-008": {
-      "instructor": "Yan Trefor Overfield Shaw  Mary Katrina Krizan",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-334(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-334",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "H-334",
-          "class": "Recitation"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-334",
-          "class": "Recitation"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-334",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-334",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-334",
-          "class": "Recitation"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "H-334(S)",
-          "class": "Recitation"
-        }
-      ],
-      "name": "PHIL 243-008"
-    },
-    "PHIL 243-009": {
-      "instructor": "Sandrine Berges  Elif Hande Özer",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-334(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-334",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "H-334(S)",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-334",
-          "class": "Recitation"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-334",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-334",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-334",
-          "class": "Recitation"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "H-334",
-          "class": "Recitation"
-        }
-      ],
-      "name": "PHIL 243-009"
-    },
-    "PHIL 243-010": {
-      "instructor": "David Christopher Butcher  Istvan Albert Aranyosi",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "H-335(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "H-335(S)",
-          "class": "Recitation"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-335",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-335",
-          "class": "Recitation"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-335",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-335",
-          "class": "Recitation"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "H-335",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "H-335",
-          "class": "Recitation"
-        }
-      ],
-      "name": "PHIL 243-010"
-    },
-    "PHIL 243-011": {
-      "instructor": "David Christopher Butcher  Istvan Albert Aranyosi",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
-      "enrollment": {
-        "mandatory": 27,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-335(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-335(S)",
-          "class": "Recitation"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-335",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-335",
-          "class": "Recitation"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-335",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-335",
-          "class": "Recitation"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-335",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-335",
-          "class": "Recitation"
-        }
-      ],
-      "name": "PHIL 243-011"
-    },
-    "PHIL 243-012": {
-      "instructor": "Sandrine Berges  Elif Hande Özer",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
+      "instructor": "David Christopher Butcher  Tufan Kıymaz",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
       "enrollment": {
         "mandatory": 22,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-334(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "H-334(S)",
-          "class": "Recitation"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-334",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "H-334",
-          "class": "Recitation"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-334",
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "H-334",
-          "class": "Recitation"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-334",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "H-334",
-          "class": "Recitation"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PHIL 243-006"
+    },
+    "PHIL 243-007": {
+      "instructor": "Laura Elizabeth Salgın  James Kinkaid III",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
+      "enrollment": {
+        "mandatory": 21,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PHIL 243-007"
+    },
+    "PHIL 243-008": {
+      "instructor": "Laura Elizabeth Salgın  James Kinkaid III",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
+      "enrollment": {
+        "mandatory": 18,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PHIL 243-008"
+    },
+    "PHIL 243-009": {
+      "instructor": "Elif Hande Özer  Mary Katrina Krizan",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
+      "enrollment": {
+        "mandatory": 17,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PHIL 243-009"
+    },
+    "PHIL 243-010": {
+      "instructor": "Sandrine Berges  Yan Trefor Overfield Shaw",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
+      "enrollment": {
+        "mandatory": 16,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PHIL 243-010"
+    },
+    "PHIL 243-011": {
+      "instructor": "David Christopher Butcher  Tufan Kıymaz",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
+      "enrollment": {
+        "mandatory": 16,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PHIL 243-011"
+    },
+    "PHIL 243-012": {
+      "instructor": "Elif Hande Özer  Mary Katrina Krizan",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
+      "enrollment": {
+        "mandatory": 12,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PHIL 243-012"
     },
     "PHIL 243-013": {
       "instructor": "William Giles Wringe  John William Day",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 22,
         "elective": 0
       },
       "schedule": [
@@ -843,124 +843,124 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "H-332(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "H-332(S)",
-          "class": "Recitation"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "H-332",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "H-332",
-          "class": "Recitation"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "H-332",
-          "class": "Recitation"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "H-332",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "H-332",
-          "class": "Recitation"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "H-332",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PHIL 243-013"
     },
     "PHIL 243-014": {
-      "instructor": "Saniye Vatansever  Laura Elizabeth Salgın",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
+      "instructor": "Yehezkel S. Berkovski  Jeffrey Michael Doonan",
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 21,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "H-333",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "H-333",
-          "class": "Recitation"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-333",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-333",
-          "class": "Recitation"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-333",
-          "class": "Recitation"
         },
         {
           "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-333",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "H-333(S)",
-          "class": "Recitation"
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "H-333(S)",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -968,10 +968,10 @@
     },
     "PHIL 243-015": {
       "instructor": "William Giles Wringe  John William Day",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
+      "quota": "28 Mand. 0 Elect.",
+      "total_quota": 28,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 21,
         "elective": 0
       },
       "schedule": [
@@ -979,196 +979,60 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "H-334(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "H-335(S)",
-          "class": "Recitation"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "H-334",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "H-335",
-          "class": "Recitation"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "H-335",
-          "class": "Recitation"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "H-334",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "H-335",
-          "class": "Recitation"
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "H-334",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PHIL 243-015"
-    },
-    "PHIL 243-016": {
-      "instructor": "Iain Board  Daniel Mark Wolt",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
-      "enrollment": {
-        "mandatory": 16,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "H-235(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "H-336(S)",
-          "class": "Recitation"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-235",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-336",
-          "class": "Recitation"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-336",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-235",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "H-336",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "H-235",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "PHIL 243-016"
-    },
-    "PHIL 243-018": {
-      "instructor": "Yan Trefor Overfield Shaw  Adriana Monica Solomon",
-      "quota": "28 Mand. 0 Elect.",
-      "total_quota": 28,
-      "enrollment": {
-        "mandatory": 23,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-233(S)",
-          "class": "Recitation"
-        },
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "A-231(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-233",
-          "class": "Recitation"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-231",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-233",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "A-231",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-233",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "A-231",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "PHIL 243-018"
     }
   }
 }

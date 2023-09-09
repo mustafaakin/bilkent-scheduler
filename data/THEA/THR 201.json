@@ -15,11 +15,11 @@
   "code": "THR 201",
   "sections": {
     "THR 201-001": {
-      "instructor": "Staff",
-      "quota": "12 Mand. 0 Elect.",
-      "total_quota": 12,
+      "instructor": "Ahmet Sinan Pekinton  Haluk Yüce",
+      "quota": "3 Mand. 0 Elect.",
+      "total_quota": 3,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 3,
         "elective": 0
       },
       "schedule": [
@@ -27,14 +27,14 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {

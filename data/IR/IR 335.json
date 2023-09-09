@@ -15,84 +15,44 @@
   "code": "IR 335",
   "sections": {
     "IR 335-001": {
-      "instructor": "Tore Fougner",
+      "instructor": "Serdar Ş. Güner",
       "quota": "50 Mand. 5 Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-111(S)",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-111",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "B-111",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "B-111",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "IR 335-001"
-    },
-    "IR 335-002": {
-      "instructor": "Dimitrios Akrivoulis",
-      "quota": "50 Mand. 5 Elect.",
-      "total_quota": 55,
-      "enrollment": {
-        "mandatory": 16,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "T-272(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "T-272",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "T-272",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "T-272",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "IR 335-002"
     }
   }
 }

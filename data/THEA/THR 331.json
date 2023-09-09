@@ -15,11 +15,11 @@
   "code": "THR 331",
   "sections": {
     "THR 331-001": {
-      "instructor": "Hande Vural Johnson",
-      "quota": "6 Mand. 0 Elect.",
-      "total_quota": 6,
+      "instructor": "Staff",
+      "quota": "11 Mand. 0 Elect.",
+      "total_quota": 11,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 11,
         "elective": 0
       },
       "schedule": [

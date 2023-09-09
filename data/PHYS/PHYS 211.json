@@ -16,10 +16,10 @@
   "sections": {
     "PHYS 211-001": {
       "instructor": "Onur Tokel",
-      "quota": "45 Mand. or Elect.",
-      "total_quota": 45,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 41,
+        "mandatory": 34,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z02(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

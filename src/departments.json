@@ -19,11 +19,6 @@
     "name": "Architecture",
     "faculty": "Faculty of Art, Design, and Architecture"
   },
-  "BF": {
-    "id": "BF",
-    "name": "Banking and Finance",
-    "faculty": "School of Applied Languages"
-  },
   "BTE": {
     "id": "BTE",
     "name": "Curriculum and Instruction with Teaching Certificate",
@@ -78,11 +73,6 @@
     "id": "EEE",
     "name": "Electrical and Electronics Engineering",
     "faculty": "Faculty of Engineering"
-  },
-  "EEPS": {
-    "id": "EEPS",
-    "name": "Energy Economics, Policy, and Security",
-    "faculty": "Interdisciplinary Programs"
   },
   "ELIT": {
     "id": "ELIT",
@@ -262,7 +252,7 @@
   "PREP": {
     "id": "PREP",
     "name": "English Language Preparatory Program",
-    "faculty": "School of English Language"
+    "faculty": "Rectorate"
   },
   "PSYC": {
     "id": "PSYC",
@@ -271,8 +261,8 @@
   },
   "SFL": {
     "id": "SFL",
-    "name": "Banking and Finance",
-    "faculty": "School of Applied Languages"
+    "name": "Translation and Interpretation",
+    "faculty": "Faculty of Humanities and Letters"
   },
   "SOC": {
     "id": "SOC",

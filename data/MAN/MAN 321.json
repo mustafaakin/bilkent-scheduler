@@ -16,10 +16,10 @@
   "sections": {
     "MAN 321-001": {
       "instructor": "Kürşat Aydoğan",
-      "quota": "40 Mand. 5 Elect.",
-      "total_quota": 45,
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
-        "mandatory": 33,
+        "mandatory": 35,
         "elective": 0
       },
       "schedule": [
@@ -27,79 +27,79 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-305(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-305",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MA-305",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-305",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MAN 321-001"
     },
     "MAN 321-002": {
-      "instructor": "Ahmet Şensoy",
-      "quota": "40 Mand. 5 Elect.",
-      "total_quota": 45,
+      "instructor": "Tolga Demir",
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
-        "mandatory": 29,
+        "mandatory": 46,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-201(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "MA-201",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-201",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-201",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MAN 321-002"
     },
     "MAN 321-003": {
-      "instructor": "Tolga Demir",
-      "quota": "40 Mand. 5 Elect.",
-      "total_quota": 45,
+      "instructor": "Ahmet Şensoy",
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 32,
         "elective": 0
       },
       "schedule": [
@@ -107,72 +107,32 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-201(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-201",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MA-201",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-201",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MAN 321-003"
-    },
-    "MAN 321-004": {
-      "instructor": "Tolga Demir",
-      "quota": "40 Mand. 5 Elect.",
-      "total_quota": 45,
-      "enrollment": {
-        "mandatory": 25,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "MA-201(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MA-201",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "MA-201",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "MA-201",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "MAN 321-004"
     }
   }
 }

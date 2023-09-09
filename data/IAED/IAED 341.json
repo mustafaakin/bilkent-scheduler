@@ -1,5 +1,5 @@
 {
-  "name": "Architectural Acoustics and Fire Safety",
+  "name": "Architectural Acoustics",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -16,50 +16,90 @@
   "sections": {
     "IAED 341-001": {
       "instructor": "Semiha Yılmazer",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 44,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-101",
+          "place": "FF-101(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "FF-101",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "FF-101",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-101(S)",
+          "place": "FF-101",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "IAED 341-001"
     },
     "IAED 341-002": {
-      "instructor": "Semiha Yılmazer",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "instructor": "Staff",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 37,
+        "mandatory": 14,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-111(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-111",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-111",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-111",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "IAED 341-002"
+    },
+    "IAED 341-003": {
+      "instructor": "Zühre Sü Gül",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
@@ -67,32 +107,112 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FC-Z11",
+          "place": "FF-110(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FC-Z11",
+          "place": "FF-110",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FC-Z11",
+          "place": "FF-110",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FC-Z11(S)",
+          "place": "FF-110",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "IAED 341-002"
+      "name": "IAED 341-003"
+    },
+    "IAED 341-004": {
+      "instructor": "Semiha Yılmazer",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 15,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-101(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-101",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-101",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "IAED 341-004"
+    },
+    "IAED 341-005": {
+      "instructor": "Staff",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 15,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-111(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-111",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-111",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-111",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "IAED 341-005"
     }
   }
 }

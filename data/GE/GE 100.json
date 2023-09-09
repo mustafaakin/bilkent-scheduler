@@ -1,0 +1,17 @@
+{
+  "name": "Orientation",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 1
+  },
+  "code": "GE 100",
+  "sections": {}
+}

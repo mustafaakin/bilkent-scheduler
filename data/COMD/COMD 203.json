@@ -15,91 +15,11 @@
   "code": "COMD 203",
   "sections": {
     "COMD 203-001": {
-      "instructor": "Burcu Baykan",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
-      "enrollment": {
-        "mandatory": 26,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF-111(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF-111",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FF-111",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FF-111",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "COMD 203-001"
-    },
-    "COMD 203-002": {
-      "instructor": "Lutz Peschke",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
-      "enrollment": {
-        "mandatory": 5,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF-110(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF-110",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FF-110",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FF-110",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "COMD 203-002"
-    },
-    "COMD 203-003": {
       "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
+      "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 10,
         "elective": 0
       },
       "schedule": [
@@ -107,68 +27,148 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-114(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-114",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-114",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-114",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "COMD 203-001"
+    },
+    "COMD 203-002": {
+      "instructor": "Burcu Baykan",
+      "quota": "40 Mand. 0 Elect.",
+      "total_quota": 40,
+      "enrollment": {
+        "mandatory": 10,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "COMD 203-002"
+    },
+    "COMD 203-003": {
+      "instructor": "Lutz Peschke",
+      "quota": "40 Mand. 0 Elect.",
+      "total_quota": 40,
+      "enrollment": {
+        "mandatory": 10,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 203-003"
     },
     "COMD 203-004": {
-      "instructor": "Burcu Baykan",
-      "quota": "40 Mand. or Elect.",
+      "instructor": "Staff",
+      "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 5,
+        "mandatory": 10,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF-115(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF-115",
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FF-115",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FF-115",
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -176,79 +176,79 @@
     },
     "COMD 203-005": {
       "instructor": "Lutz Peschke",
-      "quota": "40 Mand. or Elect.",
+      "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 5,
+        "mandatory": 9,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-114(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-114",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FF-114",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FF-114",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 203-005"
     },
     "COMD 203-006": {
-      "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
+      "instructor": "Burcu Baykan",
+      "quota": "40 Mand. 0 Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 5,
+        "mandatory": 10,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-110(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-110",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FF-110",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FF-110",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

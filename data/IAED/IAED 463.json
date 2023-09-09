@@ -16,10 +16,10 @@
   "sections": {
     "IAED 463-001": {
       "instructor": "Elif Erdemir Türkkan",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 33,
+        "mandatory": 40,
         "elective": 0
       },
       "schedule": [
@@ -56,10 +56,10 @@
     },
     "IAED 463-002": {
       "instructor": "Elif Erdemir Türkkan",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 34,
+        "mandatory": 45,
         "elective": 0
       },
       "schedule": [

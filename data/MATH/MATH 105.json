@@ -15,11 +15,11 @@
   "code": "MATH 105",
   "sections": {
     "MATH 105-001": {
-      "instructor": "Kamer Rodoplu",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Staff",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 46,
         "elective": 0
       },
       "schedule": [
@@ -55,11 +55,11 @@
       "name": "MATH 105-001"
     },
     "MATH 105-002": {
-      "instructor": "Kamer Rodoplu",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Staff",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 59,
         "elective": 0
       },
       "schedule": [
@@ -95,11 +95,11 @@
       "name": "MATH 105-002"
     },
     "MATH 105-003": {
-      "instructor": "Anargyros Katsampekis",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Natalia Zheltukhina",
+      "quota": "70 Mand. 0 Elect.",
+      "total_quota": 70,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 70,
         "elective": 0
       },
       "schedule": [
@@ -107,39 +107,39 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 105-003"
     },
     "MATH 105-004": {
-      "instructor": "Anargyros Katsampekis",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Natalia Zheltukhina",
+      "quota": "70 Mand. 0 Elect.",
+      "total_quota": 70,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 70,
         "elective": 0
       },
       "schedule": [
@@ -147,39 +147,79 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 105-004"
     },
     "MATH 105-005": {
-      "instructor": "Anargyros Katsampekis",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Staff",
+      "quota": "70 Mand. 0 Elect.",
+      "total_quota": 70,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 64,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 105-005"
+    },
+    "MATH 105-006": {
+      "instructor": "Staff",
+      "quota": "70 Mand. 0 Elect.",
+      "total_quota": 70,
+      "enrollment": {
+        "mandatory": 70,
         "elective": 0
       },
       "schedule": [
@@ -187,148 +227,108 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-B40",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-B40",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-B40",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-B40",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "MATH 105-005"
-    },
-    "MATH 105-006": {
-      "instructor": "Ayşegül Altaban",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
-      "enrollment": {
-        "mandatory": 8,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "MA-301",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MA-301",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "MA-301",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 105-006"
     },
     "MATH 105-007": {
-      "instructor": "Ayşegül Altaban",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Anita Nicole Alexander",
+      "quota": "70 Mand. 0 Elect.",
+      "total_quota": 70,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 62,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "A-125",
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "A-125",
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "A-125",
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "A-125",
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 105-007"
     },
     "MATH 105-008": {
-      "instructor": "Alexandre Goncharov",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Natalia Zheltukhina",
+      "quota": "70 Mand. 0 Elect.",
+      "total_quota": 70,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 59,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "V-02",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "V-02",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "V-02",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "V-02",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

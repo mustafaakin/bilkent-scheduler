@@ -16,10 +16,10 @@
   "sections": {
     "FA 131-001": {
       "instructor": "Alper Küçük",
-      "quota": "16 Mand. 0 Elect.",
-      "total_quota": 16,
+      "quota": "19 Mand. 0 Elect.",
+      "total_quota": 19,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-109",
+          "place": "FF-101",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-109",
+          "place": "FF-101",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FF-109",
+          "place": "FF-101",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FF-109(S)",
+          "place": "FF-101(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -56,10 +56,10 @@
     },
     "FA 131-002": {
       "instructor": "Burcu Egel",
-      "quota": "16 Mand. 0 Elect.",
-      "total_quota": 16,
+      "quota": "19 Mand. 0 Elect.",
+      "total_quota": 19,
       "enrollment": {
-        "mandatory": 6,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-109(S)",
+          "place": "FF-308(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-109",
+          "place": "FF-308",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-109",
+          "place": "FF-308",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-109",
+          "place": "FF-308",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -96,10 +96,10 @@
     },
     "FA 131-003": {
       "instructor": "Sibel Ertez Ural",
-      "quota": "16 Mand. 0 Elect.",
-      "total_quota": 16,
+      "quota": "19 Mand. 0 Elect.",
+      "total_quota": 19,
       "enrollment": {
-        "mandatory": 6,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
@@ -136,10 +136,10 @@
     },
     "FA 131-004": {
       "instructor": "Sibel Ertez Ural",
-      "quota": "16 Mand. 0 Elect.",
-      "total_quota": 16,
+      "quota": "19 Mand. 0 Elect.",
+      "total_quota": 19,
       "enrollment": {
-        "mandatory": 6,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -176,10 +176,10 @@
     },
     "FA 131-005": {
       "instructor": "Sema Karamanoğlu",
-      "quota": "16 Mand. 0 Elect.",
-      "total_quota": 16,
+      "quota": "19 Mand. 0 Elect.",
+      "total_quota": 19,
       "enrollment": {
-        "mandatory": 6,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -216,10 +216,10 @@
     },
     "FA 131-006": {
       "instructor": "Alper Küçük",
-      "quota": "16 Mand. 0 Elect.",
-      "total_quota": 16,
+      "quota": "19 Mand. 0 Elect.",
+      "total_quota": 19,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
@@ -227,39 +227,39 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-101(S)",
+          "place": "FF-109(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-101",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-101",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-101",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "FA 131-006"
     },
     "FA 131-007": {
-      "instructor": "Burcu Egel",
-      "quota": "0 Mand. 16 Elect.",
-      "total_quota": 16,
+      "instructor": "Staff",
+      "quota": "19 Mand. 0 Elect.",
+      "total_quota": 19,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
@@ -293,6 +293,46 @@
         }
       ],
       "name": "FA 131-007"
+    },
+    "FA 131-008": {
+      "instructor": "Sanem Deniz Karlıdağ",
+      "quota": "19 Mand. 0 Elect.",
+      "total_quota": 19,
+      "enrollment": {
+        "mandatory": 18,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-305(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-305",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-305",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-305",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "FA 131-008"
     }
   }
 }

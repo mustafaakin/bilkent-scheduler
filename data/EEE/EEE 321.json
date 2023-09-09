@@ -15,33 +15,40 @@
   "code": "EEE 321",
   "sections": {
     "EEE 321-001": {
-      "instructor": "Levent Onural",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "instructor": "Süleyman Serdar Kozat",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 23,
+        "mandatory": 52,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EE-517(S)",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EE-517",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EE-517",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -50,13 +57,6 @@
           "end": "16:20",
           "place": "EE-211",
           "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "EE-517",
-          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
@@ -69,54 +69,54 @@
       "name": "EEE 321-001"
     },
     "EEE 321-002": {
-      "instructor": "Levent Onural",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "instructor": "Süleyman Serdar Kozat",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 24,
+        "mandatory": 53,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-412(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-412",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "EE-211",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "EE-211",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-412",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-412",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

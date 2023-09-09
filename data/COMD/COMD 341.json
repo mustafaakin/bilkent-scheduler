@@ -16,10 +16,10 @@
   "sections": {
     "COMD 341-001": {
       "instructor": "Ayşenur Dal Tokdemir",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "quota": "40 Mand. 0 Elect.",
+      "total_quota": 40,
       "enrollment": {
-        "mandatory": 20,
+        "mandatory": 13,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-114(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-114",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-114",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-114",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,10 +56,10 @@
     },
     "COMD 341-002": {
       "instructor": "Ayşenur Dal Tokdemir",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "quota": "40 Mand. 0 Elect.",
+      "total_quota": 40,
       "enrollment": {
-        "mandatory": 22,
+        "mandatory": 39,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-114(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-114",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-114",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-114",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

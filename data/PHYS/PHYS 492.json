@@ -1,0 +1,17 @@
+{
+  "name": "Senior Project II",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 4
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 4
+  },
+  "code": "PHYS 492",
+  "sections": {}
+}

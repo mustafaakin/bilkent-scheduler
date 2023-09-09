@@ -15,39 +15,39 @@
   "code": "LAUD 481",
   "sections": {
     "LAUD 481-001": {
-      "instructor": "Kumru Arapgirlioğlu",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 12,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "FA-313",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "FA-313",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
           "place": "FA-313",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "FA-313",
           "class": "Face-to-Face Lab/Studio"
         }

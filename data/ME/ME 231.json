@@ -15,11 +15,11 @@
   "code": "ME 231",
   "sections": {
     "ME 231-001": {
-      "instructor": "Ali Javili",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Staff",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 22,
         "elective": 0
       },
       "schedule": [
@@ -27,14 +27,14 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -55,25 +55,25 @@
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ME 231-001"
     },
     "ME 231-002": {
-      "instructor": "Ali Javili",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Staff",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 21,
         "elective": 0
       },
       "schedule": [
@@ -81,14 +81,14 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -102,7 +102,7 @@
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -116,18 +116,18 @@
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ME 231-002"
     },
     "ME 231-003": {
-      "instructor": "Ali Javili",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Staff",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
@@ -149,39 +149,39 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ME 231-003"
     },
     "ME 231-004": {
-      "instructor": "Ali Javili",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Staff",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
@@ -196,7 +196,7 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -210,21 +210,21 @@
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -16,10 +16,10 @@
   "sections": {
     "ECON 108-001": {
       "instructor": "Bilin Neyaptı",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -27,39 +27,39 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-127(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 108-001"
     },
     "ECON 108-002": {
-      "instructor": "Bilin Neyaptı",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "instructor": "Bahar Onar",
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
-        "mandatory": 19,
+        "mandatory": 22,
         "elective": 0
       },
       "schedule": [
@@ -67,39 +67,39 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-125(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-125",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-125",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-125",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 108-002"
     },
     "ECON 108-003": {
-      "instructor": "Ebru Güven",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "instructor": "Bahar Onar",
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
-        "mandatory": 20,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [
@@ -107,28 +107,28 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-127(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

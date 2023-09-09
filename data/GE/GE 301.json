@@ -19,7 +19,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -45,7 +45,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -71,7 +71,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -97,22 +97,22 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 17,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EB-201",
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EB-202",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "EB-201",
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EB-202",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -123,7 +123,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 17,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -149,7 +149,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 13,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -175,7 +175,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 12,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -201,7 +201,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 12,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -227,7 +227,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 12,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -253,7 +253,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 18,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
@@ -284,17 +284,17 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EB-204",
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EB-202",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EB-204",
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EB-202",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -305,7 +305,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
@@ -357,22 +357,22 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 18,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EB-204",
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EB-202",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EB-204",
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EB-202",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -383,7 +383,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -409,7 +409,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -435,7 +435,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -443,14 +443,14 @@
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EB-201",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EB-201",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -461,7 +461,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -469,70 +469,18 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EB-201",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EB-201",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "GE 301-018"
-    },
-    "GE 301-019": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 11,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EB-201",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EB-201",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "GE 301-019"
-    },
-    "GE 301-020": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 18,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EB-201",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EB-201",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "GE 301-020"
     }
   }
 }

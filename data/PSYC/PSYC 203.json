@@ -16,39 +16,39 @@
   "sections": {
     "PSYC 203-001": {
       "instructor": "Sezer Kadayıfçılar",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "29 Mand. 0 Elect.",
+      "total_quota": 29,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-231(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-231",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,39 +56,39 @@
     },
     "PSYC 203-002": {
       "instructor": "Sezer Kadayıfçılar",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "29 Mand. 0 Elect.",
+      "total_quota": 29,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-231(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,39 +96,39 @@
     },
     "PSYC 203-003": {
       "instructor": "Sezer Kadayıfçılar",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
+      "quota": "29 Mand. 0 Elect.",
+      "total_quota": 29,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-231(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

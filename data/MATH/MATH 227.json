@@ -15,11 +15,11 @@
   "code": "MATH 227",
   "sections": {
     "MATH 227-001": {
-      "instructor": "Ergün Yalçın",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Bülent Ünal",
+      "quota": "70 Mand. 0 Elect.",
+      "total_quota": 70,
       "enrollment": {
-        "mandatory": 45,
+        "mandatory": 59,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-301(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,10 +56,10 @@
     },
     "MATH 227-002": {
       "instructor": "Ergün Yalçın",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "quota": "70 Mand. 0 Elect.",
+      "total_quota": 70,
       "enrollment": {
-        "mandatory": 36,
+        "mandatory": 51,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-301(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-301",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

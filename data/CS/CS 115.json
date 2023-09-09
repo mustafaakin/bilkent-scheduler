@@ -15,11 +15,11 @@
   "code": "CS 115",
   "sections": {
     "CS 115-001": {
-      "instructor": "İpek Sözen",
-      "quota": "64 Mand. or Elect.",
-      "total_quota": 64,
+      "instructor": "Aynur Dayanık",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 22,
+        "mandatory": 57,
         "elective": 0
       },
       "schedule": [
@@ -34,7 +34,7 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z01(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -48,7 +48,7 @@
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -69,14 +69,14 @@
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -84,78 +84,10 @@
     },
     "CS 115-002": {
       "instructor": "İpek Sözen",
-      "quota": "64 Mand. or Elect.",
-      "total_quota": 64,
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 4,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-Z01(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-Z01",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "B-201",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "B-201",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "B-201",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "B-Z01",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "B-201",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "B-Z01",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "CS 115-002"
-    },
-    "CS 115-003": {
-      "instructor": "İpek Sözen",
-      "quota": "64 Mand. or Elect.",
-      "total_quota": 64,
-      "enrollment": {
-        "mandatory": 13,
+        "mandatory": 51,
         "elective": 0
       },
       "schedule": [
@@ -163,21 +95,82 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z01(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-201",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z01",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-201",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-201",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "B-201",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CS 115-002"
+    },
+    "CS 115-003": {
+      "instructor": "İpek Sözen",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
+      "enrollment": {
+        "mandatory": 49,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -188,18 +181,18 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "B-Z01",
-          "class": "Face-to-Face Lecture"
-        },
-        {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
@@ -207,6 +200,13 @@
           "end": "16:20",
           "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
@@ -219,26 +219,26 @@
       "name": "CS 115-003"
     },
     "CS 115-004": {
-      "instructor": "Can Kültür",
+      "instructor": "İpek Sözen",
       "quota": "65 Mand. or Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 33,
+        "mandatory": 40,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "EE-214(S)",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "EE-214",
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -249,25 +249,11 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EE-214",
-          "class": "Face-to-Face Lecture"
-        },
-        {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
           "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EE-214",
-          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
@@ -277,21 +263,35 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
           "place": "B-201",
           "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 115-004"
     },
     "CS 115-005": {
-      "instructor": "Can Kültür",
-      "quota": "64 Mand. or Elect.",
-      "total_quota": 64,
+      "instructor": "İpek Sözen",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 25,
+        "mandatory": 36,
         "elective": 0
       },
       "schedule": [
@@ -306,7 +306,7 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z01(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -320,7 +320,7 @@
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -341,25 +341,25 @@
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 115-005"
     },
     "CS 115-006": {
-      "instructor": "İpek Sözen",
-      "quota": "64 Mand. or Elect.",
-      "total_quota": 64,
+      "instructor": "Aynur Dayanık",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 24,
+        "mandatory": 40,
         "elective": 0
       },
       "schedule": [
@@ -381,7 +381,7 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z01(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -395,7 +395,7 @@
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -409,25 +409,25 @@
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 115-006"
     },
     "CS 115-007": {
-      "instructor": "Lori Rae Russell Dağ",
+      "instructor": "Aynur Dayanık",
       "quota": "65 Mand. or Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 34,
         "elective": 0
       },
       "schedule": [
@@ -435,67 +435,67 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-303",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-303",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-303",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-206(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-303",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 115-007"
     },
     "CS 115-008": {
-      "instructor": "Lori Rae Russell Dağ",
+      "instructor": "Aynur Dayanık",
       "quota": "65 Mand. or Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 24,
+        "mandatory": 53,
         "elective": 0
       },
       "schedule": [
@@ -503,21 +503,21 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-03(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -531,7 +531,7 @@
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {

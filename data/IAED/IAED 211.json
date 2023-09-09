@@ -16,10 +16,10 @@
   "sections": {
     "IAED 211-001": {
       "instructor": "Tijen Sonkan Türkkan",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
       "enrollment": {
-        "mandatory": 25,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -56,10 +56,10 @@
     },
     "IAED 211-002": {
       "instructor": "Tijen Sonkan Türkkan",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
       "enrollment": {
-        "mandatory": 25,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
@@ -96,10 +96,10 @@
     },
     "IAED 211-003": {
       "instructor": "Tijen Sonkan Türkkan",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
       "enrollment": {
-        "mandatory": 25,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
@@ -107,28 +107,28 @@
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-216",
+          "place": "FF-211",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-216",
+          "place": "FF-211",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FF-216",
+          "place": "FF-211",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FF-216",
+          "place": "FF-211",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

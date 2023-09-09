@@ -15,11 +15,11 @@
   "code": "COMD 358",
   "sections": {
     "COMD 358-001": {
-      "instructor": "Emel Özdora Akşak",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Staff",
+      "quota": "33 Mand. or Elect.",
+      "total_quota": 33,
       "enrollment": {
-        "mandatory": 20,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -27,119 +27,119 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "SA-Z03(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "SA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "SA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "SA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 358-001"
     },
     "COMD 358-002": {
-      "instructor": "Didem Özkul McGeoch",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Boran Aksoy",
+      "quota": "33 Mand. or Elect.",
+      "total_quota": 33,
       "enrollment": {
-        "mandatory": 23,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "SA-Z04",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "SA-Z04",
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "SA-Z04(S)",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "SA-Z04",
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 358-002"
     },
     "COMD 358-003": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Emel Özdora Akşak",
+      "quota": "33 Mand. or Elect.",
+      "total_quota": 33,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "SA-Z03(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "SA-Z03",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "SA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "SA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 358-003"
     },
     "COMD 358-004": {
-      "instructor": "Ufuk Önen",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Müge Mengü Hale",
+      "quota": "33 Mand. or Elect.",
+      "total_quota": 33,
       "enrollment": {
-        "mandatory": 22,
+        "mandatory": 25,
         "elective": 0
       },
       "schedule": [
@@ -147,119 +147,79 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-136(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-136",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-136",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-136",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 358-004"
     },
     "COMD 358-005": {
-      "instructor": "Ufuk Önen",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Boran Aksoy",
+      "quota": "33 Mand. or Elect.",
+      "total_quota": 33,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "SA-Z04(S)",
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "SA-Z04",
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "SA-Z04",
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "SA-Z04",
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 358-005"
     },
     "COMD 358-006": {
-      "instructor": "Müge Mengü Hale",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Emel Özdora Akşak",
+      "quota": "33 Mand. or Elect.",
+      "total_quota": 33,
       "enrollment": {
-        "mandatory": 1,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "MA-Z04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "MA-Z04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "MA-Z04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "MA-Z04(S)",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "COMD 358-006"
-    },
-    "COMD 358-007": {
-      "instructor": "Didem Özkul McGeoch",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 0,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -267,39 +227,159 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-330",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-330",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-330",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-330(S)",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "COMD 358-006"
+    },
+    "COMD 358-007": {
+      "instructor": "Staff",
+      "quota": "33 Mand. or Elect.",
+      "total_quota": 33,
+      "enrollment": {
+        "mandatory": 33,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 358-007"
     },
     "COMD 358-008": {
-      "instructor": "Elif Ünal Arslan",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Staff",
+      "quota": "33 Mand. or Elect.",
+      "total_quota": 33,
       "enrollment": {
-        "mandatory": 12,
+        "mandatory": 33,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "COMD 358-008"
+    },
+    "COMD 358-009": {
+      "instructor": "Staff",
+      "quota": "33 Mand. or Elect.",
+      "total_quota": 33,
+      "enrollment": {
+        "mandatory": 14,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "COMD 358-009"
+    },
+    "COMD 358-010": {
+      "instructor": "Staff",
+      "quota": "33 Mand. or Elect.",
+      "total_quota": 33,
+      "enrollment": {
+        "mandatory": 13,
         "elective": 0
       },
       "schedule": [
@@ -332,12 +412,12 @@
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "COMD 358-008"
+      "name": "COMD 358-010"
     },
-    "COMD 358-009": {
-      "instructor": "Elif Ünal Arslan",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+    "COMD 358-011": {
+      "instructor": "Staff",
+      "quota": "33 Mand. or Elect.",
+      "total_quota": 33,
       "enrollment": {
         "mandatory": 13,
         "elective": 0
@@ -372,123 +452,43 @@
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "COMD 358-009"
-    },
-    "COMD 358-010": {
-      "instructor": "Didem Özkul McGeoch",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-136(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-136",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-136",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-136",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "COMD 358-010"
-    },
-    "COMD 358-011": {
-      "instructor": "Emel Özdora Akşak",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 6,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-140(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-140",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-140",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-140",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
       "name": "COMD 358-011"
     },
     "COMD 358-012": {
-      "instructor": "Müge Mengü Hale",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Staff",
+      "quota": "33 Mand. or Elect.",
+      "total_quota": 33,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 32,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FA-120",
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FA-120(S)",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FA-120",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FA-120",
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

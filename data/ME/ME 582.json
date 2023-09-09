@@ -16,8 +16,8 @@
   "sections": {
     "ME 582-001": {
       "instructor": "Müjdat Tohumcu",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "5 Mand. or Elect.",
+      "total_quota": 5,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EB-204",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EB-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EB-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EB-204(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

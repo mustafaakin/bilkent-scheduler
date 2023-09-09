@@ -16,39 +16,39 @@
   "sections": {
     "CTIS 365-001": {
       "instructor": "Seyid Amjad Ali",
-      "quota": "17 Mand. 0 Elect.",
-      "total_quota": 17,
+      "quota": "25 Mand. 0 Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 7,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "C-CTISL4",
+          "place": "C-CTISL7",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "C-CTISL4",
+          "place": "C-CTISL7",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "CD-B01",
+          "place": "CD-B01(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "CD-B01(S)",
+          "place": "CD-B01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -70,64 +70,118 @@
     },
     "CTIS 365-002": {
       "instructor": "Seyid Amjad Ali",
-      "quota": "17 Mand. 0 Elect.",
-      "total_quota": 17,
+      "quota": "25 Mand. 0 Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "CD-B01",
+          "place": "C-216(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "CD-B01",
+          "place": "C-216",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "CD-B01",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-216",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "CD-B01(S)",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-216",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "C-CTISL4",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "C-CTISL4",
-          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CTIS 365-002"
     },
     "CTIS 365-003": {
       "instructor": "Seyid Amjad Ali",
-      "quota": "8 Mand. 0 Elect.",
-      "total_quota": 8,
+      "quota": "25 Mand. 0 Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 12,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-216(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-216",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "C-216",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-216",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 365-003"
+    },
+    "CTIS 365-004": {
+      "instructor": "Seyid Amjad Ali",
+      "quota": "9 Mand. 0 Elect.",
+      "total_quota": 9,
+      "enrollment": {
+        "mandatory": 8,
         "elective": 0
       },
       "schedule": [
@@ -135,15 +189,29 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "CD-B01",
+          "place": "CD-B01(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "CD-B01(S)",
+          "place": "CD-B01",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
@@ -153,82 +221,122 @@
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "C-CTISL4",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
           "place": "CD-B01",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "C-CTISL4",
-          "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "CTIS 365-003"
+      "name": "CTIS 365-004"
     },
-    "CTIS 365-004": {
+    "CTIS 365-005": {
       "instructor": "Seyid Amjad Ali",
       "quota": "8 Mand. 0 Elect.",
       "total_quota": 8,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 4,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "CD-B01",
+          "place": "C-216(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "CD-B01",
+          "place": "C-216",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "CD-B01",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "CD-B01(S)",
+          "place": "C-216",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "C-CTISL4",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-CTISL7",
           "class": "Face-to-Face Lab/Studio"
         },
         {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-216",
+          "class": "Face-to-Face Lecture"
+        },
+        {
           "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "C-CTISL4",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-CTISL7",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "CTIS 365-004"
+      "name": "CTIS 365-005"
+    },
+    "CTIS 365-006": {
+      "instructor": "Seyid Amjad Ali",
+      "quota": "8 Mand. 0 Elect.",
+      "total_quota": 8,
+      "enrollment": {
+        "mandatory": 5,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-216(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-216",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-CTISL7",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "C-216",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-216",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 365-006"
     }
   }
 }

@@ -16,43 +16,83 @@
   "sections": {
     "AMER 293-001": {
       "instructor": "Daniel Peter Johnson",
-      "quota": "25 Mand. 3 Elect.",
-      "total_quota": 28,
+      "quota": "20 Mand. 5 Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 21,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-107(S)",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-107",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-107",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-107",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "AMER 293-001"
+    },
+    "AMER 293-002": {
+      "instructor": "Dennis Raymond Bryson",
+      "quota": "20 Mand. 5 Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "AMER 293-002"
     }
   }
 }

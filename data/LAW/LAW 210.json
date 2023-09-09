@@ -1,5 +1,5 @@
 {
-  "name": "Basic Concepts of Law",
+  "name": "Basic Concepts of Law (in Turkish)",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -15,80 +15,80 @@
   "code": "LAW 210",
   "sections": {
     "LAW 210-001": {
-      "instructor": "Serkan Yolcu",
+      "instructor": "Şemsi Barış Özçelik",
       "quota": "65 Mand. or Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 8,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-140(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-140",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-140",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-140",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LAW 210-001"
     },
     "LAW 210-002": {
-      "instructor": "Zülfiye Yılmaz",
+      "instructor": "Gülüm Özçelik",
       "quota": "65 Mand. or Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 9,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-203(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-203",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-203",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-203",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

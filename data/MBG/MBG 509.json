@@ -15,7 +15,7 @@
   "code": "MBG 509",
   "sections": {
     "MBG 509-001": {
-      "instructor": "Serkan İsmail Göktuna",
+      "instructor": "Pınar Önal",
       "quota": "35 Mand. or Elect.",
       "total_quota": 35,
       "enrollment": {
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "SB-Z04(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "SB-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "SB-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "SB-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

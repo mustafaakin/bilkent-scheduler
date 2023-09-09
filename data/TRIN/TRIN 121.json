@@ -16,10 +16,10 @@
   "sections": {
     "TRIN 121-001": {
       "instructor": "Cahide Ekiz",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -27,7 +27,7 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "LA-114(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -56,10 +56,10 @@
     },
     "TRIN 121-002": {
       "instructor": "Cahide Ekiz",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -67,7 +67,7 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "LA-114(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {

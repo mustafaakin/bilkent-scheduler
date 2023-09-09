@@ -15,11 +15,11 @@
   "code": "CS 201",
   "sections": {
     "CS 201-001": {
-      "instructor": "Selim Aksoy",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "instructor": "Abdullah Ercüment Çiçek",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 53,
+        "mandatory": 49,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-05(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,10 +56,10 @@
     },
     "CS 201-002": {
       "instructor": "Selim Aksoy",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 53,
+        "mandatory": 48,
         "elective": 0
       },
       "schedule": [
@@ -67,68 +67,68 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-05(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 201-002"
     },
     "CS 201-003": {
-      "instructor": "Aynur Dayanık",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "instructor": "Abdullah Ercüment Çiçek",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 53,
+        "mandatory": 48,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "EE-05(S)",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "EE-05",
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EE-05",
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EE-05",
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

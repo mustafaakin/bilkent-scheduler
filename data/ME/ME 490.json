@@ -1,0 +1,17 @@
+{
+  "name": "Undergraduate Research in ME",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "ME 490",
+  "sections": {}
+}

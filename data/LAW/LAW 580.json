@@ -1,5 +1,5 @@
 {
-  "name": "Legal Methodology",
+  "name": "Legal Methodology (in Turkish)",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -16,39 +16,39 @@
   "sections": {
     "LAW 580-001": {
       "instructor": "Hamdi Pınar",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-105(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-105",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-105",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-105",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

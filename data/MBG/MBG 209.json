@@ -15,40 +15,40 @@
   "code": "MBG 209",
   "sections": {
     "MBG 209-001": {
-      "instructor": "Pınar Önal",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Özlen Konu Karakayalı",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "SB-Z03(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "SB-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "SB-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "SB-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

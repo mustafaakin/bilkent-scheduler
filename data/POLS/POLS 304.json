@@ -16,10 +16,10 @@
   "sections": {
     "POLS 304-001": {
       "instructor": "Aida Just",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "quota": "50 Mand. 5 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 19,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-229(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

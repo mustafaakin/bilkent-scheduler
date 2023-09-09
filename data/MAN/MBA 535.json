@@ -15,9 +15,9 @@
   "code": "MBA 535",
   "sections": {
     "MBA 535-001": {
-      "instructor": "Olga Kravets",
-      "quota": "28 Mand. or Elect.",
-      "total_quota": 28,
+      "instructor": "Staff",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -28,21 +28,21 @@
           "start": "18:30",
           "end": "19:20",
           "place": "MA-302",
-          "class": "Online/Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "19:30",
           "end": "20:20",
           "place": "MA-302",
-          "class": "Online/Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "20:30",
           "end": "21:20",
           "place": "MA-302",
-          "class": "Online/Hybrid Lecture"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MBA 535-001"

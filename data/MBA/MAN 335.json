@@ -16,10 +16,10 @@
   "sections": {
     "MAN 335-001": {
       "instructor": "Ahmet Ekici",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 45,
+        "mandatory": 41,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-302",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-302(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,10 +56,10 @@
     },
     "MAN 335-002": {
       "instructor": "Ahmet Ekici",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 46,
+        "mandatory": 37,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-302(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

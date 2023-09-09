@@ -15,11 +15,11 @@
   "code": "HIST 200",
   "sections": {
     "HIST 200-001": {
-      "instructor": "Abdürrahim Özer",
+      "instructor": "Turaç Hakalmaz",
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-Z27(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -59,7 +59,7 @@
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-111(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-111",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-111",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-111",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -99,7 +99,7 @@
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 28,
         "elective": 0
       },
       "schedule": [
@@ -107,74 +107,34 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-112(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HIST 200-003"
     },
     "HIST 200-004": {
-      "instructor": "İbrahim Mert Öztürk",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
-      "enrollment": {
-        "mandatory": 17,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-Z07(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-Z07",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "B-Z07",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "B-Z07",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HIST 200-004"
-    },
-    "HIST 200-005": {
       "instructor": "Staff",
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
@@ -184,38 +144,38 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-113(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-113",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-113",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-113",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "HIST 200-005"
+      "name": "HIST 200-004"
     },
-    "HIST 200-006": {
-      "instructor": "İbrahim Mert Öztürk",
+    "HIST 200-005": {
+      "instructor": "Atakan Yılmaz",
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
@@ -224,42 +184,42 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-Z27(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "HIST 200-006"
+      "name": "HIST 200-005"
     },
-    "HIST 200-007": {
-      "instructor": "Staff",
+    "HIST 200-006": {
+      "instructor": "Abdürrahim Özer",
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 23,
+        "mandatory": 31,
         "elective": 0
       },
       "schedule": [
@@ -267,28 +227,68 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-127(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-127",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-006"
+    },
+    "HIST 200-007": {
+      "instructor": "Sena Özbay",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 31,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -299,7 +299,7 @@
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 41,
+        "mandatory": 24,
         "elective": 0
       },
       "schedule": [
@@ -307,39 +307,39 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "T-173(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "T-173",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "T-173",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "T-173",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HIST 200-008"
     },
     "HIST 200-009": {
-      "instructor": "Abdürrahim Özer",
+      "instructor": "Atakan Yılmaz",
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 31,
+        "mandatory": 50,
         "elective": 0
       },
       "schedule": [
@@ -347,28 +347,28 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-Z27(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -379,7 +379,7 @@
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 35,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -387,28 +387,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-Z27(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -419,36 +419,36 @@
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 37,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-112(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-112",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -459,36 +459,36 @@
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 34,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z06(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-Z06",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z06",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z06",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -499,76 +499,76 @@
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 35,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z07(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-Z07",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z07",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z07",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HIST 200-013"
     },
     "HIST 200-014": {
-      "instructor": "Staff",
+      "instructor": "İbrahim Mert Öztürk",
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 27,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-111(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-111",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-111",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-111",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -576,6 +576,86 @@
     },
     "HIST 200-015": {
       "instructor": "Abdürrahim Özer",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 27,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-015"
+    },
+    "HIST 200-016": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 27,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-016"
+    },
+    "HIST 200-017": {
+      "instructor": "Turaç Hakalmaz",
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
@@ -587,108 +667,28 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-112(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-112",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HIST 200-015"
-    },
-    "HIST 200-016": {
-      "instructor": "Staff",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
-      "enrollment": {
-        "mandatory": 35,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "MA-101(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MA-101",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "MA-101",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "MA-101",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HIST 200-016"
-    },
-    "HIST 200-017": {
-      "instructor": "Staff",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
-      "enrollment": {
-        "mandatory": 48,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "A-Z27(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "A-Z27",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "A-Z27",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -696,6 +696,166 @@
     },
     "HIST 200-018": {
       "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 34,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-018"
+    },
+    "HIST 200-019": {
+      "instructor": "Sena Özbay",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 34,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-019"
+    },
+    "HIST 200-020": {
+      "instructor": "Staff",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 33,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-020"
+    },
+    "HIST 200-021": {
+      "instructor": "Abdürrahim Özer",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 18,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HIST 200-021"
+    },
+    "HIST 200-022": {
+      "instructor": "İbrahim Mert Öztürk",
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
@@ -707,188 +867,28 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-Z27(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-Z27",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-Z27",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HIST 200-018"
-    },
-    "HIST 200-019": {
-      "instructor": "Staff",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
-      "enrollment": {
-        "mandatory": 35,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "A-125(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "A-125",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "A-125",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "A-125",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HIST 200-019"
-    },
-    "HIST 200-020": {
-      "instructor": "Staff",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
-      "enrollment": {
-        "mandatory": 22,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-114(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-114",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "B-114",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "B-114",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HIST 200-020"
-    },
-    "HIST 200-021": {
-      "instructor": "Staff",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
-      "enrollment": {
-        "mandatory": 10,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EB-101(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EB-101",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EB-101",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "EB-101",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HIST 200-021"
-    },
-    "HIST 200-022": {
-      "instructor": "Staff",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
-      "enrollment": {
-        "mandatory": 36,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EB-104(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EB-104",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EB-104",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "EB-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

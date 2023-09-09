@@ -15,11 +15,11 @@
   "code": "ECON 107",
   "sections": {
     "ECON 107-001": {
-      "instructor": "Türkan Mine Kara",
+      "instructor": "Hakan Berument",
       "quota": "60 Mand. 0 Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 52,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-127(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -59,127 +59,127 @@
       "quota": "60 Mand. 0 Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 52,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-125(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-125",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-125",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-125",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 107-002"
     },
     "ECON 107-003": {
-      "instructor": "Staff",
+      "instructor": "Marie Leka",
       "quota": "60 Mand. 0 Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 6,
+        "mandatory": 52,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-127(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "A-127",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 107-003"
     },
     "ECON 107-004": {
-      "instructor": "Ebru Güven",
+      "instructor": "Staff",
       "quota": "60 Mand. 0 Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "A-125(S)",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-125",
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "A-125",
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "A-125",
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 107-004"
     },
     "ECON 107-005": {
-      "instructor": "Ebru Güven",
+      "instructor": "Bahar Onar",
       "quota": "60 Mand. 0 Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 53,
         "elective": 0
       },
       "schedule": [
@@ -187,28 +187,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-125",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-125",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-125",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-125(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

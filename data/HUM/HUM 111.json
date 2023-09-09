@@ -15,11 +15,11 @@
   "code": "HUM 111",
   "sections": {
     "HUM 111-001": {
-      "instructor": "Scott Allen Kennedy",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Mustafa Nakeeb",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -27,39 +27,39 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-134(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-001"
     },
     "HUM 111-002": {
-      "instructor": "Angelina Del Balzo",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Paul Elliot Kimball",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -67,39 +67,39 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-206(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-002"
     },
     "HUM 111-003": {
-      "instructor": "Scott Allen Kennedy",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Angelina Del Balzo",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 25,
         "elective": 0
       },
       "schedule": [
@@ -107,39 +107,39 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-228",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-228",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-228",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-228(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-003"
     },
     "HUM 111-004": {
-      "instructor": "Angelina Del Balzo",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Nathan Paul Leidholm",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 6,
+        "mandatory": 24,
         "elective": 0
       },
       "schedule": [
@@ -147,119 +147,119 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-231(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-004"
     },
     "HUM 111-005": {
-      "instructor": "Angelina Del Balzo",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Paul Elliot Kimball",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 26,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-134",
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-134(S)",
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-134",
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-134",
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-005"
     },
     "HUM 111-006": {
-      "instructor": "Scott Allen Kennedy",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Nathan Paul Leidholm",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 27,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-206(S)",
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-206",
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-206",
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-206",
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-006"
     },
     "HUM 111-007": {
-      "instructor": "Nathan Paul Leidholm",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Angelina Del Balzo",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
@@ -267,39 +267,39 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-136(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-136",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-136",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-136",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-007"
     },
     "HUM 111-008": {
-      "instructor": "William Norman Coker",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Kory Spencer Sorrell",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 28,
         "elective": 0
       },
       "schedule": [
@@ -307,39 +307,39 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-135(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-135",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-135",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-135",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-008"
     },
     "HUM 111-009": {
-      "instructor": "William Norman Coker",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Buffy Ann Turner",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 20,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
@@ -347,39 +347,39 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-134(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-009"
     },
     "HUM 111-010": {
-      "instructor": "Nathan Paul Leidholm",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Kory Spencer Sorrell",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 21,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
@@ -387,39 +387,39 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-206(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-010"
     },
     "HUM 111-011": {
-      "instructor": "Nathan Paul Leidholm",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Matthew Thomas Stoltz",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 6,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [
@@ -427,39 +427,39 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-134(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-134",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-011"
     },
     "HUM 111-012": {
-      "instructor": "William Norman Coker",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Rachel Bruzzone",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 6,
+        "mandatory": 24,
         "elective": 0
       },
       "schedule": [
@@ -467,39 +467,39 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-228(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-228",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-228",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-228",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-012"
     },
     "HUM 111-013": {
-      "instructor": "Buffy Ann Turner",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Mustafa Nakeeb",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
@@ -507,39 +507,39 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-206",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-206(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-013"
     },
     "HUM 111-014": {
-      "instructor": "Dragan Ilic",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Paul Elliot Kimball",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
@@ -547,39 +547,39 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-135(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-135",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-135",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-135",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-014"
     },
     "HUM 111-015": {
-      "instructor": "Buffy Ann Turner",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Paul Elliot Kimball",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 21,
         "elective": 0
       },
       "schedule": [
@@ -587,39 +587,39 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-207(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-207",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-207",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-207",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-015"
     },
     "HUM 111-016": {
-      "instructor": "Dragan Ilic",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Mustafa Nakeeb",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 21,
         "elective": 0
       },
       "schedule": [
@@ -627,39 +627,39 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-229(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-016"
     },
     "HUM 111-017": {
-      "instructor": "Buffy Ann Turner",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Rachel Bruzzone",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -667,39 +667,39 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-227(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-227",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-227",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-227",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-017"
     },
     "HUM 111-018": {
-      "instructor": "Dragan Ilic",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Kory Spencer Sorrell",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -707,28 +707,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-134(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-134",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -736,50 +736,50 @@
     },
     "HUM 111-019": {
       "instructor": "Mustafa Nakeeb",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-136(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-136",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-136",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-136",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-019"
     },
     "HUM 111-020": {
-      "instructor": "Aslı Menevşe",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Buffy Ann Turner",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -787,39 +787,39 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-135(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-135",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-135",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-135",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-020"
     },
     "HUM 111-021": {
-      "instructor": "Aslı Menevşe",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Scott Allen Kennedy",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -827,39 +827,39 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-135",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-135(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-135",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-135",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-021"
     },
     "HUM 111-022": {
-      "instructor": "Mustafa Nakeeb",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Aslı Menevşe",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -867,832 +867,752 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-136(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-136",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-136",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-136",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-022"
     },
     "HUM 111-023": {
-      "instructor": "Paul Elliot Kimball",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Thomas Wayne Howard",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-131(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-131",
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-131",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-131",
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-023"
     },
     "HUM 111-024": {
-      "instructor": "Paul Elliot Kimball",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Buffy Ann Turner",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-131(S)",
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-131",
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-131",
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-131",
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-024"
     },
     "HUM 111-025": {
-      "instructor": "Paul Elliot Kimball",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Thomas Wayne Howard",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-131",
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-131",
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-131",
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-131(S)",
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-025"
     },
     "HUM 111-026": {
-      "instructor": "Paul Elliot Kimball",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Costantino Costantini",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 6,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-153",
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-153",
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-153",
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-153(S)",
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-026"
     },
     "HUM 111-027": {
-      "instructor": "Luuk Otmar De Boer",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
-      "enrollment": {
-        "mandatory": 16,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-131(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-131",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-131",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-131",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 111-027"
-    },
-    "HUM 111-028": {
-      "instructor": "Luuk Otmar De Boer",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
-      "enrollment": {
-        "mandatory": 7,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-131(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-131",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-131",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-131",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 111-028"
-    },
-    "HUM 111-029": {
-      "instructor": "Foster Pease Chamberlin",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
-      "enrollment": {
-        "mandatory": 8,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-131(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-131",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-131",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-131",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 111-029"
-    },
-    "HUM 111-030": {
-      "instructor": "Foster Pease Chamberlin",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
-      "enrollment": {
-        "mandatory": 7,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-152(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 111-030"
-    },
-    "HUM 111-031": {
-      "instructor": "Marjan Mohammadi",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Buffy Ann Turner",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 21,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-136(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-027"
+    },
+    "HUM 111-028": {
+      "instructor": "Angelina Del Balzo",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 21,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-028"
+    },
+    "HUM 111-029": {
+      "instructor": "Costantino Costantini",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 22,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-029"
+    },
+    "HUM 111-030": {
+      "instructor": "Costantino Costantini",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 18,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-136",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-136",
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-030"
+    },
+    "HUM 111-031": {
+      "instructor": "Kory Spencer Sorrell",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 18,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-136",
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-031"
     },
     "HUM 111-032": {
-      "instructor": "Staff",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
-      "enrollment": {
-        "mandatory": 16,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-152(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 111-032"
-    },
-    "HUM 111-033": {
-      "instructor": "Staff",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
-      "enrollment": {
-        "mandatory": 8,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-152(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 111-033"
-    },
-    "HUM 111-034": {
       "instructor": "Matthew Thomas Stoltz",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
-      "enrollment": {
-        "mandatory": 14,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-152(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 111-034"
-    },
-    "HUM 111-035": {
-      "instructor": "Matthew Thomas Stoltz",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
-      "enrollment": {
-        "mandatory": 9,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-152(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-152",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 111-035"
-    },
-    "HUM 111-036": {
-      "instructor": "Matthew Thomas Stoltz",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
-      "enrollment": {
-        "mandatory": 6,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-154",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-154",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-154",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-154(S)",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 111-036"
-    },
-    "HUM 111-037": {
-      "instructor": "Costantino Costantini",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 15,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-153(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-032"
+    },
+    "HUM 111-033": {
+      "instructor": "Matthew Thomas Stoltz",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 21,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-153",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-153",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-033"
+    },
+    "HUM 111-034": {
+      "instructor": "Aurelia Cojocaru",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 17,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-034"
+    },
+    "HUM 111-035": {
+      "instructor": "Aurelia Cojocaru",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 18,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-153",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-035"
+    },
+    "HUM 111-036": {
+      "instructor": "Aslı Menevşe",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 10,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 111-036"
+    },
+    "HUM 111-037": {
+      "instructor": "Scott Allen Kennedy",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 12,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-037"
     },
     "HUM 111-038": {
-      "instructor": "Costantino Costantini",
+      "instructor": "Dragan Ilic",
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 27,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-152(S)",
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-152",
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-152",
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-152",
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-038"
     },
     "HUM 111-039": {
-      "instructor": "Andrew Jonathan Ploeg",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "Dragan Ilic",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-153(S)",
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-153",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-153",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-153",
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-039"
     },
     "HUM 111-040": {
-      "instructor": "Andrew Jonathan Ploeg",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
+      "instructor": "William Norman Coker",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 24,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-153(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-153",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-153",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-153",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 111-040"
-    },
-    "HUM 111-041": {
-      "instructor": "Andrew Jonathan Ploeg",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
-      "enrollment": {
-        "mandatory": 8,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-153(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-153",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-153",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-153",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 111-041"
-    },
-    "HUM 111-042": {
-      "instructor": "Marjan Mohammadi",
-      "quota": "31 Mand. or Elect.",
-      "total_quota": 31,
-      "enrollment": {
-        "mandatory": 7,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-107(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-107",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-107",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-107",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 111-042"
     }
   }
 }

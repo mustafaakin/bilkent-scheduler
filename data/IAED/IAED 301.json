@@ -16,8 +16,8 @@
   "sections": {
     "IAED 301-001": {
       "instructor": "Elif Erdemir Türkkan",
-      "quota": "17 Mand. or Elect.",
-      "total_quota": 17,
+      "quota": "16 Mand. or Elect.",
+      "total_quota": 16,
       "enrollment": {
         "mandatory": 16,
         "elective": 0
@@ -98,8 +98,8 @@
     },
     "IAED 301-002": {
       "instructor": "Sibel Ertez Ural",
-      "quota": "17 Mand. or Elect.",
-      "total_quota": 17,
+      "quota": "16 Mand. or Elect.",
+      "total_quota": 16,
       "enrollment": {
         "mandatory": 16,
         "elective": 0
@@ -109,81 +109,81 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-106(S)",
+          "place": "FF-109(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-106",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-106",
+          "place": "FF-109",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-106",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-106",
+          "place": "FF-109",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-106",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-106",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-106",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FF-106",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FF-106(S)",
+          "place": "FF-109(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IAED 301-002"
     },
     "IAED 301-003": {
-      "instructor": "Yunus Altay",
-      "quota": "17 Mand. or Elect.",
-      "total_quota": 17,
+      "instructor": "Staff",
+      "quota": "16 Mand. or Elect.",
+      "total_quota": 16,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
@@ -191,81 +191,81 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-105(S)",
+          "place": "FF-109(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-105",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-105",
+          "place": "FF-109",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-105",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-105",
+          "place": "FF-109",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-105",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-105",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-105",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FF-105",
+          "place": "FF-109",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FF-105(S)",
+          "place": "FF-109(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "IAED 301-003"
     },
     "IAED 301-004": {
-      "instructor": "Andre Naghi Lopes Dos Santos Nouri",
-      "quota": "17 Mand. or Elect.",
-      "total_quota": 17,
+      "instructor": "Staff",
+      "quota": "16 Mand. or Elect.",
+      "total_quota": 16,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
@@ -344,10 +344,10 @@
     },
     "IAED 301-005": {
       "instructor": "Alper Küçük",
-      "quota": "17 Mand. or Elect.",
-      "total_quota": 17,
+      "quota": "16 Mand. or Elect.",
+      "total_quota": 16,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
@@ -423,6 +423,170 @@
         }
       ],
       "name": "IAED 301-005"
+    },
+    "IAED 301-006": {
+      "instructor": "Nuri Cihan Kayaçetin",
+      "quota": "16 Mand. or Elect.",
+      "total_quota": 16,
+      "enrollment": {
+        "mandatory": 15,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-106(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-106",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-106(S)",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "IAED 301-006"
+    },
+    "IAED 301-007": {
+      "instructor": "Staff",
+      "quota": "16 Mand. or Elect.",
+      "total_quota": 16,
+      "enrollment": {
+        "mandatory": 15,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-105(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-105",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-105(S)",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "IAED 301-007"
     }
   }
 }

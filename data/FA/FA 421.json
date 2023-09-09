@@ -16,10 +16,10 @@
   "sections": {
     "FA 421-001": {
       "instructor": "Yasemin Gümüş Ağca",
-      "quota": "45 Mand. 0 Elect.",
-      "total_quota": 45,
+      "quota": "30 Mand. 0 Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 34,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [

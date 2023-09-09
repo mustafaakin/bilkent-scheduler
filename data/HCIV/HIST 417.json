@@ -15,7 +15,7 @@
   "code": "HIST 417",
   "sections": {
     "HIST 417-001": {
-      "instructor": "Paul Latimer",
+      "instructor": "David E. Thornton",
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
@@ -24,31 +24,31 @@
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-Z03(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

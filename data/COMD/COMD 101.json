@@ -16,10 +16,10 @@
   "sections": {
     "COMD 101-001": {
       "instructor": "Jülide Akşiyote Görür",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -98,10 +98,10 @@
     },
     "COMD 101-002": {
       "instructor": "Jülide Akşiyote Görür",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
@@ -162,14 +162,14 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "FF-Z17",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "FF-Z17",
@@ -179,11 +179,11 @@
       "name": "COMD 101-002"
     },
     "COMD 101-003": {
-      "instructor": "Maria Helena Brzozowska",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
+      "instructor": "Egemen Kırkağaç",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
@@ -261,11 +261,11 @@
       "name": "COMD 101-003"
     },
     "COMD 101-004": {
-      "instructor": "Maria Helena Brzozowska",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
+      "instructor": "Staff",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
@@ -326,14 +326,14 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "FB-114",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "FB-114",

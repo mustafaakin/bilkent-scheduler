@@ -15,37 +15,37 @@
   "code": "CTIS 363",
   "sections": {
     "CTIS 363-001": {
-      "instructor": "Reyyan Ayfer",
-      "quota": "23 Mand. 0 Elect.",
-      "total_quota": 23,
+      "instructor": "Duygu Albayrak",
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 22,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "CD-B01(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "CD-B01",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "CD-B01",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "CD-B01",

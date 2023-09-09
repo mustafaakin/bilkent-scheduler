@@ -16,8 +16,8 @@
   "sections": {
     "CS 549-001": {
       "instructor": "Özgür Salih Öğüz",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "10 Mand. or Elect.",
+      "total_quota": 10,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,30 +25,30 @@
       "schedule": [
         {
           "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "EB-101(S)",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "EB-101",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EB-101",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EB-101",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

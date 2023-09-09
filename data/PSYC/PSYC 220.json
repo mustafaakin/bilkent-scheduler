@@ -15,40 +15,40 @@
   "code": "PSYC 220",
   "sections": {
     "PSYC 220-001": {
-      "instructor": "Timothea Toulopoulou",
-      "quota": "50 Mand. 15 Elect.",
+      "instructor": "Ausaf Ahmed Farooqui",
+      "quota": "60 Mand. 5 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "T-173(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "T-173",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "T-173",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "T-173",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

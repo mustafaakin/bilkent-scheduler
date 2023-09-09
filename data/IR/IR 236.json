@@ -16,39 +16,39 @@
   "sections": {
     "IR 236-001": {
       "instructor": "Samuel John Hirst",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "A-Z27(S)",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-Z27",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "A-Z27",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "A-Z27",
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

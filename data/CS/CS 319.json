@@ -16,10 +16,10 @@
   "sections": {
     "CS 319-001": {
       "instructor": "Eray Tüzün",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 51,
         "elective": 0
       },
       "schedule": [
@@ -27,39 +27,39 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-204(S)",
+          "place": "EE-412(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-204",
+          "place": "EE-412",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-204",
+          "place": "EE-412",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-204",
+          "place": "EE-412",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 319-001"
     },
     "CS 319-002": {
-      "instructor": "Eray Tüzün",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Anıl Koyuncu",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 25,
+        "mandatory": 51,
         "elective": 0
       },
       "schedule": [
@@ -67,39 +67,39 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-204(S)",
+          "place": "EE-412(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-204",
+          "place": "EE-412",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-204",
+          "place": "EE-412",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-204",
+          "place": "EE-412",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 319-002"
     },
     "CS 319-003": {
-      "instructor": "Eray Tüzün",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Anıl Koyuncu",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 34,
+        "mandatory": 52,
         "elective": 0
       },
       "schedule": [
@@ -107,28 +107,28 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-204(S)",
+          "place": "EE-412(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-204",
+          "place": "EE-412",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-204",
+          "place": "EE-412",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-204",
+          "place": "EE-412",
           "class": "Face-to-Face Lecture"
         }
       ],
