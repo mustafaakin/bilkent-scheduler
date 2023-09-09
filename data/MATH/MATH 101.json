@@ -15,11 +15,11 @@
   "code": "MATH 101",
   "sections": {
     "MATH 101-001": {
-      "instructor": "Ali Süleyman Üstünel",
+      "instructor": "Hakkı Turgay Kaptanoğlu",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 65,
         "elective": 0
       },
       "schedule": [
@@ -27,39 +27,39 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 101-001"
     },
     "MATH 101-002": {
-      "instructor": "Mehmet Okan Tekman",
+      "instructor": "Cihan Okay",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 60,
         "elective": 0
       },
       "schedule": [
@@ -67,39 +67,39 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 101-002"
     },
     "MATH 101-003": {
-      "instructor": "Mehmet Okan Tekman",
+      "instructor": "Cihan Okay",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 65,
         "elective": 0
       },
       "schedule": [
@@ -107,39 +107,39 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 101-003"
     },
     "MATH 101-004": {
-      "instructor": "Deniz Yılmaz",
+      "instructor": "Ali Sinan Sertöz",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 46,
         "elective": 0
       },
       "schedule": [
@@ -147,39 +147,39 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 101-004"
     },
     "MATH 101-005": {
-      "instructor": "Mehmet Okan Tekman",
+      "instructor": "Ali Sinan Sertöz",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 24,
+        "mandatory": 56,
         "elective": 0
       },
       "schedule": [
@@ -187,39 +187,39 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 101-005"
     },
     "MATH 101-006": {
-      "instructor": "Çisil Karagüzel",
+      "instructor": "Mehmet Okan Tekman",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 65,
         "elective": 0
       },
       "schedule": [
@@ -227,39 +227,39 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 101-006"
     },
     "MATH 101-007": {
-      "instructor": "Naci Saldı",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "instructor": "Mehmet Okan Tekman",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 63,
         "elective": 0
       },
       "schedule": [
@@ -267,39 +267,39 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FC-Z23B",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FC-Z23B",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FC-Z23B",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FC-Z23B",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 101-007"
     },
     "MATH 101-008": {
-      "instructor": "Ali Sinan Sertöz",
+      "instructor": "Mehmet Okan Tekman",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 48,
         "elective": 0
       },
       "schedule": [
@@ -307,28 +307,28 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -339,7 +339,7 @@
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 6,
+        "mandatory": 60,
         "elective": 0
       },
       "schedule": [
@@ -347,39 +347,39 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 101-009"
     },
     "MATH 101-010": {
-      "instructor": "Hakkı Turgay Kaptanoğlu",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "instructor": "Çisil Karagüzel",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 46,
         "elective": 0
       },
       "schedule": [
@@ -387,39 +387,39 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FC-Z23D",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FC-Z23D",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FC-Z23D",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FC-Z23D",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 101-010"
     },
     "MATH 101-011": {
-      "instructor": "Redi Haderi",
+      "instructor": "Staff",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 42,
         "elective": 0
       },
       "schedule": [
@@ -427,119 +427,119 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 101-011"
     },
     "MATH 101-012": {
-      "instructor": "Ali Sinan Sertöz",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Staff",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 48,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "SA-Z18",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "SA-Z18",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "SA-Z18",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "SA-Z18",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 101-012"
     },
     "MATH 101-013": {
-      "instructor": "Hakkı Turgay Kaptanoğlu",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Staff",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 12,
+        "mandatory": 57,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "SA-Z18",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "SA-Z18",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "SA-Z18",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "SA-Z18",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 101-013"
     },
     "MATH 101-014": {
-      "instructor": "Deniz Yılmaz",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Staff",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 40,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -547,28 +547,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "SA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "SA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "SA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "SA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

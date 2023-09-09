@@ -16,8 +16,8 @@
   "sections": {
     "ECON 458-001": {
       "instructor": "Çağla Ökten",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-104(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MA-104",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

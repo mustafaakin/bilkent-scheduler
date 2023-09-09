@@ -16,10 +16,10 @@
   "sections": {
     "MATH 241-001": {
       "instructor": "Nil Şahin",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 46,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,10 +56,10 @@
     },
     "MATH 241-002": {
       "instructor": "Orhan Arıkan",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 47,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,10 +96,10 @@
     },
     "MATH 241-003": {
       "instructor": "Nil Şahin",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 46,
         "elective": 0
       },
       "schedule": [
@@ -107,28 +107,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

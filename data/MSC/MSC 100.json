@@ -1,0 +1,17 @@
+{
+  "name": "Freshman Concert",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": null
+  },
+  "code": "MSC 100",
+  "sections": {}
+}

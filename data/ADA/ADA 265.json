@@ -24,31 +24,31 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FC-Z23C(S)",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-201(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FC-Z23C",
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-201",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FC-Z23C",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-201",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FC-Z23C",
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-201",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -65,37 +65,37 @@
       "schedule": [
         {
           "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FC-Z23D(S)",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-201(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FC-Z23D",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-201",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FC-Z23D",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-201",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FC-Z23D",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-201",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ADA 265-002"
     },
     "ADA 265-003": {
-      "instructor": "Giorgio Gasco",
+      "instructor": "Staff",
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
@@ -104,31 +104,31 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FB-310(S)",
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-201(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FB-310",
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-201",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FB-310",
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-201",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FB-310",
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-201",
           "class": "Face-to-Face Lecture"
         }
       ],

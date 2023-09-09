@@ -15,11 +15,51 @@
   "code": "AMER 303",
   "sections": {
     "AMER 303-001": {
-      "instructor": "Can Kutay",
-      "quota": "20 Mand. 3 Elect.",
-      "total_quota": 23,
+      "instructor": "Staff",
+      "quota": "20 Mand. 5 Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 20,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "AMER 303-001"
+    },
+    "AMER 303-002": {
+      "instructor": "Staff",
+      "quota": "20 Mand. 5 Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -27,68 +67,28 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-110(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-110",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-110",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-110",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "AMER 303-001"
-    },
-    "AMER 303-002": {
-      "instructor": "Can Kutay",
-      "quota": "20 Mand. 3 Elect.",
-      "total_quota": 23,
-      "enrollment": {
-        "mandatory": 18,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-110(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-110",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-110",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-110",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

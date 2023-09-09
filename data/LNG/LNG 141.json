@@ -15,7 +15,7 @@
   "code": "LNG 141",
   "sections": {
     "LNG 141-001": {
-      "instructor": "Arzu Bezgin",
+      "instructor": "Ayşe Candoğan",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -24,38 +24,38 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z36",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-Z36",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-Z36",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-Z36",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LNG 141-001"
     },
     "LNG 141-002": {
-      "instructor": "Arzu Bezgin",
+      "instructor": "Ayşe Candoğan",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -65,37 +65,37 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-Z36",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-Z36",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-Z36",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-Z36",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LNG 141-002"
     },
     "LNG 141-003": {
-      "instructor": "Arzu Bezgin",
+      "instructor": "Ayşe Candoğan",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -107,28 +107,28 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z36",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-Z36",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-Z36",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-Z36",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -144,155 +144,35 @@
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-Z36",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-Z36",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-Z36",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-Z36",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "LNG 141-004"
-    },
-    "LNG 141-005": {
-      "instructor": "Ayşe Candoğan",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-Z35",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-Z35",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-Z35",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-Z35",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "LNG 141-005"
-    },
-    "LNG 141-006": {
-      "instructor": "Ayşe Candoğan",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-Z35",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-Z35",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-Z35",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-Z35",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "LNG 141-006"
-    },
-    "LNG 141-007": {
-      "instructor": "Ayşe Candoğan",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-Z36",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-Z36",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-Z36",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-Z36",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "LNG 141-007"
+      "name": "LNG 141-004"
     }
   }
 }

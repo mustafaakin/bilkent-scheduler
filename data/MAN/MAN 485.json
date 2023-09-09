@@ -16,8 +16,8 @@
   "sections": {
     "MAN 485-001": {
       "instructor": "Zeynep Önder",
-      "quota": "0 Mand. 45 Elect.",
-      "total_quota": 45,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,30 +25,30 @@
       "schedule": [
         {
           "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "MA-202(S)",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "MA-202",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "MA-202",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "MA-202",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

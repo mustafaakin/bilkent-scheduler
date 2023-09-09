@@ -15,84 +15,44 @@
   "code": "CS 155",
   "sections": {
     "CS 155-001": {
-      "instructor": "Andreas Treske",
+      "instructor": "Staff",
       "quota": "40 Mand. or Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 34,
+        "mandatory": 26,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "FF-211(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "FF-211",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "FF-211",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "FF-211",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CS 155-001"
-    },
-    "CS 155-002": {
-      "instructor": "Andreas Treske",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
-      "enrollment": {
-        "mandatory": 34,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "CS 155-002"
     }
   }
 }

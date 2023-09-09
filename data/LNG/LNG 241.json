@@ -15,7 +15,7 @@
   "code": "LNG 241",
   "sections": {
     "LNG 241-001": {
-      "instructor": "Masumi Hiratsuka (Cakmakcı)",
+      "instructor": "Staff",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -27,35 +27,35 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z09",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-Z09",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-Z09",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-Z09",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LNG 241-001"
     },
     "LNG 241-002": {
-      "instructor": "Masumi Hiratsuka (Cakmakcı)",
+      "instructor": "Staff",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {

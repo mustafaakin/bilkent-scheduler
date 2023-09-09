@@ -15,11 +15,11 @@
   "code": "EEE 212",
   "sections": {
     "EEE 212-001": {
-      "instructor": "Nail Akar",
+      "instructor": "Volkan Kurşun",
       "quota": "45 Mand. or Elect.",
       "total_quota": 45,
       "enrollment": {
-        "mandatory": 29,
+        "mandatory": 35,
         "elective": 0
       },
       "schedule": [
@@ -27,56 +27,56 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EB-203(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EB-203",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EB-203",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-LAB103",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EB-203",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-LAB103",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-LAB103",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-LAB103",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -87,7 +87,7 @@
       "quota": "45 Mand. or Elect.",
       "total_quota": 45,
       "enrollment": {
-        "mandatory": 29,
+        "mandatory": 35,
         "elective": 0
       },
       "schedule": [
@@ -95,56 +95,56 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-214(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-LAB103",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-LAB103",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-LAB103",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-LAB103",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

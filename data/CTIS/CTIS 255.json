@@ -16,38 +16,38 @@
   "sections": {
     "CTIS 255-001": {
       "instructor": "Serkan Genç",
-      "quota": "26 Mand. 0 Elect.",
-      "total_quota": 26,
+      "quota": "23 Mand. 2 Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 21,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
           "place": "C-CTISL7(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
           "place": "C-CTISL7",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "C-CTISL2",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "C-CTISL2",
           "class": "Face-to-Face Lecture"
         }
@@ -56,39 +56,39 @@
     },
     "CTIS 255-002": {
       "instructor": "Serkan Genç",
-      "quota": "24 Mand. 0 Elect.",
-      "total_quota": 24,
+      "quota": "23 Mand. 2 Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 19,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "C-CTISL4(S)",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "C-CTISL7(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "C-CTISL4",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-CTISL7",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "C-CTISL4",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-CTISL7",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "C-CTISL4",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-CTISL7",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,39 +96,39 @@
     },
     "CTIS 255-003": {
       "instructor": "Serkan Genç",
-      "quota": "26 Mand. 0 Elect.",
-      "total_quota": 26,
+      "quota": "23 Mand. 2 Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 20,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "C-CTISL7(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
           "place": "C-CTISL7",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "C-CTISL2",
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "C-CTISL7",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "C-CTISL2",
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-CTISL7",
           "class": "Face-to-Face Lecture"
         }
       ],

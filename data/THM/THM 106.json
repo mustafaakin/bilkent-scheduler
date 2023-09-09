@@ -16,39 +16,39 @@
   "sections": {
     "THM 106-001": {
       "instructor": "Esin Şenol",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
       "enrollment": {
-        "mandatory": 5,
+        "mandatory": 32,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "RB-201(S)",
+          "place": "RB-202(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "RB-201",
+          "place": "RB-202",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "RB-201",
+          "place": "RB-202",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "RB-201",
+          "place": "RB-202",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -15,80 +15,80 @@
   "code": "PSYC 101",
   "sections": {
     "PSYC 101-001": {
-      "instructor": "Burcu Ayşen Ürgen",
+      "instructor": "Michelle Marie Adams",
       "quota": "50 Mand. 0 Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 33,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-Z06(S)",
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-Z06",
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "B-Z06",
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "B-Z06",
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PSYC 101-001"
     },
     "PSYC 101-002": {
-      "instructor": "Kaan Kerman",
+      "instructor": "Michelle Marie Adams",
       "quota": "50 Mand. 0 Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 33,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-112(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

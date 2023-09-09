@@ -24,75 +24,35 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z55",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-Z55",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-Z55",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-Z55",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LNG 162-001"
-    },
-    "LNG 162-002": {
-      "instructor": "Gülnara Tanrıkulu",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-Z55",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-Z55",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-Z55",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-Z55",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "LNG 162-002"
     }
   }
 }

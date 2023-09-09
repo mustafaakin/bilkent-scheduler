@@ -15,80 +15,80 @@
   "code": "ELIT 421",
   "sections": {
     "ELIT 421-001": {
-      "instructor": "Ceylan Bevington",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Atti Viragh",
+      "quota": "22 Mand. or Elect.",
+      "total_quota": 22,
       "enrollment": {
-        "mandatory": 20,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "H-333(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "H-333",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "H-333",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "H-333",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ELIT 421-001"
     },
     "ELIT 421-002": {
-      "instructor": "Ceylan Bevington",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Atti Viragh",
+      "quota": "22 Mand. or Elect.",
+      "total_quota": 22,
       "enrollment": {
-        "mandatory": 20,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "H-336(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-336",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "H-336",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "H-336",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "name": "Tax Law",
+  "name": "Tax Law (in Turkish)",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -15,40 +15,40 @@
   "code": "LAW 407",
   "sections": {
     "LAW 407-001": {
-      "instructor": "Mustafa Akkaya",
-      "quota": "90 Mand. or Elect.",
-      "total_quota": 90,
+      "instructor": "Staff",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 41,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "V-01(S)",
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "V-01",
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "V-01",
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "V-01",
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

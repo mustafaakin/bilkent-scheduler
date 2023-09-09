@@ -15,11 +15,11 @@
   "code": "MATH 220",
   "sections": {
     "MATH 220-001": {
-      "instructor": "Bülent Ünal",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Laurence John Barker",
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 39,
         "elective": 0
       },
       "schedule": [
@@ -27,39 +27,39 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-204(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 220-001"
     },
     "MATH 220-002": {
-      "instructor": "Müfit Sezer",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Alexander Degtyarev",
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 28,
+        "mandatory": 36,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z04(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

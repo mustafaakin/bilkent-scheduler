@@ -16,39 +16,39 @@
   "sections": {
     "MSN 517-001": {
       "instructor": "Seymur Jahangirov",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "SU-01(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "SU-01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "SU-01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "SU-01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

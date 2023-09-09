@@ -16,107 +16,114 @@
   "sections": {
     "CTIS 221-001": {
       "instructor": "Burcu Liman",
-      "quota": "24 Mand. 0 Elect.",
-      "total_quota": 24,
+      "quota": "19 Mand. 0 Elect.",
+      "total_quota": 19,
       "enrollment": {
-        "mandatory": 17,
+        "mandatory": 11,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "CE-106(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "C-CTISL2",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "CE-106",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "C-CTISL2",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "C-CTISL2",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "CE-106",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "C-CTISL2",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "CE-106",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "CTIS 221-001"
-    },
-    "CTIS 221-002": {
-      "instructor": "Burcu Liman",
-      "quota": "24 Mand. 0 Elect.",
-      "total_quota": 24,
-      "enrollment": {
-        "mandatory": 16,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "C-CTISL2",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "C-CTISL2",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "C-216(S)",
+          "place": "CE-106",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-CTISL4",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "C-216",
+          "place": "CE-106(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "C-CTISL4",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-CTISL4",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CTIS 221-001"
+    },
+    "CTIS 221-002": {
+      "instructor": "Nimet Ceren Serim",
+      "quota": "19 Mand. 0 Elect.",
+      "total_quota": 19,
+      "enrollment": {
+        "mandatory": 11,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-CTISL2",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "CE-106(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -127,40 +134,40 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
           "place": "C-CTISL2",
           "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "C-216",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "C-216",
-          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CTIS 221-002"
     },
     "CTIS 221-003": {
       "instructor": "Burcu Liman",
-      "quota": "24 Mand. 0 Elect.",
-      "total_quota": 24,
+      "quota": "19 Mand. 0 Elect.",
+      "total_quota": 19,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 11,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CD-B01(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
           "place": "C-CTISL4",
@@ -170,25 +177,25 @@
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
+          "place": "CD-B01",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
           "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "CE-106(S)",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "CD-B01",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "CE-106",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
           "place": "C-CTISL4",
@@ -198,22 +205,15 @@
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
+          "place": "CD-B01",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "CE-106",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "CE-106",
-          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CTIS 221-003"
@@ -228,74 +228,6 @@
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "CE-106(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "C-CTISL4",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "CE-106",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "C-CTISL4",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "CE-106",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "C-CTISL4",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "CE-106",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "C-CTISL4",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "CTIS 221-004"
-    },
-    "CTIS 221-005": {
-      "instructor": "Burcu Liman",
-      "quota": "7 Mand. 0 Elect.",
-      "total_quota": 7,
-      "enrollment": {
-        "mandatory": 7,
-        "elective": 0
-      },
-      "schedule": [
-        {
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
@@ -313,14 +245,14 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "C-216(S)",
+          "place": "CE-106",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "C-216",
+          "place": "CE-106(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -341,25 +273,93 @@
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "C-216",
+          "place": "CE-106",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "C-216",
+          "place": "CE-106",
           "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 221-004"
+    },
+    "CTIS 221-005": {
+      "instructor": "Nimet Ceren Serim",
+      "quota": "6 Mand. 0 Elect.",
+      "total_quota": 6,
+      "enrollment": {
+        "mandatory": 6,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "C-CTISL4",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-CTISL4",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "CE-106(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-CTISL4",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "CE-106",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-CTISL4",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CTIS 221-005"
     },
     "CTIS 221-006": {
       "instructor": "Burcu Liman",
-      "quota": "9 Mand. 0 Elect.",
-      "total_quota": 9,
+      "quota": "6 Mand. 0 Elect.",
+      "total_quota": 6,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 6,
         "elective": 0
       },
       "schedule": [
@@ -371,6 +371,13 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "CD-B01(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
@@ -378,17 +385,17 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "CE-106(S)",
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "CD-B01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "CE-106",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "CD-B01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -399,25 +406,18 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "CD-B01",
+          "class": "Face-to-Face Lecture"
+        },
+        {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
           "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "CE-106",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "CE-106",
-          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CTIS 221-006"

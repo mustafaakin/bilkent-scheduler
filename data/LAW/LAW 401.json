@@ -1,5 +1,5 @@
 {
-  "name": "Law of Negotiable Instruments",
+  "name": "Law of Negotiable Instruments (in Turkish)",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -15,40 +15,40 @@
   "code": "LAW 401",
   "sections": {
     "LAW 401-001": {
-      "instructor": "Mehmet Çağlar Manavgat",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "instructor": "Hamdi Pınar",
+      "quota": "74 Mand. or Elect.",
+      "total_quota": 74,
       "enrollment": {
-        "mandatory": 65,
+        "mandatory": 33,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-203(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-203",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-203",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-203",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,39 +56,39 @@
     },
     "LAW 401-002": {
       "instructor": "Aslı Elif Gürbüz Usluel",
-      "quota": "100 Mand. or Elect.",
-      "total_quota": 100,
+      "quota": "74 Mand. or Elect.",
+      "total_quota": 74,
       "enrollment": {
-        "mandatory": 69,
+        "mandatory": 34,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "V-03(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "V-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "V-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "V-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

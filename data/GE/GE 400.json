@@ -19,7 +19,7 @@
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 13,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
@@ -27,53 +27,53 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "T-272",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "T-272",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-Z03",
+          "place": "",
           "class": "Recitation"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "T-272",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-Z03",
+          "place": "",
           "class": "Recitation"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "T-272",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "GE 400-001"
     },
     "GE 400-002": {
-      "instructor": "Andrew William Hassell  Burcu Sarı Karademir",
+      "instructor": "Tudor A. Onea  Jacob Neal Minniear",
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 12,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
@@ -81,53 +81,53 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "T-169",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "T-169",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-Z04",
+          "place": "",
           "class": "Recitation"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "T-169",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-Z04",
+          "place": "",
           "class": "Recitation"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "T-169",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "GE 400-002"
     },
     "GE 400-003": {
-      "instructor": "Ersin Soylu  Mustafa Eray Yücel",
+      "instructor": "Türkan Mine Kara  Jacob Neal Minniear",
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 13,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
@@ -135,53 +135,53 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-331",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-331",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-331",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-Z04",
+          "place": "",
           "class": "Recitation"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-331",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-Z04",
+          "place": "",
           "class": "Recitation"
         }
       ],
       "name": "GE 400-003"
     },
     "GE 400-004": {
-      "instructor": "Pınar Esma Önkol",
+      "instructor": "Ersin Soylu",
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 12,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
@@ -189,53 +189,53 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-230",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-230",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-230",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-Z05",
+          "place": "",
           "class": "Recitation"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-230",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-Z05",
+          "place": "",
           "class": "Recitation"
         }
       ],
       "name": "GE 400-004"
     },
     "GE 400-005": {
-      "instructor": "Dimitrios Akrivoulis  Jacob Neal Minniear",
+      "instructor": "Ersin Soylu  Neslihan Dikmen Alsancak",
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 13,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
@@ -243,96 +243,96 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "MA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MA-Z03",
+          "place": "",
           "class": "Recitation"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-Z03",
+          "place": "",
           "class": "Recitation"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "GE 400-005"
     },
     "GE 400-006": {
-      "instructor": "Türkan Mine Kara  Pınar Esma Önkol",
+      "instructor": "Türkan Mine Kara  Jacob Neal Minniear",
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 12,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "MA-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "MA-Z04",
-          "class": "Recitation"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "MA-Z04",
-          "class": "Recitation"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-Z04",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-Z04",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -24,68 +24,28 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-255",
+          "place": "G-252",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "17:30",
           "end": "18:20",
-          "place": "G-255",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "18:30",
           "end": "19:20",
-          "place": "G-255",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CI 507-001"
-    },
-    "CI 507-002": {
-      "instructor": "İlker Kalender",
-      "quota": "7 Mand. or Elect.",
-      "total_quota": 7,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-255(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-255",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-255",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-255",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "CI 507-002"
     }
   }
 }

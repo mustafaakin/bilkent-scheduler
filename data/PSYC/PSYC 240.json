@@ -19,36 +19,36 @@
       "quota": "60 Mand. 5 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 11,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-111(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-111",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-111",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-111",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

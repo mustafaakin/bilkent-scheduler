@@ -15,166 +15,220 @@
   "code": "COMD 281",
   "sections": {
     "COMD 281-001": {
-      "instructor": "Funda Şenova Tunalı",
-      "quota": "19 Mand. 0 Elect.",
-      "total_quota": 19,
+      "instructor": "Ufuk Önen",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 17,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FB-319(S)",
+          "place": "FFB-008(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FB-319",
+          "place": "FFB-008",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FB-319",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FFB-008",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FB-319",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FB-319",
+          "place": "FC-Z11",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FB-319",
+          "place": "FC-Z11",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 281-001"
     },
     "COMD 281-002": {
-      "instructor": "Funda Şenova Tunalı",
-      "quota": "19 Mand. 0 Elect.",
-      "total_quota": 19,
+      "instructor": "Ufuk Önen",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
         {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FFB-008(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FB-319",
-          "class": "Face-to-Face Lab/Studio"
+          "place": "FC-Z13",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FB-319",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FB-319",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FB-319",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FB-319(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FB-319",
+          "place": "FC-Z13",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 281-002"
     },
     "COMD 281-003": {
-      "instructor": "Staff",
-      "quota": "19 Mand. 0 Elect.",
-      "total_quota": 19,
+      "instructor": "Andreas Treske",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
         {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FFB-008(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FB-114",
-          "class": "Face-to-Face Lab/Studio"
+          "place": "FC-Z11",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FB-114",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FB-114",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FB-114",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FB-114(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FB-114",
+          "place": "FC-Z11",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "COMD 281-003"
+    },
+    "COMD 281-004": {
+      "instructor": "Andreas Treske",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 17,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FFB-008(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FC-Z13",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FC-Z13",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "COMD 281-004"
     }
   }
 }

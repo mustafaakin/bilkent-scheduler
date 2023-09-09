@@ -24,31 +24,31 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "SA-Z04(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "SA-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "SA-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "SA-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

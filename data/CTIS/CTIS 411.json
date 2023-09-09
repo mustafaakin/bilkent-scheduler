@@ -16,36 +16,36 @@
   "sections": {
     "CTIS 411-001": {
       "instructor": "Oumout Chousein Oglou",
-      "quota": "28 Mand. 0 Elect.",
-      "total_quota": 28,
+      "quota": "36 Mand. 0 Elect.",
+      "total_quota": 36,
       "enrollment": {
         "mandatory": 15,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
           "place": "CE-104(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
           "place": "CE-104",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
           "place": "CE-104",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "CE-104",
@@ -56,39 +56,39 @@
     },
     "CTIS 411-002": {
       "instructor": "Oumout Chousein Oglou",
-      "quota": "28 Mand. 0 Elect.",
-      "total_quota": 28,
+      "quota": "36 Mand. 0 Elect.",
+      "total_quota": 36,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "C-216(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "C-216",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "CE-104",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "C-216",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "CE-104(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "C-216",
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "CE-104",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "CE-104",
           "class": "Face-to-Face Lecture"
         }
       ],

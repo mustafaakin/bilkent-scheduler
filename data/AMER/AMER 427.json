@@ -16,48 +16,8 @@
   "sections": {
     "AMER 427-001": {
       "instructor": "Craig Ireland",
-      "quota": "20 Mand. 3 Elect.",
-      "total_quota": 23,
-      "enrollment": {
-        "mandatory": 6,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-110(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-110",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-110",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-110",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "AMER 427-001"
-    },
-    "AMER 427-002": {
-      "instructor": "Craig Ireland",
-      "quota": "20 Mand. 3 Elect.",
-      "total_quota": 23,
+      "quota": "20 Mand. 5 Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 12,
         "elective": 0
@@ -67,28 +27,68 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-110(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-110",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-110",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-110",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "AMER 427-001"
+    },
+    "AMER 427-002": {
+      "instructor": "Craig Ireland",
+      "quota": "20 Mand. 5 Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 13,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

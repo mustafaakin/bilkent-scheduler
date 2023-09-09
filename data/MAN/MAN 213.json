@@ -16,10 +16,10 @@
   "sections": {
     "MAN 213-001": {
       "instructor": "Banu Sultanoğlu",
-      "quota": "57 Mand. 3 Elect.",
-      "total_quota": 60,
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 45,
+        "mandatory": 55,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,10 +56,10 @@
     },
     "MAN 213-002": {
       "instructor": "Banu Sultanoğlu",
-      "quota": "57 Mand. 3 Elect.",
-      "total_quota": 60,
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 35,
+        "mandatory": 31,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,10 +96,10 @@
     },
     "MAN 213-003": {
       "instructor": "Banu Sultanoğlu",
-      "quota": "57 Mand. 3 Elect.",
-      "total_quota": 60,
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 31,
+        "mandatory": 33,
         "elective": 0
       },
       "schedule": [
@@ -107,28 +107,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

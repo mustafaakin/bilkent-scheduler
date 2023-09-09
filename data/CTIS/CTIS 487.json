@@ -16,67 +16,81 @@
   "sections": {
     "CTIS 487-001": {
       "instructor": "Neşe Şahin Özçelik",
-      "quota": "17 Mand. 0 Elect.",
-      "total_quota": 17,
+      "quota": "23 Mand. 0 Elect.",
+      "total_quota": 23,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 10,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "C-CTISL8(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "C-CTISL8",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "C-CTISL8",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "C-CTISL8",
-          "class": "Face-to-Face Lecture"
-        },
-        {
           "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "C-CTISL8",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
           "place": "C-CTISL8",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "C-CTISL8",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
           "place": "C-CTISL8",
           "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "C-CTISL8",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CTIS 487-001"
     },
     "CTIS 487-002": {
       "instructor": "Neşe Şahin Özçelik",
-      "quota": "17 Mand. 0 Elect.",
-      "total_quota": 17,
+      "quota": "23 Mand. 0 Elect.",
+      "total_quota": 23,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "C-CTISL8",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-CTISL8",
+          "class": "Face-to-Face Lab/Studio"
+        },
         {
           "day": "Thursday",
           "start": "10:30",
@@ -90,20 +104,6 @@
           "end": "12:20",
           "place": "C-CTISL8",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "C-CTISL8",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "C-CTISL8",
-          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
@@ -124,10 +124,64 @@
     },
     "CTIS 487-003": {
       "instructor": "Neşe Şahin Özçelik",
-      "quota": "9 Mand. 0 Elect.",
-      "total_quota": 9,
+      "quota": "23 Mand. 0 Elect.",
+      "total_quota": 23,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 14,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "C-CTISL8(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-CTISL8",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-CTISL8",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-CTISL8",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-CTISL8",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-CTISL8",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 487-003"
+    },
+    "CTIS 487-004": {
+      "instructor": "Neşe Şahin Özçelik",
+      "quota": "23 Mand. 0 Elect.",
+      "total_quota": 23,
+      "enrollment": {
+        "mandatory": 13,
         "elective": 0
       },
       "schedule": [
@@ -170,60 +224,6 @@
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "C-CTISL8",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "CTIS 487-003"
-    },
-    "CTIS 487-004": {
-      "instructor": "Neşe Şahin Özçelik",
-      "quota": "8 Mand. 0 Elect.",
-      "total_quota": 8,
-      "enrollment": {
-        "mandatory": 4,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "C-CTISL8",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "C-CTISL8",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "C-CTISL8(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "C-CTISL8",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "C-CTISL8",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
           "place": "C-CTISL8",
           "class": "Face-to-Face Lecture"
         }

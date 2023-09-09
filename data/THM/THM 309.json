@@ -15,40 +15,40 @@
   "code": "THM 309",
   "sections": {
     "THM 309-001": {
-      "instructor": "Oğuz Benice",
+      "instructor": "Eda Gürel",
       "quota": "15 Mand. or Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 10,
+        "mandatory": 7,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "RB-201(S)",
+          "place": "RB-202(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "RB-201",
+          "place": "RB-202",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "RB-201",
+          "place": "RB-202",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "RB-201",
+          "place": "RB-202",
           "class": "Face-to-Face Lecture"
         }
       ],

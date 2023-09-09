@@ -15,7 +15,7 @@
   "code": "IE 477",
   "sections": {
     "IE 477-001": {
-      "instructor": "Ayşe Selin Kocaman",
+      "instructor": "Nesim Kohen Erkip",
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
@@ -41,14 +41,14 @@
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MCORUH",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MCORUH(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -81,14 +81,14 @@
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MCORUH",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MCORUH(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -121,14 +121,14 @@
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MCORUH",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MCORUH(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

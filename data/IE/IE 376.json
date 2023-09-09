@@ -14,12 +14,12 @@
   },
   "code": "IE 376",
   "sections": {
-    "IE 376-001": {
-      "instructor": "Arnab Basu",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+    "IE 376-002": {
+      "instructor": "Mehmet Selim Aktürk",
+      "quota": "62 Mand. or Elect.",
+      "total_quota": 62,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 62,
         "elective": 0
       },
       "schedule": [
@@ -27,32 +27,32 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-517(S)",
+          "place": "EA-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-517",
+          "place": "EA-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-517",
+          "place": "EA-Z03",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-517",
+          "place": "EA-Z03(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "IE 376-001"
+      "name": "IE 376-002"
     }
   }
 }

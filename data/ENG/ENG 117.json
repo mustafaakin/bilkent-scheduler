@@ -15,11 +15,11 @@
   "code": "ENG 117",
   "sections": {
     "ENG 117-001": {
-      "instructor": "Nilüfer Yeşil",
+      "instructor": "Sarah Melissa Stevens Hassell",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-227",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-227",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-227(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-227",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -59,7 +59,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
@@ -67,39 +67,39 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-253",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-253",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-253",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-253(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 117-002"
     },
     "ENG 117-003": {
-      "instructor": "Lorna Yeşilkaya",
+      "instructor": "Fatma Tuğçe Arıkan",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
@@ -107,28 +107,28 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-254(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-254",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-254",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-254",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -139,7 +139,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 5,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -147,39 +147,39 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-252(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-252",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-252",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-252",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 117-004"
     },
     "ENG 117-005": {
-      "instructor": "Sarah Melissa Stevens Hassell",
+      "instructor": "Fatma Tuğçe Arıkan",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 5,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -187,28 +187,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-154(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-154",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-154",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-154",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -219,7 +219,7 @@
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -227,28 +227,28 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-140(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-140",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-140",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-140",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

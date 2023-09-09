@@ -19,36 +19,36 @@
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 7,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "H-133B(S)",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "H-133B",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "H-133B",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "H-133B",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

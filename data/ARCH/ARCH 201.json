@@ -14,12 +14,12 @@
   },
   "code": "ARCH 201",
   "sections": {
-    "ARCH 201-007": {
+    "ARCH 201-006": {
       "instructor": "Staff",
       "quota": "Unlimited",
       "total_quota": null,
       "enrollment": {
-        "mandatory": 64,
+        "mandatory": 58,
         "elective": 0
       },
       "schedule": [
@@ -80,7 +80,7 @@
           "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "ARCH 201-007"
+      "name": "ARCH 201-006"
     }
   }
 }

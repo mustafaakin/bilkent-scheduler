@@ -16,10 +16,10 @@
   "sections": {
     "THM 246-001": {
       "instructor": "Ali Ünal",
-      "quota": "5 Mand. or Elect.",
-      "total_quota": 5,
+      "quota": "2 Mand. or Elect.",
+      "total_quota": 2,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 1,
         "elective": 0
       },
       "schedule": [
@@ -70,10 +70,10 @@
     },
     "THM 246-002": {
       "instructor": "Ali Ünal",
-      "quota": "5 Mand. or Elect.",
-      "total_quota": 5,
+      "quota": "2 Mand. or Elect.",
+      "total_quota": 2,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 1,
         "elective": 0
       },
       "schedule": [

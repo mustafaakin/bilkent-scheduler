@@ -14,81 +14,41 @@
   },
   "code": "FA 223",
   "sections": {
-    "FA 223-001": {
-      "instructor": "Elvan Serin",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
-      "enrollment": {
-        "mandatory": 2,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FC-223",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FC-223",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FC-223",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FC-223(S)",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "FA 223-001"
-    },
     "FA 223-002": {
       "instructor": "Elvan Serin",
-      "quota": "15 Mand. or Elect.",
+      "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 6,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FC-223",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FC-223",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FC-223",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FC-223(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

@@ -15,7 +15,7 @@
   "code": "FA 217",
   "sections": {
     "FA 217-001": {
-      "instructor": "Ahmet Özsalar",
+      "instructor": "Elvan Serin",
       "quota": "15 Mand. or Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -55,7 +55,7 @@
       "name": "FA 217-001"
     },
     "FA 217-002": {
-      "instructor": "Ahmet Özsalar",
+      "instructor": "Staff",
       "quota": "15 Mand. or Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -64,31 +64,31 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FE-101",
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FE-101",
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FE-101",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FE-101(S)",
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

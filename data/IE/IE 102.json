@@ -16,90 +16,50 @@
   "sections": {
     "IE 102-001": {
       "instructor": "Özlem Karsu",
-      "quota": "58 Mand. or Elect.",
-      "total_quota": 58,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 45,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EA-Z03(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "IE 102-001"
     },
     "IE 102-002": {
-      "instructor": "Staff",
-      "quota": "58 Mand. or Elect.",
-      "total_quota": 58,
+      "instructor": "Özlem Karsu",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-Z04(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-Z04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "B-Z04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "B-Z04",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "IE 102-002"
-    },
-    "IE 102-003": {
-      "instructor": "Ayşe Selin Kocaman",
-      "quota": "58 Mand. or Elect.",
-      "total_quota": 58,
-      "enrollment": {
-        "mandatory": 0,
+        "mandatory": 45,
         "elective": 0
       },
       "schedule": [
@@ -107,28 +67,68 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z04(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z04",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "IE 102-002"
+    },
+    "IE 102-003": {
+      "instructor": "Yiğit Karpat",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 45,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

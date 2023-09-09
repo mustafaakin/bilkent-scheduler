@@ -1,5 +1,5 @@
 {
-  "name": "Foundations of Organizational Management  II",
+  "name": "Foundations of Organizational Management II",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -16,8 +16,8 @@
   "sections": {
     "EMBA 515-001": {
       "instructor": "Aydın Örsan Örge",
-      "quota": "32 Mand. or Elect.",
-      "total_quota": 32,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

@@ -16,10 +16,10 @@
   "sections": {
     "ECON 222-001": {
       "instructor": "Mustafa Eray Yücel",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "24 Mand. 0 Elect.",
+      "total_quota": 24,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
@@ -27,237 +27,9 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-B52",
+          "place": "",
           "class": "Recitation"
         },
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "V-04(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 222-001"
-    },
-    "ECON 222-002": {
-      "instructor": "Mustafa Eray Yücel",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 8,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "V-04(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-B52",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 222-002"
-    },
-    "ECON 222-003": {
-      "instructor": "Mustafa Eray Yücel",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 9,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "V-04(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-B53",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 222-003"
-    },
-    "ECON 222-004": {
-      "instructor": "Mustafa Eray Yücel",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 9,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-B52",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "V-04(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 222-004"
-    },
-    "ECON 222-005": {
-      "instructor": "Mustafa Eray Yücel",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 9,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "V-04(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-B52",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 222-005"
-    },
-    "ECON 222-006": {
-      "instructor": "Mustafa Eray Yücel",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
-      "enrollment": {
-        "mandatory": 10,
-        "elective": 0
-      },
-      "schedule": [
         {
           "day": "Friday",
           "start": "08:30",
@@ -285,16 +57,291 @@
           "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
-        },
+        }
+      ],
+      "name": "ECON 222-001"
+    },
+    "ECON 222-002": {
+      "instructor": "Mustafa Eray Yücel",
+      "quota": "24 Mand. 0 Elect.",
+      "total_quota": 24,
+      "enrollment": {
+        "mandatory": 18,
+        "elective": 0
+      },
+      "schedule": [
         {
           "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 222-002"
+    },
+    "ECON 222-003": {
+      "instructor": "Mustafa Eray Yücel",
+      "quota": "24 Mand. 0 Elect.",
+      "total_quota": 24,
+      "enrollment": {
+        "mandatory": 19,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Recitation"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 222-003"
+    },
+    "ECON 222-004": {
+      "instructor": "Mustafa Eray Yücel",
+      "quota": "24 Mand. 0 Elect.",
+      "total_quota": 24,
+      "enrollment": {
+        "mandatory": 16,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 222-004"
+    },
+    "ECON 222-005": {
+      "instructor": "Mustafa Eray Yücel",
+      "quota": "24 Mand. 0 Elect.",
+      "total_quota": 24,
+      "enrollment": {
+        "mandatory": 16,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 222-005"
+    },
+    "ECON 222-006": {
+      "instructor": "Mustafa Eray Yücel",
+      "quota": "24 Mand. 0 Elect.",
+      "total_quota": 24,
+      "enrollment": {
+        "mandatory": 16,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 222-006"
+    },
+    "ECON 222-007": {
+      "instructor": "Mustafa Eray Yücel",
+      "quota": "24 Mand. 0 Elect.",
+      "total_quota": 24,
+      "enrollment": {
+        "mandatory": 16,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 222-007"
     }
   }
 }

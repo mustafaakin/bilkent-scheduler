@@ -16,10 +16,10 @@
   "sections": {
     "ME 211-001": {
       "instructor": "Emine Yegan Erdem",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "27 Mand. or Elect.",
+      "total_quota": 27,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [
@@ -27,21 +27,21 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -55,7 +55,7 @@
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -70,10 +70,10 @@
     },
     "ME 211-002": {
       "instructor": "Emine Yegan Erdem",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "27 Mand. or Elect.",
+      "total_quota": 27,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 22,
         "elective": 0
       },
       "schedule": [
@@ -81,39 +81,39 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
@@ -123,11 +123,11 @@
       "name": "ME 211-002"
     },
     "ME 211-003": {
-      "instructor": "Barbaros Çetin",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Gökberk Kabacaoğlu",
+      "quota": "27 Mand. or Elect.",
+      "total_quota": 27,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [
@@ -142,7 +142,7 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -156,32 +156,32 @@
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ME 211-003"
     },
     "ME 211-004": {
-      "instructor": "Barbaros Çetin",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Gökberk Kabacaoğlu",
+      "quota": "27 Mand. or Elect.",
+      "total_quota": 27,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [
@@ -189,14 +189,14 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -217,14 +217,14 @@
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

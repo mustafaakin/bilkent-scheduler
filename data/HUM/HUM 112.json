@@ -14,52 +14,12 @@
   },
   "code": "HUM 112",
   "sections": {
-    "HUM 112-001": {
-      "instructor": "Costantino Costantini",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 2,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-206(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-206",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-206",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-206",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 112-001"
-    },
     "HUM 112-002": {
-      "instructor": "Costantino Costantini",
+      "instructor": "Dragan Ilic",
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
@@ -67,39 +27,39 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-210(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-210",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-210",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-210",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 112-002"
     },
     "HUM 112-003": {
-      "instructor": "Mihaela P. Harper",
+      "instructor": "Marjan Mohammadi",
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 21,
         "elective": 0
       },
       "schedule": [
@@ -107,79 +67,39 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-210(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-210",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-210",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-210",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 112-003"
     },
-    "HUM 112-004": {
-      "instructor": "Mihaela P. Harper",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 12,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-229(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-229",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-229",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-229",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 112-004"
-    },
     "HUM 112-005": {
-      "instructor": "Michael Kurt Ozment",
+      "instructor": "Victor Lenthe",
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 19,
+        "mandatory": 24,
         "elective": 0
       },
       "schedule": [
@@ -187,39 +107,39 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-229(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-229",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 112-005"
     },
     "HUM 112-006": {
-      "instructor": "Michael Kurt Ozment",
+      "instructor": "Dragan Ilic",
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 10,
         "elective": 0
       },
       "schedule": [
@@ -227,39 +147,39 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-231(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-231",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 112-006"
     },
     "HUM 112-007": {
-      "instructor": "Michael Kurt Ozment",
+      "instructor": "Marjan Mohammadi",
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 27,
         "elective": 0
       },
       "schedule": [
@@ -267,39 +187,39 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-210(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-210",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-210",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-210",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 112-007"
     },
     "HUM 112-008": {
-      "instructor": "Michael Kurt Ozment",
+      "instructor": "William Norman Coker",
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -307,28 +227,28 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-206",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-206(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -339,83 +259,123 @@
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 13,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "G-207",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-207",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "G-207",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "G-207(S)",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "HUM 112-009"
-    },
-    "HUM 112-010": {
-      "instructor": "Victor Lenthe",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
-      "enrollment": {
         "mandatory": 14,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 112-009"
+    },
+    "HUM 112-010": {
+      "instructor": "William Norman Coker",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 10,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-228(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-228",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-228",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-228",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "HUM 112-010"
     },
     "HUM 112-011": {
-      "instructor": "Mihaela P. Harper",
+      "instructor": "Marjan Mohammadi",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
+      "enrollment": {
+        "mandatory": 28,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "HUM 112-011"
+    },
+    "HUM 112-013": {
+      "instructor": "Costantino Costantini",
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
@@ -424,75 +384,75 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-131(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "G-131",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-131",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-131",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "HUM 112-011"
+      "name": "HUM 112-013"
     },
-    "HUM 112-012": {
+    "HUM 112-014": {
       "instructor": "Victor Lenthe",
       "quota": "30 Mand. or Elect.",
       "total_quota": 30,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-131(S)",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-131",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-131",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-131",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "HUM 112-012"
+      "name": "HUM 112-014"
     }
   }
 }

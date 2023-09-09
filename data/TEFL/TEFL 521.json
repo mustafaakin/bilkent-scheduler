@@ -16,40 +16,40 @@
   "sections": {
     "TEFL 521-001": {
       "instructor": "Staff",
-      "quota": "12 Mand. or Elect.",
-      "total_quota": 12,
+      "quota": "0 Mand. or Elect.",
+      "total_quota": 0,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
           "place": "G-253(S)",
-          "class": "Face-to-Face Lecture"
+          "class": "Online/Hybrid Lecture"
         },
         {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "G-253",
-          "class": "Face-to-Face Lecture"
+          "class": "Online/Hybrid Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-253",
-          "class": "Face-to-Face Lecture"
+          "day": "Wednesday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "",
+          "class": "Online/Hybrid Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-253",
-          "class": "Face-to-Face Lecture"
+          "day": "Wednesday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "",
+          "class": "Online/Hybrid Lecture"
         }
       ],
       "name": "TEFL 521-001"

@@ -1,5 +1,5 @@
 {
-  "name": "Cities, Monuments and Landscapes of Classical Anatolia",
+  "name": "Life in Greek and Roman Anatolia",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -15,40 +15,40 @@
   "code": "HART 423",
   "sections": {
     "HART 423-001": {
-      "instructor": "Julian Bennett",
+      "instructor": "Peter Louis M. Talloen",
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 7,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "H-133B(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-133B",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "H-133B",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "H-133B",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -15,80 +15,80 @@
   "code": "MATH 103",
   "sections": {
     "MATH 103-001": {
-      "instructor": "Fatma Güliz Bolat",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "instructor": "Arzu Sibel İkinci",
+      "quota": "85 Mand. 0 Elect.",
+      "total_quota": 85,
       "enrollment": {
-        "mandatory": 50,
+        "mandatory": 77,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "SB-Z03(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "SB-Z03",
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "SB-Z03",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "SB-Z03",
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 103-001"
     },
     "MATH 103-002": {
-      "instructor": "Arzu Sibel İkinci",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Güliz Bolat",
+      "quota": "85 Mand. 0 Elect.",
+      "total_quota": 85,
       "enrollment": {
-        "mandatory": 48,
+        "mandatory": 70,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "H-233(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "H-233",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "H-233",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "H-233",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,119 +96,119 @@
     },
     "MATH 103-003": {
       "instructor": "Arzu Sibel İkinci",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "quota": "85 Mand. 0 Elect.",
+      "total_quota": 85,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 64,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FC-Z23B(S)",
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FC-Z23B",
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FC-Z23B",
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FC-Z23B",
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 103-003"
     },
     "MATH 103-004": {
-      "instructor": "Arzu Sibel İkinci",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Güliz Bolat",
+      "quota": "85 Mand. 0 Elect.",
+      "total_quota": 85,
       "enrollment": {
-        "mandatory": 24,
+        "mandatory": 63,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "H-233(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "H-233",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "H-233",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "H-233",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 103-004"
     },
     "MATH 103-005": {
-      "instructor": "Fatma Güliz Bolat",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Arzu Sibel İkinci",
+      "quota": "85 Mand. 0 Elect.",
+      "total_quota": 85,
       "enrollment": {
-        "mandatory": 29,
+        "mandatory": 42,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-111(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-111",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "B-111",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "B-111",
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -216,39 +216,39 @@
     },
     "MATH 103-006": {
       "instructor": "Arzu Sibel İkinci",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "quota": "85 Mand. 0 Elect.",
+      "total_quota": 85,
       "enrollment": {
-        "mandatory": 28,
+        "mandatory": 48,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-112(S)",
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-112",
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "B-112",
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "B-112",
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

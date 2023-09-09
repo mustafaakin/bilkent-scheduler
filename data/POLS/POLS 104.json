@@ -15,11 +15,11 @@
   "code": "POLS 104",
   "sections": {
     "POLS 104-001": {
-      "instructor": "Zerrin Tandoğan",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "instructor": "Staff",
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 13,
         "elective": 0
       },
       "schedule": [
@@ -27,68 +27,68 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "T-173(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "T-173",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "T-173",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "T-173",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "POLS 104-001"
     },
     "POLS 104-002": {
-      "instructor": "Pınar Akdeniz",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
+      "instructor": "Staff",
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-329(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-329",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-329",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-329",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

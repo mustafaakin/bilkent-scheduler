@@ -15,80 +15,80 @@
   "code": "ELIT 139",
   "sections": {
     "ELIT 139-001": {
-      "instructor": "Staff",
-      "quota": "36 Mand. 4 Elect.",
-      "total_quota": 40,
+      "instructor": "Ayşe Çelikkol",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 27,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "A-230(S)",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "A-230",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "A-230",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "A-230",
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ELIT 139-001"
     },
     "ELIT 139-002": {
-      "instructor": "Ceylan Bevington",
-      "quota": "36 Mand. 4 Elect.",
-      "total_quota": 40,
+      "instructor": "Ayşe Çelikkol",
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 30,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "T-169(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "T-169",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "T-169",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "T-169",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

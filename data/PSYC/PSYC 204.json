@@ -15,51 +15,51 @@
   "code": "PSYC 204",
   "sections": {
     "PSYC 204-001": {
-      "instructor": "Miri Besken",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
+      "instructor": "Selin Salman Engin",
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 33,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "A-125(S)",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "A-125",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "A-125",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "A-125",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PSYC 204-001"
     },
     "PSYC 204-002": {
-      "instructor": "Hande Ilgaz",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
+      "instructor": "Selin Salman Engin",
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 37,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "H-332(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "H-332",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "H-332",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "H-332",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

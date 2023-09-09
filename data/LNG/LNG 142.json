@@ -15,46 +15,6 @@
   "code": "LNG 142",
   "sections": {
     "LNG 142-001": {
-      "instructor": "Arzu Bezgin",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-Z37",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-Z37",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-Z37",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-Z37",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "LNG 142-001"
-    },
-    "LNG 142-002": {
       "instructor": "Ayşe Candoğan",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
@@ -64,35 +24,35 @@
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z37",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-Z37",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-Z37",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-Z37",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "LNG 142-002"
+      "name": "LNG 142-001"
     }
   }
 }

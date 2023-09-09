@@ -16,8 +16,8 @@
   "sections": {
     "EEE 428-001": {
       "instructor": "Orhan Aytür",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EB-103(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EB-103",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EB-103",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EB-103",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

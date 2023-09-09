@@ -19,7 +19,7 @@
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 25,
         "elective": 0
       },
       "schedule": [
@@ -27,21 +27,21 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z04(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -55,7 +55,7 @@
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -87,7 +87,7 @@
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -95,21 +95,21 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z04(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -123,7 +123,7 @@
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -155,7 +155,7 @@
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
@@ -177,7 +177,7 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z02(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -191,7 +191,7 @@
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -205,14 +205,14 @@
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -223,7 +223,7 @@
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
@@ -231,14 +231,14 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z02(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -259,7 +259,7 @@
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -273,7 +273,7 @@
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {

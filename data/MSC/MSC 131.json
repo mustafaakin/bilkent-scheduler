@@ -1,0 +1,17 @@
+{
+  "name": "Instrument I",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 2
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 4
+  },
+  "code": "MSC 131",
+  "sections": {}
+}

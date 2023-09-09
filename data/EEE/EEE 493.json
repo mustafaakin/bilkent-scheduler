@@ -16,8 +16,8 @@
   "sections": {
     "EEE 493-001": {
       "instructor": "Mehmet Alper Kutay",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -41,14 +41,14 @@
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-LAB102",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-LAB102",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -56,8 +56,8 @@
     },
     "EEE 493-002": {
       "instructor": "Mehmet Alper Kutay",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

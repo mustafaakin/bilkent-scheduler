@@ -16,39 +16,39 @@
   "sections": {
     "PHYS 371-001": {
       "instructor": "Yiğit Gündüç",
-      "quota": "35 Mand. or Elect.",
-      "total_quota": 35,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
-        "mandatory": 32,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "SA-Z20(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "SA-Z20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "SA-Z20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "SA-Z20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

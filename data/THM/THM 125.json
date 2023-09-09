@@ -16,10 +16,10 @@
   "sections": {
     "THM 125-001": {
       "instructor": "Esin Şenol",
-      "quota": "10 Mand. or Elect.",
-      "total_quota": 10,
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 32,
         "elective": 0
       },
       "schedule": [

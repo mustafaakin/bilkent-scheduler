@@ -16,39 +16,39 @@
   "sections": {
     "PSYC 340-001": {
       "instructor": "Miri Besken",
-      "quota": "67 Mand. 0 Elect.",
-      "total_quota": 67,
+      "quota": "68 Mand. 0 Elect.",
+      "total_quota": 68,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 51,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "A-125(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "A-125",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "A-125",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "A-125",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

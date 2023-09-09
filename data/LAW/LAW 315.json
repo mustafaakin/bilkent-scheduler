@@ -1,5 +1,5 @@
 {
-  "name": "Administrative Law",
+  "name": "Administrative Law (in Turkish)",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -15,40 +15,40 @@
   "code": "LAW 315",
   "sections": {
     "LAW 315-001": {
-      "instructor": "Elvin Evrim Dalkılıç",
-      "quota": "90 Mand. or Elect.",
-      "total_quota": 90,
+      "instructor": "Turgut Tan",
+      "quota": "80 Mand. or Elect.",
+      "total_quota": 80,
       "enrollment": {
-        "mandatory": 39,
+        "mandatory": 27,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "V-01(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "V-01",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "V-01",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "V-01",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

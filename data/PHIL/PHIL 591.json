@@ -15,7 +15,7 @@
   "code": "PHIL 591",
   "sections": {
     "PHIL 591-001": {
-      "instructor": "Staff",
+      "instructor": "Simon Drummond Wigley",
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
@@ -27,14 +27,14 @@
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "H-336",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "H-336",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

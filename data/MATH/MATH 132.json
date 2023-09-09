@@ -15,11 +15,11 @@
   "code": "MATH 132",
   "sections": {
     "MATH 132-001": {
-      "instructor": "Laurence John Barker",
+      "instructor": "Müfit Sezer",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 19,
+        "mandatory": 33,
         "elective": 0
       },
       "schedule": [
@@ -27,39 +27,39 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-236(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 132-001"
     },
     "MATH 132-002": {
-      "instructor": "Laurence John Barker",
+      "instructor": "Müfit Sezer",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 34,
+        "mandatory": 52,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-236(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -99,36 +99,36 @@
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 35,
+        "mandatory": 41,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-236(S)",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-236",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-236",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-236",
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

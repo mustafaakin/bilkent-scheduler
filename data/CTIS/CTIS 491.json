@@ -15,40 +15,40 @@
   "code": "CTIS 491",
   "sections": {
     "CTIS 491-001": {
-      "instructor": "Staff",
-      "quota": "0 Mand. 20 Elect.",
-      "total_quota": 20,
+      "instructor": "Kadir Herkiloğlu",
+      "quota": "0 Mand. 17 Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "CE-Z05(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "CE-Z05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "CE-Z05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "CE-Z05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

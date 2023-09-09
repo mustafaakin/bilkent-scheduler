@@ -16,111 +16,165 @@
   "sections": {
     "IE 303-001": {
       "instructor": "Mustafa Çelebi Pınar",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
       "enrollment": {
-        "mandatory": 43,
+        "mandatory": 50,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "MCORUH",
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EA-Z03",
-          "class": "Recitation"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MCORUH",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EA-Z03",
-          "class": "Recitation"
         },
         {
           "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "MCORUH",
-          "class": "Face-to-Face Lecture"
+          "place": "EB-203",
+          "class": "Recitation"
         },
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "MCORUH(S)",
-          "class": "Face-to-Face Lecture"
+          "place": "EB-203",
+          "class": "Recitation"
         }
       ],
       "name": "IE 303-001"
     },
     "IE 303-002": {
       "instructor": "Mustafa Çelebi Pınar",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
       "enrollment": {
-        "mandatory": 43,
+        "mandatory": 36,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "MCORUH",
+          "place": "EB-203",
+          "class": "Recitation"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EB-203",
+          "class": "Recitation"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MCORUH",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "IE 303-002"
+    },
+    "IE 303-003": {
+      "instructor": "Mustafa Çelebi Pınar",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 36,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z01",
+          "place": "EB-203",
           "class": "Recitation"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z01",
+          "place": "EB-203",
           "class": "Recitation"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "MCORUH",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "MCORUH",
-          "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "IE 303-002"
+      "name": "IE 303-003"
     }
   }
 }

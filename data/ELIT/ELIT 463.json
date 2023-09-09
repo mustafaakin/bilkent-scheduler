@@ -16,39 +16,39 @@
   "sections": {
     "ELIT 463-001": {
       "instructor": "Timothy Sean Wright",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "22 Mand. or Elect.",
+      "total_quota": 22,
       "enrollment": {
-        "mandatory": 18,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "T-268(S)",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "T-268",
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "T-268",
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "T-268",
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,39 +56,39 @@
     },
     "ELIT 463-002": {
       "instructor": "Timothy Sean Wright",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "22 Mand. or Elect.",
+      "total_quota": 22,
       "enrollment": {
-        "mandatory": 20,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "H-336(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "H-336",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "H-336",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "H-336",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

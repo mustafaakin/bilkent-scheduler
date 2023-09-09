@@ -16,10 +16,10 @@
   "sections": {
     "FA 361-001": {
       "instructor": "Yasemin Gümüş Ağca",
-      "quota": "45 Mand. 0 Elect.",
-      "total_quota": 45,
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
       "enrollment": {
-        "mandatory": 35,
+        "mandatory": 43,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FB-310(S)",
+          "place": "FB-209(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FB-310",
+          "place": "FB-209",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FB-310",
+          "place": "FB-209",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FB-310",
+          "place": "FB-209",
           "class": "Face-to-Face Lecture"
         }
       ],

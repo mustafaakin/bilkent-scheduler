@@ -15,80 +15,80 @@
   "code": "PHIL 101",
   "sections": {
     "PHIL 101-001": {
-      "instructor": "Nazım Keven",
+      "instructor": "Alireza Fatollahi",
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 7,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-152(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-152",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-152",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-152",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PHIL 101-001"
     },
     "PHIL 101-002": {
-      "instructor": "Nazım Keven",
+      "instructor": "Alireza Fatollahi",
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 7,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-331",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-331(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-331",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-331",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

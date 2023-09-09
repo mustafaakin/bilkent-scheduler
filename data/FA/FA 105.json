@@ -19,7 +19,7 @@
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 5,
+        "mandatory": 14,
         "elective": 0
       },
       "schedule": [
@@ -97,11 +97,11 @@
       "name": "FA 105-001"
     },
     "FA 105-002": {
-      "instructor": "Staff",
+      "instructor": "Çavlan Başarır",
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 13,
         "elective": 0
       },
       "schedule": [
@@ -179,11 +179,11 @@
       "name": "FA 105-002"
     },
     "FA 105-003": {
-      "instructor": "Arın Ada Çakar",
+      "instructor": "Staff",
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
-        "mandatory": 4,
+        "mandatory": 13,
         "elective": 0
       },
       "schedule": [

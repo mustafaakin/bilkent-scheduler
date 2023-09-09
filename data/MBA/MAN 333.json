@@ -16,83 +16,43 @@
   "sections": {
     "MAN 333-001": {
       "instructor": "Ceren Aydoğmuş",
-      "quota": "35 Mand. 25 Elect.",
-      "total_quota": 60,
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
-        "mandatory": 25,
+        "mandatory": 15,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-302(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MAN 333-001"
-    },
-    "MAN 333-002": {
-      "instructor": "Ceren Aydoğmuş",
-      "quota": "15 Mand. 45 Elect.",
-      "total_quota": 60,
-      "enrollment": {
-        "mandatory": 6,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "MA-305(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MA-305",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "MA-305",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "MA-305",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "MAN 333-002"
     }
   }
 }

@@ -15,84 +15,91 @@
   "code": "MBG 210",
   "sections": {
     "MBG 210-001": {
-      "instructor": "Pınar Önal",
-      "quota": "35 Mand. 5 Elect.",
-      "total_quota": 40,
+      "instructor": "Özlen Konu Karakayalı",
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
       "enrollment": {
-        "mandatory": 30,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "SB-Z03(S)",
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "SB-Z03",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "SB-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "SB-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "MBG 210-001"
     },
     "MBG 210-002": {
-      "instructor": "Özlen Konu Karakayalı",
-      "quota": "35 Mand. 5 Elect.",
-      "total_quota": 40,
+      "instructor": "Pınar Önal",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 31,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
@@ -103,48 +110,41 @@
           "start": "09:30",
           "end": "10:20",
           "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "SA-Z01(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "SA-Z01",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "SA-Z01",
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "SA-Z01",
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -1,0 +1,98 @@
+{
+  "name": "Technology for Translators",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 2
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "TRIN 212",
+  "sections": {
+    "TRIN 212-001": {
+      "instructor": "Büşra Kurt Uçar",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 2,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "LD-4",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "G-B54",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "LD-4",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "G-B54",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "TRIN 212-001"
+    },
+    "TRIN 212-002": {
+      "instructor": "Büşra Kurt Uçar",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 1,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "G-B54",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "G-B54",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "TRIN 212-002"
+    }
+  }
+}

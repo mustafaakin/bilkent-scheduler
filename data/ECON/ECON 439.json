@@ -15,40 +15,40 @@
   "code": "ECON 439",
   "sections": {
     "ECON 439-001": {
-      "instructor": "Semih Koray",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "instructor": "Nuh Aygün Dalkıran",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "A-127(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "A-127",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

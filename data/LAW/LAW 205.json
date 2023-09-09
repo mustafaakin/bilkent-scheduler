@@ -1,5 +1,5 @@
 {
-  "name": "Administrative Law",
+  "name": "Administrative Law (in Turkish)",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -19,7 +19,7 @@
       "quota": "100 Mand. or Elect.",
       "total_quota": 100,
       "enrollment": {
-        "mandatory": 100,
+        "mandatory": 67,
         "elective": 0
       },
       "schedule": [
@@ -27,68 +27,68 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "V-02(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "V-02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "V-02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "V-02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LAW 205-001"
     },
     "LAW 205-002": {
-      "instructor": "Turgut Tan",
-      "quota": "120 Mand. or Elect.",
-      "total_quota": 120,
+      "instructor": "Elvin Evrim Dalkılıç",
+      "quota": "100 Mand. or Elect.",
+      "total_quota": 100,
       "enrollment": {
-        "mandatory": 48,
+        "mandatory": 68,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "V-03(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "V-03",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "V-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "V-03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -16,10 +16,10 @@
   "sections": {
     "ADA 263-001": {
       "instructor": "Serpil Özaloğlu",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 37,
+        "mandatory": 43,
         "elective": 0
       },
       "schedule": [
@@ -56,48 +56,8 @@
     },
     "ADA 263-002": {
       "instructor": "Serpil Özaloğlu",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
-      "enrollment": {
-        "mandatory": 39,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF-115(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF-115",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FF-115",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FF-115",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ADA 263-002"
-    },
-    "ADA 263-003": {
-      "instructor": "Merve Aslı Hetemoğlu",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 38,
         "elective": 0
@@ -132,83 +92,123 @@
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "ADA 263-003"
+      "name": "ADA 263-002"
     },
-    "ADA 263-004": {
-      "instructor": "Ayşe Henry",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+    "ADA 263-003": {
+      "instructor": "Staff",
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 36,
+        "mandatory": 37,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FF-114(S)",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FC-209(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FC-209",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FC-209",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FC-209",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ADA 263-003"
+    },
+    "ADA 263-004": {
+      "instructor": "Ayşe Henry",
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 31,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-201(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-114",
+          "place": "FF-201",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-114",
+          "place": "FF-201",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-114",
+          "place": "FF-201",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ADA 263-004"
     },
     "ADA 263-005": {
-      "instructor": "Meral Özdengiz Başak",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "instructor": "Staff",
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 35,
+        "mandatory": 32,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FF-115(S)",
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-202(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-202",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FF-115",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-202",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FF-115",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FF-115",
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-202",
           "class": "Face-to-Face Lecture"
         }
       ],

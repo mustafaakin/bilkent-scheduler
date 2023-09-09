@@ -15,124 +15,84 @@
   "code": "COMD 481",
   "sections": {
     "COMD 481-001": {
-      "instructor": "Funda Şenova Tunalı",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
+      "instructor": "Fulten Larlar",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FB-319",
+          "place": "FB-110",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FB-319",
+          "place": "FB-110",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FB-319",
+          "place": "FB-110",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FB-319",
+          "place": "FB-110",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "COMD 481-001"
     },
     "COMD 481-002": {
-      "instructor": "Fulten Larlar",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
+      "instructor": "Ayşenur Dal Tokdemir",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 19,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FB-110",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FB-110",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FB-110",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FB-110",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "COMD 481-002"
-    },
-    "COMD 481-003": {
-      "instructor": "Fulten Larlar",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
-      "enrollment": {
-        "mandatory": 15,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "FB-110",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "FB-110",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
           "place": "FB-110",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
           "place": "FB-110",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "COMD 481-003"
+      "name": "COMD 481-002"
     }
   }
 }

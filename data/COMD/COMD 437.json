@@ -16,39 +16,39 @@
   "sections": {
     "COMD 437-001": {
       "instructor": "Wickham Catesby Flannagan",
-      "quota": "16 Mand. or Elect.",
-      "total_quota": 16,
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FA-122(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FA-122",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FA-122",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FA-122",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

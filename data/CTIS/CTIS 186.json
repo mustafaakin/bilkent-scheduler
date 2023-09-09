@@ -16,38 +16,38 @@
   "sections": {
     "CTIS 186-001": {
       "instructor": "Jamel Ben Chafra",
-      "quota": "13 Mand. or Elect.",
-      "total_quota": 13,
+      "quota": "30 Mand. 0 Elect.",
+      "total_quota": 30,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 29,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "RE-107",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
+          "start": "08:30",
+          "end": "09:20",
           "place": "RE-107(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
           "place": "RE-107",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "RE-107",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "RE-107",
           "class": "Face-to-Face Lecture"
         }

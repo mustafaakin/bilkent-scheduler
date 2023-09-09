@@ -13,46 +13,5 @@
     "ECTS": 3
   },
   "code": "CI 515",
-  "sections": {
-    "CI 515-001": {
-      "instructor": "Anita Nicole Alexander",
-      "quota": "5 Mand. or Elect.",
-      "total_quota": 5,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-255(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-255",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-255",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-255",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "CI 515-001"
-    }
-  }
+  "sections": {}
 }

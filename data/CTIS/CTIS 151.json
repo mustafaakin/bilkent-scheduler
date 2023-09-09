@@ -19,7 +19,7 @@
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -87,7 +87,7 @@
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -102,7 +102,7 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "C-CTISL7",
+          "place": "C-CTISL1",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -116,7 +116,7 @@
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "C-CTISL7",
+          "place": "C-CTISL1",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -130,7 +130,7 @@
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "C-CTISL7",
+          "place": "C-CTISL1",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -144,7 +144,7 @@
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "C-CTISL7",
+          "place": "C-CTISL1",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -155,7 +155,7 @@
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -223,7 +223,7 @@
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 20,
         "elective": 0
       },
       "schedule": [
@@ -291,7 +291,7 @@
       "quota": "5 Mand. 0 Elect.",
       "total_quota": 5,
       "enrollment": {
-        "mandatory": 1,
+        "mandatory": 5,
         "elective": 0
       },
       "schedule": [
@@ -313,14 +313,14 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -341,14 +341,14 @@
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -359,7 +359,7 @@
       "quota": "5 Mand. 0 Elect.",
       "total_quota": 5,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 3,
         "elective": 0
       },
       "schedule": [
@@ -374,7 +374,7 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -388,7 +388,7 @@
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -402,7 +402,7 @@
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -416,7 +416,7 @@
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -427,7 +427,7 @@
       "quota": "5 Mand. 0 Elect.",
       "total_quota": 5,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 3,
         "elective": 0
       },
       "schedule": [
@@ -449,14 +449,14 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -477,14 +477,14 @@
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -495,7 +495,7 @@
       "quota": "5 Mand. 0 Elect.",
       "total_quota": 5,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 4,
         "elective": 0
       },
       "schedule": [
@@ -510,7 +510,7 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -524,14 +524,14 @@
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -545,7 +545,7 @@
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "C-CTISL1",
+          "place": "C-CTISL4",
           "class": "Face-to-Face Lab/Studio"
         },
         {

@@ -2,7 +2,7 @@
   "name": "Senior Design Project I",
   "lectureHours": {
     "hybrid": 0,
-    "online": 0
+    "online": 2
   },
   "labStudioOthersHours": {
     "hybrid": 0,
@@ -15,7 +15,7 @@
   "code": "CS 491",
   "sections": {
     "CS 491-001": {
-      "instructor": "Selim Aksoy  Erhan Dolak  Tağmaç Topal",
+      "instructor": "Staff",
       "quota": "Unlimited",
       "total_quota": null,
       "enrollment": {
@@ -24,18 +24,18 @@
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "MCORUH",
-          "class": "Face-to-Face Lab/Studio"
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "MCORUH",
-          "class": "Face-to-Face Lab/Studio"
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 491-001"

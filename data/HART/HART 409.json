@@ -15,7 +15,7 @@
   "code": "HART 409",
   "sections": {
     "HART 409-001": {
-      "instructor": "Staff",
+      "instructor": "Dominique Tezgör Kassab",
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "H-133A(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "H-133A",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "H-133A",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "H-133A",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         }
       ],

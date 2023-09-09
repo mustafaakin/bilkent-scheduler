@@ -16,10 +16,10 @@
   "sections": {
     "ENG 102-001": {
       "instructor": "Staff",
-      "quota": "80 Mand. or Elect.",
-      "total_quota": 80,
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 41,
+        "mandatory": 60,
         "elective": 0
       },
       "schedule": [
@@ -68,228 +68,228 @@
       ],
       "name": "ENG 102-001"
     },
-    "ENG 102-010": {
+    "ENG 102-008": {
+      "instructor": "Staff",
+      "quota": "80 Mand. or Elect.",
+      "total_quota": 80,
+      "enrollment": {
+        "mandatory": 61,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 102-008"
+    },
+    "ENG 102-016": {
+      "instructor": "Staff",
+      "quota": "100 Mand. or Elect.",
+      "total_quota": 100,
+      "enrollment": {
+        "mandatory": 85,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 102-016"
+    },
+    "ENG 102-025": {
+      "instructor": "Staff",
+      "quota": "80 Mand. or Elect.",
+      "total_quota": 80,
+      "enrollment": {
+        "mandatory": 39,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 102-025"
+    },
+    "ENG 102-033": {
+      "instructor": "Staff",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
+      "enrollment": {
+        "mandatory": 53,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 102-033"
+    },
+    "ENG 102-040": {
       "instructor": "Staff",
       "quota": "80 Mand. or Elect.",
       "total_quota": 80,
       "enrollment": {
         "mandatory": 80,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ENG 102-010"
-    },
-    "ENG 102-019": {
-      "instructor": "Staff",
-      "quota": "100 Mand. or Elect.",
-      "total_quota": 100,
-      "enrollment": {
-        "mandatory": 48,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ENG 102-019"
-    },
-    "ENG 102-029": {
-      "instructor": "Staff",
-      "quota": "80 Mand. or Elect.",
-      "total_quota": 80,
-      "enrollment": {
-        "mandatory": 56,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ENG 102-029"
-    },
-    "ENG 102-037": {
-      "instructor": "Staff",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
-      "enrollment": {
-        "mandatory": 48,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ENG 102-037"
-    },
-    "ENG 102-044": {
-      "instructor": "Staff",
-      "quota": "80 Mand. or Elect.",
-      "total_quota": 80,
-      "enrollment": {
-        "mandatory": 75,
         "elective": 0
       },
       "schedule": [
@@ -336,10 +336,10 @@
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "ENG 102-044"
+      "name": "ENG 102-040"
     },
-    "ENG 102-052": {
-      "instructor": "Laura Elizabeth Salgın",
+    "ENG 102-048": {
+      "instructor": "Yan Trefor Overfield Shaw",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -351,107 +351,107 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-Z37",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-Z37",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-Z37",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-Z37",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-Z37",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-Z37(S)",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ENG 102-048"
+    },
+    "ENG 102-052": {
+      "instructor": "Staff",
+      "quota": "80 Mand. or Elect.",
+      "total_quota": 80,
+      "enrollment": {
+        "mandatory": 80,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ENG 102-052"
     },
-    "ENG 102-056": {
-      "instructor": "Staff",
-      "quota": "80 Mand. or Elect.",
-      "total_quota": 80,
-      "enrollment": {
-        "mandatory": 75,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ENG 102-056"
-    },
-    "ENG 102-065": {
+    "ENG 102-060": {
       "instructor": "Staff",
       "quota": "40 Mand. or Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 23,
+        "mandatory": 40,
         "elective": 0
       },
       "schedule": [
@@ -498,10 +498,10 @@
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "ENG 102-065"
+      "name": "ENG 102-060"
     },
-    "ENG 102-071": {
-      "instructor": "Byrne Rhys Brewerton",
+    "ENG 102-066": {
+      "instructor": "Jennifer Lyn Schroeder",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -552,7 +552,7 @@
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "ENG 102-071"
+      "name": "ENG 102-066"
     }
   }
 }

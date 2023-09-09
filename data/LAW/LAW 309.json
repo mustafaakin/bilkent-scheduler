@@ -1,5 +1,5 @@
 {
-  "name": "Law of Obligations Special Provisions",
+  "name": "Law of Obligations Special Provisions (in Turkish)",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -16,39 +16,39 @@
   "sections": {
     "LAW 309-001": {
       "instructor": "Pınar Altınok Ormancı",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "85 Mand. or Elect.",
+      "total_quota": 85,
       "enrollment": {
-        "mandatory": 60,
+        "mandatory": 23,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-203(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-203",
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "B-203",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "B-203",
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,39 +56,39 @@
     },
     "LAW 309-002": {
       "instructor": "Pınar Altınok Ormancı",
-      "quota": "110 Mand. or Elect.",
-      "total_quota": 110,
+      "quota": "85 Mand. or Elect.",
+      "total_quota": 85,
       "enrollment": {
-        "mandatory": 50,
+        "mandatory": 80,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "V-03(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "V-03",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "V-03",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "V-03",
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

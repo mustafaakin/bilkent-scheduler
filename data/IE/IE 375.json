@@ -16,10 +16,10 @@
   "sections": {
     "IE 375-001": {
       "instructor": "Emre Nadar",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 20,
+        "mandatory": 58,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EA-Z03(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,10 +56,10 @@
     },
     "IE 375-002": {
       "instructor": "Emre Nadar",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 22,
+        "mandatory": 65,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EA-Z03(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EA-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

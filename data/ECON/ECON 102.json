@@ -16,10 +16,10 @@
   "sections": {
     "ECON 102-001": {
       "instructor": "Fatma Taşkın",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 13,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
@@ -27,35 +27,35 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "V-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "V-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-109",
+          "place": "B-110",
           "class": "Recitation"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "V-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "V-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -63,10 +63,10 @@
     },
     "ECON 102-002": {
       "instructor": "Fatma Taşkın",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 13,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -74,208 +74,20 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-110",
-          "class": "Recitation"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 102-002"
-    },
-    "ECON 102-003": {
-      "instructor": "Fatma Taşkın",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
-      "enrollment": {
-        "mandatory": 12,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
           "place": "",
-          "class": "Recitation"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 102-003"
-    },
-    "ECON 102-004": {
-      "instructor": "Fatma Taşkın",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
-      "enrollment": {
-        "mandatory": 13,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
           "place": "",
-          "class": "Recitation"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 102-004"
-    },
-    "ECON 102-005": {
-      "instructor": "Fatma Taşkın",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
-      "enrollment": {
-        "mandatory": 8,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-104",
-          "class": "Recitation"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 102-005"
-    },
-    "ECON 102-006": {
-      "instructor": "Fatma Taşkın",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
-      "enrollment": {
-        "mandatory": 7,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "V-04",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
+          "start": "11:30",
+          "end": "12:20",
           "place": "B-109",
           "class": "Recitation"
         },
@@ -283,25 +95,25 @@
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "V-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "V-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "ECON 102-006"
+      "name": "ECON 102-002"
     },
-    "ECON 102-007": {
+    "ECON 102-003": {
       "instructor": "Fatma Taşkın",
-      "quota": "27 Mand. 0 Elect.",
-      "total_quota": 27,
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
@@ -309,36 +121,224 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "V-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "V-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-110",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "B-103",
           "class": "Recitation"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "V-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "V-04",
+          "place": "",
           "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 102-003"
+    },
+    "ECON 102-004": {
+      "instructor": "Fatma Taşkın",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 14,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "B-104",
+          "class": "Recitation"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 102-004"
+    },
+    "ECON 102-005": {
+      "instructor": "Fatma Taşkın",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 14,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-103",
+          "class": "Recitation"
+        },
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 102-005"
+    },
+    "ECON 102-006": {
+      "instructor": "Fatma Taşkın",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 15,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-104",
+          "class": "Recitation"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 102-006"
+    },
+    "ECON 102-007": {
+      "instructor": "Fatma Taşkın",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 17,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "B-104",
+          "class": "Recitation"
         }
       ],
       "name": "ECON 102-007"

@@ -15,40 +15,40 @@
   "code": "LAW 405",
   "sections": {
     "LAW 405-001": {
-      "instructor": "Elvin Evrim Dalkılıç",
-      "quota": "90 Mand. or Elect.",
-      "total_quota": 90,
+      "instructor": "Staff",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 60,
+        "mandatory": 21,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "V-01(S)",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "V-01",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "V-01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "V-01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

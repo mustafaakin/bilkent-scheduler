@@ -15,11 +15,11 @@
   "code": "EEE 202",
   "sections": {
     "EEE 202-001": {
-      "instructor": "Ömer Morgül",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Manouchehr Takrimi",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 36,
         "elective": 0
       },
       "schedule": [
@@ -27,67 +27,67 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-211",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-211",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-211",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-412(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-211",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-412",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-412",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-412",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 202-001"
     },
     "EEE 202-002": {
-      "instructor": "Ergin Atalar",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Tolga Çukur",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 36,
         "elective": 0
       },
       "schedule": [
@@ -95,56 +95,56 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EB-202(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EB-202",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-211",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EB-202",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-211",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EB-202",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-211",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-211",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

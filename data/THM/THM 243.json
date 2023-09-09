@@ -16,10 +16,10 @@
   "sections": {
     "THM 243-001": {
       "instructor": "Jamel Ben Chafra",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 5,
         "elective": 0
       },
       "schedule": [

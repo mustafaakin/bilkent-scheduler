@@ -15,11 +15,11 @@
   "code": "MATH 223",
   "sections": {
     "MATH 223-001": {
-      "instructor": "Özgün Ünlü",
-      "quota": "39 Mand. 4 Elect.",
-      "total_quota": 43,
+      "instructor": "Ahmet Muhtar Güloğlu",
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 30,
+        "mandatory": 25,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "SA-Z20(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "SA-Z20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "SA-Z20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "SA-Z20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

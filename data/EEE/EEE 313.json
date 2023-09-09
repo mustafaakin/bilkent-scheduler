@@ -15,11 +15,11 @@
   "code": "EEE 313",
   "sections": {
     "EEE 313-001": {
-      "instructor": "Yusuf Ziya İder",
+      "instructor": "Erdinç Tatar",
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 24,
+        "mandatory": 42,
         "elective": 0
       },
       "schedule": [
@@ -27,67 +27,67 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-LAB101",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-LAB101",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-LAB101",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-214(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-LAB101",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-214",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 313-001"
     },
     "EEE 313-002": {
-      "instructor": "Yusuf Ziya İder",
+      "instructor": "Erdinç Tatar",
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 23,
+        "mandatory": 42,
         "elective": 0
       },
       "schedule": [
@@ -95,56 +95,56 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-05(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-LAB101",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-05",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-LAB101",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-LAB101",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EE-LAB101",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -155,64 +155,64 @@
       "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
-        "mandatory": 22,
+        "mandatory": 42,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "EE-03(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-LAB101",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "EE-03",
-          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-LAB101",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EE-LAB101",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EE-LAB101",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EE-03",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EE-03",
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

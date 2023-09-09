@@ -15,80 +15,80 @@
   "code": "MATH 255",
   "sections": {
     "MATH 255-001": {
-      "instructor": "Muhammed Ömer Sayın",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "instructor": "Levent Onural",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 29,
+        "mandatory": 40,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EB-104",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "EB-104",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EB-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EB-104",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 255-001"
     },
     "MATH 255-002": {
-      "instructor": "Muhammed Ömer Sayın",
-      "quota": "55 Mand. 0 Elect.",
-      "total_quota": 55,
+      "instructor": "Levent Onural",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 28,
+        "mandatory": 41,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-317",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-317",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-317",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-317",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

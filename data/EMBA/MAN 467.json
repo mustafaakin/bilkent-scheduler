@@ -16,7 +16,7 @@
   "sections": {
     "MAN 467-001": {
       "instructor": "Ceren Aydoğmuş",
-      "quota": "0 Mand. 50 Elect.",
+      "quota": "50 Mand. or Elect.",
       "total_quota": 50,
       "enrollment": {
         "mandatory": 0,
@@ -24,31 +24,31 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "MA-302(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "MA-302",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

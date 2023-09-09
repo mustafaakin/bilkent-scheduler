@@ -15,11 +15,11 @@
   "code": "MATH 225",
   "sections": {
     "MATH 225-001": {
-      "instructor": "Metin Gürses",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Aurelian Gheondea",
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 28,
+        "mandatory": 40,
         "elective": 0
       },
       "schedule": [
@@ -27,39 +27,39 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 225-001"
     },
     "MATH 225-002": {
-      "instructor": "Metin Gürses",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Yaghoub Heydarzade",
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 29,
+        "mandatory": 41,
         "elective": 0
       },
       "schedule": [
@@ -67,39 +67,39 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 225-002"
     },
     "MATH 225-003": {
-      "instructor": "Yosum Kurtulmaz",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Türker Özsarı",
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 22,
+        "mandatory": 39,
         "elective": 0
       },
       "schedule": [
@@ -107,39 +107,39 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 225-003"
     },
     "MATH 225-004": {
-      "instructor": "Yosum Kurtulmaz",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Bülent Ünal",
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 21,
+        "mandatory": 36,
         "elective": 0
       },
       "schedule": [
@@ -147,39 +147,39 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 225-004"
     },
     "MATH 225-005": {
-      "instructor": "Yosum Kurtulmaz",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "instructor": "Hamza Yeşilyurt",
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 22,
+        "mandatory": 41,
         "elective": 0
       },
       "schedule": [
@@ -187,28 +187,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

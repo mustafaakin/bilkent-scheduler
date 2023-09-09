@@ -15,80 +15,80 @@
   "code": "LNG 178",
   "sections": {
     "LNG 178-001": {
-      "instructor": "Nurbanu Aydın",
+      "instructor": "Staff",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 16,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "G-Z10",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "G-Z10",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "G-Z10",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "G-Z10",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LNG 178-001"
     },
     "LNG 178-002": {
-      "instructor": "Nurbanu Aydın",
+      "instructor": "Staff",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 3,
+        "mandatory": 17,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-Z52",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-Z52",
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-Z52",
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-Z52",
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

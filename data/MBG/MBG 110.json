@@ -16,10 +16,10 @@
   "sections": {
     "MBG 110-001": {
       "instructor": "Özhan Öçal",
-      "quota": "65 Mand. 0 Elect.",
+      "quota": "60 Mand. 5 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 54,
         "elective": 0
       },
       "schedule": [
@@ -27,39 +27,39 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z08(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MBG 110-001"
     },
     "MBG 110-002": {
-      "instructor": "Serkan Belkaya",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "instructor": "İlyas Chachoua",
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 39,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z01",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z01(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -96,10 +96,10 @@
     },
     "MBG 110-003": {
       "instructor": "Tayfun Özçelik",
-      "quota": "65 Mand. 0 Elect.",
+      "quota": "60 Mand. 5 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 38,
         "elective": 0
       },
       "schedule": [
@@ -107,28 +107,28 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-Z08(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-Z08",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -136,10 +136,10 @@
     },
     "MBG 110-004": {
       "instructor": "Özhan Öçal",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "quota": "55 Mand. 5 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 0,
+        "mandatory": 44,
         "elective": 0
       },
       "schedule": [
@@ -147,28 +147,28 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EA-Z01(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EA-Z01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -176,10 +176,10 @@
     },
     "MBG 110-005": {
       "instructor": "Özhan Öçal",
-      "quota": "65 Mand. or Elect.",
+      "quota": "60 Mand. 5 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 6,
+        "mandatory": 18,
         "elective": 0
       },
       "schedule": [
@@ -187,28 +187,28 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "G-236(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "G-236",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -219,7 +219,7 @@
       "quota": "60 Mand. 5 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 17,
+        "mandatory": 12,
         "elective": 0
       },
       "schedule": [
@@ -227,79 +227,79 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-Z04(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-Z04",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MBG 110-006"
     },
     "MBG 110-007": {
-      "instructor": "Staff",
+      "instructor": "Serkan Belkaya",
       "quota": "60 Mand. 5 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 17,
+        "mandatory": 24,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "V-02(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "V-02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "V-02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "V-02",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MBG 110-007"
     },
     "MBG 110-008": {
-      "instructor": "Murat Alper Cevher",
-      "quota": "65 Mand. or Elect.",
+      "instructor": "İlyas Chachoua",
+      "quota": "60 Mand. 5 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 20,
+        "mandatory": 22,
         "elective": 0
       },
       "schedule": [
@@ -307,28 +307,28 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "SB-Z03(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "SB-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "SB-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "SB-Z03",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],

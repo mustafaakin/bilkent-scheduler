@@ -16,36 +16,36 @@
   "sections": {
     "THM 168-001": {
       "instructor": "Esin Şenol",
-      "quota": "22 Mand. or Elect.",
-      "total_quota": 22,
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 6,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
           "place": "RB-202(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
           "place": "RB-202",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
           "place": "RB-202",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
           "place": "RB-202",

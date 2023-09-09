@@ -1,5 +1,5 @@
 {
-  "name": "Law of Obligations I",
+  "name": "Law of Obligations I (in Turkish)",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -16,10 +16,10 @@
   "sections": {
     "LAW 201-001": {
       "instructor": "Vedat Buz",
-      "quota": "100 Mand. or Elect.",
-      "total_quota": 100,
+      "quota": "85 Mand. or Elect.",
+      "total_quota": 85,
       "enrollment": {
-        "mandatory": 72,
+        "mandatory": 54,
         "elective": 0
       },
       "schedule": [
@@ -27,28 +27,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "V-01(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "V-01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "V-01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "V-01",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,10 +56,10 @@
     },
     "LAW 201-002": {
       "instructor": "Hüseyin Can Aksoy",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "85 Mand. or Elect.",
+      "total_quota": 85,
       "enrollment": {
-        "mandatory": 65,
+        "mandatory": 53,
         "elective": 0
       },
       "schedule": [
@@ -67,28 +67,28 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-203(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-203",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-203",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-203",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
