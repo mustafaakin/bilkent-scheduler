@@ -1,10 +1,14 @@
-function find(allData, selected, filteredSections, filteredInstructors, filteredSlots) {
+function find(allData, selected, dummyCourses, filteredSections, filteredInstructors, filteredSlots) {
   let combinations = [];
 
   function calculate(sections, currentSchedule, index) {
-    if ( selected.length === 0) return
+    if ( selected.length === 0) {
+      if (dummyCourses.length !== 0) combinations.push(dummyCourses)
+      return
+    }
 
-    if (index === selected.length)  {
+    if (index === selected.length) {
+      if (dummyCourses.length !== 0) sections = sections.concat(dummyCourses)
       combinations.push(sections)
       return
     }
