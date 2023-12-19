@@ -15,40 +15,40 @@
   "code": "ECON 103",
   "sections": {
     "ECON 103-001": {
-      "instructor": "Eda Gürel",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
+      "instructor": "Güneş Karamullaoğlu",
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "RE-206",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "RE-206",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "RE-206",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "RE-206",
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -56,79 +56,79 @@
     },
     "ECON 103-002": {
       "instructor": "Eda Gürel",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "RE-206",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "RE-206",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "RE-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "RE-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 103-002"
     },
     "ECON 103-003": {
-      "instructor": "Güneş Karamullaoğlu",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
+      "instructor": "Staff",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 26,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "RE-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "RE-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "RE-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "RE-206",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -139,35 +139,35 @@
       "quota": "60 Mand. 0 Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 31,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }
@@ -179,7 +179,47 @@
       "quota": "60 Mand. 0 Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 32,
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 103-005"
+    },
+    "ECON 103-006": {
+      "instructor": "Staff",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
+      "enrollment": {
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -208,46 +248,6 @@
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 103-005"
-    },
-    "ECON 103-006": {
-      "instructor": "Staff",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
-      "enrollment": {
-        "mandatory": 31,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }

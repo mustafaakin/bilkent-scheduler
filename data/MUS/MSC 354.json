@@ -15,9 +15,9 @@
   "code": "MSC 354",
   "sections": {
     "MSC 354-001": {
-      "instructor": "Jennifer Leigh Tipton",
-      "quota": "5 Mand. or Elect.",
-      "total_quota": 5,
+      "instructor": "Juliana Katherine Snapper",
+      "quota": "6 Mand. or Elect.",
+      "total_quota": 6,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,14 +27,14 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "P-242",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "P-242",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

@@ -15,39 +15,39 @@
   "code": "PHYS 180",
   "sections": {
     "PHYS 180-001": {
-      "instructor": "Ali Ulvi Yılmazer",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Staff",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 7,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }
@@ -55,39 +55,39 @@
       "name": "PHYS 180-001"
     },
     "PHYS 180-002": {
-      "instructor": "Ceren Sibel Sayın",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Staff",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 29,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }

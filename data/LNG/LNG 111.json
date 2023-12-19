@@ -15,77 +15,77 @@
   "code": "LNG 111",
   "sections": {
     "LNG 111-001": {
-      "instructor": "Staff",
+      "instructor": "Özlem Doğan",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
-        "elective": 0
+        "elective": 19
       },
       "schedule": [
         {
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "G-Z55",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "G-Z55",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "G-Z55",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "G-Z55",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "LNG 111-001"
     },
     "LNG 111-002": {
-      "instructor": "Staff",
+      "instructor": "Özlem Doğan",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
-        "elective": 0
+        "elective": 18
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
@@ -95,12 +95,12 @@
       "name": "LNG 111-002"
     },
     "LNG 111-003": {
-      "instructor": "Staff",
+      "instructor": "Mariela Del Carmen Aguirre Fidan",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
-        "elective": 0
+        "elective": 20
       },
       "schedule": [
         {
@@ -135,39 +135,39 @@
       "name": "LNG 111-003"
     },
     "LNG 111-004": {
-      "instructor": "Staff",
+      "instructor": "Yağmur Cevger",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
-        "elective": 0
+        "elective": 20
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
+          "start": "11:30",
+          "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }
@@ -175,12 +175,12 @@
       "name": "LNG 111-004"
     },
     "LNG 111-005": {
-      "instructor": "Staff",
+      "instructor": "Yağmur Cevger",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
-        "elective": 0
+        "elective": 18
       },
       "schedule": [
         {
@@ -215,39 +215,39 @@
       "name": "LNG 111-005"
     },
     "LNG 111-006": {
-      "instructor": "Staff",
+      "instructor": "Mariela Del Carmen Aguirre Fidan",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
-        "elective": 0
+        "elective": 14
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }

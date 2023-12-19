@@ -16,43 +16,43 @@
   "sections": {
     "ECON 205-001": {
       "instructor": "Burçin Kısacıkoğlu",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 19,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "B-109",
-          "class": "Recitation"
-        },
-        {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
@@ -63,43 +63,43 @@
     },
     "ECON 205-002": {
       "instructor": "Burçin Kısacıkoğlu",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 19,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "B-104",
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Recitation"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
@@ -110,22 +110,22 @@
     },
     "ECON 205-003": {
       "instructor": "Burçin Kısacıkoğlu",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 24,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
@@ -133,20 +133,20 @@
         },
         {
           "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "B-103",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Recitation"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
@@ -157,22 +157,22 @@
     },
     "ECON 205-004": {
       "instructor": "Burçin Kısacıkoğlu",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 24,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
@@ -182,18 +182,18 @@
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-109",
+          "place": "",
           "class": "Recitation"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
           "place": "",

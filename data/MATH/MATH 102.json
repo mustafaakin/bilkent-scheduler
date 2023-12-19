@@ -15,37 +15,37 @@
   "code": "MATH 102",
   "sections": {
     "MATH 102-001": {
-      "instructor": "Ahmet Muhtar Güloğlu",
+      "instructor": "Staff",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 65,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
@@ -55,11 +55,11 @@
       "name": "MATH 102-001"
     },
     "MATH 102-002": {
-      "instructor": "Naci Saldı",
+      "instructor": "Staff",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 45,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -95,39 +95,39 @@
       "name": "MATH 102-002"
     },
     "MATH 102-003": {
-      "instructor": "Özgün Ünlü",
+      "instructor": "Staff",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 38,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }
@@ -135,37 +135,37 @@
       "name": "MATH 102-003"
     },
     "MATH 102-004": {
-      "instructor": "Hamza Yeşilyurt",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "instructor": "Staff",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 23,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
@@ -175,39 +175,39 @@
       "name": "MATH 102-004"
     },
     "MATH 102-005": {
-      "instructor": "Gökhan Yıldırım",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "instructor": "Staff",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 25,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }
@@ -215,11 +215,11 @@
       "name": "MATH 102-005"
     },
     "MATH 102-006": {
-      "instructor": "Deniz Yılmaz",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "instructor": "Staff",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 59,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -253,6 +253,246 @@
         }
       ],
       "name": "MATH 102-006"
+    },
+    "MATH 102-007": {
+      "instructor": "Staff",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 102-007"
+    },
+    "MATH 102-008": {
+      "instructor": "Staff",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 102-008"
+    },
+    "MATH 102-009": {
+      "instructor": "Staff",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 102-009"
+    },
+    "MATH 102-010": {
+      "instructor": "Staff",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 102-010"
+    },
+    "MATH 102-011": {
+      "instructor": "Staff",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 102-011"
+    },
+    "MATH 102-014": {
+      "instructor": "Staff",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 102-014"
     }
   }
 }

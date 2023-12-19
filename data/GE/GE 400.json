@@ -15,11 +15,11 @@
   "code": "GE 400",
   "sections": {
     "GE 400-001": {
-      "instructor": "Fatma Tahire Erman  Ersin Soylu",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 19,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -69,11 +69,11 @@
       "name": "GE 400-001"
     },
     "GE 400-002": {
-      "instructor": "Tudor A. Onea  Jacob Neal Minniear",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 18,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -123,11 +123,11 @@
       "name": "GE 400-002"
     },
     "GE 400-003": {
-      "instructor": "Türkan Mine Kara  Jacob Neal Minniear",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 18,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -177,11 +177,11 @@
       "name": "GE 400-003"
     },
     "GE 400-004": {
-      "instructor": "Ersin Soylu",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 18,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -231,11 +231,11 @@
       "name": "GE 400-004"
     },
     "GE 400-005": {
-      "instructor": "Ersin Soylu  Neslihan Dikmen Alsancak",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 18,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -285,11 +285,11 @@
       "name": "GE 400-005"
     },
     "GE 400-006": {
-      "instructor": "Türkan Mine Kara  Jacob Neal Minniear",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 18,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [

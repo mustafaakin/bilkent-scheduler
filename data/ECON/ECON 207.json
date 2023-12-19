@@ -15,37 +15,37 @@
   "code": "ECON 207",
   "sections": {
     "ECON 207-001": {
-      "instructor": "Mehmet Özer",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "instructor": "Hakan Berument",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
       "enrollment": {
-        "mandatory": 49,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
@@ -55,37 +55,37 @@
       "name": "ECON 207-001"
     },
     "ECON 207-002": {
-      "instructor": "Hakan Berument",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "instructor": "Staff",
+      "quota": "58 Mand. 0 Elect.",
+      "total_quota": 58,
       "enrollment": {
-        "mandatory": 28,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
@@ -93,46 +93,6 @@
         }
       ],
       "name": "ECON 207-002"
-    },
-    "ECON 207-003": {
-      "instructor": "Staff",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
-      "enrollment": {
-        "mandatory": 22,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 207-003"
     }
   }
 }

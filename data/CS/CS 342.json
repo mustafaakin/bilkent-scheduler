@@ -19,7 +19,47 @@
       "quota": "65 Mand. or Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 61,
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CS 342-001"
+    },
+    "CS 342-002": {
+      "instructor": "İbrahim Körpeoğlu",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -52,7 +92,7 @@
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "CS 342-001"
+      "name": "CS 342-002"
     }
   }
 }

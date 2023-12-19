@@ -1,0 +1,17 @@
+{
+  "name": "Finite and Discrete Mathematics",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "MATH 210",
+  "sections": {}
+}

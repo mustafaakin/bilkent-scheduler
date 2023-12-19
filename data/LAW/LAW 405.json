@@ -13,46 +13,5 @@
     "ECTS": 3
   },
   "code": "LAW 405",
-  "sections": {
-    "LAW 405-001": {
-      "instructor": "Staff",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
-      "enrollment": {
-        "mandatory": 21,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "LAW 405-001"
-    }
-  }
+  "sections": {}
 }

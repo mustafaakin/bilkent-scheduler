@@ -13,46 +13,5 @@
     "ECTS": 3
   },
   "code": "PSYC 220",
-  "sections": {
-    "PSYC 220-001": {
-      "instructor": "Ausaf Ahmed Farooqui",
-      "quota": "60 Mand. 5 Elect.",
-      "total_quota": 65,
-      "enrollment": {
-        "mandatory": 16,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "PSYC 220-001"
-    }
-  }
+  "sections": {}
 }

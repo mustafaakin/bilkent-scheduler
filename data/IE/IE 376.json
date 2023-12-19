@@ -14,12 +14,52 @@
   },
   "code": "IE 376",
   "sections": {
-    "IE 376-002": {
+    "IE 376-001": {
       "instructor": "Mehmet Selim Aktürk",
-      "quota": "62 Mand. or Elect.",
-      "total_quota": 62,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 62,
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "EA-Z03(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "EA-Z03",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EA-Z03",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EA-Z03",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "IE 376-001"
+    },
+    "IE 376-002": {
+      "instructor": "Emre Nadar",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -27,7 +67,7 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EA-Z03",
+          "place": "EA-Z03(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -48,7 +88,7 @@
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EA-Z03(S)",
+          "place": "EA-Z03",
           "class": "Face-to-Face Lecture"
         }
       ],

@@ -1,0 +1,37 @@
+{
+  "name": "Freshman Project",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 3
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 2
+  },
+  "code": "PHYS 124",
+  "sections": {
+    "PHYS 124-001": {
+      "instructor": "Staff",
+      "quota": "0 Mand. or Elect.",
+      "total_quota": 0,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PHYS 124-001"
+    }
+  }
+}

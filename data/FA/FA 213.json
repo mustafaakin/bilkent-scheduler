@@ -15,7 +15,7 @@
   "code": "FA 213",
   "sections": {
     "FA 213-001": {
-      "instructor": "Beata Malgorzata Zalewska Sladczyk",
+      "instructor": "Staff",
       "quota": "15 Mand. or Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -24,31 +24,31 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FC-117",
+          "place": "FC-217",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FC-117",
+          "place": "FC-217",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FC-117",
+          "place": "FC-217",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FC-117(S)",
+          "place": "FC-217(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

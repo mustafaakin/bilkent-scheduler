@@ -1,0 +1,17 @@
+{
+  "name": "Lab in Sensory and Motor Systems Neuroscience",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 3
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "NSC 671",
+  "sections": {}
+}

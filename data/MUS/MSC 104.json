@@ -13,46 +13,5 @@
     "ECTS": 2
   },
   "code": "MSC 104",
-  "sections": {
-    "MSC 104-001": {
-      "instructor": "Işın Metin",
-      "quota": "5 Mand. or Elect.",
-      "total_quota": 5,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "MSC 104-001"
-    }
-  }
+  "sections": {}
 }

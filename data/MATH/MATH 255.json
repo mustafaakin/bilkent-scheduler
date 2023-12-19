@@ -15,11 +15,11 @@
   "code": "MATH 255",
   "sections": {
     "MATH 255-001": {
-      "instructor": "Levent Onural",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "instructor": "Süleyman Serdar Kozat",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 40,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -55,39 +55,39 @@
       "name": "MATH 255-001"
     },
     "MATH 255-002": {
-      "instructor": "Levent Onural",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
+      "instructor": "Süleyman Serdar Kozat",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 41,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }

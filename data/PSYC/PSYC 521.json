@@ -1,0 +1,17 @@
+{
+  "name": "Principles of Functional Magnetic Resonance Imaging",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "PSYC 521",
+  "sections": {}
+}

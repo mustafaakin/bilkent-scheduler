@@ -15,9 +15,9 @@
   "code": "MSC 253",
   "sections": {
     "MSC 253-001": {
-      "instructor": "Jennifer Leigh Tipton",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "instructor": "Juliana Katherine Snapper",
+      "quota": "12 Mand. or Elect.",
+      "total_quota": 12,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,14 +27,14 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "P-242",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "P-242",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

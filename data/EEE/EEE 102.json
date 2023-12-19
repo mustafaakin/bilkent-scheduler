@@ -19,7 +19,7 @@
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 43,
+        "mandatory": 47,
         "elective": 0
       },
       "schedule": [
@@ -34,7 +34,7 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EE-517",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -48,7 +48,7 @@
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EE-517",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -69,14 +69,14 @@
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EE-517",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EE-517",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -84,68 +84,68 @@
     },
     "EEE 102-002": {
       "instructor": "Ergin Atalar",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "quota": "64 Mand. or Elect.",
+      "total_quota": 64,
       "enrollment": {
-        "mandatory": 43,
+        "mandatory": 64,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
-          "class": "Face-to-Face Lecture"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
+          "start": "11:30",
+          "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
-          "class": "Face-to-Face Lab/Studio"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
-          "class": "Face-to-Face Lab/Studio"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 102-002"
@@ -155,65 +155,65 @@
       "quota": "55 Mand. or Elect.",
       "total_quota": 55,
       "enrollment": {
-        "mandatory": 43,
+        "mandatory": 47,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
-          "class": "Face-to-Face Lab/Studio"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
-          "class": "Face-to-Face Lab/Studio"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
-          "class": "Face-to-Face Lecture"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
-          "class": "Face-to-Face Lecture"
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "EEE 102-003"

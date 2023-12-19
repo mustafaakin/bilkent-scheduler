@@ -24,28 +24,28 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
           "place": "G-253(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
           "place": "G-253",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
           "place": "G-253",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "G-253",
@@ -53,46 +53,6 @@
         }
       ],
       "name": "TEFL 554-001"
-    },
-    "TEFL 554-002": {
-      "instructor": "Staff",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "G-253(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "G-253",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "G-253",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "G-253",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "TEFL 554-002"
     }
   }
 }

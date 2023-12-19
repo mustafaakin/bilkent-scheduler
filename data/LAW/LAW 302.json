@@ -1,0 +1,17 @@
+{
+  "name": "Civil Procedure II (in Turkish)",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "LAW 302",
+  "sections": {}
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Introduction to Data Science",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "GE 461",
+  "sections": {
+    "GE 461-001": {
+      "instructor": "Fazlı Can  İbrahim Körpeoğlu  Selim Aksoy  Savaş Dayanık  Can Alkan  Tolga Çukur  Eray Tüzün  Cem Tekin  Abdullah Ercüment Çiçek  Hamdi Dibeklioğlu  Shervin Rahimzadeh Arashloo  Ayşegül Dündar Boral",
+      "quota": "50 Mand. or Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "GE 461-001"
+    }
+  }
+}

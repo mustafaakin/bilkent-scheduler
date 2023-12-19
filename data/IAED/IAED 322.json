@@ -15,11 +15,11 @@
   "code": "IAED 322",
   "sections": {
     "IAED 322-001": {
-      "instructor": "Çağrı İmamoğlu",
+      "instructor": "Staff",
       "quota": "40 Mand. or Elect.",
       "total_quota": 40,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [

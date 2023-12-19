@@ -16,36 +16,36 @@
   "sections": {
     "CTIS 285-001": {
       "instructor": "Güneş Karamullaoğlu",
-      "quota": "12 Mand. 0 Elect.",
-      "total_quota": 12,
+      "quota": "11 Mand. 0 Elect.",
+      "total_quota": 11,
       "enrollment": {
-        "mandatory": 5,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
           "place": "RE-107(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
           "place": "RE-107",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
           "place": "RE-107",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
           "place": "RE-107",

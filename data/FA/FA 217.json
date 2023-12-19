@@ -15,7 +15,7 @@
   "code": "FA 217",
   "sections": {
     "FA 217-001": {
-      "instructor": "Elvan Serin",
+      "instructor": "Staff",
       "quota": "15 Mand. or Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -53,46 +53,6 @@
         }
       ],
       "name": "FA 217-001"
-    },
-    "FA 217-002": {
-      "instructor": "Staff",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "FA 217-002"
     }
   }
 }

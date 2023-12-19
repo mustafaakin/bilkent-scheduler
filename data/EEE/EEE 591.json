@@ -13,32 +13,5 @@
     "ECTS": null
   },
   "code": "EEE 591",
-  "sections": {
-    "EEE 591-001": {
-      "instructor": "Tolga Çukur",
-      "quota": "Unlimited",
-      "total_quota": null,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "EEE 591-001"
-    }
-  }
+  "sections": {}
 }

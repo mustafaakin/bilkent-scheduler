@@ -15,23 +15,23 @@
   "code": "ECON 102",
   "sections": {
     "ECON 102-001": {
-      "instructor": "Fatma Taşkın",
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 17,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
@@ -41,18 +41,18 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-110",
+          "place": "",
           "class": "Recitation"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
@@ -62,23 +62,23 @@
       "name": "ECON 102-001"
     },
     "ECON 102-002": {
-      "instructor": "Fatma Taşkın",
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
@@ -86,20 +86,20 @@
         },
         {
           "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-109",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Recitation"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
@@ -109,44 +109,44 @@
       "name": "ECON 102-002"
     },
     "ECON 102-003": {
-      "instructor": "Fatma Taşkın",
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 16,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-103",
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Recitation"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
@@ -156,44 +156,44 @@
       "name": "ECON 102-003"
     },
     "ECON 102-004": {
-      "instructor": "Fatma Taşkın",
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-104",
+          "place": "",
           "class": "Recitation"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
@@ -203,11 +203,11 @@
       "name": "ECON 102-004"
     },
     "ECON 102-005": {
-      "instructor": "Fatma Taşkın",
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -215,32 +215,25 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-103",
-          "class": "Recitation"
-        },
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
@@ -250,16 +243,16 @@
       "name": "ECON 102-005"
     },
     "ECON 102-006": {
-      "instructor": "Fatma Taşkın",
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
@@ -269,8 +262,81 @@
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-104",
-          "class": "Recitation"
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 102-006"
+    },
+    "ECON 102-007": {
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 102-007"
+    },
+    "ECON 102-008": {
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
@@ -278,6 +344,13 @@
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Recitation"
         },
         {
           "day": "Monday",
@@ -294,14 +367,249 @@
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "ECON 102-006"
+      "name": "ECON 102-008"
     },
-    "ECON 102-007": {
-      "instructor": "Fatma Taşkın",
+    "ECON 102-009": {
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
-        "mandatory": 17,
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 102-009"
+    },
+    "ECON 102-010": {
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 102-010"
+    },
+    "ECON 102-011": {
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 102-011"
+    },
+    "ECON 102-012": {
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 102-012"
+    },
+    "ECON 102-013": {
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 102-013"
+    },
+    "ECON 102-014": {
+      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -334,14 +642,14 @@
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "B-104",
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Recitation"
         }
       ],
-      "name": "ECON 102-007"
+      "name": "ECON 102-014"
     }
   }
 }

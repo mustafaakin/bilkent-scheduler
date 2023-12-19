@@ -199,11 +199,6 @@
     "name": "Mechanical Engineering",
     "faculty": "Faculty of Engineering"
   },
-  "MIAPP": {
-    "id": "MIAPP",
-    "name": "Master of International Affairs and Public Policy",
-    "faculty": "Faculty of Economics, Administrative, and Social Sciences"
-  },
   "MSC": {
     "id": "MSC",
     "name": "Music",
@@ -228,11 +223,6 @@
     "id": "NSC",
     "name": "Neuroscience",
     "faculty": "Interdisciplinary Programs"
-  },
-  "PE": {
-    "id": "PE",
-    "name": "Physical Education Unit",
-    "faculty": "Faculty of Education"
   },
   "PHIL": {
     "id": "PHIL",

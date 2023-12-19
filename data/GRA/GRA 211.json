@@ -15,11 +15,11 @@
   "code": "GRA 211",
   "sections": {
     "GRA 211-001": {
-      "instructor": "Can İzzet Birand",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
+      "instructor": "Staff",
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
-        "mandatory": 19,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -27,112 +27,32 @@
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FB-221",
+          "place": "FB-319",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FB-221",
+          "place": "FB-319",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FB-221",
+          "place": "FB-319",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FB-221(S)",
+          "place": "FB-319(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "GRA 211-001"
-    },
-    "GRA 211-002": {
-      "instructor": "Çavlan Başarır",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 19,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FB-321",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FB-321",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FB-321",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FB-321(S)",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "GRA 211-002"
-    },
-    "GRA 211-003": {
-      "instructor": "Erhan Tunalı",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 8,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FB-115(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FB-115",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FB-115",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FB-115",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "GRA 211-003"
     }
   }
 }

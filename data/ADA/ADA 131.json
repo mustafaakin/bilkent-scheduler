@@ -16,7 +16,7 @@
   "sections": {
     "ADA 131-001": {
       "instructor": "Yiğit Acar",
-      "quota": "20 Mand. 0 Elect.",
+      "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
         "mandatory": 20,
@@ -53,126 +53,6 @@
         }
       ],
       "name": "ADA 131-001"
-    },
-    "ADA 131-002": {
-      "instructor": "Staff",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 20,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FA-120",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FA-120",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FA-120",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FA-120(S)",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "ADA 131-002"
-    },
-    "ADA 131-003": {
-      "instructor": "Hatice Karaca",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 3,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FA-214",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FA-214",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FA-214",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FA-214(S)",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "ADA 131-003"
-    },
-    "ADA 131-004": {
-      "instructor": "Hatice Karaca",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 4,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FA-214(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FA-214",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FA-214",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FA-214",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "ADA 131-004"
     }
   }
 }

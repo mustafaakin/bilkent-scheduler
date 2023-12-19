@@ -16,8 +16,8 @@
   "sections": {
     "CI 532-001": {
       "instructor": "Jennie Farber Lane",
-      "quota": "10 Mand. or Elect.",
-      "total_quota": 10,
+      "quota": "8 Mand. or Elect.",
+      "total_quota": 8,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -34,14 +34,14 @@
           "day": "Thursday",
           "start": "17:30",
           "end": "18:20",
-          "place": "",
+          "place": "G-255",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "18:30",
           "end": "19:20",
-          "place": "",
+          "place": "G-255",
           "class": "Face-to-Face Lecture"
         }
       ],

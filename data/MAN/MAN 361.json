@@ -16,10 +16,10 @@
   "sections": {
     "MAN 361-001": {
       "instructor": "Celile Itır Göğüş",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "quota": "45 Mand. 0 Elect.",
+      "total_quota": 45,
       "enrollment": {
-        "mandatory": 50,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -27,7 +27,7 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -48,51 +48,11 @@
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MAN 361-001"
-    },
-    "MAN 361-002": {
-      "instructor": "Rasim Serdar Kurdoğlu",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
-      "enrollment": {
-        "mandatory": 43,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "MAN 361-002"
     }
   }
 }

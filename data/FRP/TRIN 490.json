@@ -1,0 +1,17 @@
+{
+  "name": "Capstone Project",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 4
+  },
+  "code": "TRIN 490",
+  "sections": {}
+}

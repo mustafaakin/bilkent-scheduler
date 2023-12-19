@@ -15,7 +15,7 @@
   "code": "CS 590",
   "sections": {
     "CS 590-001": {
-      "instructor": "İbrahim Körpeoğlu",
+      "instructor": "Hamdi Dibeklioğlu  Shervin Rahimzadeh Arashloo",
       "quota": "Unlimited",
       "total_quota": null,
       "enrollment": {
@@ -25,15 +25,15 @@
       "schedule": [
         {
           "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }

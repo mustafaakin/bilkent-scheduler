@@ -15,11 +15,11 @@
   "code": "MATH 230",
   "sections": {
     "MATH 230-001": {
-      "instructor": "Dilek Köksal",
-      "quota": "70 Mand. 0 Elect.",
-      "total_quota": 70,
+      "instructor": "Staff",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 68,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -27,7 +27,7 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -48,44 +48,44 @@
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 230-001"
     },
     "MATH 230-002": {
-      "instructor": "Dilek Köksal",
-      "quota": "70 Mand. 0 Elect.",
-      "total_quota": 70,
+      "instructor": "Staff",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 67,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
@@ -93,86 +93,6 @@
         }
       ],
       "name": "MATH 230-002"
-    },
-    "MATH 230-003": {
-      "instructor": "Dilek Köksal",
-      "quota": "70 Mand. 0 Elect.",
-      "total_quota": 70,
-      "enrollment": {
-        "mandatory": 67,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "MATH 230-003"
-    },
-    "MATH 230-004": {
-      "instructor": "Dilek Köksal",
-      "quota": "70 Mand. 0 Elect.",
-      "total_quota": 70,
-      "enrollment": {
-        "mandatory": 55,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "MATH 230-004"
     }
   }
 }

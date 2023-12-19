@@ -15,37 +15,37 @@
   "code": "IE 400",
   "sections": {
     "IE 400-001": {
-      "instructor": "Tagi Hanalioğlu",
-      "quota": "70 Mand. 0 Elect.",
-      "total_quota": 70,
+      "instructor": "Staff",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 63,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
@@ -55,11 +55,11 @@
       "name": "IE 400-001"
     },
     "IE 400-002": {
-      "instructor": "Tagi Hanalioğlu",
-      "quota": "70 Mand. 0 Elect.",
-      "total_quota": 70,
+      "instructor": "Staff",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 57,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [

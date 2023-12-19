@@ -1,0 +1,58 @@
+{
+  "name": "Senior Seminar",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 3
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "FA 462",
+  "sections": {
+    "FA 462-001": {
+      "instructor": "Ercan Sağlam",
+      "quota": "10 Mand. 0 Elect.",
+      "total_quota": 10,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FC-123",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FC-123",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FC-123",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FC-123(S)",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "FA 462-001"
+    }
+  }
+}

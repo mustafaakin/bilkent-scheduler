@@ -1,0 +1,17 @@
+{
+  "name": "Introduction to Anglo-American Law",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 2
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 2
+  },
+  "code": "LAW 216",
+  "sections": {}
+}

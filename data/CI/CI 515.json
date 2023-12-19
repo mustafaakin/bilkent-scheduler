@@ -13,5 +13,39 @@
     "ECTS": 3
   },
   "code": "CI 515",
-  "sections": {}
+  "sections": {
+    "CI 515-001": {
+      "instructor": "İlker Kalender",
+      "quota": "8 Mand. or Elect.",
+      "total_quota": 8,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "G-254",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "17:30",
+          "end": "18:20",
+          "place": "G-254",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "G-254",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CI 515-001"
+    }
+  }
 }

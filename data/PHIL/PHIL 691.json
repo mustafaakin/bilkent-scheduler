@@ -16,8 +16,8 @@
   "sections": {
     "PHIL 691-001": {
       "instructor": "Simon Drummond Wigley",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "10 Mand. or Elect.",
+      "total_quota": 10,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

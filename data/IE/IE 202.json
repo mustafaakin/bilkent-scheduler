@@ -16,33 +16,33 @@
   "sections": {
     "IE 202-001": {
       "instructor": "Oya Karaşan",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EE-04",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EB-201",
-          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EE-04",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EB-201",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
@@ -53,16 +53,16 @@
         },
         {
           "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EE-04",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "EE-04",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -70,33 +70,33 @@
     },
     "IE 202-002": {
       "instructor": "Oya Karaşan",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
-        "mandatory": 14,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EE-04",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EB-202",
-          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EE-04",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EB-202",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
@@ -107,16 +107,16 @@
         },
         {
           "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EE-04",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "EE-04",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -124,52 +124,52 @@
     },
     "IE 202-003": {
       "instructor": "Oya Karaşan",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
-        "mandatory": 13,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EE-04",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EE-04",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EE-04",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
+          "start": "13:30",
+          "end": "14:20",
           "place": "EB-201",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "EE-04",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
+          "start": "14:30",
+          "end": "15:20",
           "place": "EB-201",
           "class": "Face-to-Face Lab/Studio"
         }
@@ -178,32 +178,147 @@
     },
     "IE 202-004": {
       "instructor": "Oya Karaşan",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
       "enrollment": {
-        "mandatory": 15,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
           "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "EE-04",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "EE-04",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EB-202",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EB-202",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "IE 202-004"
+    },
+    "IE 202-005": {
+      "instructor": "Bahar Yetiş",
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EE-04",
+          "place": "EB-201",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EB-201",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "IE 202-005"
+    },
+    "IE 202-006": {
+      "instructor": "Bahar Yetiş",
+      "quota": "24 Mand. or Elect.",
+      "total_quota": 24,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -212,13 +327,6 @@
           "end": "16:20",
           "place": "EB-202",
           "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "EE-04",
-          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
@@ -228,7 +336,7 @@
           "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "IE 202-004"
+      "name": "IE 202-006"
     }
   }
 }

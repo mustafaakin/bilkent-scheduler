@@ -1,0 +1,17 @@
+{
+  "name": "Fundamentals of Musicianship II",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 3
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": null
+  },
+  "code": "MSC 122",
+  "sections": {}
+}

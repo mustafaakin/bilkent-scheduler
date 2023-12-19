@@ -15,39 +15,39 @@
   "code": "ECON 206",
   "sections": {
     "ECON 206-001": {
-      "instructor": "Sang Seok Lee",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "instructor": "Hüseyin Çağrı Sağlam",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 44,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
           "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
+          "start": "15:30",
+          "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }
@@ -55,37 +55,37 @@
       "name": "ECON 206-001"
     },
     "ECON 206-002": {
-      "instructor": "Sang Seok Lee",
-      "quota": "50 Mand. 0 Elect.",
-      "total_quota": 50,
+      "instructor": "Hüseyin Çağrı Sağlam",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 45,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
           "place": "",

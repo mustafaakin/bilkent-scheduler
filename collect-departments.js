@@ -6,6 +6,7 @@ const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
+
 const prompt = (query) => new Promise((resolve) => rl.question(query, resolve));
 
 (async () => {
@@ -14,7 +15,8 @@ const prompt = (query) => new Promise((resolve) => rl.question(query, resolve));
   await page.setViewport({ width: 1920, height: 1080 });
   await page.goto("https://stars.bilkent.edu.tr/homepage/plain_offerings");
 
-  await prompt("Press enter after you entered the  validation code. ");
+  await prompt("Press enter after you entered the validation code. ");
+  rl.close();
 
   const departments = await page.$$eval("table#ccTable>tbody>tr", (els) =>
     els.map((c) => c.id)
@@ -34,6 +36,8 @@ const prompt = (query) => new Promise((resolve) => rl.question(query, resolve));
     );
   }
 
+  console.log(`Found ${Object.keys(allData).length} departments`);
   fs.writeFileSync("src/departments.json", JSON.stringify(allData, null, 2));
+  await page.close();
   await browser.close();
 })();

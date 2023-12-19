@@ -15,65 +15,11 @@
   "code": "EEE 321",
   "sections": {
     "EEE 321-001": {
-      "instructor": "Süleyman Serdar Kozat",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "instructor": "Billur Barshan",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 52,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "EE-211",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "EE-211",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "EEE 321-001"
-    },
-    "EEE 321-002": {
-      "instructor": "Süleyman Serdar Kozat",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
-      "enrollment": {
-        "mandatory": 53,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -92,14 +38,14 @@
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
           "place": "EE-211",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
           "place": "EE-211",
@@ -118,6 +64,60 @@
           "end": "17:20",
           "place": "",
           "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "EEE 321-001"
+    },
+    "EEE 321-002": {
+      "instructor": "Billur Barshan",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EE-211",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EE-211",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "EEE 321-002"

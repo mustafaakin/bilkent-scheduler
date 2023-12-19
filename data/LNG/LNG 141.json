@@ -15,7 +15,7 @@
   "code": "LNG 141",
   "sections": {
     "LNG 141-001": {
-      "instructor": "Ayşe Candoğan",
+      "instructor": "Staff",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -55,7 +55,7 @@
       "name": "LNG 141-001"
     },
     "LNG 141-002": {
-      "instructor": "Ayşe Candoğan",
+      "instructor": "Staff",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -95,7 +95,7 @@
       "name": "LNG 141-002"
     },
     "LNG 141-003": {
-      "instructor": "Ayşe Candoğan",
+      "instructor": "Staff",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -133,46 +133,6 @@
         }
       ],
       "name": "LNG 141-003"
-    },
-    "LNG 141-004": {
-      "instructor": "Ayşe Candoğan",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "LNG 141-004"
     }
   }
 }

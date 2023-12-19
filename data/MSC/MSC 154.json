@@ -15,7 +15,7 @@
   "code": "MSC 154",
   "sections": {
     "MSC 154-001": {
-      "instructor": "Jennifer Leigh Tipton",
+      "instructor": "Juliana Katherine Snapper",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -27,14 +27,14 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "P-242",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "P-242",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

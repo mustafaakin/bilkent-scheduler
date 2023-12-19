@@ -16,52 +16,52 @@
   "sections": {
     "IE 324-001": {
       "instructor": "Emre Uzun",
-      "quota": "45 Mand. or Elect.",
-      "total_quota": 45,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 37,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EB-102(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EB-102",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "EB-102",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
           "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "EB-102",
-          "class": "Face-to-Face Lecture"
-        },
-        {
           "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
+          "start": "16:30",
+          "end": "17:20",
           "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         }
@@ -69,11 +69,65 @@
       "name": "IE 324-001"
     },
     "IE 324-002": {
-      "instructor": "Emre Uzun",
-      "quota": "45 Mand. or Elect.",
-      "total_quota": 45,
+      "instructor": "Özlem Çavuş İyigün",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 35,
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "B-303",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "B-303",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "IE 324-002"
+    },
+    "IE 324-003": {
+      "instructor": "Özlem Çavuş İyigün",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -81,25 +135,25 @@
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "EB-102",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "EB-102",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "EB-102",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
           "place": "B-303",
@@ -109,18 +163,18 @@
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "EB-102(S)",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "16:30",
           "end": "17:20",
           "place": "B-303",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "IE 324-002"
+      "name": "IE 324-003"
     }
   }
 }

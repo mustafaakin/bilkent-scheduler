@@ -16,36 +16,36 @@
   "sections": {
     "MAN 403-001": {
       "instructor": "Atilla Onuklu",
-      "quota": "80 Mand. 0 Elect.",
-      "total_quota": 80,
+      "quota": "40 Mand. 0 Elect.",
+      "total_quota": 40,
       "enrollment": {
-        "mandatory": 69,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
           "place": "",

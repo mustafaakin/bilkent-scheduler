@@ -16,10 +16,10 @@
   "sections": {
     "THM 323-001": {
       "instructor": "Elif Denizci",
-      "quota": "3 Mand. or Elect.",
-      "total_quota": 3,
+      "quota": "4 Mand. or Elect.",
+      "total_quota": 4,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -70,10 +70,10 @@
     },
     "THM 323-002": {
       "instructor": "Elif Denizci",
-      "quota": "3 Mand. or Elect.",
-      "total_quota": 3,
+      "quota": "4 Mand. or Elect.",
+      "total_quota": 4,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [

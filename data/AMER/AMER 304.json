@@ -1,0 +1,17 @@
+{
+  "name": "Film Studies in American Culture Since 1960",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 3
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 4
+  },
+  "code": "AMER 304",
+  "sections": {}
+}

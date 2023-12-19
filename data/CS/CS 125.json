@@ -15,11 +15,11 @@
   "code": "CS 125",
   "sections": {
     "CS 125-001": {
-      "instructor": "Rabia Üşenmez",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Staff",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 21,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -27,14 +27,14 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -55,11 +55,11 @@
       "name": "CS 125-001"
     },
     "CS 125-002": {
-      "instructor": "Lori Rae Russell Dağ",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Staff",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 30,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -67,14 +67,14 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -95,11 +95,11 @@
       "name": "CS 125-002"
     },
     "CS 125-003": {
-      "instructor": "Lori Rae Russell Dağ",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Rabia Üşenmez",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 24,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -121,25 +121,25 @@
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 125-003"
     },
     "CS 125-004": {
-      "instructor": "Lori Rae Russell Dağ",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Ayışığı Başak Sevdik Çallı",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 20,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -161,25 +161,25 @@
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 125-004"
     },
     "CS 125-005": {
-      "instructor": "Lori Rae Russell Dağ",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Rabia Üşenmez",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 35,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -187,14 +187,14 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -216,38 +216,38 @@
     },
     "CS 125-006": {
       "instructor": "Rabia Üşenmez",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 36,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "B-204",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "B-204",
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         }
@@ -256,120 +256,120 @@
     },
     "CS 125-007": {
       "instructor": "Ayışığı Başak Sevdik Çallı",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 33,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-204",
-          "class": "Face-to-Face Lecture"
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-204",
-          "class": "Face-to-Face Lecture"
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
-          "class": "Face-to-Face Lab/Studio"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
-          "class": "Face-to-Face Lab/Studio"
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 125-007"
     },
     "CS 125-008": {
       "instructor": "Ayışığı Başak Sevdik Çallı",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 33,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-204",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 125-008"
     },
     "CS 125-009": {
-      "instructor": "Lori Rae Russell Dağ",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Ayışığı Başak Sevdik Çallı",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
       "enrollment": {
-        "mandatory": 19,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
           "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "B-204",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "B-204",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CS 125-009"

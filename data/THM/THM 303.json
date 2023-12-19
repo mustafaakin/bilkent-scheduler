@@ -16,10 +16,10 @@
   "sections": {
     "THM 303-001": {
       "instructor": "Arzu Sibel İkinci",
-      "quota": "10 Mand. or Elect.",
-      "total_quota": 10,
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
-        "mandatory": 2,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [

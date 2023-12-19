@@ -15,11 +15,11 @@
   "code": "CS 121",
   "sections": {
     "CS 121-001": {
-      "instructor": "Rabia Üşenmez",
-      "quota": "49 Mand. or Elect.",
-      "total_quota": 49,
+      "instructor": "Ayışığı Başak Sevdik Çallı",
+      "quota": "54 Mand. or Elect.",
+      "total_quota": 54,
       "enrollment": {
-        "mandatory": 42,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -55,11 +55,11 @@
       "name": "CS 121-001"
     },
     "CS 121-002": {
-      "instructor": "Rabia Üşenmez",
-      "quota": "49 Mand. or Elect.",
-      "total_quota": 49,
+      "instructor": "Nur Sağlam",
+      "quota": "54 Mand. or Elect.",
+      "total_quota": 54,
       "enrollment": {
-        "mandatory": 41,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -95,11 +95,11 @@
       "name": "CS 121-002"
     },
     "CS 121-003": {
-      "instructor": "Rabia Üşenmez",
-      "quota": "49 Mand. or Elect.",
-      "total_quota": 49,
+      "instructor": "Nur Sağlam",
+      "quota": "54 Mand. or Elect.",
+      "total_quota": 54,
       "enrollment": {
-        "mandatory": 33,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -135,11 +135,11 @@
       "name": "CS 121-003"
     },
     "CS 121-004": {
-      "instructor": "Ayışığı Başak Sevdik Çallı",
-      "quota": "48 Mand. or Elect.",
-      "total_quota": 48,
+      "instructor": "Rabia Üşenmez",
+      "quota": "54 Mand. or Elect.",
+      "total_quota": 54,
       "enrollment": {
-        "mandatory": 19,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -175,91 +175,51 @@
       "name": "CS 121-004"
     },
     "CS 121-005": {
-      "instructor": "Ayışığı Başak Sevdik Çallı",
-      "quota": "48 Mand. or Elect.",
-      "total_quota": 48,
+      "instructor": "Sibel Uğurlubilek",
+      "quota": "54 Mand. or Elect.",
+      "total_quota": 54,
       "enrollment": {
-        "mandatory": 42,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
-          "class": "Face-to-Face Lecture"
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CS 121-005"
     },
     "CS 121-006": {
-      "instructor": "Nur Sağlam",
-      "quota": "48 Mand. or Elect.",
-      "total_quota": 48,
-      "enrollment": {
-        "mandatory": 48,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "CS 121-006"
-    },
-    "CS 121-007": {
       "instructor": "Sibel Uğurlubilek",
-      "quota": "48 Mand. or Elect.",
-      "total_quota": 48,
+      "quota": "54 Mand. or Elect.",
+      "total_quota": 54,
       "enrollment": {
-        "mandatory": 44,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -286,6 +246,46 @@
         },
         {
           "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CS 121-006"
+    },
+    "CS 121-007": {
+      "instructor": "Rabia Üşenmez",
+      "quota": "54 Mand. or Elect.",
+      "total_quota": 54,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
@@ -296,76 +296,76 @@
     },
     "CS 121-008": {
       "instructor": "Sibel Uğurlubilek",
-      "quota": "48 Mand. or Elect.",
-      "total_quota": 48,
+      "quota": "54 Mand. or Elect.",
+      "total_quota": 54,
       "enrollment": {
-        "mandatory": 46,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
-          "class": "Face-to-Face Lab/Studio"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
-          "class": "Face-to-Face Lab/Studio"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
-          "class": "Face-to-Face Lecture"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Monday",
+          "day": "Friday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
-          "class": "Face-to-Face Lecture"
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CS 121-008"
     },
     "CS 121-009": {
-      "instructor": "Nur Sağlam",
-      "quota": "48 Mand. or Elect.",
-      "total_quota": 48,
+      "instructor": "Sibel Uğurlubilek",
+      "quota": "54 Mand. or Elect.",
+      "total_quota": 54,
       "enrollment": {
-        "mandatory": 46,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
@@ -375,84 +375,44 @@
       "name": "CS 121-009"
     },
     "CS 121-010": {
-      "instructor": "Sibel Uğurlubilek",
-      "quota": "42 Mand. or Elect.",
-      "total_quota": 42,
+      "instructor": "Staff",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 8,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
-          "class": "Face-to-Face Lab/Studio"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
-          "class": "Face-to-Face Lab/Studio"
+          "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
-          "class": "Face-to-Face Lecture"
+          "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
-          "class": "Face-to-Face Lecture"
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CS 121-010"
-    },
-    "CS 121-011": {
-      "instructor": "Sibel Uğurlubilek",
-      "quota": "48 Mand. or Elect.",
-      "total_quota": 48,
-      "enrollment": {
-        "mandatory": 2,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "CS 121-011"
     }
   }
 }

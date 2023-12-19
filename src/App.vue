@@ -16,7 +16,11 @@
           Fork me on <a href="https://github.com/mustafaakin/bilkent-scheduler">Github</a>
           <p>
             <small>Data Version
-              <b>{{ version.version }}</b></small>
+              <b>{{ version.version }}</b>
+            </small>
+            <small>Semester
+              <b>{{ version.semester }}</b>
+            </small>
           </p>
         </div>
       </h1>

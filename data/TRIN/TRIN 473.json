@@ -14,31 +14,31 @@
   },
   "code": "TRIN 473",
   "sections": {
-    "TRIN 473-020": {
-      "instructor": "Mehpare Çelik",
-      "quota": "35 Mand. or Elect.",
-      "total_quota": 35,
+    "TRIN 473-001": {
+      "instructor": "Staff",
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 31,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "TRIN 473-020"
+      "name": "TRIN 473-001"
     }
   }
 }

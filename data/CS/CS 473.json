@@ -15,51 +15,11 @@
   "code": "CS 473",
   "sections": {
     "CS 473-001": {
-      "instructor": "Cevdet Aykanat",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Uğur Doğrusöz",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 36,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "CS 473-001"
-    },
-    "CS 473-002": {
-      "instructor": "Cevdet Aykanat",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
-      "enrollment": {
-        "mandatory": 40,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -86,6 +46,46 @@
         },
         {
           "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CS 473-001"
+    },
+    "CS 473-002": {
+      "instructor": "Özgür Salih Öğüz",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
@@ -95,84 +95,44 @@
       "name": "CS 473-002"
     },
     "CS 473-003": {
-      "instructor": "Cevdet Aykanat",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "instructor": "Uğur Doğrusöz",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 34,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
           "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "CS 473-003"
-    },
-    "CS 473-004": {
-      "instructor": "Ertuğrul Kartal Tabak",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
-      "enrollment": {
-        "mandatory": 32,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "CS 473-004"
+      "name": "CS 473-003"
     }
   }
 }

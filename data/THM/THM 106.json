@@ -15,40 +15,40 @@
   "code": "THM 106",
   "sections": {
     "THM 106-001": {
-      "instructor": "Esin Şenol",
-      "quota": "35 Mand. or Elect.",
-      "total_quota": 35,
+      "instructor": "Semih Sait Yılmaz",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
-        "mandatory": 32,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "RB-202(S)",
+          "place": "RE-107(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "RE-107",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "RB-202",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "RB-202",
+          "place": "RE-107",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "RB-202",
+          "place": "RE-107",
           "class": "Face-to-Face Lecture"
         }
       ],

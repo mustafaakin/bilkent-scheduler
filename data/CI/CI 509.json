@@ -16,25 +16,25 @@
   "sections": {
     "CI 509-001": {
       "instructor": "İlker Kalender",
-      "quota": "10 Mand. or Elect.",
-      "total_quota": 10,
+      "quota": "8 Mand. or Elect.",
+      "total_quota": 8,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "19:30",
           "end": "20:20",
-          "place": "",
+          "place": "G-254",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "20:30",
           "end": "21:20",
-          "place": "",
+          "place": "G-254",
           "class": "Face-to-Face Lecture"
         }
       ],

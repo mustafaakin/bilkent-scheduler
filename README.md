@@ -32,6 +32,10 @@ load to STARS, since the actions are delayed.
 ```shell
 $ yarn 
 
+# Update semester.txt to the latest one
+$ cat semester.txt
+20232
+
 # Collect the departments first, check the data is correct
 $ node collect-departments.js
 

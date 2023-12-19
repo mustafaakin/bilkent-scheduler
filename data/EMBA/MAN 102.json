@@ -16,10 +16,10 @@
   "sections": {
     "MAN 102-001": {
       "instructor": "Özgür Tolga Baycan",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
-        "mandatory": 17,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -56,10 +56,10 @@
     },
     "MAN 102-002": {
       "instructor": "Özgür Tolga Baycan",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
-        "mandatory": 11,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -96,10 +96,10 @@
     },
     "MAN 102-003": {
       "instructor": "Özgür Tolga Baycan",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
-        "mandatory": 9,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -136,43 +136,163 @@
     },
     "MAN 102-004": {
       "instructor": "Özgür Tolga Baycan",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
       "enrollment": {
-        "mandatory": 24,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MAN 102-004"
+    },
+    "MAN 102-005": {
+      "instructor": "Ceren Aydoğmuş",
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "MAN 102-004"
+      "name": "MAN 102-005"
+    },
+    "MAN 102-006": {
+      "instructor": "Ceren Aydoğmuş",
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MAN 102-006"
+    },
+    "MAN 102-007": {
+      "instructor": "Ceren Aydoğmuş",
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MAN 102-007"
     }
   }
 }

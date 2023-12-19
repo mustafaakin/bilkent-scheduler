@@ -9,7 +9,7 @@ const rl = readline.createInterface({
 const prompt = (query) => new Promise((resolve) => rl.question(query, resolve));
 
 async function getSchedule(page) {
-  return await page.$$eval("#schedule>tbody>tr>td", function(elements) {
+  return await page.$$eval("#schedule>tbody>tr>td", function (elements) {
     // Meaning empty course, not even worth collecting
     if (elements.length !== 8 * 14) return null;
     let slots = [];
@@ -58,7 +58,7 @@ async function getSchedule(page) {
 }
 
 async function getSectionData(page, section) {
-  return await page.$$eval(`tr[id='${section}']>td`, function(elements) {
+  return await page.$$eval(`tr[id='${section}']>td`, function (elements) {
     return {
       instructor: elements[1].textContent.trim(),
       quota: elements[2].textContent.trim(),
@@ -72,7 +72,7 @@ async function getSectionData(page, section) {
 }
 
 async function getCourseData(page, course) {
-  return await page.$$eval(`tr[id='${course}']>td`, function(elements) {
+  return await page.$$eval(`tr[id='${course}']>td`, function (elements) {
     return {
       name: elements[1].textContent.trim(),
       lectureHours: {
@@ -92,29 +92,33 @@ async function getCourseData(page, course) {
 }
 
 (async () => {
+  const semester = fs.readFileSync("semester.txt").toString().trim();
+  console.log("Working for semester: " + semester);
+
   try {
     fs.mkdirSync("data");
     // eslint-disable-next-line no-empty
-  } catch (ignore) {}
+  } catch (ignore) {
+  }
 
   let departments = Object.keys(
     JSON.parse(fs.readFileSync("src/departments.json").toString())
   );
   // departments = departments.splice(departments.indexOf("PHYS"))
   // departments = ["PHYS"]
-  const browser = await puppeteer.launch({ headless: false, slowMo: 100 });
+  const browser = await puppeteer.launch({headless: false, slowMo: 50});
   const page = await browser.newPage();
-  await page.setViewport({ width: 1920, height: 1080 });
+  await page.setViewport({width: 1920, height: 1080});
   await page.goto("https://stars.bilkent.edu.tr/homepage/plain_offerings");
-  await prompt("Press enter after you entered the  validation code. ");
+  await prompt("Press enter after you entered the validation code. ");
 
   let createNew = true;
 
-  // departments = ["MATH", "PHYS"]
   console.log(departments);
   const depCode = await prompt(
     "Press enter if you want to start fetching from beginning else enter dep. code: "
   );
+  rl.close()
 
   if (depCode) {
     const index = departments.indexOf(depCode);
@@ -127,18 +131,20 @@ async function getCourseData(page, course) {
   }
 
   if (createNew) {
-    fs.rmdirSync("data/", { recursive: true });
+    fs.rmdirSync("data/", {recursive: true});
     fs.mkdirSync("data");
   }
 
   for (let department of departments) {
     console.log("Initializing for " + department);
     // const department = "ADA"
-    fs.mkdirSync("data/" + department, { recursive: true });
+    fs.mkdirSync("data/" + department, {recursive: true});
 
     await page.goto(
       `https://stars.bilkent.edu.tr/homepage/offerings.php?COURSE_CODE=${department}`
     );
+
+    await page.select('#SEMESTER', semester)
 
     const courses = await page.$$eval("#courses>tbody>tr", (els) =>
       els.map((c) => c.id)
@@ -177,16 +183,18 @@ async function getCourseData(page, course) {
       );
     }
   }
+
   fs.writeFileSync(
     `src/version.json`,
     JSON.stringify(
       {
         version: new Date(),
+        semester: semester,
       },
       null,
       2
     )
   );
+
   await browser.close();
-  process.exit(0);
 })();
