@@ -47,6 +47,7 @@
 <style>
 
 </style>
+
 <script>
 import version from './version.json'
 
